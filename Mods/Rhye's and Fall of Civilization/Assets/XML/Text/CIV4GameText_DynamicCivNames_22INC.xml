@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INCA_DESC</Tag>
+		<Russian>&#200;&#237;&#234;&#232;</Russian>
+		<English>The Inca</English>
+		<French>
+			<Text>Les Incas</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Inka:Die Inka:den Inkas</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Gli Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Incas</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC00</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#192;&#237;&#228;</Russian>
+		<English>Andean Peoples</English>
+		<French>
+			<Text>Peuplades Andines</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Andenvölker:Andenvölker:Andenvölkern</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli Andini</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Andinos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC01</Tag>
+		<Russian>&#199;&#229;&#236;&#235;&#255; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Incan Region</English>
+		<French>
+			<Text>Région Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Inkaregion:Inkaregion:Inkaregion</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Regione Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Región Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC02</Tag>
+		<Russian>&#215;&#229;&#242;&#251;&#240;&#229; &#199;&#229;&#236;&#235;&#232; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Four Incan Regions</English>
+		<French>
+			<Text>Quatres Régions Incas</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Vier Inkaregionen:Vier Inkaregionen:Vier Inkaregionen</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Quattro Regioni Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cuatro Regiones Incas</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC03</Tag>
+		<Russian>&#199;&#229;&#236;&#235;&#255; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Incan Region</English>
+		<French>
+			<Text>Région Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Inkaregion:Inkaregion:Inkaregion</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Regione Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Región Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC04</Tag>
+		<Russian>&#215;&#229;&#242;&#251;&#240;&#229; &#199;&#229;&#236;&#235;&#232; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Four Incan Regions</English>
+		<French>
+			<Text>Quatres Régions Incas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vier Inkaregionen:Vier Inkaregionen:Vier Inkaregionen</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Quattro Regioni Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cuatro Regiones Incas</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC05</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Incan Republic</English>
+		<French>
+			<Text>République Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Inka-Republik:Inka-Republik:Inka-Republik</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC06</Tag>
+		<Russian>&#208;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#238;&#237;&#237;&#238;&#229; &#228;&#226;&#232;&#230;&#229;&#237;&#232;&#229; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Incan Revolutionary Movement</English>
+		<French>
+			<Text>Mouvement Révolutionnaire Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Revolutionäre Bewegung der Inka:Revolutionäre Bewegung der Inka:Revolutionären Bewegung der Inka</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Movimento Rivoluzionario Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Movimiento Revolucionario Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC07</Tag>
+		<Russian>&#202;&#238;&#236;&#224;&#237;&#228;&#238;&#226;&#224;&#237;&#232;&#229; &#194;&#238;&#238;&#240;&#243;&#230;&#229;&#237;&#237;&#251;&#245; &#241;&#232;&#235; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Government of the Incan Armed Forces</English>
+		<French>
+			<Text>Gouvernement des Forces Armées Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Regierung der Inka-Streitkräfte:Regierung der Inka-Streitkräfte:Regierung der Inka-Streitkräfte</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Governo delle Forze Armate Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Gobierno de las Fuerzas Armadas Incas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC08</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#232;&#229; &#199;&#229;&#236;&#235;&#232; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Islamic Incan Regions</English>
+		<French>
+			<Text>Régions Islamiques Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Inkaregionen:Islamische Inkaregionen:Islamischen InkaregionenNULL:NULL</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Regioni Islamiche Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Regiones Islámicas Incas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC09</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#232;&#229; &#199;&#229;&#236;&#235;&#232; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Islamic Incan Regions</English>
+		<French>
+			<Text>Régions Islamiques Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Inkaregionen:Islamische Inkaregionen:Islamischen InkaregionenNULL:NULL</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Regioni Islamiche Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Regiones Islámicas Incas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC10</Tag>
+		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Satrapy of Inca</English>
+		<French>
+			<Text>Satrape des Incas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Satrapie Inka:Satrapie Inka:Satrapie Inka</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Satrapia di Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Satrapía de Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC11</Tag>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Province of Inca</English>
+		<French>
+			<Text>Province des Incas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Provinz Inca:Provinz Inca:Provinz Inca</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Provincia di Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Provincia de Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC12</Tag>
+		<Russian>&#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Sultanate of Inca</English>
+		<French>
+			<Text>Sultanat des Incas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sultanat Inka:Sultanat Inka:Sultanat Inka</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sultanato di Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sultanato de Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC13</Tag>
+		<Russian>&#194;&#232;&#246;&#229;-&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#229;&#240;&#243;</Russian>
+		<English>Viceroyalty of Peru</English>
+		<French>
+			<Text>Vice Royauté du Pérou</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vizekönigreich Peru:Vizekönigreich Peru:Vizekönigreich Peru</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Vicereame del Perù</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Virreinato de Perú</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC14</Tag>
+		<Russian>&#192;&#237;&#228;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Andean France</English>
+		<French>
+			<Text>France Andine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französisch-Anden:Französisch-Anden:Französisch-Anden</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Francia Andina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Francia Andina</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC15</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#207;&#229;&#240;&#243;</Russian>
+		<English>Dominion of Peru</English>
+		<French>
+			<Text>Dominion du Pérou</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dominion Peru:Dominion Peru:Dominion Peru</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Dominion del Perù</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dominio de Perú</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC16</Tag>
+		<Russian>&#205;&#229;&#236;&#229;&#246;&#234;&#232;&#233; &#207;&#229;&#240;&#243;</Russian>
+		<English>German Peru</English>
+		<French>
+			<Text>Pérou Allemand</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Deutsch-Peru:Deutsch-Peru:Deutsch-Peru</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Perù Tedesco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Perú Alemán</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC17</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#233; &#207;&#229;&#240;&#243;</Russian>
+		<English>Soviet Peru</English>
+		<French>
+			<Text>Pérou Soviétique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sowjet Peru:Sowjet Peru:Sowjet Peru</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Perù Sovietico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Perú Soviético</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC18</Tag>
+		<Russian>&#207;&#229;&#240;&#243;&#224;&#237;&#241;&#234;&#238;&#229; &#213;&#224;&#237;&#241;&#242;&#226;&#238;</Russian>
+		<English>Khanate of Peru</English>
+		<French>
+			<Text>Khanat du Pérou</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Khanat Peru:Khanat Peru:Khanat Peru</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Khanato del Perù</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Janato de Perú</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC19</Tag>
+		<Russian>&#221;&#255;&#235;&#229;&#242; &#207;&#229;&#240;&#243;</Russian>
+		<English>Eyalet of Peru</English>
+		<French>
+			<Text>Eyalet du Pérou</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eyalet Peru:Eyalet Peru:Eyalet Peru</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Eyalet del Perù</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eyalet del Perú</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC20</Tag>
+		<Russian>&#194;&#224;&#241;&#241;&#224;&#235;&#252;&#237;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#232;&#237;&#234;&#238;&#226;</Russian>
+		<English>Tributary Incan State</English>
+		<French>
+			<Text>Etat Inca Tributaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tributstaat Peru:Tributstaat Peru:Tributstaat Peru</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Inca Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Inca Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_INC21</Tag>
+		<Russian>&#202;&#238;&#235;&#238;&#237;&#232;&#255; &#200;&#237;&#234;&#224;</Russian>
+		<English>Colony of Inca</English>
+		<French>
+			<Text>Colonie d'Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Kolonie Inka:Kolonie Inka:Kolonie Inka</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Colonia Inca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Colonia Inca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

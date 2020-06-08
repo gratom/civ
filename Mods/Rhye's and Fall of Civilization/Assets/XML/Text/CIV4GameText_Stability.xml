@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_COLLAPSING</Tag>
+		<Russian>&#241;&#226;&#229;&#240;&#245;&#237;&#232;&#231;&#234;&#224;&#255;</Russian>
+		<English>Collapsing</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_UNSTABLE</Tag>
+		<Russian>&#237;&#232;&#231;&#234;&#224;&#255;</Russian>
+		<English>Unstable</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_SHAKY</Tag>
+		<Russian>&#237;&#232;&#230;&#229; &#241;&#240;&#229;&#228;&#237;&#229;&#233;</Russian>
+		<English>Shaky</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_STABLE</Tag>
+		<Russian>&#241;&#240;&#229;&#228;&#237;&#255;&#255;</Russian>
+		<English>Stable</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_SOLID</Tag>
+		<Russian>&#226;&#251;&#241;&#238;&#234;&#224;&#255;</Russian>
+		<English>Solid</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_VERYSOLID</Tag>
+		<Russian>&#241;&#226;&#229;&#240;&#245;&#226;&#251;&#241;&#238;&#234;&#224;&#255;</Russian>
+		<English>Very Solid</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_CIVILWAR_HUMAN</Tag>
+		<Russian>&#194;&#224;&#248;&#224; &#228;&#229;&#240;&#230;&#224;&#226;&#224; &#237;&#224; &#227;&#240;&#224;&#237;&#232; &#227;&#240;&#224;&#230;&#228;&#224;&#237;&#241;&#234;&#238;&#233; &#226;&#238;&#233;&#237;&#251;!</Russian>
+		<English>Your empire is descending into civil war!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_CIVILWAR</Tag>
+		<Russian>&#237;&#224; &#227;&#240;&#224;&#237;&#232; &#227;&#240;&#224;&#230;&#228;&#224;&#237;&#241;&#234;&#238;&#233; &#226;&#238;&#233;&#237;&#251;!</Russian>
+		<English>is descending into civil war!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_SECESSION</Tag>
+		<Russian>&#239;&#240;&#238;&#226;&#238;&#231;&#227;&#235;&#224;&#248;&#224;&#229;&#242; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;!</Russian>
+		<English>has declared its independence!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_PERIOD</Tag>
+		<Russian>&#194;&#224;&#248;&#224; &#228;&#229;&#240;&#230;&#224;&#226;&#224; &#226;&#241;&#242;&#243;&#239;&#224;&#229;&#242; &#226; &#237;&#238;&#226;&#251;&#233; &#239;&#229;&#240;&#232;&#238;&#228;:</Russian>
+		<English>Your empire is experiencing a period of</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#224;&#255; &#228;&#229;&#239;&#240;&#229;&#241;&#241;&#232;&#255;!</Russian>
+		<English>Great Depression!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_POST_COMMUNISM</Tag>
+		<Russian>&#239;&#238;&#241;&#242;&#234;&#238;&#236;&#236;&#243;&#237;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#234;&#240;&#232;&#231;&#232;&#241;!</Russian>
+		<English>post-communist crisis!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_DEMOCRACY</Tag>
+		<Russian>&#237;&#229;&#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#252;, &#226;&#251;&#231;&#226;&#224;&#237;&#237;&#224;&#255; &#239;&#229;&#240;&#229;&#245;&#238;&#228;&#238;&#236; &#234; &#228;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#232;!</Russian>
+		<English>instability caused by transition to democracy!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION_INFLUENCE1</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#224;&#255; &#228;&#229;&#239;&#240;&#229;&#241;&#241;&#232;&#255;, &#234;&#238;&#242;&#238;&#240;&#243;&#254; &#239;&#229;&#240;&#229;&#230;&#232;&#226;&#224;&#229;&#242;</Russian>
+		<English>The period of Great Depression in the</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_GREAT_DEPRESSION_INFLUENCE2</Tag>
+		<Russian>, &#226;&#240;&#229;&#228;&#232;&#242; &#237;&#224;&#248;&#229;&#233; &#253;&#234;&#238;&#237;&#238;&#236;&#232;&#234;&#229;!</Russian>
+		<English>is negatively influencing our economy!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FINANCIAL_ADVISOR_TITLE</Tag>
+		<Russian>&#221;&#234;&#238;&#237;&#238;&#236;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#241;&#238;&#226;&#229;&#242;&#237;&#232;&#234;</Russian>
+		<English>Interior Advisor</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_ADVISOR_TITLE</Tag>
+		<Russian>&#209;&#210;&#192;&#193;&#200;&#203;&#220;&#205;&#206;&#209;&#210;&#220;: </Russian>
+		<English>STABILITY: </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_PARAMETER_CITIES</Tag>
+		<Russian>&#195;&#206;&#208;&#206;&#196;&#192;</Russian>
+		<English>CITIES</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_PARAMETER_CIVICS</Tag>
+		<Russian>&#207;&#192;&#208;&#192;&#196;&#200;&#195;&#204;&#219;</Russian>
+		<English>CIVICS</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_PARAMETER_FOREIGN</Tag>
+		<Russian>&#206;&#210;&#205;&#206;&#216;&#197;&#205;&#200;&#223;</Russian>
+		<English>FOREIGN</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_PARAMETER_ECONOMY</Tag>
+		<Russian>&#221;&#202;&#206;&#205;&#206;&#204;&#200;&#202;&#192;</Russian>
+		<English>ECONOMY</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_PARAMETER_EXPANSION</Tag>
+		<Russian>&#221;&#202;&#209;&#207;&#192;&#205;&#209;&#200;&#223;</Russian>
+		<English>EXPANSION</English>
+	</TEXT>
+</Civ4GameText>

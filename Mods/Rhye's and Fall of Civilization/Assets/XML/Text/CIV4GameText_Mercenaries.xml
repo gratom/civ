@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!--Please place any new text entries into this file-->
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_MERCENARIES_PEDIA</Tag>
+		<Russian>[H1]&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232;[\H1][PARAGRAPH:2]&#215;&#229;&#235;&#238;&#226;&#229;&#234;&#224;, &#234;&#238;&#242;&#238;&#240;&#251;&#233; &#241;&#240;&#224;&#230;&#224;&#229;&#242;&#241;&#255; &#226; &#239;&#229;&#240;&#226;&#243;&#254; &#238;&#247;&#229;&#240;&#229;&#228;&#252; &#232;&#231;-&#231;&#224; &#228;&#229;&#237;&#229;&#227;, &#224; &#237;&#229; &#239;&#238; &#243;&#225;&#229;&#230;&#228;&#229;&#237;&#232;&#255;&#236;, &#237;&#224;&#231;&#251;&#226;&#224;&#254;&#242; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#236;. [PARAGRAPH:2][PARAGRAPH:2]&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232; &#226;&#245;&#238;&#228;&#232;&#235;&#232; &#226; &#241;&#238;&#241;&#242;&#224;&#226; &#224;&#240;&#236;&#232;&#233; &#196;&#240;&#229;&#226;&#237;&#229;&#227;&#238; &#197;&#227;&#232;&#239;&#242;&#224; &#232; &#202;&#224;&#240;&#244;&#224;&#227;&#229;&#237;&#224;. &#194;&#241;&#229;&#236;&#232;&#240;&#237;&#243;&#254; &#232;&#231;&#226;&#229;&#241;&#242;&#237;&#238;&#241;&#242;&#252; &#239;&#238;&#235;&#243;&#247;&#232;&#235;&#232; &#248;&#226;&#229;&#233;&#246;&#224;&#240;&#241;&#234;&#232;&#229; &#227;&#226;&#224;&#240;&#228;&#229;&#233;&#246;&#251; &#232; &#235;&#224;&#237;&#228;&#241;&#234;&#237;&#229;&#245;&#242;&#251; XVI &#226;., &#234;&#238;&#242;&#238;&#240;&#251;&#229; &#242;&#224;&#234;&#230;&#229; &#241;&#240;&#224;&#230;&#224;&#235;&#232;&#241;&#252; &#231;&#224; &#228;&#229;&#237;&#252;&#227;&#232;. &#194; &#232;&#227;&#240;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232; &#228;&#238;&#241;&#242;&#243;&#239;&#237;&#251; &#242;&#238;&#235;&#252;&#234;&#238; &#228;&#238; &#238;&#242;&#234;&#240;&#251;&#242;&#232;&#255; &#237;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#232;&#231;&#236;&#224;.</Russian>
+		<English>[H1]Mercenaries[\H1][PARAGRAPH:2]Mercenaries are soldiers who fight primarily for private gain, usually with little regard for ideological, national, political, or moral considerations. However, when the term is used to refer to a soldier in a regular national army, it is usually considered an insult.[PARAGRAPH:2][PARAGRAPH:2]Mercenaries have seen regular deployment in battle since the time of Ancient Egypt and Carthage, up through the 16th century, including the famous Swiss Guard and the Landsknechts. In the game, Mercenaries can be hired only until the discovery of Nationalism, which changed the conception of armies and caused a rapid decline in Mercenary usage.[PARAGRAPH:2]</English>
+		<French>[H1]Mercenaires[\H1][PARAGRAPH:2]Les mercenaires sont des soldats qui se battent avant tout pour leur profit personnel, et n'ont que peu de considérations idéologiques, territoriales, politiques ou morales. Lorsque ce terme est utilisé pour un soldat d'une armée régulière, c'est en général insultant.[PARAGRAPH:2][PARAGRAPH:2]Les mercenaires ont souvent été employés depuis l'époque de l'Egypte ancienne et de Carthage, jusqu'au 16e siècle, avec les célèbres Gardes Suisses et les Lansquenets. Vous pouvez recruter des mercenaires jusqu'à la découverte du nationalisme, qui modifie la conception des armées et entraîne un rapide déclin de l'utilisation des mercenaires.[PARAGRAPH:2]</French>
+		<German>[H1]Söldner[\H1][PARAGRAPH:2]Söldner sind Kämpfer, die meist ohne jede Rücksicht auf ideologische, patriotische, politische oder moralische Überlegungen in erster Linie ihre persönlichen Interessen verfolgen. Manchmal wird der Begriff auch als Bezeichnung für Soldaten verwendet, die in einer regulären nationalen Armee ihren Dienst verrichten, in diesem Fall ist er jedoch in aller Regel als Beleidigung zu verstehen.[PARAGRAPH:2][PARAGRAPH:2]Der Einsatz von Söldnern in der Schlacht war seit der Zeit des antiken Ägyptens und Karthagos bis ins 16. Jahrhundert, beispielsweise mit der Schweizergarde und den Landsknechten, weit verbreitet. Im Spiel können Söldner bis zur Entdeckung des "Nationalismus" angeheuert werden, der das Prinzip des strukturellen Aufbaus einer Armee so stark veränderte, dass er das Ende des Söldnertums einläutete.[PARAGRAPH:2]</German>
+		<Italian>[H1]Mercenari[\H1][PARAGRAPH:2]I mercenari sono soldati che combattono principalmente per un tornaconto privato, di solito senza considerazioni di ordine ideologico, nazionale, politico o morale. Però quando il termine viene utilizzato riferendosi a un soldato di un regolare esercito nazionale, è considerato un insulto.[PARAGRAPH:2][PARAGRAPH:2]I mercenari sono stati impiegati in battaglia fin dai tempi dell'antico Egitto e di Cartagine fino al sedicesimo secolo, e tra l'altro includono i famosi Lanzichenecchi e la Guardia Svizzera. Nel gioco i mercenari possono essere assoldati solo fino alla scoperta del nazionalismo, che ha rivoluzionato la concezione degli eserciti e ha causato un rapido declino nell'utilizzo di truppe a pagamento.[PARAGRAPH:2]</Italian>
+		<Spanish>[H1]Mercenarios[\H1][PARAGRAPH:2]Los mercenarios son soldados a los que no les interesan las consideraciones ideológicas, nacionales, políticas ni morales y que combaten fundamentalmente en busca de un beneficio propio. Sin embargo, cuando se utiliza este término para referirse a un soldado de un ejército permanente, suele considerarse un insulto.[PARAGRAPH:2][PARAGRAPH:2]Los mercenarios han participado en guerras con regularidad desde la época del antiguo Egipto y Cartago hasta el siglo XVI, como la famosa Guardia Suiza y los Lansquenetes. En el juego, solo se pueden contratar mercenarios hasta el descubrimiento del nacionalismo, que cambió la concepción de los ejércitos y provocó un rápido declive del empleo de mercenarios.[PARAGRAPH:2]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MERCENARIES_SCREEN_TITLE</Tag>
+		<Russian>&#205;&#224;&#229;&#236;&#237;&#251;&#229; &#226;&#238;&#233;&#241;&#234;&#224;</Russian>
+		<English>Mercenary Manager</English>
+		<French>Responsable des mercenaires</French>
+		<German>Söldner-Verwaltung</German>
+		<Italian>Gestione mercenari</Italian>
+		<Spanish>Gestor de mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MERCENARY_SCREEN_TITLE</Tag>
+		<Russian>&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<English>Mercenaries</English>
+		<French>Mercenaires</French>
+		<German>Söldner</German>
+		<Italian>Mercenari</Italian>
+		<Spanish>Mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MERCENARY_GROUPS_SCREEN_TITLE</Tag>
+		<Russian>&#195;&#240;&#243;&#239;&#239;&#251; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<English>Mercenary Groups</English>
+		<French>Groupes de mercenaires</French>
+		<German>Söldner-Gruppen</German>
+		<Italian>Gruppi mercenari</Italian>
+		<Spanish>Grupos de mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MERCENARY_CONTRACTS_SCREEN_TITLE</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<English>Mercenary Contracts</English>
+		<French>Contrats de mercenaires</French>
+		<German>Söldner-Verträge</German>
+		<Italian>Contratti mercenari</Italian>
+		<Spanish>Contratos de mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AVAILABLE_MERCENARIES</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<English>Available Mercenaries</English>
+		<French>Mercenaires disponibles</French>
+		<German>Verfügbare Söldner</German>
+		<Italian>Mercenari disponibili</Italian>
+		<Spanish>Mercenarios disponibles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AVAILABLE_MERCENARY_GROUPS</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#227;&#240;&#243;&#239;&#239;&#251; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<English>Available Mercenary Groups</English>
+		<French>Groupes de mercenaires disponibles</French>
+		<German>Verfügbare Söldner-Gruppen</German>
+		<Italian>Gruppi mercenari disponibili</Italian>
+		<Spanish>Grupos de mercenarios disponibles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITS_CONTRACTED_OUT</Tag>
+		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#251;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232;</Russian>
+		<English>Units Contracted Out</English>
+		<French>Unités sous contrat</French>
+		<German>Ausgeschiedene Einheiten</German>
+		<Italian>Unità assegnate</Italian>
+		<Spanish>Unidades subcontratadas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HIRED_MERCENARIES</Tag>
+		<Russian>&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232; &#237;&#224; &#241;&#235;&#243;&#230;&#225;&#229;</Russian>
+		<English>Hired Mercenaries</English>
+		<French>Mercenaires recrutés</French>
+		<German>Angeheuerte Söldner</German>
+		<Italian>Mercenari assoldati</Italian>
+		<Spanish>Mercenarios contratados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HIRED_MERCENARY_GROUPS</Tag>
+		<Russian>&#195;&#240;&#243;&#239;&#239;&#251; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226; &#237;&#224; &#241;&#235;&#243;&#230;&#225;&#229;</Russian>
+		<English>Hired Mercenary Groups</English>
+		<French>Groupes de mercenaires recrutés</French>
+		<German>Angeheuerte Söldner-Gruppen</German>
+		<Italian>Gruppi mercenari assoldati</Italian>
+		<Spanish>Grupos de mercenarios contratados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AVAILABLE_UNITS</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#243;&#239;&#237;&#251;&#229; &#254;&#237;&#232;&#242;&#251;</Russian>
+		<English>Available Units</English>
+		<French>Unités disponibles</French>
+		<German>Verfügbare Einheiten</German>
+		<Italian>Unità disponibili</Italian>
+		<Spanish>Unidades disponibles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MERCENARY_INFORMATION</Tag>
+		<Russian>&#209;&#226;&#229;&#228;&#229;&#237;&#232;&#255; &#238; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#224;&#245;</Russian>
+		<English>Mercenary Information</English>
+		<French>Informations sur les mercenaires</French>
+		<German>Söldner-Informationen</German>
+		<Italian>Informazioni sui mercenari</Italian>
+		<Spanish>Información de mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MERCENARY_GROUP_INFORMATION</Tag>
+		<Russian>&#209;&#226;&#229;&#228;&#229;&#237;&#232;&#255; &#238; &#227;&#240;&#243;&#239;&#239;&#224;&#245; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<English>Mercenary Group Information</English>
+		<French>Informations sur les groupes de mercenaires</French>
+		<German>Söldner-Gruppen-Informationen</German>
+		<Italian>Informazioni sui gruppi mercenari</Italian>
+		<Spanish>Información del grupo de mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFORMATION</Tag>
+		<Russian>&#209;&#226;&#229;&#228;&#229;&#237;&#232;&#255; &#238; &#254;&#237;&#232;&#242;&#229;</Russian>
+		<English>Unit Information</English>
+		<French>Informations d'unité</French>
+		<German>Einheiten-Informationen</German>
+		<Italian>Informazioni sulle unità</Italian>
+		<Spanish>Información de la unidad</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FINANCIAL_ADVISOR_MERCENARY_MAINTENANCE_COST</Tag>
+		<Russian>&#209;&#238;&#228;&#229;&#240;&#230;&#224;&#237;&#232;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<English>Mercenary Maintenance Cost</English>
+		<French>Coût d'entretien des mercenaires</French>
+		<German>Söldner-Unterhaltskosten</German>
+		<Italian>Costo mantenimento mercenari</Italian>
+		<Spanish>Coste de mantenimiento de mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FINANCIAL_ADVISOR_MERCENARY_CONTRACT_INCOME</Tag>
+		<Russian>&#196;&#238;&#245;&#238;&#228;&#251; &#238;&#242; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#226;</Russian>
+		<English>Mercenary Contract Income</English>
+		<French>Revenu du contrat de mercenaire</French>
+		<German>Söldner-Vertragseinnahmen</German>
+		<Italian>Entrata contratto mercenari</Italian>
+		<Spanish>Ingresos de contratos de mercenarios</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SELFPRESERVATION1</Tag>
+		<Russian>&#209;&#224;&#236;&#238;&#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#229; I</Russian>
+		<English>Self Preservation I</English>
+		<French>
+			<Text>Survei I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Selbstverteidigung I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Autoconservazione I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Autopreservación I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SELFPRESERVATION2</Tag>
+		<Russian>&#209;&#224;&#236;&#238;&#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#229; II</Russian>
+		<English>Self Preservation II</English>
+		<French>
+			<Text>Survie II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Selbstverteidigung II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Autoconservazione II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Autopreservación II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SELFPRESERVATION3</Tag>
+		<Russian>&#209;&#224;&#236;&#238;&#241;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#229; III</Russian>
+		<English>Self Preservation III</English>
+		<French>
+			<Text>Survie III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Selbstverteidigung III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Autoconservazione III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Autopreservación III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MERCENARY</Tag>
+		<Russian>&#205;&#224;&#229;&#236;&#237;&#232;&#234;</Russian>
+		<English>Mercenary</English>
+		<French>
+			<Text>Mercenaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Söldner</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mercenario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mercenario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_MERCENARIES</Tag>
+		<Russian>[H1]&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232;[\H1][PARAGRAPH:2]&#215;&#229;&#235;&#238;&#226;&#229;&#234;&#224;, &#234;&#238;&#242;&#238;&#240;&#251;&#233; &#241;&#240;&#224;&#230;&#224;&#229;&#242;&#241;&#255; &#226; &#239;&#229;&#240;&#226;&#243;&#254; &#238;&#247;&#229;&#240;&#229;&#228;&#252; &#232;&#231;-&#231;&#224; &#228;&#229;&#237;&#229;&#227;, &#224; &#237;&#229; &#239;&#238; &#243;&#225;&#229;&#230;&#228;&#229;&#237;&#232;&#255;&#236;, &#237;&#224;&#231;&#251;&#226;&#224;&#254;&#242; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#238;&#236;. [PARAGRAPH:2][PARAGRAPH:2]&#205;&#224;&#229;&#236;&#237;&#232;&#234;&#232; &#226;&#245;&#238;&#228;&#232;&#235;&#232; &#226; &#241;&#238;&#241;&#242;&#224;&#226; &#224;&#240;&#236;&#232;&#233; &#196;&#240;&#229;&#226;&#237;&#229;&#227;&#238; &#197;&#227;&#232;&#239;&#242;&#224; &#232; &#202;&#224;&#240;&#244;&#224;&#227;&#229;&#237;&#224;. &#194;&#241;&#229;&#236;&#232;&#240;&#237;&#243;&#254; &#232;&#231;&#226;&#229;&#241;&#242;&#237;&#238;&#241;&#242;&#252; &#239;&#238;&#235;&#243;&#247;&#232;&#235;&#232; &#248;&#226;&#229;&#233;&#246;&#224;&#240;&#241;&#234;&#232;&#229; &#227;&#226;&#224;&#240;&#228;&#229;&#233;&#246;&#251; &#232; &#235;&#224;&#237;&#228;&#241;&#234;&#237;&#229;&#245;&#242;&#251; XVI &#226;., &#234;&#238;&#242;&#238;&#240;&#251;&#229; &#242;&#224;&#234;&#230;&#229; &#241;&#240;&#224;&#230;&#224;&#235;&#232;&#241;&#252; &#231;&#224; &#228;&#229;&#237;&#252;&#227;&#232;. &#194; &#232;&#227;&#240;&#229; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#232; &#228;&#238;&#241;&#242;&#243;&#239;&#237;&#251; &#242;&#238;&#235;&#252;&#234;&#238; &#228;&#238; &#238;&#242;&#234;&#240;&#251;&#242;&#232;&#255; &#237;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#232;&#231;&#236;&#224;.</Russian>
+		<English>Mercenaries</English>
+		<French>
+			<Text>Mercenaires</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Söldner</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</German>
+		<Italian>
+			<Text>Mercenari</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mercenarios</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MERCENARIES_DISABLED</Tag>
+		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#232;&#231;&#236; &#239;&#240;&#229;&#238;&#225;&#240;&#224;&#231;&#232;&#235; &#224;&#240;&#236;&#232;&#254;: &#242;&#229;&#239;&#229;&#240;&#252; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#224;&#236; &#226; &#237;&#229;&#233; &#237;&#229; &#236;&#229;&#241;&#242;&#238;!</Russian>
+		<English>Nationalism has changed the conception of armies: Mercenaries no longer fit in!</English>
+		<French>Le Nationalisme a changé la conception des armées : les mercenaires ne sont plus utilisés !</French>
+		<German>Der Nationalismus veränderte das Prinzip des strukturellen Aufbaus einer Armee so grundlegend, dass Söldner nicht mehr in das Konzept passen.</German>
+		<Italian>Il nazionalismo ha cambiato la concezione degli eserciti: non c'è più posto per i mercenari!</Italian>
+		<Spanish>El nacionalismo ha cambiado la concepción de los ejércitos: ¡los mercenarios ya no encajan en ellos!</Spanish>
+	</TEXT>
+</Civ4GameText>

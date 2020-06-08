@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AZTEC_DESC</Tag>
+		<Russian>&#192;&#246;&#242;&#229;&#234;&#232;</Russian>
+		<English>The Aztecs</English>
+		<French>
+			<Text>Les Aztèques</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Azteken:Die Azteken:den Azteken</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Gli Aztechi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Aztecas</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT00</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#204;&#229;&#234;&#241;&#232;&#234;&#232;</Russian>
+		<English>Mexica Peoples</English>
+		<French>
+			<Text>Peuplades Mexica</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Mexicavölker:Mexicavölker:Mexicavölkern</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli Mexica</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Mexica</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT01</Tag>
+		<Russian>&#209;&#238;&#254;&#231; &#224;&#246;&#242;&#229;&#234;&#238;&#226;</Russian>
+		<English>Aztec Alliance</English>
+		<French>
+			<Text>Alliance Aztèque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Aztekische Allianz:Aztekische Allianz:Aztekischen Allianz</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Alleanza Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Alianza Azteca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT02</Tag>
+		<Russian>&#210;&#240;&#238;&#233;&#241;&#242;&#226;&#229;&#237;&#237;&#251;&#233; &#241;&#238;&#254;&#231; &#224;&#246;&#242;&#229;&#234;&#238;&#226;</Russian>
+		<English>Aztec Triple Alliance</English>
+		<French>
+			<Text>Triple Alliance Aztèque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Aztekischer Dreibund:Aztekische Dreibund:Aztekischen Dreibund</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Triplice Alleanza Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Triple Alianza Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT03</Tag>
+		<Russian>&#209;&#238;&#254;&#231; &#224;&#246;&#242;&#229;&#234;&#238;&#226;</Russian>
+		<English>Aztec Alliance</English>
+		<French>
+			<Text>Alliance Aztèque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Aztekische Allianz:Aztekische Allianz:Aztekischen Allianz</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Alleanza Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Alianza Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT04</Tag>
+		<Russian>&#210;&#240;&#238;&#233;&#241;&#242;&#226;&#229;&#237;&#237;&#251;&#233; &#241;&#238;&#254;&#231; &#224;&#246;&#242;&#229;&#234;&#238;&#226;</Russian>
+		<English>Aztec Triple Alliance</English>
+		<French>
+			<Text>Triple Alliance Aztèque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Aztekischer Dreibund:Aztekische Dreibund:Aztekischen Dreibund</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Triplice Alleanza Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Triple Alianza Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT05</Tag>
+		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#229; &#209;&#238;&#229;&#228;&#232;&#237;&#1105;&#237;&#237;&#251;&#229; &#216;&#242;&#224;&#242;&#251;</Russian>
+		<English>United Mexican States</English>
+		<French>
+			<Text>Etats Mexicains Unis</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Vereinigte Mexikanische Staaten:Vereinigten Mexikanischen Staaten:Vereinigten Mexikanischen Staaten</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Stati Uniti Messicani</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estados Unidos Mexicanos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT06</Tag>
+		<Russian>&#208;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#238;&#237;&#237;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Anti-Reelectionist Mexico</English>
+		<French>
+			<Text>Mexique Anti-Réelectioniste</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Anti-Wiederwahl Mexiko:Anti-Wiederwahl Mexiko:Anti-Wiederwahl Mexiko</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Messico Anti-Rielezionista</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>México Antirreleccionista</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT07</Tag>
+		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Mexican Empire</English>
+		<French>
+			<Text>Empire Mexicain</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mexikanisches Reich:Mexikanische Reich:Mexikanischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Messicano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Mexicano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT08</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#232;&#233; &#209;&#238;&#254;&#231; &#192;&#246;&#242;&#229;&#234;&#238;&#226;</Russian>
+		<English>Islamic Aztec Alliance</English>
+		<French>
+			<Text>Alliance Islamique Aztèque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Aztekische Allianz:Islamische Aztekische Allianz:Islamischen Aztekischen Allianz</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Alleanza Islamica Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Alianza Islámica Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT09</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#232;&#233; &#209;&#238;&#254;&#231; &#192;&#246;&#242;&#229;&#234;&#238;&#226;</Russian>
+		<English>Islamic Aztec Alliance</English>
+		<French>
+			<Text>Alliance Islamique Aztèque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Aztekische Allianz:Islamische Aztekische Allianz:Islamischen Aztekischen Allianz</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Alleanza Islamica Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Alianza Islámica Azteca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT10</Tag>
+		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Satrapy of Mexico</English>
+		<French>
+			<Text>Satrape du Mexique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Satrapie Mexiko:Satrapie Mexiko:Satrapie Mexiko</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Satrapia del Messico</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Satrapía de México</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT11</Tag>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Province of Mexico</English>
+		<French>
+			<Text>Province du Mexique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Provinz Mexico:Provinz Mexico:Provinz Mexico</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Provincia di Messico</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Provincia de México</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT12</Tag>
+		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#233; &#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242;</Russian>
+		<English>Sultanate of Mexico</English>
+		<French>
+			<Text>Sultanat du Mexique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sultanat Mexiko:Sultanat Mexiko:Sultanat Mexiko</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sultanato del Messico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sultanato de México</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT13</Tag>
+		<Russian>&#194;&#232;&#246;&#229;-&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#205;&#238;&#226;&#224;&#255; &#200;&#241;&#239;&#224;&#237;&#232;&#255;</Russian>
+		<English>Viceroyalty of New Spain</English>
+		<French>
+			<Text>Vice Royauté de Nouvelle Espagne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vizekönigreich Neuspanien:Vizekönigreich Neuspanien:Vizekönigreich Neuspanien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Vicereame di Nuova Spagna</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Virreinato de Nueva España</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT14</Tag>
+		<Russian>&#204;&#229;&#231;&#238;&#224;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Mesoamerican France</English>
+		<French>
+			<Text>Méso-Amérique Française</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französisch-Mittelamerika:Französich-Mittelamerika:Französisch-Mittelamerika</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Francia Mesoamericana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Francia Mesoamericana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT15</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Dominion of Mexico</English>
+		<French>
+			<Text>Dominion du Mexique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dominion Mexiko:Dominion Mexiko:Dominion Mexiko</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Dominion del Messico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dominio de México</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT16</Tag>
+		<Russian>&#205;&#229;&#236;&#229;&#246;&#234;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>German Mexico</English>
+		<French>
+			<Text>Mexique Allemand</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Deutsch-Mexiko:Deutsch-Mexiko:Deutsch-Mexiko</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Messico Tedesco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>México Alemán</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT17</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Soviet Mexico</English>
+		<French>
+			<Text>Mexique Soviétique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sowjet Mexiko:Sowjet Mexiko:Sowjet Mexiko</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Messico Sovietico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>México Soviético</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT18</Tag>
+		<Russian>&#204;&#229;&#234;&#241;&#232;&#234;&#224;&#237;&#241;&#234;&#238;&#229; &#213;&#224;&#237;&#241;&#242;&#226;&#238;</Russian>
+		<English>Khanate of Mexico</English>
+		<French>
+			<Text>Khanat du Mexique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Khanat Mexiko:Khanat Mexiko:Khanat Mexiko</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Khanato del Messico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Janato de México</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT19</Tag>
+		<Russian>&#221;&#255;&#235;&#229;&#242; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Eyalet of Mexico</English>
+		<French>
+			<Text>Eyalet du Mexique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eyalet Mexiko:Eyalet Mexiko:Eyalet Mexiko</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Eyalet del Messico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eyalet de México</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT20</Tag>
+		<Russian>&#194;&#224;&#241;&#241;&#224;&#235;&#252;&#237;&#238;&#229; &#224;&#246;&#242;&#229;&#234;&#241;&#234;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Tributary Aztec State</English>
+		<French>
+			<Text>Etat Aztèque Tributaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tributstaat Aztekien:Tributstaat Aztekien:Tributstaat Aztekien</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Azteco Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Azteca Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_AZT21</Tag>
+		<Russian>&#202;&#238;&#235;&#238;&#237;&#232;&#255; &#204;&#229;&#234;&#241;&#232;&#234;&#224;</Russian>
+		<English>Colony of Mexico</English>
+		<French>
+			<Text>Colonie du Mexique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Kolonie Mexiko:Kolonie Mexiko:Kolonie Mexiko</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Colonia del Messico</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Colonia de México</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

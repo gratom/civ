@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UHV_ETH1</Tag>
+		<Russian>&#209;&#242;&#224;&#237;&#252;&#242;&#229; &#238;&#241;&#237;&#238;&#226;&#224;&#242;&#229;&#235;&#229;&#236; &#245;&#238;&#242;&#255; &#225;&#251; &#238;&#228;&#237;&#238;&#233; &#240;&#229;&#235;&#232;&#227;&#232;&#232;</Russian>
+		<English>Found one religion</English>
+		<French>Fonder une religion</French>
+		<German>Begründen Sie eine Religion</German>
+		<Italian>Fonda una religione</Italian>
+		<Spanish>Fundar una religión</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_MAY1</Tag>
+		<Russian>&#206;&#242;&#234;&#240;&#238;&#233;&#242;&#229; &#234;&#224;&#235;&#229;&#237;&#228;&#224;&#240;&#252; &#234; 600 &#227;. &#237;.&#253;.</Russian>
+		<English>Discover Calendar by 600 AD</English>
+		<French>Découvrir le calendrier avant 600 ap. J.-C.</French>
+		<German>Erforschen Sie bis zum Jahr 600 n. Chr. die Technologie Kalender</German>
+		<Italian>Scopri il calendario entro il 600 d.C.</Italian>
+		<Spanish>Descubrir el Calendario antes del 600 d. C.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_MAY2</Tag>
+		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#233;&#242;&#229; &#245;&#240;&#224;&#236; &#202;&#243;&#234;&#243;&#235;&#252;&#234;&#224;&#237;&#224; &#234; 900 &#227;. &#237;.&#253;.</Russian>
+		<English>Build the Temple of Kukulkan by 900 AD</English>
+		<French>Construire le Temple de Quetzalcoatl avant 900 ap. J.-C.</French>
+		<German>Errichten Sie bis zum Jahr 900 n. Chr. die Pyramide des Kukulcán</German>
+		<Italian>Costruisci il Tempio di Kukulcan entro il 900 d.C.</Italian>
+		<Spanish>Construir el Templo de Kukulcán antes del 900 d. C.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_MAY3</Tag>
+		<Russian>&#205;&#229; &#239;&#238;&#242;&#229;&#240;&#255;&#233;&#242;&#229; &#237;&#232; &#238;&#228;&#237;&#238;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; &#228;&#238; 1745 &#227;. &#237;.&#253;.</Russian>
+		<English>Never lose a city before 1745 AD</English>
+		<French>Ne perdre aucune ville avant 1745 ap. J.-C.</French>
+		<German>Verlieren Sie bis zum Jahr 1745 n. Chr. keine einzige Stadt</German>
+		<Italian>Non farti conquistare alcuna città prima del 1745 d.C.</Italian>
+		<Spanish>No perder una ciudad antes del 1745 d. C.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_KHM2</Tag>
+		<Russian>&#196;&#238;&#226;&#229;&#228;&#232;&#242;&#229; &#241;&#240;&#229;&#228;&#237;&#254;&#254; &#247;&#232;&#241;&#235;&#229;&#237;&#237;&#238;&#241;&#242;&#252; &#227;&#238;&#240;&#238;&#228;&#241;&#234;&#238;&#227;&#238; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#255; &#228;&#238; &#228;&#229;&#241;&#255;&#242;&#232; &#232;&#235;&#232; &#225;&#238;&#235;&#229;&#229; &#229;&#228;&#232;&#237;&#232;&#246; &#234; 1450 &#227;.</Russian>
+		<English>Have an average city size of 10 or more in 1450 AD</English>
+		<French>Taille moyenne des villes de 10 ou plus en 1450 ap. J.-C.</French>
+		<German>Erzielen Sie bis zum Jahr 1450 n. Chr. eine durchschnittliche Stadtgröße von 10 oder mehr</German>
+		<Italian>Le tue città devono avere una dimensione media di 10 o più nel 1450 d.C.</Italian>
+		<Spanish>Tener un tamaño medio de las ciudades de 10 o más en el 1450 d. C.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_KHM3</Tag>
+		<Russian>&#208;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#232;&#242;&#229; &#225;&#243;&#228;&#228;&#232;&#231;&#236; &#237;&#224; 30%% &#236;&#232;&#240;&#238;&#226;&#238;&#233; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#232;</Russian>
+		<English>Spread Buddhism to 30%</English>
+		<French>Répandre le Bouddhisme à 30%</French>
+		<German>Sorgen Sie für eine 30%%-ige Verbreitung des Buddhismus</German>
+		<Italian>Diffondi il buddismo al 30%</Italian>
+		<Spanish>Propagar el Budismo al 30%</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_HOL2</Tag>
+		<Russian>&#209;&#242;&#224;&#237;&#252;&#242;&#229; &#238;&#241;&#237;&#238;&#226;&#224;&#242;&#229;&#235;&#229;&#236; &#239;&#229;&#240;&#226;&#238;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224; &#226; &#192;&#226;&#241;&#242;&#240;&#224;&#235;&#232;&#232;</Russian>
+		<English>Be the first to found a city in Australia</English>
+		<French>Etre le premier à fonder une ville en Australie</French>
+		<German>Gründen Sie vor allen anderen Zivilisationen die erste Stadt in Australien</German>
+		<Italian>Devi essere il primo a fondare una città in Australia</Italian>
+		<Spanish>Ser el primero en fundar una ciudad en Australia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_HOL3</Tag>
+		<Russian>&#199;&#224;&#226;&#235;&#224;&#228;&#229;&#233;&#242;&#229; (&#236;&#238;&#230;&#237;&#238; &#241; &#239;&#238;&#236;&#238;&#249;&#252;&#254; &#242;&#238;&#240;&#227;&#238;&#226;&#235;&#232;) &#241;&#229;&#236;&#252;&#254; &#232;&#241;&#242;&#238;&#247;&#237;&#232;&#234;&#224;&#236;&#232; &#241;&#239;&#229;&#246;&#232;&#233; &#234; 1775 &#227;. &#237;.&#253;.</Russian>
+		<English>Secure or get by trade 7 spices resources by 1775 AD</English>
+		<French>Sécuriser ou obtenir par le commerce 7 en ressources d'épices avant 1775 ap. J.-C.</French>
+		<German>Besetzen oder kaufen Sie bis zum Jahr 1775 n. Chr. 7 Gewürz-Ressourcen</German>
+		<Italian>Assicurati o procurati col commercio 7 fonti di spezie entro il 1775 d.C.</Italian>
+		<Spanish>Asegurar o conseguir por medio del comercio 7 recursos de especias en el 1775 d. C.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UHV_POR3</Tag>
+		<Russian>&#209;&#242;&#224;&#237;&#252;&#242;&#229; &#238;&#241;&#237;&#238;&#226;&#224;&#242;&#229;&#235;&#229;&#236; &#228;&#229;&#241;&#255;&#242;&#232; &#234;&#238;&#235;&#238;&#237;&#232;&#233; &#231;&#224; &#239;&#240;&#229;&#228;&#229;&#235;&#224;&#236;&#232; &#197;&#226;&#240;&#238;&#239;&#251;</Russian>
+		<English>Found 13 extra-European colonies</English>
+		<French>Fonder 13 colonies hors d'Europe</French>
+		<German>Gründen Sie 13 außereuropäische Kolonien</German>
+		<Italian>Fonda 13 colonie extra-europee</Italian>
+		<Spanish>Fundar 13 colonias fuera de Europa</Spanish>
+	</TEXT>
+</Civ4GameText>

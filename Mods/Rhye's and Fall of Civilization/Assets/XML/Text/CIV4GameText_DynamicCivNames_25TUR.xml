@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_OTTOMAN_DESC</Tag>
+		<Russian>&#210;&#243;&#240;&#234;&#232;</Russian>
+		<English>The Turks</English>
+		<French>
+			<Text>Les Turques</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Türken:Die Türken:den Türken</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>I Turchi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Turcos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR00</Tag>
+		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<English>Turkish Peoples</English>
+		<French>
+			<Text>Peuplades Turques</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Türkische Völker:türkischen Völker:türkische Völkern</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli Turchi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Turcos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR01</Tag>
+		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Turkish Empire</English>
+		<French>
+			<Text>Empire Turc</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Türkisches Reich:Türkische Reich:Türkischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Turco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Turco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR02</Tag>
+		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Turkish Empire</English>
+		<French>
+			<Text>Empire Turc</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Türkisches Reich:Türkische Reich:Türkischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Turco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Turco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR03</Tag>
+		<Russian>&#194;&#251;&#241;&#238;&#234;&#238;&#229; &#206;&#241;&#236;&#224;&#237;&#241;&#234;&#238;&#229; &#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Sublime Ottoman State</English>
+		<French>
+			<Text>Sublime Etat Ottoman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Erhabener Osmanischer Staat:Erhabene Osmanische Staat:Erhabenen Osmanischen Staat</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sublime Stato Ottomano</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sublime Estado Otomano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR04</Tag>
+		<Russian>&#194;&#251;&#241;&#238;&#234;&#238;&#229; &#206;&#241;&#236;&#224;&#237;&#241;&#234;&#238;&#229; &#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Sublime Ottoman State</English>
+		<French>
+			<Text>Sublime Etat Ottoman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Erhabener Osmanischer Staat:Erhabene Osmanische Staat:Erhabenen Osmanischen Staat</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sublime Stato Ottomano</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sublime Estado Otomano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR05</Tag>
+		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Republic of Turkey</English>
+		<French>
+			<Text>République de Turquie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Republik Türkei:Republik Türkei:Republik Türkei</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica di Turchia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República de Turquía</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR06</Tag>
+		<Russian>&#205;&#224;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#224;&#255; &#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#205;&#224;&#240;&#238;&#228;&#237;&#224;&#255; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<English>National Democratic Popular Turkey</English>
+		<French>
+			<Text>Turquie Nationale Démocratique Populaire</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Nationales Demokratisches Volk der Türkei:Nationale Demokratische Volk der Türkei:Nationalen Demokratischen Volk der Türkei</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Turchia Nazional Democratica Popolare</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Turquía Nacional Democrática Popular</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR07</Tag>
+		<Russian>&#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#213;&#243;&#237;&#242;&#224;</Russian>
+		<English>Turkish Junta</English>
+		<French>
+			<Text>Junte Turque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Türkische Junta:türkische Junta:türkischen Junta</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Giunta Turca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Junta Turca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR08</Tag>
+		<Russian>&#206;&#241;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#213;&#224;&#235;&#232;&#244;&#224;&#242;</Russian>
+		<English>Ottoman Caliphate</English>
+		<French>
+			<Text>Califat Ottoman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Osmanisches Kaliphat:Osmanische Kaliphat:Osmanischen Kaliphat</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Califfato Ottomano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Califato Otomano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR09</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#210;&#243;&#240;&#229;&#246;&#234;&#224;&#255; &#196;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#255;</Russian>
+		<English>Islamic Turkish Democracy</English>
+		<French>
+			<Text>Démocratie Islamique Turque</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamisch-türkische Demokratie:Islamisch-türkische Demokratie:Islamisch-türkischen Demokratie</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Democrazia Islamica Turca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Democracia Islámica Turca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR10</Tag>
+		<Russian>&#215;&#229;&#242;&#226;&#229;&#240;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<English>Fourth Satrapy</English>
+		<French>
+			<Text>Quatrième Satrape</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vierte Satrapie:Vierte Satrapie:Vierten Satrapie</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Quarta Satrapia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cuarta Satrapía</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR11</Tag>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#204;&#224;&#235;&#224;&#255; &#192;&#231;&#232;&#255;</Russian>
+		<English>Province of Asia Minor</English>
+		<French>
+			<Text>Province d'Asie Mineure</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Provinz Asia Minor:Provinz Asia Minor:Provinz Asia Minor</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Provincia di Asia Minor</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Provincia de Asia Minor</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR12</Tag>
+		<Russian>&#206;&#241;&#236;&#224;&#237;&#241;&#234;&#232;&#233; &#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242;</Russian>
+		<English>Ottoman Sultanate</English>
+		<French>
+			<Text>Sultanat Ottoman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Osmanische Sultanat:Osmanische Sultanat:Osmanischen Sultanat</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sultanato Ottomano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sultanato Otomano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR13</Tag>
+		<Russian>&#194;&#232;&#246;&#229;-&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<English>Viceroyalty of Turkey</English>
+		<French>
+			<Text>Vice Royauté de Turquie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vizekönigreich Türkei:Vizekönigreich Türkei:Vizekönigreich Türkei</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Vicereame di Turchia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Virreinato de Turquía</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR14</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#239;&#238;&#228;&#236;&#224;&#237;&#228;&#224;&#242;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<English>French Mandate of Turkey</English>
+		<French>
+			<Text>Mandat Français de Turquie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französisches Mandat Türkei:französische Mandat Türkei:französischen Mandat Türkei</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Mandato Francese della Turchia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mandato Francés de Turquía</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR15</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#224;&#255; &#239;&#238;&#228;&#236;&#224;&#237;&#228;&#224;&#242;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<English>British Mandate of Turkey</English>
+		<French>
+			<Text>Mandat Britannique de Turquie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Britisches Mandat Türkei:britische Mandat Türkei:britischen Mandat Türkei</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Mandato Britannico della Turchia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mandato Britaánico de Turquía</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR16</Tag>
+		<Russian>&#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<English>Reichskommissariat Turkey</English>
+		<French>
+			<Text>Reichskommissariat de Turquie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Reichskommissariat Türkei:Reichskommissariat Türkei:Reichskommissariat Türkei</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Reichskommissariat di Turchia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reichskommissariat de Turquía</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR17</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<English>Soviet Turkey</English>
+		<French>
+			<Text>Turquie Soviétique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sowjet Türkei:Sowjet Türkei:Sowjet Türkei</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Turchia Sovietica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Turquía Soviética</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR18</Tag>
+		<Russian>&#210;&#243;&#240;&#234;&#229;&#241;&#242;&#224;&#237;&#241;&#234;&#238;&#229; &#213;&#224;&#237;&#241;&#242;&#226;&#238;</Russian>
+		<English>Khanate of Turkestan</English>
+		<French>
+			<Text>Khanat du Turkestan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Khanat Turkistan:Khanat Turkistan:Khanat Turkistan</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Khanato di Turkestan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Janato de Turquestán</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR19</Tag>
+		<Russian>&#221;&#255;&#235;&#229;&#242; &#192;&#237;&#224;&#242;&#238;&#235;&#232;&#255;</Russian>
+		<English>Eyalet of Anatolia</English>
+		<French>
+			<Text>Eyalet d'Anatolie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eyalet Anatolien:Eyalet Anatolien:Eyalet Anatolien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Eyalet di Anatolia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eyalet de Anatolia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR20</Tag>
+		<Russian>&#194;&#224;&#241;&#241;&#224;&#235;&#252;&#237;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#210;&#243;&#246;&#231;&#254;&#229;</Russian>
+		<English>Tributary Tujue State</English>
+		<French>
+			<Text>Etat Tujue Tributaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tributstaat Tujue:Tributstaat Tujue:Tributstaat Tujue</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Tujue Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Tujue Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_TUR21</Tag>
+		<Russian>&#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#210;&#243;&#240;&#246;&#232;&#255;</Russian>
+		<English>Protectorate of Turkey</English>
+		<French>
+			<Text>Protectorat de Turquie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Protektorat Türkei:Protektorat Türkei:Protektorat Türkei</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Protettorato di Turchia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Protectorado de Turquía</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

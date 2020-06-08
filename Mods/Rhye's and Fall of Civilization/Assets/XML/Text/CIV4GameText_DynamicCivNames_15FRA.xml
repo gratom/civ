@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FRANCE_DESC</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#251;</Russian>
+		<English>The French</English>
+		<French>
+			<Text>Les Français</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Franzosen:Die Franzosen:den Franzosen</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>I Francesi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Francéses</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA00</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#234;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<English>Frankish Peoples</English>
+		<French>
+			<Text>Peuplades Franques</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Fränkische Völker:Fränkischen Völker:Fränkischen Völkern</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli Franchi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Francos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA01</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#238;&#229; &#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238;</Russian>
+		<English>Kingdom of France</English>
+		<French>
+			<Text>Royaume de France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Königreich Frankreich:Königreich Frankreich:Königreich Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Regno di Francia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reino de Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA02</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>French Empire</English>
+		<French>
+			<Text>Empire Français</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französisches Reich:Französische Reich:Französischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Francese</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Francés</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA03</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#238;&#229; &#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238;</Russian>
+		<English>Kingdom of France</English>
+		<French>
+			<Text>Royaume de France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Königreich Frankreich:Königreich Frankreich:Königreich Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Regno di Francia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reino de Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA04</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>French Empire</English>
+		<French>
+			<Text>Empire Français</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französisches Reich:Französische Reich:Französischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Francese</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Francés</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA05</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>French Republic</English>
+		<French>
+			<Text>Republique Française</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französische Republik:Französische Republik:Französischen Republik</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica Francese</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República de Francia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA06</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#202;&#238;&#236;&#236;&#243;&#237;&#224;</Russian>
+		<English>French Commune</English>
+		<French>
+			<Text>France de la Commune</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französiche Kommune:Französiche Kommune:Französiche Kommune</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Commune Francese</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Comuna Francesa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA07</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#238;&#229; &#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>French State</English>
+		<French>
+			<Text>Etat Français</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französischer Staat:Französische Staat:Französischen Staat</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Francese</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Francés</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA08</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#238;&#229; &#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Islamic Kingdom of France</English>
+		<French>
+			<Text>Royaume Islamique de France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamisches Königreich Frankreich:Islamische Königreich Frankreich:Islamischen Königreich Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Regno Islamico di Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reino Islámico de Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA09</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Islamic French Republic</English>
+		<French>
+			<Text>République Islamique Française</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Republik Frankreich:Islamische Republik Frankreich:Islamischen Republik Frankreich</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica Islamica Francese</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República Islá#mica Francés</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA10</Tag>
+		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Satrapy of France</English>
+		<French>
+			<Text>Satrape de France</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Satrapie Frankreich:Satrapie Frankreich:Satrapie Frankreich</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Satrapia di Francia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Satrapía de Francia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA11</Tag>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#195;&#224;&#235;&#235;&#232;&#255;</Russian>
+		<English>Province of Gallia</English>
+		<French>
+			<Text>Province de Gaule</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Provinz Gallia:Provinz Gallia:Provinz Gallia</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Provincia di Gallia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Provincia de Gallia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA12</Tag>
+		<Russian>&#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Sultanate of France</English>
+		<French>
+			<Text>Sultanat de France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sultanat Frankreich:Sultanat Frankreich:Sultanat Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sultanato di Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sultanato de Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA13</Tag>
+		<Russian>&#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#229; &#209;&#238;&#238;&#225;&#249;&#229;&#241;&#242;&#226;&#238; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Autonomous Community of France</English>
+		<French>
+			<Text>Communauté Autonome de France</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Autonome Gemeinschaft Frankreich:Autonome Gemeinschaft Frankreich:Autonomen Gemeinschaft Frankreich</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Comunità Autonoma di Francia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Comunidad Autónoma de Francia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA14</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#204;&#229;&#242;&#240;&#238;&#239;&#238;&#235;&#232;&#255;</Russian>
+		<English>Metropolitan France</English>
+		<French>
+			<Text>France Métropolitaine</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Metropolitanisches Frankreich:Metropolitanisches Frankreich:Metropolitanisches Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Francia Metropolitana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Francia Metropolitana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA15</Tag>
+		<Russian>&#193;&#240;&#229;&#242;&#224;&#237;&#252;</Russian>
+		<English>Brittany</English>
+		<French>
+			<Text>Bretagne</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bretagne:Bretagne:Bretagne</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Bretagna</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Bretaña</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA16</Tag>
+		<Russian>&#194;&#232;&#248;&#232;&#241;&#242;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Vichy France</English>
+		<French>
+			<Text>France de Vichy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vichy-Frankreich:Vichy-Frankreich:Vichy-Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Francia di Vichy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Francia de Vichy</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA17</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Soviet France</English>
+		<French>
+			<Text>France Soviétique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sowjetfrankreich:Sowjetfrankreich:Sowjetfrankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Francia Sovietica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Francia Soviética</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA18</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#238;&#229; &#213;&#224;&#237;&#241;&#242;&#226;&#238;</Russian>
+		<English>Khanate of France</English>
+		<French>
+			<Text>Khanat de France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Khanat Frankreich:Khanat Frankreich:Khanat Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Khanato di Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Janato de Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA19</Tag>
+		<Russian>&#221;&#255;&#235;&#229;&#242; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Eyalet of France</English>
+		<French>
+			<Text>Eyalet de France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eyalet Frankreich:Eyalet Frankreich:Eyalet Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Eyalet di Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eyalet de Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA20</Tag>
+		<Russian>&#194;&#224;&#241;&#241;&#224;&#235;&#252;&#237;&#238;&#229; &#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Tributary French State</English>
+		<French>
+			<Text>Etat Français Tributaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tributstaat Frankreich:Tributstaat Frankreich:Tributstaat Frankreich</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Francese Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Francés Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_FRA21</Tag>
+		<Russian>&#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#212;&#240;&#224;&#237;&#246;&#232;&#255;</Russian>
+		<English>Protectorate of France</English>
+		<French>
+			<Text>Protectorat de France</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Protektorat Frankreich:Protektorat Frankreich:Protektorat Frankreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Protettorato di Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Protectorado de Francia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

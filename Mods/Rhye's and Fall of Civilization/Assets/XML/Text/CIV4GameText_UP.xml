@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIQUE_POWER</Tag>
+		<Russian>&#211;&#237;&#232;&#234;&#224;&#235;&#252;&#237;&#238;&#229; &#239;&#240;&#229;&#232;&#236;&#243;&#249;&#229;&#241;&#242;&#226;&#238;</Russian>
+		<English>Unique Power</English>
+		<French>Pouvoir unique</French>
+		<German>Einzigartige Macht</German>
+		<Italian>Potere unico</Italian>
+		<Spanish>Poder único:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_EGY</Tag>
+		<Russian>&#194;&#241;&#229;&#226;&#235;&#224;&#241;&#242;&#232;&#229;:</Russian>
+		<English>The Power of the Pharaoh:</English>
+		<French>Le Pouvoir du Pharaon :</French>
+		<German>Die Macht des Pharaos:</German>
+		<Italian>Il potere del faraone:</Italian>
+		<Spanish>El poder del faraón:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_EGY2</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#228;&#232;&#227;&#236;&#251; &#237;&#224;&#241;&#235;&#229;&#228;&#237;&#238;&#227;&#238; &#239;&#240;&#224;&#226;&#235;&#229;&#237;&#232;&#255; &#232; &#240;&#224;&#225;&#238;&#226;&#235;&#224;&#228;&#229;&#237;&#232;&#255; &#228;&#238;&#241;&#242;&#243;&#239;&#237;&#251; &#241; &#241;&#224;&#236;&#238;&#227;&#238; &#237;&#224;&#247;&#224;&#235;&#224;</Russian>
+		<English>Hereditary Rule and Slavery are enabled at start</English>
+		<French>Le droit héréditaire et l'esclavage sont disponibles au départ</French>
+		<German>Aktivierung von Erbrecht und Sklaverei beim Spielstart</German>
+		<Italian>All'avvio sono abilitati governo ereditario e schiavitù</Italian>
+		<Spanish>Gobierno hereditario y Esclavitud están activados al principio</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_IND</Tag>
+		<Russian>&#196;&#243;&#245;&#238;&#226;&#237;&#238;&#241;&#242;&#252;:</Russian>
+		<English>The Power of Spirituality:</English>
+		<French>Le Pouvoir de la Spiritualité :</French>
+		<German>Die Macht der Spiritualität:</German>
+		<Italian>Il potere della spiritualità:</Italian>
+		<Spanish>El poder de la espiritualidad:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_IND2</Tag>
+		<Russian>&#208;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#232; &#237;&#229; &#241;&#238;&#239;&#240;&#238;&#226;&#238;&#230;&#228;&#224;&#254;&#242;&#241;&#255; &#239;&#229;&#240;&#232;&#238;&#228;&#238;&#236; &#224;&#237;&#224;&#240;&#245;&#232;&#232;</Russian>
+		<English>No Anarchy in revolutions</English>
+		<French>Pas d'anarchie lors des révolutions</French>
+		<German>Keine Anarchiephase bei Revolutionen</German>
+		<Italian>Niente anarchia durante le rivoluzioni</Italian>
+		<Spanish>No hay anarquía por las revoluciones</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_CHI</Tag>
+		<Russian>&#193;&#238;&#229;&#226;&#238;&#233; &#228;&#243;&#245;:</Russian>
+		<English>The Power of the Myriads:</English>
+		<French>Le Pouvoir des Myriades :</French>
+		<German>Die Macht der Myriaden:</German>
+		<Italian>Il potere delle miriadi:</Italian>
+		<Spanish>El poder de las miríadas:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_CHI2</Tag>
+		<Russian>&#209;&#234;&#238;&#240;&#238;&#241;&#242;&#252; &#254;&#237;&#232;&#242;&#238;&#226; &#225;&#235;&#232;&#230;&#237;&#229;&#227;&#238; &#225;&#238;&#255; &#232; &#238;&#227;&#237;&#229;&#241;&#242;&#240;&#229;&#235;&#252;&#237;&#251;&#245; &#254;&#237;&#232;&#242;&#238;&#226; &#237;&#224; 50%% &#226;&#251;&#248;&#229;</Russian>
+		<English>1.5X Melee and Gunpowder units train speed</English>
+		<French>1.5X Vitesse d'entraînement des unités de combat rapproché et équipées d'armes à feu</French>
+		<German>1,5x schnellere Ausbildung von Nahkampf- und Schießpulver-Einheiten</German>
+		<Italian>Velocità di addestramento 1,5X per le unità da mischia e con armi da fuoco</Italian>
+		<Spanish>Velocidad de entrenamiento de unidades de cuerpo a cuerpo y con armas de pólvora multiplicada x1,5</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_GRE</Tag>
+		<Russian>&#212;&#232;&#235;&#238;&#241;&#238;&#244;&#232;&#255;:</Russian>
+		<English>The Power of Philosophy:</English>
+		<French>Le Pouvoir de la Philosophie :</French>
+		<German>Die Macht der Philosophie:</German>
+		<Italian>Il potere della filosofia:</Italian>
+		<Spanish>El poder de la filosofía:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_GRE2</Tag>
+		<Russian>&#196;&#238; &#234;&#238;&#237;&#246;&#224; &#253;&#239;&#238;&#245;&#232; &#209;&#240;&#229;&#228;&#237;&#229;&#226;&#229;&#234;&#238;&#226;&#252;&#255; &#240;&#238;&#230;&#228;&#224;&#229;&#236;&#238;&#241;&#242;&#252; &#231;&#237;&#224;&#236;&#229;&#237;&#232;&#242;&#238;&#241;&#242;&#229;&#233; &#226;&#251;&#248;&#229; &#237;&#224; 150%%</Russian>
+		<English>+150% Great People birth rate until the end of the Middle Ages</English>
+		<French>+150 % Taux de natalité des personnages illustres jusqu'à la fin du Moyen Age</French>
+		<German>+150% Geburtenrate von Großen Persönlichkeiten bis zum Ende des Mittelalters</German>
+		<Italian>+150% tasso di natalità dei Grandi Personaggi fino alla fine del Medioevo</Italian>
+		<Spanish>+100% a la tasa de natalidad de grandes personajes hasta el final de la Edad Media</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_PER</Tag>
+		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;:</Russian>
+		<English>The Power of Satrapy:</English>
+		<French>Le Pouvoir de la Satrapie :</French>
+		<German>Die Macht der Satrapie:</German>
+		<Italian>Il potere della satrapia:</Italian>
+		<Spanish>El poder de la satrapía:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_PER2</Tag>
+		<Russian>&#202;&#224;&#230;&#228;&#251;&#233; &#231;&#224;&#226;&#238;&#229;&#226;&#224;&#237;&#237;&#251;&#233; &#227;&#238;&#240;&#238;&#228; &#228;&#238;&#225;&#224;&#226;&#235;&#255;&#229;&#242; &#228;&#226;&#224; &#228;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#245; &#238;&#247;&#234;&#224; &#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#232;</Russian>
+		<English>+2 additional Stability Points for each city conquered</English>
+		<French>+2 points de stabilité par ville conquise</French>
+		<German>+2 zusätzliche Stabilitätspunkte für jede eroberte Stadt</German>
+		<Italian>+2 punti stabilità addizionali per ogni città conquistata</Italian>
+		<Spanish>+2 puntos de estabilidad adicionales por cada ciudad conquistada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ROM</Tag>
+		<Russian>&#200;&#237;&#244;&#240;&#224;&#241;&#242;&#240;&#243;&#234;&#242;&#243;&#240;&#224;:</Russian>
+		<English>The Power of Infrastructure:</English>
+		<French>Le Pouvoir de l'Infrastructure :</French>
+		<German>Die Macht der Infrastruktur:</German>
+		<Italian>Il potere delle infrastrutture:</Italian>
+		<Spanish>El poder de la infraestructura:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ROM2</Tag>
+		<Russian>&#209;&#234;&#238;&#240;&#238;&#241;&#242;&#252; &#239;&#229;&#240;&#229;&#228;&#226;&#232;&#230;&#229;&#237;&#232;&#255; &#254;&#237;&#232;&#242;&#238;&#226; &#239;&#238; &#228;&#238;&#240;&#238;&#227;&#224;&#236; &#208;&#232;&#236;&#241;&#234;&#238;&#233; &#232;&#236;&#239;&#229;&#240;&#232;&#232; &#237;&#229; &#226; &#228;&#226;&#224;, &#224; &#226; &#247;&#229;&#242;&#251;&#240;&#229; &#240;&#224;&#231;&#224; &#226;&#251;&#248;&#229;</Russian>
+		<English>Roads within Roman borders allow 4X unit movement instead of 2X</English>
+		<French>Les routes à l'intérieur des frontières romaines permettent aux unités un mouvement 4X au lieu de 2X.</French>
+		<German>4x statt 2x Einheitenfortbewegung auf Straßen innerhalb der römischen Grenzen</German>
+		<Italian>Le strade all'interno dei confini romani permettono movimento delle unità 4X invece di 2X</Italian>
+		<Spanish>Las carreteras dentro de las fronteras romanas permiten un movimiento de unidades multiplicado x4 en lugar de x2</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_JAP</Tag>
+		<Russian>&#202;&#238;&#228;&#229;&#234;&#241; &#247;&#229;&#241;&#242;&#232;:</Russian>
+		<English>The Power of Honor:</English>
+		<French>Le Pouvoir de l'Honneur :</French>
+		<German>Die Macht der Ehre:</German>
+		<Italian>Il potere dell'onore:</Italian>
+		<Spanish>El poder del honor:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_JAP2</Tag>
+		<Russian>&#209;&#243;&#245;&#238;&#239;&#243;&#242;&#237;&#251;&#229; &#254;&#237;&#232;&#242;&#251; &#225;&#238;&#235;&#229;&#229; &#253;&#244;&#244;&#229;&#234;&#242;&#232;&#226;&#237;&#238; &#231;&#224;&#249;&#232;&#249;&#224;&#254;&#242; &#227;&#238;&#240;&#238;&#228;&#224;</Russian>
+		<English>All military land units have a bonus in city defending</English>
+		<French>Toutes les unités terrestres ont un bonus de défense des villes</French>
+		<German>Stadtverteidigungsbonus für alle militärischen Landeinheiten</German>
+		<Italian>Tutte le unità militari terrestri hanno un bonus in difesa delle città</Italian>
+		<Spanish>Todas las unidades militares terrestres tienen una bonificación al defender ciudades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ARA</Tag>
+		<Russian>&#209;&#232;&#235;&#224; &#226;&#229;&#240;&#251;:</Russian>
+		<English>The Power of Faith:</English>
+		<French>Le Pouvoir de la Foi :</French>
+		<German>Die Macht des Glaubens:</German>
+		<Italian>Il potere della fede:</Italian>
+		<Spanish>El poder de la fe:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ARA2</Tag>
+		<Russian>&#195;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#229;&#237;&#237;&#224;&#255; &#240;&#229;&#235;&#232;&#227;&#232;&#255; &#240;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#255;&#229;&#242;&#241;&#255; &#226; &#231;&#224;&#226;&#238;&#229;&#226;&#224;&#237;&#237;&#251;&#245; &#227;&#238;&#240;&#238;&#228;&#224;&#245; &#241; &#245;&#240;&#224;&#236;&#224;&#236;&#232; &#232; &#241;&#238;&#225;&#238;&#240;&#224;&#236;&#232;</Russian>
+		<English>State religion spreads with temples and cathedrals to conquered cities</English>
+		<French>La religion d'état se répand dans les petits et grands lieux de culte pour conquérir les villes</French>
+		<German>Ausbreitung der Staatsreligion in eroberten Städten durch Tempel und Kathedralen</German>
+		<Italian>La religione di stato si diffonde con templi e cattedrali nelle città conquistate</Italian>
+		<Spanish>La religión oficial se propaga con los templos y catedrales a las ciudades conquistadas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_SPA</Tag>
+		<Russian>&#204;&#238;&#240;&#229;&#239;&#235;&#224;&#226;&#224;&#237;&#232;&#229;:</Russian>
+		<English>The Power of Discovery:</English>
+		<French>Le Pouvoir de la Découverte :</French>
+		<German>Die Macht der Entdeckungen:</German>
+		<Italian>Il potere della scoperta:</Italian>
+		<Spanish>El poder del descubrimiento:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_SPA2</Tag>
+		<Russian>&#204;&#238;&#240;&#241;&#234;&#232;&#229; &#254;&#237;&#232;&#242;&#251; &#239;&#238;&#235;&#243;&#247;&#224;&#254;&#242; &#228;&#226;&#224; &#228;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#245; &#238;&#247;&#234;&#224; &#228;&#226;&#232;&#230;&#229;&#237;&#232;&#255;</Russian>
+		<English>Naval units receive +2 movement points</English>
+		<French>Les unités navales reçoivent +2 points de mouvement</French>
+		<German>2 zusätzliche Fortbewegungspunkte für Marineeinheiten</German>
+		<Italian>Le unità navali ricevono +2 punti di movimento</Italian>
+		<Spanish>Las unidades navales nuevas reciben +2 puntos de movimiento</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_FRA</Tag>
+		<Russian>&#196;&#232;&#239;&#235;&#238;&#236;&#224;&#242;&#232;&#255;:</Russian>
+		<English>The Power of the Entente:</English>
+		<French>Le Pouvoir de l'Entente :</French>
+		<German>Die Macht des Entente:</German>
+		<Italian>Il potere dell'entente:</Italian>
+		<Spanish>El poder de la entente:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_FRA2</Tag>
+		<Russian>&#196;&#240;&#243;&#227;&#232;&#229; &#228;&#229;&#240;&#230;&#224;&#226;&#251; &#239;&#229;&#240;&#226;&#238;&#237;&#224;&#247;&#224;&#235;&#252;&#237;&#238; &#237;&#224;&#241;&#242;&#240;&#238;&#229;&#237;&#251; &#225;&#238;&#235;&#229;&#229; &#228;&#240;&#243;&#230;&#229;&#241;&#242;&#226;&#229;&#237;&#237;&#238;</Russian>
+		<English>Other civilizations have a friendlier attitude</English>
+		<French>Les autres civilisations ont une attitude plus amicale</French>
+		<German>Freundlichere Haltung seitens anderer Zivilisationen</German>
+		<Italian>Le altre civiltà hanno un atteggiamento più amichevole</Italian>
+		<Spanish>Las demás civilizaciones mantienen una actitud más amistosa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ENG</Tag>
+		<Russian>&#204;&#238;&#240;&#229;&#245;&#238;&#228;&#241;&#242;&#226;&#238;:</Russian>
+		<English>The Power of the Royal Navy:</English>
+		<French>Le Pouvoir de la Royal Navy :</French>
+		<German>Die Macht der Königlichen Marine:</German>
+		<Italian>Il potere della marina reale:</Italian>
+		<Spanish>El poder de la Royal Navy:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ENG2</Tag>
+		<Russian>&#211; &#236;&#238;&#240;&#241;&#234;&#232;&#245; &#254;&#237;&#232;&#242;&#238;&#226; &#229;&#241;&#242;&#252; &#248;&#224;&#237;&#241; &#228;&#226;&#243;&#245; &#228;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#245; &#239;&#229;&#240;&#226;&#251;&#245; &#243;&#228;&#224;&#240;&#238;&#226;</Russian>
+		<English>Naval units have 2 extra first strike chances</English>
+		<French>Les unités navales ont 2 chances de première attaque supplémentaires</French>
+		<German>2 zusätzliche Erstangriffschancen für Marineeinheiten</German>
+		<Italian>Le unità navali hanno 2 possibilità di Attacchi improvvisi supplementari</Italian>
+		<Spanish>Las unidades navales tienen 2 posibilidades adicionales de ataque de iniciativa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_GER</Tag>
+		<Russian>&#207;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#238;&#241;&#242;&#252;:</Russian>
+		<English>The Power of Technique:</English>
+		<French>Le Pouvoir de la Technique :</French>
+		<German>Die Macht der Technik:</German>
+		<Italian>Il potere della tecnica:</Italian>
+		<Spanish>El poder de la técnica:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_GER2</Tag>
+		<Russian>&#209; &#238;&#242;&#234;&#240;&#251;&#242;&#232;&#229;&#236; &#232;&#237;&#228;&#243;&#241;&#242;&#240;&#232;&#224;&#235;&#232;&#231;&#224;&#246;&#232;&#232; &#239;&#238;&#255;&#226;&#235;&#255;&#254;&#242;&#241;&#255; &#225;&#229;&#241;&#239;&#235;&#224;&#242;&#237;&#251;&#229; &#234;&#226;&#224;&#235;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#232; &#254;&#237;&#232;&#242;&#238;&#226;</Russian>
+		<English>Free unit upgrades after the discovery of Industrialism</English>
+		<French>Les unités gratuites s'améliorent après la découverte de l'Industrialisation</French>
+		<German>Freie Einheitenbeförderungen nach der Erforschung der Industrialisierung</German>
+		<Italian>Aggiornamenti gratuiti per le unità dopo la scoperta dell'industrialismo</Italian>
+		<Spanish>Modernización de unidades gratuita tras el descubrimiento del Industrialismo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_RUS</Tag>
+		<Russian>&#204;&#238;&#240;&#238;&#231;&#251;:</Russian>
+		<English>The Power of General Winter:</English>
+		<French>Le Pouvoir du Général Hiver :</French>
+		<German>Die Macht von "General Winter":</German>
+		<Italian>Il potere del Generale Inverno:</Italian>
+		<Spanish>El poder del General Invierno:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_RUS2</Tag>
+		<Russian>&#205;&#224; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#232; &#208;&#238;&#241;&#241;&#232;&#232; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#229; &#254;&#237;&#232;&#242;&#251; &#234;&#224;&#230;&#228;&#251;&#233; &#245;&#238;&#228; &#239;&#238;&#235;&#243;&#247;&#224;&#254;&#242; &#243;&#240;&#238;&#237;</Russian>
+		<English>Enemy units in Russia take damage every turn</English>
+		<French>Les unités ennemies en Russie subissent des dommages à chaque tour</French>
+		<German>Schaden in jeder Runde für feindliche Einheiten in Russland</German>
+		<Italian>Le unità nemiche in Russia subiscono danni a ogni turno</Italian>
+		<Spanish>Las unidades enemigas en Rusia sufren daños cada turno</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_MAL</Tag>
+		<Russian>&#193;&#238;&#227;&#224;&#242;&#241;&#242;&#226;&#238;:</Russian>
+		<English>The Power of Wealth:</English>
+		<French>Le Pouvoir de la Richesse :</French>
+		<German>Die Macht des Wohlstands:</German>
+		<Italian>Il potere della ricchezza:</Italian>
+		<Spanish>El poder de la riqueza:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_MAL2</Tag>
+		<Russian>&#202;&#224;&#230;&#228;&#224;&#255; &#237;&#224;&#231;&#229;&#236;&#237;&#224;&#255; &#234;&#235;&#229;&#242;&#234;&#224; &#228;&#224;&#229;&#242; &#238;&#228;&#237;&#238; &#228;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#229; &#238;&#247;&#234;&#238; &#242;&#238;&#240;&#227;&#238;&#226;&#235;&#232;</Russian>
+		<English>+1 trade in every land plot</English>
+		<French>+1 commerce sur toutes les cases de terre</French>
+		<German>+1 Handel auf jedem Land-Geländefeld</German>
+		<Italian>+1 commercio in ogni casella di terra</Italian>
+		<Spanish>+1 intercambio en cada casilla de tierra</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_INC</Tag>
+		<Russian>&#210;&#229;&#240;&#240;&#224;&#241;&#251;:</Russian>
+		<English>The Power of Terraces:</English>
+		<French>Le Pouvoir des Terrasses :</French>
+		<German>Die Macht der Terrassen:</German>
+		<Italian>Il potere delle terrazze:</Italian>
+		<Spanish>El poder de las terrazas:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_INC2</Tag>
+		<Russian>&#195;&#238;&#240;&#237;&#251;&#229; &#234;&#235;&#229;&#242;&#234;&#232; &#228;&#224;&#254;&#242; &#228;&#226;&#229; &#229;&#228;&#232;&#237;&#232;&#246;&#251; &#239;&#232;&#249;&#232; &#232; &#238;&#228;&#237;&#243; &#229;&#228;&#232;&#237;&#232;&#246;&#243; &#239;&#240;&#238;&#232;&#231;&#226;&#238;&#228;&#241;&#242;&#226;&#224;</Russian>
+		<English>Mountains produce 2 food and 1 hammer</English>
+		<French>Les montagnes produisent 2 de nourriture et 1 marteau</French>
+		<German>Berge gewähren 2 Nahrung und 1 Hammer</German>
+		<Italian>Le montagne producono 2 cibo e 1 scudo</Italian>
+		<Spanish>Las montañas producen 2 alimentos y 1 martillo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_MON</Tag>
+		<Russian>&#206;&#240;&#228;&#224;:</Russian>
+		<English>The Power of the Horde:</English>
+		<French>Le Pouvoir de la Horde :</French>
+		<German>Die Macht der Horde:</German>
+		<Italian>Il potere dell'orda:</Italian>
+		<Spanish>El poder de la horda:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_MON2</Tag>
+		<Russian>&#207;&#238;&#241;&#235;&#229; &#240;&#224;&#231;&#240;&#243;&#248;&#229;&#237;&#232;&#255; &#227;&#238;&#240;&#238;&#228;&#224; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#224; &#241;&#238;&#241;&#229;&#228;&#237;&#232;&#229; &#226;&#240;&#224;&#230;&#229;&#241;&#234;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224; &#234;&#224;&#239;&#232;&#242;&#243;&#235;&#232;&#240;&#243;&#254;&#242; &#239;&#240;&#232; &#239;&#240;&#232;&#225;&#235;&#232;&#230;&#229;&#237;&#232;&#232;</Russian>
+		<English>Any razed city makes nearby enemy cities surrender if approached</English>
+		<French>Chaque ville rasée entraîne la reddition des villes ennemies voisines si elles sont approchées</French>
+		<German>Kapitulation umliegender feindlicher Städte durch jede zerstörte Stadt bei Annäherung</German>
+		<Italian>Ogni città distrutta fa sì che le città nemiche vicine si arrendano, se avvicinate</Italian>
+		<Spanish>Una ciudad arrasada provoca que las ciudades enemigas cercanas se rindan al aproximarse</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_AZT</Tag>
+		<Russian>&#198;&#229;&#240;&#242;&#226;&#238;&#239;&#240;&#232;&#237;&#238;&#248;&#229;&#237;&#232;&#255;:</Russian>
+		<English>The Power of Sacrifice:</English>
+		<French>Le Pouvoir du Sacrifice :</French>
+		<German>Die Macht der Opferung:</German>
+		<Italian>Il potere del sacrificio:</Italian>
+		<Spanish>El poder del sacrificio:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_AZT2</Tag>
+		<Russian>&#194;&#238;&#229;&#237;&#237;&#251;&#229; &#254;&#237;&#232;&#242;&#251; &#236;&#238;&#227;&#243;&#242; &#238;&#225;&#240;&#224;&#249;&#224;&#242;&#252; &#226; &#240;&#224;&#225;&#241;&#242;&#226;&#238; &#239;&#238;&#225;&#229;&#230;&#228;&#229;&#237;&#237;&#251;&#245;</Russian>
+		<English>Military units can enslave defeated enemy units</English>
+		<French>Les unités militaires peuvent asservir les unités ennemies vaincues</French>
+		<German>Versklavung besiegter feindlicher Einheiten durch Militäreinheiten</German>
+		<Italian>Le unità militari possono schiavizzare le unità nemiche sconfitte</Italian>
+		<Spanish>Las unidades militares pueden esclavizar a las unidades enemigas derrotadas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_AME</Tag>
+		<Russian>&#192;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#224;&#255; &#236;&#229;&#247;&#242;&#224;:</Russian>
+		<English>The Power of the American Dream:</English>
+		<French>Le Pouvoir du Rêve Américain :</French>
+		<German>Die Macht des Amerikanischen Traums:</German>
+		<Italian>Il potere del sogno americano:</Italian>
+		<Spanish>El poder del sueño americano:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_AME2</Tag>
+		<Russian>&#205;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#229; &#228;&#240;&#243;&#227;&#232;&#245; &#228;&#229;&#240;&#230;&#224;&#226; &#236;&#232;&#227;&#240;&#232;&#240;&#243;&#229;&#242; &#226; &#224;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224;</Russian>
+		<English>Population migrates from other civilizations to American cities</English>
+		<French>Les populations des autres civilisations migrent vers les villes américaines</French>
+		<German>Einwanderung der Bevölkerung anderer Zivilisationen in amerikanische Städte</German>
+		<Italian>La popolazione migra dalle altre civiltà nelle città americane</Italian>
+		<Spanish>La población emigra de otras civilizaciones a las ciudades estadounidenses</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_EMIGRATION</Tag>
+		<Russian>&#215;&#224;&#241;&#242;&#252; &#237;&#224;&#248;&#229;&#227;&#238; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#255; &#253;&#236;&#232;&#227;&#240;&#232;&#240;&#243;&#229;&#242; &#226; &#192;&#236;&#229;&#240;&#232;&#234;&#243;!</Russian>
+		<English>A part of our population is emigrating to America!</English>
+		<French>Une partie de notre population émigre en Amérique !</French>
+		<German>Ein Teil unserer Bevölkerung wandert nach Amerika aus!</German>
+		<Italian>Parte della nostra popolazione emigra in America!</Italian>
+		<Spanish>¡Parte de nuestra población está emigrando a Estados Unidos!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_IMMIGRATION</Tag>
+		<Russian>&#215;&#232;&#241;&#235;&#229;&#237;&#237;&#238;&#241;&#242;&#252; &#237;&#224;&#248;&#229;&#227;&#238; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#255; &#240;&#224;&#241;&#242;&#229;&#242; &#231;&#224; &#241;&#247;&#229;&#242; &#232;&#236;&#236;&#232;&#227;&#240;&#224;&#237;&#242;&#238;&#226; &#232;&#231; &#209;&#242;&#224;&#240;&#238;&#227;&#238; &#209;&#226;&#229;&#242;&#224;!</Russian>
+		<English>Our population is growing due to immigrants from the Old World!</English>
+		<French>Notre population augmente grâce aux immigrants du Vieux Monde !</French>
+		<German>Wir profitieren von einem Bevölkerungszuwachs durch Einwanderer aus der Alten Welt!</German>
+		<Italian>La nostra popolazione sta crescendo grazie agli immigranti dal vecchio mondo!</Italian>
+		<Spanish>¡Nuestra población está creciendo como consecuencia de la inmigración procedente del Viejo Mundo!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ENSLAVE_WIN</Tag>
+		<Russian>&#222;&#237;&#232;&#242; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#224; &#238;&#225;&#240;&#224;&#249;&#229;&#237; &#226; &#240;&#224;&#225;&#241;&#242;&#226;&#238;!</Russian>
+		<English>An enemy unit has been enslaved!</English>
+		<French>Une unité ennemie a été asservie !</French>
+		<German>Eine feindliche Einheit wurde versklavt!</German>
+		<Italian>Un'unità nemica è stata schiavizzata!</Italian>
+		<Spanish>¡Una unidad enemiga ha sido esclavizada!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_ENSLAVE_LOSE</Tag>
+		<Russian>&#194;&#224;&#248; &#254;&#237;&#232;&#242; &#238;&#225;&#240;&#224;&#249;&#229;&#237; &#226; &#240;&#224;&#225;&#241;&#242;&#226;&#238;!</Russian>
+		<English>Your unit has been enslaved!</English>
+		<French>Votre unité a été asservie !</French>
+		<German>Eure Einheit wurde versklavt!</German>
+		<Italian>La tua unità è stata schiavizzata!</Italian>
+		<Spanish>¡Tu unidad ha sido esclavizada!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_TERROR1</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#227;&#238;&#240;&#238;&#228;&#224;</Russian>
+		<English>Citizens of</English>
+		<French>Les citoyens de</French>
+		<German>Die Bürger von</German>
+		<Italian>I cittadini di</Italian>
+		<Spanish>Los ciudadanos de</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UP_TERROR2</Tag>
+		<Russian>&#237;&#229; &#245;&#238;&#242;&#255;&#242; &#239;&#238;&#226;&#242;&#238;&#240;&#232;&#242;&#252; &#241;&#243;&#228;&#252;&#225;&#243; &#241;&#226;&#238;&#232;&#245; &#241;&#238;&#241;&#229;&#228;&#229;&#233; &#232; &#234;&#224;&#239;&#232;&#242;&#243;&#235;&#232;&#240;&#243;&#254;&#242;!</Russian>
+		<English>fear the same fate of their neighbour inhabitants and surrender!</English>
+		<French>craignent de subir le même sort que leurs voisins et se rendent !</French>
+		<German>fürchten, dass sie dasselbe Schicksal ereilt wie ihre Nachbarn, und kapitulieren!</German>
+		<Italian>temono di subire lo stesso fato dei vicini e si arrendono!</Italian>
+		<Spanish>temen sufrir el mismo destino que sus vecinos y se rinden.</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PERSIA_DESC</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#251;</Russian>
+		<English>The Persians</English>
+		<French>
+			<Text>Les Perses</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Perser:Die Perser:den Persern</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>I Persiani</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Persas</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER00</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#239;&#224;&#240;&#241;&#232;</Russian>
+		<English>Parsi Peoples</English>
+		<French>
+			<Text>Peuplades Parsi</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Parsivölker:Parsivölker:Parsivölkern</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli Parsi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Parsi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER01</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Persian Empire</English>
+		<French>
+			<Text>Empire Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Persisches Reich:Persische Reich:Persischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Persiano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Persa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER02</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Persian Empire</English>
+		<French>
+			<Text>Empire Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Persisches Reich:Persische Reich:Persischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Persiano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Persa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER03</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#238;&#229; &#248;&#224;&#245;&#241;&#242;&#226;&#238;</Russian>
+		<English>Persian Shahdom</English>
+		<French>
+			<Text>Royaume Perse du Shah</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Schahtum Persien:Schahtum Persien:Schahtum Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Scialato Persiano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reino del Sah de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER04</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#238;&#229; &#248;&#224;&#245;&#241;&#242;&#226;&#238;</Russian>
+		<English>Persian Shahdom</English>
+		<French>
+			<Text>Royaume Perse du Shah</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Schahtum Persien:Schahtum Persien:Schahtum Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Scialato Persiano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reino del Sah de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER05</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<English>Republic of Persia</English>
+		<French>
+			<Text>République de Perse</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Republik Persien:Republik Persien:Republik Persien</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica di Persia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República de Persia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER06</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#224;&#255; &#209;&#238;&#246;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224;</Russian>
+		<English>Persian Socialist Republic</English>
+		<French>
+			<Text>République Socialiste Perse</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Persische Sozialistische Republik:Persische Sozialistische Republik:Persischen Sozialistischen Republik</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica Socialista Persiana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República Socialista Persa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER07</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Persian Empire</English>
+		<French>
+			<Text>Empire Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Persisches Reich:Persische Reich:Persischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Persiano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Persa</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER08</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#232;&#233; &#245;&#224;&#235;&#232;&#244;&#224;&#242;</Russian>
+		<English>Caliphate of Persia</English>
+		<French>
+			<Text>Califat de Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Kalifat Persien:Kalifat Persien:Kalifat Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Califfato di Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Califato de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER09</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#240;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<English>Islamic Republic of Persia</English>
+		<French>
+			<Text>République Islamique de Perse</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Republik Persien:Islamische Republik Persien:Islamischen Republik Persien</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica Islamica della Persia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República Islámica de la Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER10</Tag>
+		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#207;&#224;&#240;&#241;&#224;</Russian>
+		<English>Satrapy of Parsa</English>
+		<French>
+			<Text>Satrape de Parsa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Satrapie Parsa:Satrapie Parsa:Satrapie Parsa</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Satrapia di Parsa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Satrapía de Parsa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER11</Tag>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#207;&#224;&#240;&#244;&#232;&#255;</Russian>
+		<English>Province of Parthia</English>
+		<French>
+			<Text>Province de Parthia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Provinz Parthia:Provinz Parthia:Provinz Parthia</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Provincia di Partia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Provincia de Parthia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER12</Tag>
+		<Russian>&#213;&#224;&#235;&#232;&#244;&#224;&#242; &#212;&#224;&#240;&#241;&#232;</Russian>
+		<English>Caliphate of Fars</English>
+		<French>
+			<Text>Califat de Fars</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Kalifat Fars:Kalifat Fars:Kalifat Fars</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Califfato di Fars</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Califato de Fars</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER13</Tag>
+		<Russian>&#194;&#232;&#246;&#229;-&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<English>Viceroyalty of Persia</English>
+		<French>
+			<Text>Vice Royauté de Perse</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vizekönigreich Persien:Vizekönigreich Persien:Vizekönigreich Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Vicereame di Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Virreinato de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER14</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#239;&#238;&#228;&#236;&#224;&#237;&#228;&#224;&#242;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<English>French Mandate of Persia</English>
+		<French>
+			<Text>Mandat Français de Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französisches Mandat Persien:Französische Mandat Persien:Französischen Mandat Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Mandato Francese di Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mandato Francés de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER15</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#224;&#255; &#239;&#238;&#228;&#236;&#224;&#237;&#228;&#224;&#242;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<English>British Mandate of Persia</English>
+		<French>
+			<Text>Mandat Britannique de Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Britisches Mandat Persien:Britische Mandat Persien:Britischen Mandat Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Mandato Britannico di Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mandato Británico de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER16</Tag>
+		<Russian>&#205;&#229;&#236;&#229;&#246;&#234;&#224;&#255; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<English>German Persia</English>
+		<French>
+			<Text>Perse Allemande</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Deutsch-Persien:Deutsch-Persien:Deutsch-Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Persia Tedesca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Persia Alemana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER17</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#233; &#195;&#232;&#235;&#224;&#237;</Russian>
+		<English>Soviet Gilan</English>
+		<French>
+			<Text>Gilan Soviétique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sowjetrepublik Gilan:Sowjetrepublik Gilan:Sowjetrepublik Gilan</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Gilan Sovietico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Gilan Soviético</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER18</Tag>
+		<Russian>&#207;&#229;&#240;&#241;&#232;&#228;&#241;&#234;&#238;&#229; &#213;&#224;&#237;&#241;&#242;&#226;&#238;</Russian>
+		<English>Ilkhanate of Persia</English>
+		<French>
+			<Text>Ilkhanate de Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ilkhanat Persien:Ilkhanat Persien:Ilkhanat Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Ilkhanato di Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Iljanato de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER19</Tag>
+		<Russian>&#221;&#255;&#235;&#229;&#242; &#216;&#224;&#240;&#224;&#231;&#238;&#240;</Russian>
+		<English>Eyalet of Sharazor</English>
+		<French>
+			<Text>Eyalet de Sharazor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eyalet Shehrizor:Eyalet Shehrizor:Eyalet Shehrizor</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Eyalet di Sharazor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eyalet de Sharazor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER20</Tag>
+		<Russian>&#194;&#224;&#241;&#241;&#224;&#235;&#252;&#237;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#192;&#237;&#252;&#241;&#232;</Russian>
+		<English>Tributary Anxi State</English>
+		<French>
+			<Text>Etat Anxi Tributaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tributstaat Anxi:Tributstaat Anxi:Tributstaat Anxi</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Anxi Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Anxi Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_PER21</Tag>
+		<Russian>&#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#207;&#229;&#240;&#241;&#232;&#255;</Russian>
+		<English>Protectorate of Persia</English>
+		<French>
+			<Text>Protectorat de Perse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Protektorat Persien:Protektorat Persien:Protektorat Persien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Protettorato di Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Protectorado de Persia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

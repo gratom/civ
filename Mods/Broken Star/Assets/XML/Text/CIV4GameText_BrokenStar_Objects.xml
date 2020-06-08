@@ -1,0 +1,2825 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!--Please place any new text entries into this file-->
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BARBARIAN</Tag>
+		<Russian>&#207;&#238;&#228; &#239;&#240;&#229;&#228;&#226;&#238;&#228;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238;&#236; &#226;&#238;&#229;&#237;&#224;&#247;&#224;&#235;&#252;&#237;&#232;&#234;&#224;</Russian>
+		<English>Lead by Warlord</English>
+		<French>Dirigé par un seigneur de guerre</French>
+		<German>Angeführt von Kriegsherr</German>
+		<Italian>Condottiero al comando</Italian>
+		<Spanish>Bajo el liderato de un Caudillo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MIKHAIL_OBLONSKY</Tag>
+		<Russian>&#204;&#232;&#245;&#224;&#232;&#235; &#206;&#225;&#238;&#235;&#238;&#237;&#241;&#234;&#232;&#233;</Russian>
+		<English>Mikhail Oblonsky</English>
+		<French>Mikhail Oblonsky</French>
+		<German>
+			<Text>Mikhail Oblonsky</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Mikhail Oblonsky</Italian>
+		<Spanish>Mijail Oblonsky</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MATVEY_JABLONTSEV</Tag>
+		<Russian>&#204;&#224;&#242;&#226;&#229;&#233; &#223;&#225;&#235;&#238;&#237;&#246;&#229;&#226;</Russian>
+		<English>Matvey Jablontsev</English>
+		<French>Matvey Jablontsev</French>
+		<German>
+			<Text>Matvey Jablontsev</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Matvey Jablontsev</Italian>
+		<Spanish>Matvey Jablontsev</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_YURI_URAKOV</Tag>
+		<Russian>&#222;&#240;&#232;&#233; &#211;&#248;&#224;&#234;&#238;&#226;</Russian>
+		<English>Yuri Urakov</English>
+		<French>Yuri Urakov</French>
+		<German>
+			<Text>Yuri Urakov</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Yuri Urakov</Italian>
+		<Spanish>Yuri Urakov</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ZOYA_TABUNOVA</Tag>
+		<Russian>&#199;&#238;&#255; &#210;&#224;&#240;&#224;&#241;&#238;&#226;&#224;</Russian>
+		<English>Zoya Tabunova</English>
+		<French>Zoya Tabunova</French>
+		<German>
+			<Text>Zoya Tabunova</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Zoya Tabunova</Italian>
+		<Spanish>Zoya Tabunova</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_YULIYA_IBATOVA</Tag>
+		<Russian>&#222;&#235;&#232;&#255; &#200;&#226;&#224;&#237;&#238;&#226;&#224;</Russian>
+		<English>Yuliya Ibatova</English>
+		<French>Yuliya Ibatova</French>
+		<German>
+			<Text>Yuliya Ibatova</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Yuliya Ibatova</Italian>
+		<Spanish>Yuliya Ibatova</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DANIIL_KACHAROV</Tag>
+		<Russian>&#196;&#224;&#237;&#232;&#232;&#235; &#202;&#238;&#236;&#224;&#240;&#238;&#226;</Russian>
+		<English>Daniil Kacharov</English>
+		<French>Daniil Kacharov</French>
+		<German>
+			<Text>Daniil Kacharov</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Daniil Kacharov</Italian>
+		<Spanish>Daniil Kacharov</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NIKKOLAI_DOLBNYA</Tag>
+		<Russian>&#205;&#232;&#234;&#238;&#235;&#224;&#233; &#196;&#229;&#227;&#242;&#255;&#240;&#229;&#226;</Russian>
+		<English>Nikkolai Dolbnya</English>
+		<French>Nikkolai Dolbnya</French>
+		<German>
+			<Text>Nikkolai Dolbnya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Nikkolai Dolbnya</Italian>
+		<Spanish>Nikkolai Dolbnya</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_OKSANA_EDUNOVA</Tag>
+		<Russian>&#206;&#234;&#241;&#224;&#237;&#224; &#197;&#230;&#238;&#226;&#224;</Russian>
+		<English>Oksana Edunova</English>
+		<French>Oksana Edunova</French>
+		<German>
+			<Text>Oksana Edunova</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Oksana Edunova</Italian>
+		<Spanish>Oksana Edunova</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DUNCAN_WILLIAMS</Tag>
+		<Russian>&#195;&#229;&#237;&#229;&#240;&#224;&#235; &#234;&#238;&#224;&#235;&#232;&#246;&#232;&#232; (&#237;&#229;&#233;&#242;&#240;.)</Russian>
+		<English>Coalition General (Neutral)</English>
+		<French>Général de la coalition (Neutre)</French>
+		<German>Koalitionsgeneral (Neutral)</German>
+		<Italian>Generale della coalizione (neutrale)</Italian>
+		<Spanish>General de la coalición (neutral)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTH_CAUCASUS_DESC</Tag>
+		<Russian>&#209;&#229;&#226;&#229;&#240;&#238;-&#202;&#224;&#226;&#234;&#224;&#231;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>North Caucasus Military District</English>
+		<French>Région militaire du Nord-Caucase</French>
+		<German>
+			<Text>Militärbezirk Nordkaukasus:Militärbezirk Nordkaukasus:Militärbezirk Nordkaukasus</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Caucaso settentrionale</Italian>
+		<Spanish>Distrito del Cáucaso-Norte</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTH_CAUCASUS_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#202;&#224;&#226;&#234;&#224;&#231;&#224;</Russian>
+		<English>North Caucasus M.D.</English>
+		<French>Rég. mil. Nord-Caucase</French>
+		<German>
+			<Text>Nordkaukasus (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Caucaso settentrionale</Italian>
+		<Spanish>D.M. Cáucaso septentrional</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOSCOW_DESC</Tag>
+		<Russian>&#204;&#238;&#241;&#234;&#238;&#226;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Moscow Military District</English>
+		<French>Région militaire de Moscou</French>
+		<German>
+			<Text>Militärbezirk Moskau:Militärbezirk Moskau:Militärbezirk Moskau</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare di Mosca</Italian>
+		<Spanish>Distrito de Moscú</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOSCOW_SHORT_DESC</Tag>
+		<Russian>&#204;&#238;&#241;&#234;&#226;&#232;&#247;&#232;</Russian>
+		<English>Moscow M.D. </English>
+		<French>Rég. mil. de Moscou</French>
+		<German>
+			<Text>Moskau (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. di Mosca </Italian>
+		<Spanish>D.M. Moscú </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTHERN_DESC</Tag>
+		<Russian>&#203;&#229;&#237;&#232;&#237;&#227;&#240;&#224;&#228;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Northern Military District</English>
+		<French>Région militaire du Nord</French>
+		<German>
+			<Text>Militärbezirk Nord:Militärbezirk Nord:Militärbezirk Nord</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Nord</Italian>
+		<Spanish>Distrito del Norte</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTHERN_SHORT_DESC</Tag>
+		<Russian>&#207;&#229;&#242;&#229;&#240;&#225;&#243;&#240;&#230;&#246;&#251;</Russian>
+		<English>Northern M.D.</English>
+		<French>Rég. mil. du Nord</French>
+		<German>
+			<Text>Nord (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Nord</Italian>
+		<Spanish>D.M septentrional</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VOLGA_DESC</Tag>
+		<Russian>&#207;&#238;&#226;&#238;&#235;&#230;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Volga Military District</English>
+		<French>Région militaire de la Volga</French>
+		<German>
+			<Text>Militärbezirk Wolga:Militärbezirk Wolga:Militärbezirk Wolga</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Volga</Italian>
+		<Spanish>Distrito del Volga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VOLGA_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#207;&#238;&#226;&#238;&#235;&#230;&#252;&#255;</Russian>
+		<English>Volga M.D. </English>
+		<French>Rég. mil. de la Volga</French>
+		<German>
+			<Text>Wolga (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Volga </Italian>
+		<Spanish>D.M. Volga </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_URALS_DESC</Tag>
+		<Russian>&#207;&#240;&#232;&#243;&#240;&#224;&#235;&#252;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Urals Military District</English>
+		<French>Région militaire de l'Oural</French>
+		<German>
+			<Text>Militärbezirk Ural:Militärbezirk Ural:Militärbezirk Ural</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare degli Urali</Italian>
+		<Spanish>Distrito de los Urales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_URALS_SHORT_DESC</Tag>
+		<Russian>&#211;&#240;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<English>Urals M.D. </English>
+		<French>Rég. mil. de l'Oural</French>
+		<German>
+			<Text>Ural (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. degli Urali </Italian>
+		<Spanish>D.M. Urales </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIAN_DESC</Tag>
+		<Russian>&#209;&#232;&#225;&#232;&#240;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Siberian Military District</English>
+		<French>Région militaire de Sibérie</French>
+		<German>
+			<Text>Militärbezirk Sibirien:Militärbezirk Sibirien:Militärbezirk Sibirien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare della Siberia</Italian>
+		<Spanish>Distrito de Siberia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIAN_SHORT_DESC</Tag>
+		<Russian>&#209;&#232;&#225;&#232;&#240;&#255;&#234;&#232;</Russian>
+		<English>Siberian M.D. </English>
+		<French>Rég. mil. de Sibérie</French>
+		<German>
+			<Text>Sibirien (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. della Siberia </Italian>
+		<Spanish>D.M. Siberia </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BAIKALI_DESC</Tag>
+		<Russian>&#199;&#224;&#225;&#224;&#233;&#234;&#224;&#235;&#252;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Trans-Baikali Military District</English>
+		<French>Région militaire du Transbaïkal</French>
+		<German>
+			<Text>Militärbezirk Transbaikal:Militärbezirk Transbaikal:Militärbezirk Transbaikal</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Trans Baikal</Italian>
+		<Spanish>Distrito de Transbaikal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BAIKALI_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#199;&#224;&#225;&#224;&#233;&#234;&#224;&#235;&#252;&#255;</Russian>
+		<English>Trans-Baikali M.D.</English>
+		<French>Rég. mil. du Transbaïkal</French>
+		<German>
+			<Text>Transbaikal (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Trans Baikal</Italian>
+		<Spanish>D.M. Transbaikal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FAR_EAST_DESC</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#229;&#226;&#238;&#241;&#242;&#238;&#247;&#237;&#251;&#233; &#194;&#206;</Russian>
+		<English>Far East Military District</English>
+		<French>Région militaire d'Extrême-Orient</French>
+		<German>
+			<Text>Militärbezirk Fernost:Militärbezirk Fernost:Militärbezirk Fernost</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare dell'Estremo oriente</Italian>
+		<Spanish>Distrito del Lejano Oriente</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FAR_EAST_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#196;&#224;&#235;&#252;&#237;&#229;&#227;&#238; &#194;&#238;&#241;&#242;&#238;&#234;&#224;</Russian>
+		<English>Far East M.D.</English>
+		<French>Rég. mil. d'Extrême-Orient</French>
+		<German>
+			<Text>Fernost (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. dell'Estremo oriente</Italian>
+		<Spanish>D.M. Lejano Oriente</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COALITION_DESC</Tag>
+		<Russian>&#202;&#238;&#224;&#235;&#232;&#246;&#232;&#255; &#209;&#216;&#192; &#232; &#197;&#209; (&#237;&#229;&#233;&#242;&#240;. &#200;&#200;)</Russian>
+		<English>U.S. / E.U. Coalition Forces (NEUTRAL AI)</English>
+		<French>Forces de la coalition américano-européenne (IA NEUTRE)</French>
+		<German>
+			<Text>U.S./EU-Koalitionstruppenbezirk (NEUTRALE KI):U.S./EU-Koalitionstruppenbezirk (NEUTRALE KI):U.S./EU-Koalitionstruppenbezirk (NEUTRALE KI)</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Forze della coalizione USA/UE (IA NEUTRALE)</Italian>
+		<Spanish>Grupo de la coalición EE. UU./UE (IA neutral)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COALITION_SHORT_DESC</Tag>
+		<Russian>&#209;&#232;&#235;&#251; &#202;&#238;&#224;&#235;&#232;&#246;&#232;&#232;</Russian>
+		<English>Coalition</English>
+		<French>Coalition</French>
+		<German>
+			<Text>Koalitionsland</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Coalizione</Italian>
+		<Spanish>EE. UU/UE</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_COALITION_ADJECTIVE</Tag>
+		<Russian>&#238;&#225;&#250;&#229;&#228;&#232;&#237;&#229;&#237;&#237;&#251;&#229; &#241;&#232;&#235;&#251;</Russian>
+		<English>Coalition</English>
+		<French>de la coalition</French>
+		<German>
+			<Text>Koalitionstreu:koalitionstreuen:koalitionstreue</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>della coalizione</Italian>
+		<Spanish>de la Coalición</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BARBARIAN_DESC</Tag>
+		<Russian>&#207;&#238;&#226;&#241;&#242;&#224;&#237;&#247;&#229;&#241;&#234;&#224;&#255; &#224;&#240;&#236;&#232;&#255;</Russian>
+		<English>Rebel Forces</English>
+		<French>Forces rebelles</French>
+		<German>
+			<Text>Militärbezirk der Rebellentruppen:Militärbezirk der Rebellentruppen:Militärbezirk der Rebellentruppen</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Forze ribelli</Italian>
+		<Spanish>Grupo de Fuerzas rebeldes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BARBARIAN_SHORT_DESC</Tag>
+		<Russian>&#207;&#238;&#226;&#241;&#242;&#224;&#237;&#246;&#251;</Russian>
+		<English>Rebels</English>
+		<French>Rebelles</French>
+		<German>
+			<Text>Rebellenland</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Ribelli</Italian>
+		<Spanish>Unión Rebelde</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BARBARIAN_ADJECTIVE</Tag>
+		<Russian>&#239;&#238;&#226;&#241;&#242;&#224;&#237;&#246;&#251;</Russian>
+		<English>Rebel</English>
+		<French>rebelles</French>
+		<German>
+			<Text>Rebellentreu:rebellentreuen:rebellentreue</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>dei ribelli</Italian>
+		<Spanish>de los rebeldes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY1</Tag>
+		<Russian>&#195;&#240;&#224;&#237;&#224;&#242;&#238;&#236;&#229;&#242;&#247;&#232;&#234; I</Russian>
+		<English>Anti-Tank I</English>
+		<French>Antichar I</French>
+		<German>
+			<Text>Panzerabwehr I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Anticarro I</Italian>
+		<Spanish>Antitanque I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY2</Tag>
+		<Russian>&#195;&#240;&#224;&#237;&#224;&#242;&#238;&#236;&#229;&#242;&#247;&#232;&#234; II</Russian>
+		<English>Anti-Tank II</English>
+		<French>Antichar II</French>
+		<German>
+			<Text>Panzerabwehr II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Anticarro II</Italian>
+		<Spanish>Antitanque II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY3</Tag>
+		<Russian>&#195;&#240;&#224;&#237;&#224;&#242;&#238;&#236;&#229;&#242;&#247;&#232;&#234; III</Russian>
+		<English>Anti-Tank III</English>
+		<French>Antichar III</French>
+		<German>
+			<Text>Panzerabwehr III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Anticarro III</Italian>
+		<Spanish>Antitanque III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY4</Tag>
+		<Russian>&#195;&#240;&#224;&#237;&#224;&#242;&#238;&#236;&#229;&#242;&#247;&#232;&#234; IV</Russian>
+		<English>Anti-Tank IV</English>
+		<French>Antichar IV</French>
+		<German>
+			<Text>Panzerabwehr IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Anticarro IV</Italian>
+		<Spanish>Antitanque IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRANSPORT1</Tag>
+		<Russian>&#196;&#229;&#241;. &#234;&#238;&#240;&#224;&#225;&#235;&#252; I</Russian>
+		<English>Transport I</English>
+		<French>Transport I</French>
+		<German>
+			<Text>Transportschiff I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Trasporto I</Italian>
+		<Spanish>Transporte I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRANSPORT2</Tag>
+		<Russian>&#196;&#229;&#241;. &#234;&#238;&#240;&#224;&#225;&#235;&#252; II</Russian>
+		<English>Transport II</English>
+		<French>Transport II</French>
+		<German>
+			<Text>Transportschiff II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Trasporto II</Italian>
+		<Spanish>Transporte II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRANSPORT3</Tag>
+		<Russian>&#196;&#229;&#241;. &#234;&#238;&#240;&#224;&#225;&#235;&#252; III</Russian>
+		<English>Transport III</English>
+		<French>Transport III</French>
+		<German>
+			<Text>Transportschiff III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Trasporto III</Italian>
+		<Spanish>Transporte III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TRANSPORT4</Tag>
+		<Russian>&#196;&#229;&#241;. &#234;&#238;&#240;&#224;&#225;&#235;&#252; IV</Russian>
+		<English>Transport IV</English>
+		<French>Transport IV</French>
+		<German>
+			<Text>Transportschiff IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Trasporto IV</Italian>
+		<Spanish>Transporte IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER1</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; I</Russian>
+		<English>Paratrooper I</English>
+		<French>Parachutiste I</French>
+		<German>
+			<Text>Fallschirmjäger I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista I</Italian>
+		<Spanish>Paracaidista I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER2</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; II</Russian>
+		<English>Paratrooper II</English>
+		<French>Parachutiste II</French>
+		<German>
+			<Text>Fallschirmjäger II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista II</Italian>
+		<Spanish>Paracaidista II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER3</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; III</Russian>
+		<English>Paratrooper III</English>
+		<French>Parachutiste III</French>
+		<German>
+			<Text>Fallschirmjäger III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista III</Italian>
+		<Spanish>Paracaidista III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER4</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; IV</Russian>
+		<English>Paratrooper IV</English>
+		<French>Parachutiste IV</French>
+		<German>
+			<Text>Fallschirmjäger IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista IV</Italian>
+		<Spanish>Paracaidista IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY1</Tag>
+		<Russian>&#192;&#240;&#242;. &#240;&#224;&#241;&#247;&#229;&#242; I</Russian>
+		<English>Artillery I</English>
+		<French>Artillerie I</French>
+		<German>
+			<Text>Artillerie I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria I</Italian>
+		<Spanish>Artillería I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY2</Tag>
+		<Russian>&#192;&#240;&#242;. &#240;&#224;&#241;&#247;&#229;&#242; II</Russian>
+		<English>Artillery II</English>
+		<French>Artillerie II</French>
+		<German>
+			<Text>Artillerie II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria II</Italian>
+		<Spanish>Artillería II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY3</Tag>
+		<Russian>&#192;&#240;&#242;. &#240;&#224;&#241;&#247;&#229;&#242; III</Russian>
+		<English>Artillery III</English>
+		<French>Artillerie III</French>
+		<German>
+			<Text>Artillerie III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria III</Italian>
+		<Spanish>Artillería III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARTILLERY4</Tag>
+		<Russian>&#192;&#240;&#242;. &#240;&#224;&#241;&#247;&#229;&#242; IV</Russian>
+		<English>Artillery IV</English>
+		<French>Artillerie IV</French>
+		<German>
+			<Text>Artillerie IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria IV</Italian>
+		<Spanish>Artillería IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY1</Tag>
+		<Russian>&#209;&#192;&#211; I</Russian>
+		<English>Mobile Artillery I</English>
+		<French>Artillerie mobile I</French>
+		<German>
+			<Text>Mobile Artillerie I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria mobile I</Italian>
+		<Spanish>Pieza de artillería autopropulsada I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY2</Tag>
+		<Russian>&#209;&#192;&#211; II</Russian>
+		<English>Mobile Artillery II</English>
+		<French>Artillerie mobile II</French>
+		<German>
+			<Text>Mobile Artillerie II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria mobile II</Italian>
+		<Spanish>Pieza de artillería autopropulsada II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY3</Tag>
+		<Russian>&#209;&#192;&#211; III</Russian>
+		<English>Mobile Artillery III</English>
+		<French>Artillerie mobile III</French>
+		<German>
+			<Text>Mobile Artillerie III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria mobile III</Italian>
+		<Spanish>Pieza de artillería autopropulsada III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY4</Tag>
+		<Russian>&#209;&#192;&#211; IV</Russian>
+		<English>Mobile Artillery IV</English>
+		<French>Artillerie mobile IV</French>
+		<German>
+			<Text>Mobile Artillerie IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Artiglieria mobile IV</Italian>
+		<Spanish>Pieza de artillería autopropulsada IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE1</Tag>
+		<Russian>&#211;&#228;. &#239;&#238;&#228;&#226;. &#235;&#238;&#228;&#234;&#224; I</Russian>
+		<English>Attack Submarine I</English>
+		<French>Sous-marin d'attaque I</French>
+		<German>
+			<Text>Angriffs-U-Boot I</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino d'attacco I</Italian>
+		<Spanish>Cazasubmarinos I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE2</Tag>
+		<Russian>&#211;&#228;. &#239;&#238;&#228;&#226;. &#235;&#238;&#228;&#234;&#224; II</Russian>
+		<English>Attack Submarine II</English>
+		<French>Sous-marin d'attaque II</French>
+		<German>
+			<Text>Angriffs-U-Boot II</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino d'attacco II</Italian>
+		<Spanish>Cazasubmarinos II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE3</Tag>
+		<Russian>&#211;&#228;. &#239;&#238;&#228;&#226;. &#235;&#238;&#228;&#234;&#224; III</Russian>
+		<English>Attack Submarine III</English>
+		<French>Sous-marin d'attaque III</French>
+		<German>
+			<Text>Angriffs-U-Boot III</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino d'attacco III</Italian>
+		<Spanish>Cazasubmarinos III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE4</Tag>
+		<Russian>&#211;&#228;. &#239;&#238;&#228;&#226;. &#235;&#238;&#228;&#234;&#224; IV</Russian>
+		<English>Attack Submarine IV</English>
+		<French>Sous-marin d'attaque IV</French>
+		<German>
+			<Text>Angriffs-U-Boot IV</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino d'attacco IV</Italian>
+		<Spanish>Cazasubmarinos IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER1</Tag>
+		<Russian>&#192;&#226;&#232;&#224;&#237;&#238;&#241;&#229;&#246; I</Russian>
+		<English>Carrier I</English>
+		<French>Porte-avions I</French>
+		<German>
+			<Text>Flugzeugträger I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Portaerei I</Italian>
+		<Spanish>Portaaviones I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER2</Tag>
+		<Russian>&#192;&#226;&#232;&#224;&#237;&#238;&#241;&#229;&#246; II</Russian>
+		<English>Carrier II</English>
+		<French>Porte-avions II</French>
+		<German>
+			<Text>Flugzeugträger II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Portaerei II</Italian>
+		<Spanish>Portaaviones II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER3</Tag>
+		<Russian>&#192;&#226;&#232;&#224;&#237;&#238;&#241;&#229;&#246; III</Russian>
+		<English>Carrier III</English>
+		<French>Porte-avions III</French>
+		<German>
+			<Text>Flugzeugträger III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Portaerei III</Italian>
+		<Spanish>Portaaviones III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CARRIER4</Tag>
+		<Russian>&#192;&#226;&#232;&#224;&#237;&#238;&#241;&#229;&#246; IV</Russian>
+		<English>Carrier IV</English>
+		<French>Porte-avions IV</French>
+		<German>
+			<Text>Flugzeugträger IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Portaerei IV</Italian>
+		<Spanish>Portaaviones IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER1</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; I</Russian>
+		<English>Destroyer I</English>
+		<French>Destroyer I</French>
+		<German>
+			<Text>Zerstörer I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere I</Italian>
+		<Spanish>Destructor I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER2</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; II</Russian>
+		<English>Destroyer II</English>
+		<French>Destroyer II</French>
+		<German>
+			<Text>Zerstörer II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere II</Italian>
+		<Spanish>Destructor II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER3</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; III</Russian>
+		<English>Destroyer III</English>
+		<French>Destroyer III</French>
+		<German>
+			<Text>Zerstörer III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere III</Italian>
+		<Spanish>Destructor III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DESTROYER4</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; IV</Russian>
+		<English>Destroyer IV</English>
+		<French>Destroyer IV</French>
+		<German>
+			<Text>Zerstörer IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere IV</Italian>
+		<Spanish>Destructor IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNSHIP1</Tag>
+		<Russian>&#194;&#229;&#240;&#242;&#238;&#235;&#229;&#242; I</Russian>
+		<English>Gunship I</English>
+		<French>Hélicoptère de combat I</French>
+		<German>
+			<Text>Kampfhubschrauber I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Elicottero da guerra I</Italian>
+		<Spanish>Helicóptero de combate I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNSHIP2</Tag>
+		<Russian>&#194;&#229;&#240;&#242;&#238;&#235;&#229;&#242; II</Russian>
+		<English>Gunship II</English>
+		<French>Hélicoptère de combat II</French>
+		<German>
+			<Text>Kampfhubschrauber II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Elicottero da guerra II</Italian>
+		<Spanish>Helicóptero de combate II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNSHIP3</Tag>
+		<Russian>&#194;&#229;&#240;&#242;&#238;&#235;&#229;&#242; III</Russian>
+		<English>Gunship III</English>
+		<French>Hélicoptère de combat III</French>
+		<German>
+			<Text>Kampfhubschrauber III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Elicottero da guerra III</Italian>
+		<Spanish>Helicóptero de combate III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUNSHIP4</Tag>
+		<Russian>&#194;&#229;&#240;&#242;&#238;&#235;&#229;&#242; IV</Russian>
+		<English>Gunship IV</English>
+		<French>Hélicoptère de combat IV</French>
+		<German>
+			<Text>Kampfhubschrauber IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Elicottero da guerra IV</Italian>
+		<Spanish>Helicóptero de combate IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER1</Tag>
+		<Russian>&#200;&#241;&#242;&#240;&#229;&#225;&#232;&#242;&#229;&#235;&#252; I</Russian>
+		<English>Jet Fighter I</English>
+		<French>Chasseur à réaction I</French>
+		<German>
+			<Text>Düsenjäger I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Jet da combattimento I</Italian>
+		<Spanish>Caza a reacción I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER2</Tag>
+		<Russian>&#200;&#241;&#242;&#240;&#229;&#225;&#232;&#242;&#229;&#235;&#252; II</Russian>
+		<English>Jet Fighter II</English>
+		<French>Chasseur à réaction II</French>
+		<German>
+			<Text>Düsenjäger II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Jet da combattimento II</Italian>
+		<Spanish>Caza a reacción II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER3</Tag>
+		<Russian>&#200;&#241;&#242;&#240;&#229;&#225;&#232;&#242;&#229;&#235;&#252; III</Russian>
+		<English>Jet Fighter III</English>
+		<French>Chasseur à réaction III</French>
+		<German>
+			<Text>Düsenjäger III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Jet da combattimento III</Italian>
+		<Spanish>Caza a reacción III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JET_FIGHTER4</Tag>
+		<Russian>&#200;&#241;&#242;&#240;&#229;&#225;&#232;&#242;&#229;&#235;&#252; IV</Russian>
+		<English>Jet Fighter IV</English>
+		<French>Chasseur à réaction IV</French>
+		<German>
+			<Text>Düsenjäger IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Jet da combattimento IV</Italian>
+		<Spanish>Caza a reacción IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN1</Tag>
+		<Russian>&#207;&#243;&#235;&#229;&#236;&#229;&#242;&#247;&#232;&#234; I</Russian>
+		<English>Machine Gun I</English>
+		<French>Mitrailleuse I</French>
+		<German>
+			<Text>Maschinengewehr I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Mitragliatore I</Italian>
+		<Spanish>Ametralladora I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN2</Tag>
+		<Russian>&#207;&#243;&#235;&#229;&#236;&#229;&#242;&#247;&#232;&#234; II</Russian>
+		<English>Machine Gun II</English>
+		<French>Mitrailleuse II</French>
+		<German>
+			<Text>Maschinengewehr II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Mitragliatore II</Italian>
+		<Spanish>Ametralladora II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN3</Tag>
+		<Russian>&#207;&#243;&#235;&#229;&#236;&#229;&#242;&#247;&#232;&#234; III</Russian>
+		<English>Machine Gun III</English>
+		<French>Mitrailleuse III</French>
+		<German>
+			<Text>Maschinengewehr III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Mitragliatore III</Italian>
+		<Spanish>Ametralladora III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MACHINE_GUN4</Tag>
+		<Russian>&#207;&#243;&#235;&#229;&#236;&#229;&#242;&#247;&#232;&#234; IV</Russian>
+		<English>Machine Gun IV</English>
+		<French>Mitrailleuse IV</French>
+		<German>
+			<Text>Maschinengewehr IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Mitragliatore IV</Italian>
+		<Spanish>Ametralladora IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE1</Tag>
+		<Russian>&#204;&#238;&#240;&#239;&#229;&#245; I</Russian>
+		<English>Marine I</English>
+		<French>Marine I</French>
+		<German>
+			<Text>Marine I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marine I</Italian>
+		<Spanish>Marine I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE2</Tag>
+		<Russian>&#204;&#238;&#240;&#239;&#229;&#245; II</Russian>
+		<English>Marine II</English>
+		<French>Marine II</French>
+		<German>
+			<Text>Marine II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marine II</Italian>
+		<Spanish>Marine II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE3</Tag>
+		<Russian>&#204;&#238;&#240;&#239;&#229;&#245; III</Russian>
+		<English>Marine III</English>
+		<French>Marine III</French>
+		<German>
+			<Text>Marine III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marine III</Italian>
+		<Spanish>Marine III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MARINE4</Tag>
+		<Russian>&#204;&#238;&#240;&#239;&#229;&#245; IV</Russian>
+		<English>Marine IV</English>
+		<French>Marine IV</French>
+		<German>
+			<Text>Marine IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marine IV</Italian>
+		<Spanish>Marine IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY1</Tag>
+		<Russian>&#193;&#204;&#207; I</Russian>
+		<English>Mechanized Infantry I</English>
+		<French>Infanterie mécanisée I</French>
+		<German>
+			<Text>Mechanisierte Infanterie I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria meccanizzata I</Italian>
+		<Spanish>Infantería mecanizada I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY2</Tag>
+		<Russian>&#193;&#204;&#207; II</Russian>
+		<English>Mechanized Infantry II</English>
+		<French>Infanterie mécanisée II</French>
+		<German>
+			<Text>Mechanisierte Infanterie II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria meccanizzata II</Italian>
+		<Spanish>Infantería mecanizada II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY3</Tag>
+		<Russian>&#193;&#204;&#207; III</Russian>
+		<English>Mechanized Infantry III</English>
+		<French>Infanterie mécanisée III</French>
+		<German>
+			<Text>Mechanisierte Infanterie III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria meccanizzata III</Italian>
+		<Spanish>Infantería mecanizada III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MECHANIZED_INFANTRY4</Tag>
+		<Russian>&#193;&#204;&#207; IV</Russian>
+		<English>Mechanized Infantry IV</English>
+		<French>Infanterie mécanisée IV</French>
+		<German>
+			<Text>Mechanisierte Infanterie IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria meccanizzata IV</Italian>
+		<Spanish>Infantería mecanizada IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_SAM1</Tag>
+		<Russian>&#199;&#208;&#202; I</Russian>
+		<English>Mobile SAM I</English>
+		<French>DCA mobile I</French>
+		<German>
+			<Text>Mobile Boden-Luft-Rakete I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>SAM mobile I</Italian>
+		<Spanish>Misil tierra-aire móvil I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_SAM2</Tag>
+		<Russian>&#199;&#208;&#202; II</Russian>
+		<English>Mobile SAM II</English>
+		<French>DCA mobile II</French>
+		<German>
+			<Text>Mobile Boden-Luft-Rakete II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>SAM mobile II</Italian>
+		<Spanish>Misil tierra-aire móvil II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_SAM3</Tag>
+		<Russian>&#199;&#208;&#202; III</Russian>
+		<English>Mobile SAM III</English>
+		<French>DCA mobile III</French>
+		<German>
+			<Text>Mobile Boden-Luft-Rakete III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>SAM mobile III</Italian>
+		<Spanish>Misil tierra-aire móvil III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_SAM4</Tag>
+		<Russian>&#199;&#208;&#202; IV</Russian>
+		<English>Mobile SAM IV</English>
+		<French>DCA mobile IV</French>
+		<German>
+			<Text>Mobile Boden-Luft-Rakete IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>SAM mobile IV</Italian>
+		<Spanish>Misil tierra-aire móvil IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SAM_INFANTRY1</Tag>
+		<Russian>&#209;&#238;&#235;&#228;&#224;&#242; &#241; &#207;&#199;&#208;&#202; I</Russian>
+		<English>SAM Infantry I</English>
+		<French>Infanterie AA I</French>
+		<German>
+			<Text>SAM-Infanterie I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria con missili terra-aria I</Italian>
+		<Spanish>Infantería con misiles tierra-aire I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SAM_INFANTRY2</Tag>
+		<Russian>&#209;&#238;&#235;&#228;&#224;&#242; &#241; &#207;&#199;&#208;&#202; II</Russian>
+		<English>SAM Infantry II</English>
+		<French>Infanterie AA II</French>
+		<German>
+			<Text>SAM-Infanterie II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria con missili terra-aria II</Italian>
+		<Spanish>Infantería con misiles tierra-aire II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SAM_INFANTRY3</Tag>
+		<Russian>&#209;&#238;&#235;&#228;&#224;&#242; &#241; &#207;&#199;&#208;&#202; III</Russian>
+		<English>SAM Infantry III</English>
+		<French>Infanterie AA III</French>
+		<German>
+			<Text>SAM-Infanterie III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria con missili terra-aria III</Italian>
+		<Spanish>Infantería con misiles tierra-aire III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SAM_INFANTRY4</Tag>
+		<Russian>&#209;&#238;&#235;&#228;&#224;&#242; &#241; &#207;&#199;&#208;&#202; IV</Russian>
+		<English>SAM Infantry IV</English>
+		<French>Infanterie AA IV</French>
+		<German>
+			<Text>SAM-Infanterie IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria con missili terra-aria IV</Italian>
+		<Spanish>Infantería con misiles tierra-aire IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER1</Tag>
+		<Russian>&#193;&#238;&#236;&#225;&#224;&#240;&#228;&#232;&#240;&#238;&#226;&#249;&#232;&#234; "&#209;&#242;&#229;&#235;&#241;" I</Russian>
+		<English>Stealth Bomber I</English>
+		<French>Bombardier furtif I</French>
+		<German>
+			<Text>Tarnbomber I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bombardiere invisibile I</Italian>
+		<Spanish>Bombardero invisible I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER2</Tag>
+		<Russian>&#193;&#238;&#236;&#225;&#224;&#240;&#228;&#232;&#240;&#238;&#226;&#249;&#232;&#234; "&#209;&#242;&#229;&#235;&#241;" II</Russian>
+		<English>Stealth Bomber II</English>
+		<French>Bombardier furtif II</French>
+		<German>
+			<Text>Tarnbomber II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bombardiere invisibile II</Italian>
+		<Spanish>Bombardero invisible II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER3</Tag>
+		<Russian>&#193;&#238;&#236;&#225;&#224;&#240;&#228;&#232;&#240;&#238;&#226;&#249;&#232;&#234; "&#209;&#242;&#229;&#235;&#241;" III</Russian>
+		<English>Stealth Bomber III</English>
+		<French>Bombardier furtif III</French>
+		<German>
+			<Text>Tarnbomber III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bombardiere invisibile III</Italian>
+		<Spanish>Bombardero invisible III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_BOMBER4</Tag>
+		<Russian>&#193;&#238;&#236;&#225;&#224;&#240;&#228;&#232;&#240;&#238;&#226;&#249;&#232;&#234; "&#209;&#242;&#229;&#235;&#241;" IV</Russian>
+		<English>Stealth Bomber IV</English>
+		<French>Bombardier furtif IV</French>
+		<German>
+			<Text>Tarnbomber IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bombardiere invisibile IV</Italian>
+		<Spanish>Bombardero invisible IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE1</Tag>
+		<Russian>&#207;&#238;&#228;&#226;&#238;&#228;&#237;&#224;&#255; &#235;&#238;&#228;&#234;&#224; I</Russian>
+		<English>Submarine I</English>
+		<French>Sous-marin I</French>
+		<German>
+			<Text>U-Boot I</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino I</Italian>
+		<Spanish>Submarino I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE2</Tag>
+		<Russian>&#207;&#238;&#228;&#226;&#238;&#228;&#237;&#224;&#255; &#235;&#238;&#228;&#234;&#224; II</Russian>
+		<English>Submarine II</English>
+		<French>Sous-marin II</French>
+		<German>
+			<Text>U-Boot II</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino II</Italian>
+		<Spanish>Submarino II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE3</Tag>
+		<Russian>&#207;&#238;&#228;&#226;&#238;&#228;&#237;&#224;&#255; &#235;&#238;&#228;&#234;&#224; III</Russian>
+		<English>Submarine III</English>
+		<French>Sous-marin III</French>
+		<German>
+			<Text>U-Boot III</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino III</Italian>
+		<Spanish>Submarino III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUBMARINE4</Tag>
+		<Russian>&#207;&#238;&#228;&#226;&#238;&#228;&#237;&#224;&#255; &#235;&#238;&#228;&#234;&#224; IV</Russian>
+		<English>Submarine IV</English>
+		<French>Sous-marin IV</French>
+		<German>
+			<Text>U-Boot IV</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Sottomarino IV</Italian>
+		<Spanish>Submarino IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR1</Tag>
+		<Russian>&#209;&#238;&#226;&#240;. &#242;&#224;&#237;&#234; I</Russian>
+		<English>Modern Armor I</English>
+		<French>Blindé moderne I</French>
+		<German>
+			<Text>Kampfpanzerung I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Unità corazzata I</Italian>
+		<Spanish>Blindado moderno I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR2</Tag>
+		<Russian>&#209;&#238;&#226;&#240;. &#242;&#224;&#237;&#234; II</Russian>
+		<English>Modern Armor II</English>
+		<French>Blindé moderne II</French>
+		<German>
+			<Text>Kampfpanzerung II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Unità corazzata II</Italian>
+		<Spanish>Blindado moderno II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR3</Tag>
+		<Russian>&#209;&#238;&#226;&#240;. &#242;&#224;&#237;&#234; III</Russian>
+		<English>Modern Armor III</English>
+		<French>Blindé moderne III</French>
+		<German>
+			<Text>Kampfpanzerung III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Unità corazzata III</Italian>
+		<Spanish>Blindado moderno III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MODERN_ARMOR4</Tag>
+		<Russian>&#209;&#238;&#226;&#240;. &#242;&#224;&#237;&#234; IV</Russian>
+		<English>Modern Armor IV</English>
+		<French>Blindé moderne IV</French>
+		<German>
+			<Text>Kampfpanzerung IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Unità corazzata IV</Italian>
+		<Spanish>Blindado moderno IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY1</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#232;&#237;&#229;&#246; I</Russian>
+		<English>Infantry I</English>
+		<French>Infanterie I</French>
+		<German>
+			<Text>Infanterie I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria I</Italian>
+		<Spanish>Infantería I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY2</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#232;&#237;&#229;&#246; II</Russian>
+		<English>Infantry II</English>
+		<French>Infanterie II</French>
+		<German>
+			<Text>Infanterie II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria II</Italian>
+		<Spanish>Infantería II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY3</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#232;&#237;&#229;&#246; III</Russian>
+		<English>Infantry III</English>
+		<French>Infanterie III</French>
+		<German>
+			<Text>Infanterie III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria III</Italian>
+		<Spanish>Infantería III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INFANTRY4</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#232;&#237;&#229;&#246; IV</Russian>
+		<English>Infantry IV</English>
+		<French>Infanterie IV</French>
+		<German>
+			<Text>Infanterie IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria IV</Italian>
+		<Spanish>Infantería IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_AIR1</Tag>
+		<Russian>&#194;&#194;&#209; I</Russian>
+		<English>Air I</English>
+		<French>Aviation I</French>
+		<German>
+			<Text>Luft I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Aereo I</Italian>
+		<Spanish>Unidades aéreas I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFANTRY1</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#224; I</Russian>
+		<English>Infantry I</English>
+		<French>Infanterie I</French>
+		<German>
+			<Text>Infanterie I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria I</Italian>
+		<Spanish>Infantería I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMOR1</Tag>
+		<Russian>&#193;&#240;&#238;&#237;&#229;&#242;&#229;&#245;&#237;&#232;&#234;&#224; I</Russian>
+		<English>Armor I</English>
+		<French>Blindé I</French>
+		<German>
+			<Text>Panzerung I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Corazza I</Italian>
+		<Spanish>Unidades blindadas I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NAVY1</Tag>
+		<Russian>&#194;&#204;&#212; I</Russian>
+		<English>Navy I</English>
+		<French>Marine I</French>
+		<German>
+			<Text>Marine I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marina I</Italian>
+		<Spanish>Unidades navales I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_AIR2</Tag>
+		<Russian>&#194;&#194;&#209; II</Russian>
+		<English>Air II</English>
+		<French>Aviation II</French>
+		<German>
+			<Text>Luft II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Aereo II</Italian>
+		<Spanish>Unidades aéreas II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFANTRY2</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#224; II</Russian>
+		<English>Infantry II</English>
+		<French>Infanterie II</French>
+		<German>
+			<Text>Infanterie II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria II</Italian>
+		<Spanish>Infantería II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMOR2</Tag>
+		<Russian>&#193;&#240;&#238;&#237;&#229;&#242;&#229;&#245;&#237;&#232;&#234;&#224; II</Russian>
+		<English>Armor II</English>
+		<French>Blindé II</French>
+		<German>
+			<Text>Panzerung II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Corazza II</Italian>
+		<Spanish>Unidades blindadas II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NAVY2</Tag>
+		<Russian>&#194;&#204;&#212; II</Russian>
+		<English>Navy II</English>
+		<French>Marine II</French>
+		<German>
+			<Text>Marine II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marina II</Italian>
+		<Spanish>Unidades navales II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_AIR3</Tag>
+		<Russian>&#194;&#194;&#209; III</Russian>
+		<English>Air III</English>
+		<French>Aviation III</French>
+		<German>
+			<Text>Luft III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Aereo III</Italian>
+		<Spanish>Unidades aéreas III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFANTRY3</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#224; III</Russian>
+		<English>Infantry III</English>
+		<French>Infanterie III</French>
+		<German>
+			<Text>Infanterie III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria III</Italian>
+		<Spanish>Infantería III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMOR3</Tag>
+		<Russian>&#193;&#240;&#238;&#237;&#229;&#242;&#229;&#245;&#237;&#232;&#234;&#224; III</Russian>
+		<English>Armor III</English>
+		<French>Blindé III</French>
+		<German>
+			<Text>Panzerung III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Corazza III</Italian>
+		<Spanish>Unidades blindadas III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NAVY3</Tag>
+		<Russian>&#194;&#204;&#212; III</Russian>
+		<English>Navy III</English>
+		<French>Marine III</French>
+		<German>
+			<Text>Marine III</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marina III</Italian>
+		<Spanish>Unidades navales III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_AIR4</Tag>
+		<Russian>&#194;&#194;&#209; IV</Russian>
+		<English>Air IV</English>
+		<French>Aviation IV</French>
+		<German>
+			<Text>Luft IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Aereo IV</Italian>
+		<Spanish>Unidades aéreas IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFANTRY4</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#224; IV</Russian>
+		<English>Infantry IV</English>
+		<French>Infanterie IV</French>
+		<German>
+			<Text>Infanterie IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria IV</Italian>
+		<Spanish>Infantería IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARMOR4</Tag>
+		<Russian>&#193;&#240;&#238;&#237;&#229;&#242;&#229;&#245;&#237;&#232;&#234;&#224; IV</Russian>
+		<English>Armor IV</English>
+		<French>Blindé IV</French>
+		<German>
+			<Text>Panzerung IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Corazza IV</Italian>
+		<Spanish>Unidades blindadas IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_NAVY4</Tag>
+		<Russian>&#194;&#204;&#212; IV</Russian>
+		<English>Navy IV</English>
+		<French>Marine IV</French>
+		<German>
+			<Text>Marine IV</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Marina IV</Italian>
+		<Spanish>Unidades navales IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTH_CAUCASUS_DESC</Tag>
+		<Russian>&#209;&#229;&#226;&#229;&#240;&#238;-&#202;&#224;&#226;&#234;&#224;&#231;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>North Caucasus Military District</English>
+		<French>Région militaire du Nord-Caucase</French>
+		<German>
+			<Text>Militärbezirk Nordkaukasus:Militärbezirk Nordkaukasus:Militärbezirk Nordkaukasus</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Caucaso settentrionale</Italian>
+		<Spanish>Distrito militar del Cáucaso Septentrional</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTH_CAUCASUS_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#202;&#224;&#226;&#234;&#224;&#231;&#224;</Russian>
+		<English>North Caucasus M.D.</English>
+		<French>Rég. mil. du Nord-Caucase</French>
+		<German>
+			<Text>Nordkaukasus (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Caucaso settentrionale</Italian>
+		<Spanish>D.M. Cáucaso septentrional</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTH_CAUCASUS_ADJECTIVE</Tag>
+		<Russian>&#230;&#232;&#242;&#229;&#235;&#232; &#202;&#224;&#226;&#234;&#224;&#231;&#224;</Russian>
+		<English>Russian</English>
+		<French>russes</French>
+		<German>
+			<Text>Russisch:russischen:russische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Russo</Italian>
+		<Spanish>de Rusia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOSCOW_DESC</Tag>
+		<Russian>&#204;&#238;&#241;&#234;&#238;&#226;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Moscow Military District</English>
+		<French>Région militaire de Moscou</French>
+		<German>
+			<Text>Militärbezirk Moskau:Militärbezirk Moskau:Militärbezirk Moskau</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare di Mosca</Italian>
+		<Spanish>Distrito militar de Moscú</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOSCOW_SHORT_DESC</Tag>
+		<Russian>&#204;&#238;&#241;&#234;&#226;&#232;&#247;&#232;</Russian>
+		<English>Moscow M.D.</English>
+		<French>Rég. mil. de Moscou</French>
+		<German>
+			<Text>Moskau (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. di Mosca</Italian>
+		<Spanish>D.M. Moscú</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTHERN_DESC</Tag>
+		<Russian>&#203;&#229;&#237;&#232;&#237;&#227;&#240;&#224;&#228;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Northern Military District</English>
+		<French>Région militaire du Nord</French>
+		<German>
+			<Text>Militärbezirk Nord:Militärbezirk Nord:Militärbezirk Nord</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Nord</Italian>
+		<Spanish>Distrito militar septentrional</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTHERN_SHORT_DESC</Tag>
+		<Russian>&#207;&#229;&#242;&#229;&#240;&#225;&#243;&#240;&#230;&#246;&#251;</Russian>
+		<English>Northern M.D.</English>
+		<French>Rég. mil. du Nord</French>
+		<German>
+			<Text>Nord (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Nord</Italian>
+		<Spanish>D.M septentrional</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VOLGA_DESC</Tag>
+		<Russian>&#207;&#238;&#226;&#238;&#235;&#230;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Volga Military District</English>
+		<French>Région militaire de la Volga</French>
+		<German>
+			<Text>Militärbezirk Wolga:Militärbezirk Wolga:Militärbezirk Wolga</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Volga</Italian>
+		<Spanish>Distrito militar del Volga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VOLGA_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#207;&#238;&#226;&#238;&#235;&#230;&#252;&#255;</Russian>
+		<English>Volga M.D.</English>
+		<French>Rég. mil. de la Volga</French>
+		<German>
+			<Text>Wolga (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Volga</Italian>
+		<Spanish>D.M. Volga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_URALS_DESC</Tag>
+		<Russian>&#207;&#240;&#232;&#243;&#240;&#224;&#235;&#252;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Ural Military District</English>
+		<French>Région militaire de l'Oural</French>
+		<German>
+			<Text>Militärbezirk Ural:Militärbezirk Ural:Militärbezirk Ural</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare degli Urali</Italian>
+		<Spanish>Distrito militar de los Urales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_URALS_SHORT_DESC</Tag>
+		<Russian>&#211;&#240;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<English>Ural M.D.</English>
+		<French>Rég. mil. de l'Oural</French>
+		<German>
+			<Text>Ural (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. degli Urali</Italian>
+		<Spanish>D.M. Urales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIAN_DESC</Tag>
+		<Russian>&#209;&#232;&#225;&#232;&#240;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Siberian Military District</English>
+		<French>Région militaire de Sibérie</French>
+		<German>
+			<Text>Militärbezirk Sibirien:Militärbezirk Sibirien:Militärbezirk Sibirien</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare della Siberia</Italian>
+		<Spanish>Distrito militar de Siberia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIAN_SHORT_DESC</Tag>
+		<Russian>&#209;&#232;&#225;&#232;&#240;&#255;&#234;&#232;</Russian>
+		<English>Siberian M.D.</English>
+		<French>Rég. mil. de Sibérie</French>
+		<German>
+			<Text>Sibirien (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. della Siberia</Italian>
+		<Spanish>D.M. Siberia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BAIKALI_DESC</Tag>
+		<Russian>&#199;&#224;&#225;&#224;&#233;&#234;&#224;&#235;&#252;&#241;&#234;&#232;&#233; &#194;&#206;</Russian>
+		<English>Trans Baikali Military District</English>
+		<French>Région militaire du Transbaïkal</French>
+		<German>
+			<Text>Militärbezirk Transbaikal:Militärbezirk Transbaikal:Militärbezirk Transbaikal</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare del Trans Baikal</Italian>
+		<Spanish>Distrito militar de Transbaikal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BAIKALI_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#199;&#224;&#225;&#224;&#233;&#234;&#224;&#235;&#252;&#255;</Russian>
+		<English>Trans Baikali M.D.</English>
+		<French>Rég. mil. du Transbaïkal</French>
+		<German>
+			<Text>Transbaikal (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. del Trans Baikal</Italian>
+		<Spanish>D.M. Transbaikal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FAR_EAST_DESC</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#229;&#226;&#238;&#241;&#242;&#238;&#247;&#237;&#251;&#233; &#194;&#206;</Russian>
+		<English>Far East Military District</English>
+		<French>Région militaire d'Extrême-Orient</French>
+		<German>
+			<Text>Militärbezirk Fernost:Militärbezirk Fernost:Militärbezirk Fernost</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>Distretto militare dell'Estremo oriente</Italian>
+		<Spanish>Distrito militar del Lejano Oriente</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FAR_EAST_SHORT_DESC</Tag>
+		<Russian>&#198;&#232;&#242;&#229;&#235;&#232; &#196;&#224;&#235;&#252;&#237;&#229;&#227;&#238; &#194;&#238;&#241;&#242;&#238;&#234;&#224;</Russian>
+		<English>Far East M.D.</English>
+		<French>Rég. mil. d'Extrême-Orient</French>
+		<German>
+			<Text>Fernost (MB)</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>D. M. dell'Estremo oriente</Italian>
+		<Spanish>D.M. Lejano Oriente</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHALLENGER2_PEDIA</Tag>
+		<Russian>"&#215;&#229;&#235;&#235;&#229;&#237;&#228;&#230;&#229;&#240;" II</Russian>
+		<English>Challenger II</English>
+		<French>Challenger II</French>
+		<German>
+			<Text>Challenger II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Challenger II</Italian>
+		<Spanish>Reto II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHALLENGER2_STRATEGY</Tag>
+		<Russian>"&#215;&#229;&#235;&#235;&#229;&#237;&#228;&#230;&#229;&#240;" II</Russian>
+		<English>Challenger II</English>
+		<French>Challenger II</French>
+		<German>
+			<Text>Challenger II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Challenger II</Italian>
+		<Spanish>Reto II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHALLENGER2</Tag>
+		<Russian>"&#215;&#229;&#235;&#235;&#229;&#237;&#228;&#230;&#229;&#240;" II</Russian>
+		<English>Challenger II</English>
+		<French>Challenger II</French>
+		<German>
+			<Text>Challenger II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Challenger II</Italian>
+		<Spanish>Reto II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AA_INFANTRY_PEDIA</Tag>
+		<Russian>&#199;&#229;&#237;&#232;&#242;&#247;&#232;&#234;</Russian>
+		<English>AA Infantry</English>
+		<French>Infanterie AA</French>
+		<German>
+			<Text>Luftabwehr-Infanterie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria antiaerea</Italian>
+		<Spanish>Infantería antiaérea</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AA_INFANTRY_STRATEGY</Tag>
+		<Russian>&#199;&#229;&#237;&#232;&#242;&#247;&#232;&#234;</Russian>
+		<English>AA Infantry</English>
+		<French>Infanterie AA</French>
+		<German>
+			<Text>Luftabwehr-Infanterie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria antiaerea</Italian>
+		<Spanish>Infantería antiaérea</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AA_INFANTRY</Tag>
+		<Russian>&#199;&#229;&#237;&#232;&#242;&#247;&#232;&#234;</Russian>
+		<English>AA Infantry</English>
+		<French>Infanterie AA</French>
+		<German>
+			<Text>Luftabwehr-Infanterie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Fanteria antiaerea</Italian>
+		<Spanish>Infantería antiaérea</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UNARMED_NUKE_PEDIA</Tag>
+		<Russian>&#205;&#229;&#241;&#237;&#224;&#240;&#255;&#230;. &#255;&#228;. &#240;&#224;&#234;&#229;&#242;&#224;</Russian>
+		<English>Unarmed Nuke</English>
+		<French>Missile nucléaire non armé</French>
+		<German>
+			<Text>Unscharfe Atomrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bomba nucleare non armata</Italian>
+		<Spanish>Arma nuclear desmontada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UNARMED_NUKE_STRATEGY</Tag>
+		<Russian>&#205;&#229;&#241;&#237;&#224;&#240;&#255;&#230;. &#255;&#228;. &#240;&#224;&#234;&#229;&#242;&#224;</Russian>
+		<English>Unarmed Nuke</English>
+		<French>Missile nucléaire non armé</French>
+		<German>
+			<Text>Unscharfe Atomrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bomba nucleare non armata</Italian>
+		<Spanish>Arma nuclear desmontada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UNARMED_NUKE</Tag>
+		<Russian>&#205;&#229;&#241;&#237;&#224;&#240;&#255;&#230;. &#255;&#228;. &#240;&#224;&#234;&#229;&#242;&#224;</Russian>
+		<English>Unarmed Nuke</English>
+		<French>Missile nucléaire non armé</French>
+		<German>
+			<Text>Unscharfe Atomrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bomba nucleare non armata</Italian>
+		<Spanish>Arma nuclear desmontada</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUKE_PEDIA</Tag>
+		<Russian>&#223;&#228;&#229;&#240;&#237;&#238;&#229; &#238;&#240;&#243;&#230;&#232;&#229;</Russian>
+		<English>Nuke</English>
+		<French>Missile nucléaire</French>
+		<German>
+			<Text>Atomrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bomba nucleare</Italian>
+		<Spanish>Arma nuclear</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUKE_STRATEGY</Tag>
+		<Russian>&#223;&#228;&#229;&#240;&#237;&#238;&#229; &#238;&#240;&#243;&#230;&#232;&#229;</Russian>
+		<English>Nuke</English>
+		<French>Missile nucléaire</French>
+		<German>
+			<Text>Atomrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bomba nucleare</Italian>
+		<Spanish>Arma nuclear</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NUKE</Tag>
+		<Russian>&#223;&#228;&#229;&#240;&#237;&#238;&#229; &#238;&#240;&#243;&#230;&#232;&#229;</Russian>
+		<English>Nuke</English>
+		<French>Missile nucléaire</French>
+		<German>
+			<Text>Atomrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Bomba nucleare</Italian>
+		<Spanish>Arma nuclear</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RANGER_PEDIA</Tag>
+		<Russian>&#196;&#232;&#226;&#229;&#240;&#241;&#224;&#237;&#242;</Russian>
+		<English>Ranger</English>
+		<French>Ranger</French>
+		<German>
+			<Text>Ranger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Ranger</Italian>
+		<Spanish>Explorador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RANGER_STRATEGY</Tag>
+		<Russian>&#196;&#232;&#226;&#229;&#240;&#241;&#224;&#237;&#242;</Russian>
+		<English>Ranger</English>
+		<French>Ranger</French>
+		<German>
+			<Text>Ranger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Ranger</Italian>
+		<Spanish>Explorador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RANGER</Tag>
+		<Russian>&#196;&#232;&#226;&#229;&#240;&#241;&#224;&#237;&#242;</Russian>
+		<English>Ranger</English>
+		<French>Ranger</French>
+		<German>
+			<Text>Ranger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Ranger</Italian>
+		<Spanish>Explorador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_DESTROYER1</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; "&#209;&#242;&#229;&#235;&#241;" I</Russian>
+		<English>Stealth Destroyer I</English>
+		<French>Destroyer furtif I</French>
+		<German>
+			<Text>Tarnzerstörer I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere invisibile I</Italian>
+		<Spanish>Destructor invisible I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_DESTROYER2</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; "&#209;&#242;&#229;&#235;&#241;" II</Russian>
+		<English>Stealth Destroyer II</English>
+		<French>Destroyer furtif II</French>
+		<German>
+			<Text>Tarnzerstörer II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere invisibile II</Italian>
+		<Spanish>Destructor invisible II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_DESTROYER3</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; "&#209;&#242;&#229;&#235;&#241;" III</Russian>
+		<English>Stealth Destroyer III</English>
+		<French>Destroyer furtif III</French>
+		<German>
+			<Text>Tarnzerstörer III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere invisibile III</Italian>
+		<Spanish>Destructor invisible III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_DESTROYER4</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; "&#209;&#242;&#229;&#235;&#241;" IV</Russian>
+		<English>Stealth Destroyer IV</English>
+		<French>Destroyer furtif IV</French>
+		<German>
+			<Text>Tarnzerstörer IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Cacciatorpediniere invisibile IV</Italian>
+		<Spanish>Destructor invisible IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER1</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; I</Russian>
+		<English>Paratrooper I</English>
+		<French>Parachutiste I</French>
+		<German>
+			<Text>Fallschirmjäger I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista I</Italian>
+		<Spanish>Paracaidista I</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER2</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; II</Russian>
+		<English>Paratrooper II</English>
+		<French>Parachutiste II</French>
+		<German>
+			<Text>Fallschirmjäger II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista II</Italian>
+		<Spanish>Paracaidista II</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER3</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; III</Russian>
+		<English>Paratrooper III</English>
+		<French>Parachutiste III</French>
+		<German>
+			<Text>Fallschirmjäger III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista III</Italian>
+		<Spanish>Paracaidista III</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER4</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242; IV</Russian>
+		<English>Paratrooper IV</English>
+		<French>Parachutiste IV</French>
+		<German>
+			<Text>Fallschirmjäger IV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Paracadutista IV</Italian>
+		<Spanish>Paracaidista IV</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SPETSNAZ</Tag>
+		<Russian>&#209;&#239;&#229;&#246;&#237;&#224;&#231;&#238;&#226;&#229;&#246;</Russian>
+		<English>Spetsnaz</English>
+		<French>Spetsnaz</French>
+		<German>
+			<Text>Speznas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Spetsnaz</Italian>
+		<Spanish>Spetsnaz</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BLACK_COUGAR</Tag>
+		<Russian>"&#215;&#229;&#240;&#237;&#224;&#255; &#239;&#224;&#237;&#242;&#229;&#240;&#224;"</Russian>
+		<English>Black Cougar</English>
+		<French>Black Cougar</French>
+		<German>
+			<Text>Schwarzer Panther</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Black Cougar</Italian>
+		<Spanish>Black Cougar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WHITE_RAVEN</Tag>
+		<Russian>"&#193;&#229;&#235;&#251;&#233; &#226;&#238;&#240;&#238;&#237;"</Russian>
+		<English>White Raven</English>
+		<French>White Raven</French>
+		<German>
+			<Text>Weißer Rabe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>White Raven</Italian>
+		<Spanish>White Raven</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIAN_SPY</Tag>
+		<Russian>&#206;&#244;&#232;&#246;&#229;&#240; &#240;&#224;&#231;&#226;&#229;&#228;&#234;&#232;</Russian>
+		<English>Russian Spy</English>
+		<French>Espion russe</French>
+		<German>
+			<Text>Russischer Spion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Spia russa</Italian>
+		<Spanish>Espía ruso</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIAN_CONSCRIPT</Tag>
+		<Russian>&#205;&#238;&#226;&#238;&#225;&#240;&#224;&#237;&#229;&#246;</Russian>
+		<English>Russian Conscripts</English>
+		<French>Appelés russes</French>
+		<German>
+			<Text>Russischer Rekrut</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Coscritti russi</Italian>
+		<Spanish>Leva rusa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RUSSIAN_SENA_HOWITZER</Tag>
+		<Russian>&#195;&#224;&#243;&#225;&#232;&#246;&#224; "&#209;&#242;&#240;&#229;&#235;&#224;"</Russian>
+		<English>Sena Howitzer</English>
+		<French>Obusier Sena</French>
+		<German>
+			<Text>Sena-Haubitze</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Obice Sena</Italian>
+		<Spanish>Obús Sena</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MEDIUM_MISSILE</Tag>
+		<Russian>&#193;&#224;&#235;&#235;. &#240;&#224;&#234;&#229;&#242;&#224;</Russian>
+		<English>Medium-Range Missile</English>
+		<French>Missile à moyenne portée</French>
+		<German>
+			<Text>Mittelstreckenrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Missile a medio raggio</Italian>
+		<Spanish>Misil de medio alcance</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_REBEL_DESC</Tag>
+		<Russian>&#207;&#238;&#226;&#241;&#242;&#224;&#237;&#247;&#229;&#241;&#234;&#224;&#255; &#224;&#240;&#236;&#232;&#255;</Russian>
+		<English>Rebel Forces</English>
+		<French>Forces rebelles</French>
+		<German>Rebellentruppen</German>
+		<Italian>Forze ribelli</Italian>
+		<Spanish>Grupo de Fuerzas rebeldes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_REBEL_SHORT_DESC</Tag>
+		<Russian>&#207;&#238;&#226;&#241;&#242;&#224;&#237;&#246;&#251;</Russian>
+		<English>Rebels</English>
+		<French>Rebelles</French>
+		<German>Rebellen</German>
+		<Italian>Ribelli</Italian>
+		<Spanish>Unión Rebelde</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_REBEL_ADJECTIVE</Tag>
+		<Russian>&#239;&#238;&#226;&#241;&#242;&#224;&#237;&#246;&#251;</Russian>
+		<English>Rebel Russian</English>
+		<French>Russe rebelle</French>
+		<German>Russisch-rebellisch:russisch-rebellischen:russisch-rebellische:</German>
+		<Italian>Ribelli russi</Italian>
+		<Spanish>de los rebeldes rusos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_REBEL_PEDIA</Tag>
+		<Russian>&#207;&#238;&#226;&#241;&#242;&#224;&#237;&#246;&#251;.</Russian>
+		<English>The Russian Rebellion requires no entry!</English>
+		<French>La Rébellion russe ne nécessite aucune entrée !</French>
+		<German>Die russische Rebellion bedarf keines Eintrags!</German>
+		<Italian>Nessuna nota sulla Rivoluzione Russa!</Italian>
+		<Spanish>¡La Rebelión Rusa no necesita un artículo propio!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_ARSENAL_VICTORY</Tag>
+		<Russian>&#209;&#246;&#229;&#237;&#224;&#240;&#232;&#233; - &#243;&#241;&#235;&#238;&#226;&#232;&#255; &#239;&#238;&#225;&#229;&#228;&#251;</Russian>
+		<English>Broken Star - Arsenal Victory</English>
+		<French>L'étoile brisée - Victoire par supériorité nucléaire</French>
+		<German>Broken Star - Arsenalssieg</German>
+		<Italian>Broken Star - Vittoria nucleare</Italian>
+		<Spanish>Broken Star: victoria armamentística</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_REBEL</Tag>
+		<Russian>&#203;&#232;&#228;&#229;&#240; &#239;&#238;&#226;&#241;&#242;&#224;&#237;&#246;&#229;&#226;</Russian>
+		<English>Rebel Leader</English>
+		<French>Chef rebelle</French>
+		<German>Rebellenanführer</German>
+		<Italian>Leader ribelle</Italian>
+		<Spanish>Líder rebelde</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MOSCOW_ADJECTIVE</Tag>
+		<Russian>&#236;&#238;&#241;&#234;&#226;&#232;&#247;&#232;</Russian>
+		<English>Moscovian</English>
+		<French>
+			<Text>moscovite:moscovites:moscovite:moscovites</Text>
+			<Gender>Male:Male:Female:Female</Gender>
+			<Plural>0:1:0:1</Plural>
+		</French>
+		<German>
+			<Text>Nordkaukasisch:nordkaukasischen:nordkaukasische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>moscovita</Italian>
+		<Spanish>de Moscú</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NORTHERN_ADJECTIVE</Tag>
+		<Russian>&#239;&#229;&#242;&#229;&#240;&#225;&#243;&#240;&#230;&#246;&#251;</Russian>
+		<English>Northern</English>
+		<French>
+			<Text>septentrional:septentrionaux:septentrionale:septentrionales</Text>
+			<Gender>Male:Male:Female:Female</Gender>
+			<Plural>0:1:0:1</Plural>
+		</French>
+		<German>
+			<Text>Nördlich:nördlichen:nördliche</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>settentrionale</Italian>
+		<Spanish>del norte</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_VOLGA_ADJECTIVE</Tag>
+		<Russian>&#230;&#232;&#242;&#229;&#235;&#232; &#207;&#238;&#226;&#238;&#235;&#230;&#252;&#255;</Russian>
+		<English>Volgan</English>
+		<French>de la Volga</French>
+		<German>
+			<Text>Wolgisch:wolgischen:wolgische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>del Volga</Italian>
+		<Spanish>del Volga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_URALS_ADJECTIVE</Tag>
+		<Russian>&#243;&#240;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<English>Uralian</English>
+		<French>
+			<Text>ouralien:ouraliens:ouralienne:ouraliennes</Text>
+			<Gender>Male:Male:Female:Female</Gender>
+			<Plural>0:1:0:1</Plural>
+		</French>
+		<German>
+			<Text>Uralisch:uralischen:uralische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>degli Urali</Italian>
+		<Spanish>de los Urales</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SIBERIAN_ADJECTIVE</Tag>
+		<Russian>&#241;&#232;&#225;&#232;&#240;&#255;&#234;&#232;</Russian>
+		<English>Siberian</English>
+		<French>
+			<Text>sibérien:sibériens:sibérienne:sibériennes</Text>
+			<Gender>Male:Male:Female:Female</Gender>
+			<Plural>0:1:0:1</Plural>
+		</French>
+		<German>
+			<Text>Sibirisch:sibirischen:sibirische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>della Siberia</Italian>
+		<Spanish>de Siberia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_TRANS_BAIKALI_ADJECTIVE</Tag>
+		<Russian>&#230;&#232;&#242;&#229;&#235;&#232; &#199;&#224;&#225;&#224;&#233;&#234;&#224;&#235;&#252;&#255;</Russian>
+		<English>Baikalian</English>
+		<French>
+			<Text>baïkalien:baïkaliens:baïkalienne:baïkaliennes</Text>
+			<Gender>Male:Male:Female:Female</Gender>
+			<Plural>0:1:0:1</Plural>
+		</French>
+		<German>
+			<Text>Baikalisch:baikalischen:baikalische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>del Baikal</Italian>
+		<Spanish>de Baikal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_FAR_EAST_ADJECTIVE</Tag>
+		<Russian>&#230;&#232;&#242;&#229;&#235;&#232; &#196;&#224;&#235;&#252;&#237;&#229;&#227;&#238; &#194;&#238;&#241;&#242;&#238;&#234;&#224;</Russian>
+		<English>Eastern</English>
+		<French>
+			<Text>oriental:orientaux:orientale:orientales</Text>
+			<Gender>Male:Male:Female:Female</Gender>
+			<Plural>0:1:0:1</Plural>
+		</French>
+		<German>
+			<Text>Östlich:östlichen:östliche</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>orientale</Italian>
+		<Spanish>del este</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_UNARMED_NUKE</Tag>
+		<Russian>&#216;&#224;&#245;&#242;&#224; &#240;&#224;&#234;&#229;&#242;&#251;</Russian>
+		<English>Nuclear Missile Silo</English>
+		<French>Silo à missile nucléaire</French>
+		<German>Atomraketen-Silo</German>
+		<Italian>Silo missile nucleare</Italian>
+		<Spanish>Silo de misiles nucleares</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GROZNYY</Tag>
+		<Russian>&#195;&#240;&#238;&#231;&#237;&#251;&#233;</Russian>
+		<English>Groznyy</English>
+		<French>Groznyï</French>
+		<German>Grozny</German>
+		<Italian>Grozny</Italian>
+		<Spanish>Grozni</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KIEV</Tag>
+		<Russian>&#202;&#232;&#229;&#226;</Russian>
+		<English>Kiev</English>
+		<French>Kiev</French>
+		<German>Kiew</German>
+		<Italian>Kiev</Italian>
+		<Spanish>Kiev</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KRASNODAR</Tag>
+		<Russian>&#202;&#240;&#224;&#241;&#237;&#238;&#228;&#224;&#240;</Russian>
+		<English>Krasnodar</English>
+		<French>Krasnodar</French>
+		<German>Krasnodar</German>
+		<Italian>Krasnodar</Italian>
+		<Spanish>Krasnodar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VOLOGRAD</Tag>
+		<Russian>&#194;&#238;&#235;&#227;&#238;&#227;&#240;&#224;&#228;</Russian>
+		<English>Volograd</English>
+		<French>Volograd</French>
+		<German>Volograd</German>
+		<Italian>Volgograd</Italian>
+		<Spanish>Volgogrado</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KOTLAS</Tag>
+		<Russian>&#202;&#238;&#242;&#235;&#224;&#241;</Russian>
+		<English>Kotlas</English>
+		<French>Kotlas</French>
+		<German>Kotlas</German>
+		<Italian>Kotlas</Italian>
+		<Spanish>Kotlas</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PECHORA</Tag>
+		<Russian>&#207;&#229;&#247;&#238;&#240;&#224;</Russian>
+		<English>Pechora</English>
+		<French>Petchora</French>
+		<German>Pechora</German>
+		<Italian>Pechora</Italian>
+		<Spanish>Pechora</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NADYM</Tag>
+		<Russian>&#205;&#224;&#228;&#251;&#236;</Russian>
+		<English>Nadym</English>
+		<French>Nadym</French>
+		<German>Nadym</German>
+		<Italian>Nadym</Italian>
+		<Spanish>Nadim</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NOVOSIBRISK</Tag>
+		<Russian>&#205;&#238;&#226;&#238;&#241;&#232;&#225;&#232;&#240;&#241;&#234;</Russian>
+		<English>Novosibrisk</English>
+		<French>Novossibirsk</French>
+		<German>Novosibirsk</German>
+		<Italian>Novosibrisk</Italian>
+		<Spanish>Novosibirsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_IGARKA</Tag>
+		<Russian>&#200;&#227;&#224;&#240;&#234;&#224;</Russian>
+		<English>Igarka</English>
+		<French>Igarka</French>
+		<German>Igarka</German>
+		<Italian>Igarka</Italian>
+		<Spanish>Igarka</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BRATSK</Tag>
+		<Russian>&#193;&#240;&#224;&#242;&#241;&#234;</Russian>
+		<English>Bratsk</English>
+		<French>Bratsk</French>
+		<German>Bratsk</German>
+		<Italian>Bratsk</Italian>
+		<Spanish>Bratsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LENSK</Tag>
+		<Russian>&#203;&#229;&#237;&#241;&#234;</Russian>
+		<English>Lensk</English>
+		<French>Lensk</French>
+		<German>Lensk</German>
+		<Italian>Lensk</Italian>
+		<Spanish>Lensk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_AMUR</Tag>
+		<Russian>&#193;&#235;&#224;&#227;&#238;&#226;&#229;&#249;&#229;&#237;&#241;&#234;</Russian>
+		<English>Amur</English>
+		<French>Amour</French>
+		<German>Amur</German>
+		<Italian>Amur</Italian>
+		<Spanish>Amur</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OKHOTSK</Tag>
+		<Russian>&#206;&#245;&#238;&#242;&#241;&#234;</Russian>
+		<English>Okhotsk</English>
+		<French>Okhotsk</French>
+		<German>Okhotsk</German>
+		<Italian>Okhotsk</Italian>
+		<Spanish>Ojotsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_EVENSK</Tag>
+		<Russian>&#221;&#226;&#229;&#237;&#241;&#234;</Russian>
+		<English>Evensk</English>
+		<French>Evensk</French>
+		<German>Evensk</German>
+		<Italian>Evensk</Italian>
+		<Spanish>Evensk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PETROPAVLOVSK</Tag>
+		<Russian>&#207;&#229;&#242;&#240;&#238;&#239;&#224;&#226;&#235;&#238;&#226;&#241;&#234;</Russian>
+		<English>Petropavlovsk</English>
+		<French>Petropavlovsk</French>
+		<German>Petropawlowsk</German>
+		<Italian>Petropavlovsk</Italian>
+		<Spanish>Petropavlovsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_CHERNOBYL</Tag>
+		<Russian>&#215;&#229;&#240;&#237;&#238;&#225;&#251;&#235;&#252;</Russian>
+		<English>Chernobyl</English>
+		<French>Tchernobyl</French>
+		<German>Tschernobyl</German>
+		<Italian>Chernobyl</Italian>
+		<Spanish>Chernóbil</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KHARKOV</Tag>
+		<Russian>&#213;&#224;&#240;&#252;&#234;&#238;&#226;</Russian>
+		<English>Kharkov</English>
+		<French>Kharkiv</French>
+		<German>Kharkov</German>
+		<Italian>Kharkov</Italian>
+		<Spanish>Kharkov</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_BAKU</Tag>
+		<Russian>&#193;&#224;&#234;&#243;</Russian>
+		<English>Baku</English>
+		<French>Bakou</French>
+		<German>Baku</German>
+		<Italian>Baku</Italian>
+		<Spanish>Bakú</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KARAGANDA</Tag>
+		<Russian>&#202;&#224;&#240;&#224;&#227;&#224;&#237;&#228;&#224;</Russian>
+		<English>Karaganda</English>
+		<French>Karaganda</French>
+		<German>Karaganda</German>
+		<Italian>Karaganda</Italian>
+		<Spanish>Karaganda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NORILSK</Tag>
+		<Russian>&#205;&#238;&#240;&#232;&#235;&#252;&#241;&#234;</Russian>
+		<English>Norilsk</English>
+		<French>Norilsk</French>
+		<German>Norilsk</German>
+		<Italian>Norilsk</Italian>
+		<Spanish>Norilsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TOMSK</Tag>
+		<Russian>&#210;&#238;&#236;&#241;&#234;</Russian>
+		<English>Tomsk</English>
+		<French>Tomsk</French>
+		<German>Tomsk</German>
+		<Italian>Tomsk</Italian>
+		<Spanish>Tomsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SEVERSK</Tag>
+		<Russian>&#209;&#229;&#226;&#229;&#240;&#241;&#234;</Russian>
+		<English>Seversk</English>
+		<French>Seversk</French>
+		<German>Sewersk</German>
+		<Italian>Seversk</Italian>
+		<Spanish>Seversk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_FOKINO</Tag>
+		<Russian>&#212;&#238;&#234;&#232;&#237;&#238;</Russian>
+		<English>Fokino</English>
+		<French>Fokino</French>
+		<German>Fokino</German>
+		<Italian>Fokino</Italian>
+		<Spanish>Fokino</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_GADZHIYEVO</Tag>
+		<Russian>&#195;&#224;&#228;&#230;&#232;&#229;&#226;&#238;</Russian>
+		<English>Gadzhiyevo</English>
+		<French>Gadzhiyevo</French>
+		<German>Gadzhiyevo</German>
+		<Italian>Gadzhiyevo</Italian>
+		<Spanish>Gadzhiyevo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_KRASNOZNAMENSK</Tag>
+		<Russian>&#202;&#240;&#224;&#241;&#237;&#238;&#231;&#237;&#224;&#236;&#229;&#237;&#241;&#234;</Russian>
+		<English>Kransnozamensk</English>
+		<French>Krasnoznamensk</French>
+		<German>Kransnozamensk</German>
+		<Italian>Kransnozamensk</Italian>
+		<Spanish>Krasnoznamensk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LESNOY</Tag>
+		<Russian>&#203;&#229;&#241;&#237;&#238;&#233;</Russian>
+		<English>Lesnoy</English>
+		<French>Lesnoï</French>
+		<German>Lesnoi</German>
+		<Italian>Lesnoy</Italian>
+		<Spanish>Lesnoi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MIRNY</Tag>
+		<Russian>&#204;&#232;&#240;&#237;&#251;&#233;</Russian>
+		<English>Mirny</English>
+		<French>Mirny</French>
+		<German>Mirny</German>
+		<Italian>Mirny</Italian>
+		<Spanish>Mirnii</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_NOVOURALSK</Tag>
+		<Russian>&#205;&#238;&#226;&#238;&#243;&#240;&#224;&#235;&#252;&#241;&#234;</Russian>
+		<English>Novouralsk</English>
+		<French>Novouralsk</French>
+		<German>Novouralsk</German>
+		<Italian>Novouralsk</Italian>
+		<Spanish>Novoural'sk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OSTROVNOY</Tag>
+		<Russian>&#206;&#241;&#242;&#240;&#238;&#226;&#237;&#238;&#233;</Russian>
+		<English>Ostrovnoy</English>
+		<French>Ostrovnoï</French>
+		<German>Ostrovnoy</German>
+		<Italian>Ostrovnoy</Italian>
+		<Spanish>Ostrovnoi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_OZYORSK</Tag>
+		<Russian>&#206;&#231;&#229;&#240;&#241;&#234;</Russian>
+		<English>Ozyorsk</English>
+		<French>Ozyorsk</French>
+		<German>Ozyorsk</German>
+		<Italian>Ozyorsk</Italian>
+		<Spanish>Ozyorsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_POLYARNY</Tag>
+		<Russian>&#207;&#238;&#235;&#255;&#240;&#237;&#251;&#233;</Russian>
+		<English>Polyarny</English>
+		<French>Polyarny</French>
+		<German>Polyarny</German>
+		<Italian>Polyarny</Italian>
+		<Spanish>Poliarnii</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_RADUZHNY</Tag>
+		<Russian>&#208;&#224;&#228;&#243;&#230;&#237;&#251;&#233;</Russian>
+		<English>Raduzhny</English>
+		<French>Raduzhny</French>
+		<German>Raduzhny</German>
+		<Italian>Raduzhny</Italian>
+		<Spanish>Raduzhnyy</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SAROV</Tag>
+		<Russian>&#209;&#224;&#240;&#238;&#226;</Russian>
+		<English>Sarov</English>
+		<French>Sarov</French>
+		<German>Sarow</German>
+		<Italian>Sarov</Italian>
+		<Spanish>Sarov</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SEVEROMORSK</Tag>
+		<Russian>&#209;&#229;&#226;&#229;&#240;&#238;&#236;&#238;&#240;&#241;&#234;</Russian>
+		<English>Severmorsk</English>
+		<French>Severomorsk</French>
+		<German>Seweromorsk</German>
+		<Italian>Severmorsk</Italian>
+		<Spanish>Severomorsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SHIKHANY</Tag>
+		<Russian>&#216;&#232;&#245;&#224;&#237;&#251;</Russian>
+		<English>Shikhany</English>
+		<French>Shikhany</French>
+		<German>Shikhany</German>
+		<Italian>Shikhany</Italian>
+		<Spanish>Shijani</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SNEZHINSK</Tag>
+		<Russian>&#209;&#237;&#229;&#230;&#232;&#237;&#241;&#234;</Russian>
+		<English>Snezhinsk</English>
+		<French>Snezhinsk</French>
+		<German>Snezhinsk</German>
+		<Italian>Snezhinsk</Italian>
+		<Spanish>Snezhinsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SNEZHNOGORSK</Tag>
+		<Russian>&#209;&#237;&#229;&#230;&#237;&#238;&#227;&#238;&#240;&#241;&#234;</Russian>
+		<English>Snezhnogorsk</English>
+		<French>Snezhnogorsk</French>
+		<German>Snezhnogorsk</German>
+		<Italian>Snezhnogorsk</Italian>
+		<Spanish>Snezhnogorsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_TRYOKHGORNY</Tag>
+		<Russian>&#210;&#240;&#229;&#245;&#227;&#238;&#240;&#237;&#251;&#233;</Russian>
+		<English>Tryokhgorny</English>
+		<French>Tryokhgorny</French>
+		<German>Tryokhgorny</German>
+		<Italian>Tryokhgorny</Italian>
+		<Spanish>Triojgorni</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_VILYUCHINSK</Tag>
+		<Russian>&#194;&#232;&#235;&#254;&#247;&#232;&#237;&#241;&#234;</Russian>
+		<English>Vilyuchinsk</English>
+		<French>Vilyoutchinsk</French>
+		<German>Vilyuchinsk</German>
+		<Italian>Vilyuchinsk</Italian>
+		<Spanish>Viliuchinsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ZAOZYORSK</Tag>
+		<Russian>&#199;&#224;&#238;&#231;&#229;&#240;&#241;&#234;</Russian>
+		<English>Zaozyrorsk</English>
+		<French>Zaozyorsk</French>
+		<German>Zaozyrorsk</German>
+		<Italian>Zaozyrorsk</Italian>
+		<Spanish>Zaozirorsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ZAECHNY</Tag>
+		<Russian>&#199;&#224;&#240;&#229;&#247;&#237;&#251;&#233;</Russian>
+		<English>Zarechny</English>
+		<French>Zarechny</French>
+		<German>Zarechny</German>
+		<Italian>Zarechny</Italian>
+		<Spanish>Zarechnii</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ZELENOGORSK</Tag>
+		<Russian>&#199;&#229;&#235;&#229;&#237;&#238;&#227;&#238;&#240;&#241;&#234;</Russian>
+		<English>Zelenogorsk</English>
+		<French>Zelenogorsk</French>
+		<German>Selenogorsk</German>
+		<Italian>Zelenogorsk</Italian>
+		<Spanish>Zelenogorsk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ILANSKY</Tag>
+		<Russian>&#200;&#235;&#224;&#237;&#241;&#234;&#232;&#233;</Russian>
+		<English>Ilansky</English>
+		<French>Ilanski</French>
+		<German>Ilanski</German>
+		<Italian>Ilansky</Italian>
+		<Spanish>Ilanskii</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ZALESYE</Tag>
+		<Russian>&#199;&#224;&#235;&#229;&#241;&#252;&#229;</Russian>
+		<English>Zalesye</English>
+		<French>Zales'ye</French>
+		<German>Zalesie</German>
+		<Italian>Zalesye</Italian>
+		<Spanish>Zalesye</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_SVOBODNY</Tag>
+		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#251;&#233;</Russian>
+		<English>Svobodny</English>
+		<French>Svobodny</French>
+		<German>Swobodny</German>
+		<Italian>Svobodny</Italian>
+		<Spanish>Svobodnii</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_ALTAY</Tag>
+		<Russian>&#208;&#243;&#225;&#246;&#238;&#226;&#241;&#234;</Russian>
+		<English>Altay</English>
+		<French>Altaï</French>
+		<German>Altay</German>
+		<Italian>Altay</Italian>
+		<Spanish>Altái</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_MARI_EL</Tag>
+		<Russian>&#201;&#238;&#248;&#234;&#224;&#240;-&#206;&#235;&#224;</Russian>
+		<English>Mari El</English>
+		<French>République des Maris</French>
+		<German>Mari El</German>
+		<Italian>Mari El</Italian>
+		<Spanish>Mari El</Spanish>
+	</TEXT>
+</Civ4GameText>

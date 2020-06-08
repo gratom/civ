@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_DESC</Tag>
+		<Russian>&#208;&#243;&#241;&#241;&#234;&#232;&#229;</Russian>
+		<English>The Russians</English>
+		<French>
+			<Text>Les Russes</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Russen:Die Russen:den Russen</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>I Russi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Rusos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS00</Tag>
+		<Russian>&#209;&#235;&#224;&#226;&#255;&#237;&#241;&#234;&#232;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<English>Slavic Peoples</English>
+		<French>
+			<Text>Peuplades Slaves</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Slawische Völker:Slawischen Völker:Slawischen Völkern</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli Slavi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Eslavos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS01</Tag>
+		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Tsardom of Russia</English>
+		<French>
+			<Text>Tsarie de Russie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Zarenreich Russland:Zarenreich Russland:Zarenreich Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Zarato di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Zarato Ruso</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS02</Tag>
+		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Russian Empire</English>
+		<French>
+			<Text>Empire Russe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Russisches Reich:Russische Reich:Russischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Russo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Ruso</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS03</Tag>
+		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Tsardom of Russia</English>
+		<French>
+			<Text>Tsarie de Russie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Zarenreich Russland:Zarenreich Russland:Zarenreich Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Zarato di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Zarato Ruso</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS04</Tag>
+		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Russian Empire</English>
+		<French>
+			<Text>Empire Russe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Russisches Reich:Russische Reich:Russischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Russo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Ruso</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS05</Tag>
+		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#224;&#255; &#212;&#229;&#228;&#229;&#240;&#224;&#246;&#232;&#255;</Russian>
+		<English>Russian Federation</English>
+		<French>
+			<Text>Fédération de Russie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Russische Föderation:Russische Föderation:Russischen Föderation</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Federazione Russa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Federación de Rusia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS06</Tag>
+		<Russian>&#209;&#238;&#254;&#231; &#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#245; &#209;&#238;&#246;&#232;&#224;&#235;&#232;&#241;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#245; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;</Russian>
+		<English>Union of Soviet Socialist Republics</English>
+		<French>
+			<Text>Union des Républiques Socialistes Soviétiques</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Union der Sozialistischen Sowjetrepubliken:Union der Sozialistischen Sowjetrepubliken:Union der Sozialistischen Sowjetrepubliken</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Unione delle Repubbliche Socialiste Sovietiche</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Unión de Repúblicas Socialistas Soviéticas</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS07</Tag>
+		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Russian Empire</English>
+		<French>
+			<Text>Empire Russe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Russisches Reich:Russische Reich:Russischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Russo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Ruso</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS08</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#238;&#229; &#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#238;&#229; &#214;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Islamic Tsardom of Russia</English>
+		<French>
+			<Text>Empire Islamique de Russie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Zarenreich Russland:Zarenreich Russland:Zarenreich Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Zarato Islamico di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Zarato Islámico de Rusia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS09</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#224;&#255; &#212;&#229;&#228;&#229;&#240;&#224;&#246;&#232;&#255;</Russian>
+		<English>Islamic Russian Federation</English>
+		<French>
+			<Text>Fédération Islamique Russe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Russische Föderation:Islamische Russische Föderation:Islamischen Russischen Föderation</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Federazione Islamica Russa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Federación Islámica Rusa</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS10</Tag>
+		<Russian>&#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255; &#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<English>Satrapy of Russia</English>
+		<French>
+			<Text>Satrape de Russie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Satrapie Russland:Satrapie Russland:Satrapie Russland</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Satrapia di Russia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Satrapía de Rusia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS11</Tag>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#209;&#224;&#240;&#236;&#224;&#242;&#232;&#255;</Russian>
+		<English>Province of Sarmatia</English>
+		<French>
+			<Text>Province de Sarmatie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Provinz Sarmatia:Provinz Sarmatia:Provinz Sarmatia</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Provincia di Sarmatia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Provincia de Sarmatia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS12</Tag>
+		<Russian>&#208;&#238;&#241;&#241;&#232;&#233;&#241;&#234;&#232;&#233; &#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242;</Russian>
+		<English>Sultanate of Russia</English>
+		<French>
+			<Text>Sultanat de Russie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sultanat Russland:Sultanat Russland:Sultanat Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sultanato di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sultanato de Rusia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS13</Tag>
+		<Russian>&#194;&#232;&#246;&#229;-&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<English>Viceroyalty of Russia</English>
+		<French>
+			<Text>Vice-Royauté de Russie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vizekönigreich Russland:Vizekönigreich Russland:Vizekönigreich Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Vicereame di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Virreinato de Rusia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS14</Tag>
+		<Russian>&#196;&#229;&#239;&#224;&#240;&#242;&#224;&#236;&#229;&#237;&#242; &#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<English>Departments of Russia</English>
+		<French>
+			<Text>Départements de Russie</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Départements von Russland:Départements von Russland:Départements von Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Dipartimenti di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Departamentos de Rusia</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS15</Tag>
+		<Russian>&#196;&#238;&#236;&#232;&#237;&#232;&#238;&#237; &#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<English>Dominion of Russia</English>
+		<French>
+			<Text>Dominion de Russie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dominion Russland:Dominion Russland:Dominion Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Dominion di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dominio de Rusia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS16</Tag>
+		<Russian>&#204;&#238;&#241;&#234;&#238;&#226;&#241;&#234;&#232;&#233; &#208;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242;</Russian>
+		<English>Reichskommissariat Moscow</English>
+		<French>
+			<Text>Reichskommissariat de Moscou</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Reichskommissariat Moskau:Reichskommissariat Moskau:Reichskommissariat Moskau</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Reichskommissariat di Mosca</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reichskommissariat de Moscú</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS17</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#224;&#255; &#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<English>Soviet Russia</English>
+		<French>
+			<Text>Russie Soviétique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sowjetrussland:Sowjetrussland:Sowjetrussland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Russia Sovietica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rusia Soviética</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS18</Tag>
+		<Russian>&#213;&#224;&#237;&#241;&#242;&#226;&#238; &#199;&#238;&#235;&#238;&#242;&#238;&#233; &#206;&#240;&#228;&#251;</Russian>
+		<English>Khanate of the Golden Horde</English>
+		<French>
+			<Text>Khanat de la Horde d'Or</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Khanat der Goldenen Horde:Khanat der Goldenen Horde:Khanat der Goldenen Horde</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Khanato dell'Orda d'Oro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Janato de la Horda de Oro</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS19</Tag>
+		<Russian>&#221;&#255;&#235;&#229;&#242; &#202;&#229;&#244;&#229;</Russian>
+		<English>Eyalet of Kefe</English>
+		<French>
+			<Text>Eyalet de Kefe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eyalet Kefe:Eyalet Kefe:Eyalet Kefe</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Eyalet di Kefe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eyalet de Kefe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS20</Tag>
+		<Russian>&#194;&#224;&#241;&#241;&#224;&#235;&#252;&#237;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<English>Tributary Russian State</English>
+		<French>
+			<Text>Etat Russe Tributaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tributstaat Russland:Tributstaat Russland:Tributstaat Russland</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Russo Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Ruso Trributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_RUS21</Tag>
+		<Russian>&#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#208;&#238;&#241;&#241;&#232;&#255;</Russian>
+		<English>Protectorate of Russia</English>
+		<French>
+			<Text>Protectorat de Russie</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Protektorat Russland:Protektorat Russland:Protektorat Russland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Protettorato di Russia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Protectorado de Rusia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Cities -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW2_BOM0_FRA2</Tag>
+		<Russian>&#192;&#236;&#232;&#238;&#242; 143</Russian>
+		<English>Amiot 143</English>
+		<French>Amiot 143</French>
+		<German>Amiot 143</German>
+		<Italian>Amiot 143</Italian>
+		<Spanish>Amiot 143</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW2_BOM1_FRA2</Tag>
+		<Russian>&#192;&#236;&#232;&#238;&#242; 340</Russian>
+		<English>Amiot 340</English>
+		<French>Amiot 340</French>
+		<German>Amiot 340</German>
+		<Italian>Amiot 340</Italian>
+		<Spanish>Amiot 340</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WW2_BOM2_FRA2</Tag>
+		<Russian>&#192;&#236;&#232;&#238;&#242; 354</Russian>
+		<English>Amiot 354</English>
+		<French>Amiot 354</French>
+		<German>Amiot 354</German>
+		<Italian>Amiot 354</Italian>
+		<Spanish>Amiot 354</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WW2_TECH18_STRATEGY2</Tag>
+		<Russian>&#221;&#242;&#224; &#242;&#229;&#245;&#237;&#238;&#235;&#238;&#227;&#232;&#255; &#239;&#238;&#231;&#226;&#238;&#235;&#255;&#229;&#242; &#241;&#238;&#231;&#228;&#224;&#226;&#224;&#242;&#252; &#225;&#238;&#235;&#229;&#229; &#253;&#244;&#244;&#229;&#234;&#242;&#232;&#226;&#237;&#251;&#229; &#239;&#229;&#245;&#238;&#242;&#237;&#251;&#229; &#226;&#238;&#233;&#241;&#234;&#224;.</Russian>
+		<English>Tank Destroyers leads to better infantry.</English>
+		<French>Tueurs de char permet de produire une meilleure infanterie.</French>
+		<German>Panzerzerstörer führen zu besserer Infanterie.</German>
+		<Italian>Cacciacarri conduce a fanteria migliore.</Italian>
+		<Spanish>Los anticarros permiten una infantería mejor.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WW2_TECH182</Tag>
+		<Russian>&#207;&#210; &#238;&#240;&#243;&#228;&#232;&#255;</Russian>
+		<English>Tank Destroyers</English>
+		<French>Tueurs de char</French>
+		<German>Panzerzerstörer</German>
+		<Italian>Cacciacarri</Italian>
+		<Spanish>Anticarros</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TIME_WEEK2</Tag>
+		<Russian>&#213;&#238;&#228; %d1_WeekNum</Russian>
+		<English>Fortnight %d1_WeekNum</English>
+		<French>Quinzaine %d1_WeekNum</French>
+		<German>2-Wochen-Abschnitt %d1_WeekNum</German>
+		<Italian>Due settimane %d1_WeekNum</Italian>
+		<Spanish>Quincena %d1_WeekNum</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IS_DCM_BOMBARD</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#255;&#255; &#225;&#238;&#236;&#225;&#224;&#240;&#228;&#232;&#240;&#238;&#226;&#234;&#224;</Russian>
+		<English>Ranged Bombardment</English>
+		<French>Bombardement à distance</French>
+		<German>Fernbombardierung</German>
+		<Italian>Bombardamento ad area</Italian>
+		<Spanish>Cañoneo de alcance</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMO_PARATROOP_HELP</Tag>
+		<Russian>&#222;&#237;&#232;&#242; &#236;&#238;&#230;&#229;&#242; &#228;&#226;&#232;&#227;&#224;&#242;&#252;&#241;&#255; &#241;&#240;&#224;&#231;&#243; &#239;&#238;&#241;&#235;&#229; &#228;&#229;&#241;&#224;&#237;&#242;&#232;&#240;&#238;&#226;&#224;&#237;&#232;&#255;</Russian>
+		<English>Allows movement after drop</English>
+		<French>Permet de se déplacer après un parachutage</French>
+		<German>Ermöglicht Bewegung nach dem Absprung</German>
+		<Italian>Permette il movimento dopo il lancio</Italian>
+		<Spanish>Permite moverse tras el salto en paracaídas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WW2_ITALY2</Tag>
+		<Russian>&#193;&#229;&#237;&#232;&#242;&#238; &#204;&#243;&#241;&#241;&#238;&#235;&#232;&#237;&#232;</Russian>
+		<English>Duce Mussolini</English>
+		<French>
+			<Text>Mussolini</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Duce Mussolini</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>Duce Mussolini</Italian>
+		<Spanish>Duce Mussolini</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WW2_JAN2_1936_TEXTB</Tag>
+		<Russian>&#194;&#251;&#225;&#229;&#240;&#232;&#242;&#229; &#240;&#229;&#230;&#232;&#236; &#232;&#227;&#240;&#251;[NEWLINE][NEWLINE][BOLD]&#196;&#238;&#241;&#242;&#238;&#226;&#229;&#240;&#237;&#251;&#229; &#241;&#238;&#225;&#251;&#242;&#232;&#255;[\BOLD] - &#242;&#238;&#247;&#237;&#238;&#229; &#241;&#238;&#238;&#242;&#226;&#229;&#242;&#241;&#242;&#226;&#232;&#229; &#241;&#238;&#225;&#251;&#242;&#232;&#233; &#240;&#229;&#224;&#235;&#252;&#237;&#251;&#236; &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#232;&#236; &#228;&#224;&#242;&#224;&#236;.[NEWLINE][NEWLINE][BOLD]&#209;&#235;&#243;&#247;&#224;&#233;&#237;&#251;&#229; &#241;&#238;&#225;&#251;&#242;&#232;&#255;[\BOLD] - &#239;&#240;&#232;&#236;&#229;&#240;&#237;&#238;&#229; &#241;&#238;&#238;&#242;&#226;&#229;&#242;&#241;&#242;&#226;&#232;&#229; &#241;&#238;&#225;&#251;&#242;&#232;&#233; &#240;&#229;&#224;&#235;&#252;&#237;&#251;&#236; &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#232;&#236; &#228;&#224;&#242;&#224;&#236;, &#241; &#242;&#238;&#247;&#237;&#238;&#241;&#242;&#252;&#254; &#228;&#238; &#237;&#229;&#241;&#234;&#238;&#235;&#252;&#234;&#232;&#245; &#236;&#229;&#241;&#255;&#246;&#229;&#226;. &#194; &#253;&#242;&#238;&#236; &#232; &#226; &#239;&#240;&#229;&#228;&#251;&#228;&#243;&#249;&#229;&#236; &#240;&#229;&#230;&#232;&#236;&#224;&#245; &#226;&#251; &#237;&#229; &#241;&#236;&#238;&#230;&#229;&#242;&#229; &#238;&#225;&#250;&#255;&#226;&#235;&#255;&#242;&#252; &#226;&#238;&#233;&#237;&#243; &#232;&#235;&#232; &#231;&#224;&#234;&#235;&#254;&#247;&#224;&#242;&#252; &#236;&#232;&#240;&#237;&#251;&#229; &#241;&#238;&#227;&#235;&#224;&#248;&#229;&#237;&#232;&#255; - &#226;&#241;&#229; &#228;&#232;&#239;&#235;&#238;&#236;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#241;&#238;&#225;&#251;&#242;&#232;&#255; &#231;&#224;&#239;&#240;&#238;&#227;&#240;&#224;&#236;&#236;&#232;&#240;&#238;&#226;&#224;&#237;&#251; &#231;&#224;&#240;&#224;&#237;&#229;&#229;.[NEWLINE][NEWLINE][BOLD]&#192;&#235;&#252;&#242;&#229;&#240;&#237;&#224;&#242;&#232;&#226;&#237;&#224;&#255; &#232;&#241;&#242;&#238;&#240;&#232;&#255;[\BOLD] - &#231;&#224;&#239;&#240;&#238;&#227;&#240;&#224;&#236;&#236;&#232;&#240;&#238;&#226;&#224;&#237;&#237;&#251;&#245; &#241;&#238;&#225;&#251;&#242;&#232;&#233; &#237;&#229;&#242;, &#226;&#224;&#236; &#228;&#238;&#241;&#242;&#243;&#239;&#237;&#251; &#226;&#241;&#229; &#228;&#232;&#239;&#235;&#238;&#236;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#226;&#238;&#231;&#236;&#238;&#230;&#237;&#238;&#241;&#242;&#232;.</Russian>
+		<English>Please choose your mode of play:[NEWLINE][NEWLINE][BOLD]Accurate Historical Events[\BOLD] with events occuring on the date they occured.  You will not be able to declare war or make peace in this mode as these are handled automatically to occur on their historic dates.  For example: The USA will declare war on Japan or Germany on Fortnight 1 December 1941.[NEWLINE][NEWLINE][BOLD]Random Historical Events[\BOLD] with events occuring near to the date they occured.  You will not be able to declare war or make peace in this mode as these are handled automatically to occur near the historic dates randomly.  For example: The USA will declare war on Japan or Germany between Fortnight 2 October 1941 and Fortnight 1 March 1942.[NEWLINE][NEWLINE][BOLD]Open Play[\BOLD] with no events and all options available.  You can declare war and make peace freely at any time.</English>
+		<French>Choisissez votre mode de jeu :[NEWLINE][NEWLINE]Mode historique (les événements adviennent selon le calendrier historique). Vous ne pourrez pas déclarer la guerre ni faire la paix dans ce mode puisque les événements surviendront automatiquement à leur date réelle. Par exemple : les Etats-Unis déclareront la guerre au Japon ou à l'Allemagne dans la quinzaine du 1er décembre 1941.[NEWLINE][NEWLINE]Mode aléatoire (les événements adviennent à une date proche de la date historique). Vous ne pourrez pas déclarer la guerre ni faire la paix dans ce mode puisque les événements surviendront automatiquement à une date proche de leur date réelle. Par exemple : les Etats-Unis déclareront la guerre au Japon ou à l'Allemagne entre la quinzaine du 2 octobre 1941 et celle du 1er mars 1942.[NEWLINE][NEWLINE]Mode libre (aucun événement historique et toutes les options disponibles).Vous pouvez déclarer la guerre ou faire la paix à n'importe quel moment.</French>
+		<German>Bitte wählen Sie einen Spielmodus:[NEWLINE][NEWLINE][BOLD]Genaue historische Ereignisse[\BOLD], wobei Ereignisse exakt an ihrem historischen Datum geschehen. Sie können keinen Krieg erklären oder Frieden schließen, da dies automatisch zum historischen Datum geschieht. Zum Beispiel werden die USA in den zwei Wochen nach dem 1. Dezember 1941 Japan oder Deutschland den Krieg erklären.[NEWLINE][NEWLINE][BOLD]Zufällige historische Ereignisse[\BOLD], wobei Ereignisse ungefähr an ihrem historischen Datum geschehen. Sie können keinen Krieg erklären oder Frieden schließen, da dies automatisch in der ungefähren Zeit des historischen Datums geschieht. Zum Beispiel werden die USA zwischen den zwei Wochen nach dem 2. Oktober 1941 und den zwei Wochen nach dem 1. März 1942 Japan oder Deutschland den Krieg erklären.[NEWLINE][NEWLINE][BOLD]Freies Spiel[\BOLD] ohne Ereignisse und mit allen verfügbaren Optionen. Sie können jederzeit Frieden schließen oder Krieg erklären.</German>
+		<Italian>Scegli la modalità di gioco:[NEWLINE][NEWLINE][BOLD]Eventi storici accurati[\BOLD] Gli avvenimenti seguiranno la cronologia reale. In questa modalità non potrai dichiarare guerra o fare pace: questi avvenimenti accadranno automaticamente nella data in cui si verificarono realmente. Per esempio: gli USA dichiareranno guerra al Giappone o alla Germania nelle due settimane successive all'1 dicembre 1941.[NEWLINE][NEWLINE][BOLD]Eventi storici casuali[\BOLD] Gli avvenimenti accadranno in date vicine a quelle della cronologia reale. In questa modalità non potrai dichiarare guerra o fare pace: questi avvenimenti accadranno automaticamente in prossimità della data in cui si verificarono realmente. Per esempio: gli USA dichiareranno guerra al Giappone o alla Germania nelle due settimane precedenti il 2 ottobre 1941 e quelle successive all'1 marzo 1942.[NEWLINE][NEWLINE][BOLD]Gioco libero[\BOLD] Non ha eventi e sono disponibili tutte le opzioni. In questa modalità puoi dichiarare guerra e fare pace in qualsiasi momento.</Italian>
+		<Spanish>Escoge tu modo de juego:[NEWLINE][NEWLINE][BOLD]Hechos históricos exactos[\BOLD] : Los acontecimientos tienen lugar en la fecha en que sucedieron.  En este modo no podrás declarar la guerra ni firmar la paz, ya que estos asuntos se gestionan automáticamente para que ocurran en las fechas precisas.  Por ejemplo: Los EE. UU. declararán la guerra al Japón o a Alemania en la primera quincena de diciembre de 1941.[NEWLINE][NEWLINE][BOLD]Hechos históricos al azar[\BOLD] : Los acontecimientos tienen lugar cerca de la fecha en que sucedieron.  En este modo no podrás declarar la guerra ni firmar la paz, ya que estos asuntos se gestionan automáticamente para que ocurran aleatoriamente cerca de la fecha histórica.  Por ejemplo: Los EE. UU. declararán la guerra al Japón o a Alemania entre la segunda quincena de octubre de 1941 y la primera de marzo de 1942.[NEWLINE][NEWLINE][BOLD]Juego abierto[\BOLD] : Sin acontecimientos y con todas las opciones disponibles.  Puedes declarar la guerra y firmar la paz libremente y en cualquier momento.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_HIST1</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#238;&#226;&#229;&#240;&#237;&#251;&#229; &#241;&#238;&#225;&#251;&#242;&#232;&#255;</Russian>
+		<English>Accurate Historical Events</English>
+		<French>Mode historique</French>
+		<German>Genaue historische Ereignisse</German>
+		<Italian>Eventi storici accurati</Italian>
+		<Spanish>Hechos históricos exactos</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_HIST2</Tag>
+		<Russian>&#209;&#235;&#243;&#247;&#224;&#233;&#237;&#251;&#229; &#241;&#238;&#225;&#251;&#242;&#232;&#255;</Russian>
+		<English>Random Historical Events</English>
+		<French>Mode aléatoire</French>
+		<German>Zufällige historische Ereignisse</German>
+		<Italian>Eventi storici casuali</Italian>
+		<Spanish>Hechos históricos al azar</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_HIST3</Tag>
+		<Russian>&#192;&#235;&#252;&#242;&#229;&#240;&#237;&#224;&#242;&#232;&#226;&#237;&#224;&#255; &#232;&#241;&#242;&#238;&#240;&#232;&#255;</Russian>
+		<English>Open Play</English>
+		<French>Mode libre</French>
+		<German>Freies Spiel</German>
+		<Italian>Gioco libero</Italian>
+		<Spanish>Juego abierto</Spanish>
+	</TEXT>
+</Civ4GameText>

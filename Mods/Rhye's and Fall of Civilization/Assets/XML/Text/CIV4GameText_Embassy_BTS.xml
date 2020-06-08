@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EMBASSY_EP</Tag>
+		<Russian>[ICON_BULLET] &#210;&#240;&#229;&#225;&#243;&#229;&#242;&#241;&#255; 10 [ICON_ESPIONAGE] &#239;&#240;&#238;&#242;&#232;&#226; &#253;&#242;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#251;</Russian>
+		<English>[ICON_BULLET] Requires 10 [ICON_ESPIONAGE] against this civilization</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ETH_EMBASSY</Tag>
+		<Russian>&#221;&#244;&#232;&#238;&#239;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<English>Ethiopian Embassy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAY_EMBASSY</Tag>
+		<Russian>&#207;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238; &#236;&#224;&#233;&#255;</Russian>
+		<English>Mayan Embassy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KHM_EMBASSY</Tag>
+		<Russian>&#202;&#245;&#236;&#229;&#240;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<English>Khmer Embassy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOL_EMBASSY</Tag>
+		<Russian>&#195;&#238;&#235;&#235;&#224;&#237;&#228;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<English>Dutch Embassy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_POR_EMBASSY</Tag>
+		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#241;&#234;&#238;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238;</Russian>
+		<English>Portuguese Embassy</English>
+	</TEXT>
+</Civ4GameText>

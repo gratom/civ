@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_NEWCIV_TITLE</Tag>
+		<Russian>&#205;&#238;&#226;&#224;&#255; &#228;&#229;&#240;&#230;&#224;&#226;&#224;</Russian>
+		<English>A new civilization is being born</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NEWCIV_MESSAGE2</Tag>
+		<Russian> &#241;&#238;&#231;&#228;&#224;&#254;&#242; &#241;&#226;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238;. &#194;&#251; &#245;&#238;&#242;&#232;&#242;&#229; &#239;&#240;&#224;&#226;&#232;&#242;&#252; &#232;&#236;?</Russian>
+		<English> empire?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FLIPMESSAGE1</Tag>
+		<Russian>&#209;&#235;&#229;&#228;&#243;&#254;&#249;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#224;: [NEWLINE][NEWLINE]</Russian>
+		<English>The following cities:[NEWLINE][NEWLINE]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FLIPMESSAGE2</Tag>
+		<Russian>[NEWLINE]&#230;&#229;&#235;&#224;&#254;&#242; &#241;&#242;&#224;&#242;&#252; &#247;&#224;&#241;&#242;&#252;&#254; &#237;&#238;&#226;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#251;. &#206;&#242;&#239;&#243;&#241;&#242;&#232;&#242;&#252; &#232;&#245;? &#205;&#224;&#248; &#238;&#242;&#234;&#224;&#231; &#239;&#240;&#232;&#226;&#229;&#228;&#229;&#242; &#234; &#226;&#238;&#233;&#237;&#229;, &#247;&#224;&#241;&#242;&#252; &#237;&#224;&#248;&#229;&#233; &#224;&#240;&#236;&#232;&#232; &#226;&#251;&#241;&#242;&#243;&#239;&#232;&#242; &#237;&#224; &#241;&#242;&#238;&#240;&#238;&#237;&#229; &#239;&#238;&#226;&#241;&#242;&#224;&#237;&#246;&#229;&#226;.</Russian>
+		<English>[NEWLINE]want to flip to a rising civilization. Our refusal may lead to a war and some of our troops may join it. Should we let them go?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FLIP_AGREED</Tag>
+		<Russian>&#204;&#251; &#238;&#242;&#239;&#243;&#241;&#234;&#224;&#229;&#236; &#232;&#245;!</Russian>
+		<English>We agreed to the flip!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FLIP_REFUSED</Tag>
+		<Russian>&#205;&#229;&#242;, &#236;&#251; &#225;&#243;&#228;&#229;&#236; &#226;&#238;&#229;&#226;&#224;&#242;&#252;!</Russian>
+		<English>We refused the flip, this means war!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FLIP_BETRAYAL</Tag>
+		<Russian>&#215;&#224;&#241;&#242;&#252; &#237;&#224;&#248;&#232;&#245; &#241;&#232;&#235; &#239;&#240;&#232;&#236;&#234;&#237;&#243;&#235;&#224; &#234; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#243;, &#247;&#242;&#238;&#225;&#251; &#241;&#240;&#224;&#230;&#224;&#242;&#252;&#241;&#255; &#231;&#224; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;!</Russian>
+		<English>Some of our forces are joining the enemy to help their war of liberation!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FLIP_BETRAYAL_NEW</Tag>
+		<Russian>&#215;&#224;&#241;&#242;&#252; &#241;&#232;&#235; &#239;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;&#224; &#239;&#240;&#232;&#236;&#234;&#237;&#243;&#235;&#224; &#234; &#237;&#224;&#236;, &#247;&#242;&#238;&#225;&#251; &#241;&#240;&#224;&#230;&#224;&#242;&#252;&#241;&#255; &#231;&#224; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;!</Russian>
+		<English>Some of our enemy's forces are joining us to help our war of liberation!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_CIV_IS_BORN</Tag>
+		<Russian>&#194;&#238;&#231;&#237;&#232;&#234;&#235;&#224; &#237;&#238;&#226;&#224;&#255; &#228;&#229;&#240;&#230;&#224;&#226;&#224;: &#227;&#238;&#240;&#238;&#228;&#224; %s1_CityName</Russian>
+		<English>A new civilization is born: %s1_CityName</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INDEPENDENCE1</Tag>
+		<Russian/>
+		<English/>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INDEPENDENCE2</Tag>
+		<Russian>&#239;&#240;&#238;&#226;&#238;&#231;&#227;&#235;&#224;&#241;&#232;&#235;&#232; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;!</Russian>
+		<English>cities have declared independence from their foreign domination!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REBELLION_TITLE</Tag>
+		<Russian>&#205;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252;!</Russian>
+		<English>Independence!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REBELLION_MESSAGE</Tag>
+		<Russian>&#239;&#240;&#238;&#226;&#238;&#231;&#227;&#235;&#224;&#241;&#232;&#235;&#232; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#241;&#242;&#252; &#232; &#232;&#231;&#227;&#237;&#224;&#235;&#232; &#237;&#224;&#248;&#232; &#227;&#224;&#240;&#237;&#232;&#231;&#238;&#237;&#251;. &#206;&#241;&#242;&#224;&#226;&#232;&#242;&#252; &#226;&#241;&#229; &#234;&#224;&#234; &#229;&#241;&#242;&#252;?</Russian>
+		<English>cities have declared their independence from us and expelled our garrisons. Shall we leave them free?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXILE_TITLE</Tag>
+		<Russian>&#200;&#231;&#227;&#237;&#224;&#237;&#232;&#229;</Russian>
+		<English>Exile!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXILE_TEXT1</Tag>
+		<Russian>&#194;&#224;&#241; &#241;&#245;&#226;&#224;&#242;&#232;&#235;&#232;</Russian>
+		<English>You have been captured by the</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXILE_TEXT2</Tag>
+		<Russian>&#226;&#231;&#255;&#235;&#232; &#226;&#224;&#241; &#239;&#238;&#228; &#241;&#242;&#240;&#224;&#230;&#243; &#232; &#226;&#251;&#241;&#235;&#224;&#235;&#232; &#226; &#238;&#234;&#240;&#229;&#241;&#242;&#237;&#238;&#241;&#242;&#232; &#227;&#238;&#240;&#238;&#228;&#224;</Russian>
+		<English>and exiled to the unimportant lands of</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXILE_TEXT3</Tag>
+		<Russian>. &#194;&#240;&#229;&#236;&#229;&#237;&#232; &#236;&#224;&#235;&#238;: &#226;&#251; &#228;&#238;&#235;&#230;&#237;&#251; &#238;&#242;&#226;&#238;&#229;&#226;&#224;&#242;&#252; &#241;&#242;&#238;&#235;&#232;&#246;&#243; &#232; &#226;&#229;&#240;&#237;&#243;&#242;&#252; &#241;&#229;&#225;&#229; &#226;&#235;&#224;&#241;&#242;&#252;.</Russian>
+		<English>. You have a short period of time for retaking your capital and gain back your position.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESCAPE_TITLE</Tag>
+		<Russian>&#207;&#238;&#225;&#229;&#227;</Russian>
+		<English>You have escaped!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESCAPE_TEXT1</Tag>
+		<Russian>&#194;&#251; &#241;&#225;&#229;&#230;&#224;&#235;&#232; &#232;&#231;-&#239;&#238;&#228; &#241;&#242;&#240;&#224;&#230;&#232;, </Russian>
+		<English>You have escaped and regained control of </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESCAPE_TEXT2</Tag>
+		<Russian>&#241;&#237;&#238;&#226;&#224; &#239;&#238;&#228; &#226;&#224;&#248;&#232;&#236; &#234;&#238;&#237;&#242;&#240;&#238;&#235;&#229;&#236;. &#210;&#229;&#239;&#229;&#240;&#252; &#239;&#238;&#240;&#224; &#239;&#240;&#238;&#243;&#247;&#232;&#242;&#252; &#226;&#240;&#224;&#227;&#238;&#226;!</Russian>
+		<English>territory. Now let's teach our enemies a lesson!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FIRST_CONTACT_NEWWORLD</Tag>
+		<Russian>&#199;&#224;&#226;&#238;&#229;&#226;&#224;&#242;&#229;&#235;&#232; &#232;&#231; &#228;&#224;&#235;&#229;&#234;&#232;&#245; &#241;&#242;&#240;&#224;&#237; &#226;&#242;&#238;&#240;&#227;&#235;&#232;&#241;&#252; &#237;&#224; &#237;&#224;&#248;&#243; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#254; &#226; &#239;&#238;&#232;&#241;&#234;&#224;&#245; &#225;&#238;&#227;&#224;&#242;&#241;&#242;&#226;!</Russian>
+		<English>Conquerors from a far away continent are invading our lands searching for wealth!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FIRST_CONTACT_OLDWORLD</Tag>
+		<Russian>&#205;&#224;&#248;&#232; &#232;&#241;&#234;&#224;&#242;&#229;&#235;&#232; &#239;&#240;&#232;&#234;&#235;&#254;&#247;&#229;&#237;&#232;&#233; &#228;&#238;&#241;&#242;&#232;&#227;&#235;&#232; &#228;&#224;&#235;&#229;&#234;&#232;&#245; &#231;&#229;&#236;&#229;&#235;&#252;!</Russian>
+		<English>A group of our own adventurers has arrived in the new world searching for wealth!</English>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_NEW</Tag>
+		<Russian>&#205;&#238;&#226;&#251;&#233; &#202;&#238;&#237;&#227;&#240;&#229;&#241;&#241;</Russian>
+		<English>New Congress</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_INVITATION</Tag>
+		<Russian>&#215;&#229;&#240;&#229;&#231; 2 &#245;&#238;&#228;&#224; &#237;&#224;&#247;&#237;&#229;&#242;&#241;&#255; &#204;&#229;&#230;&#228;&#243;&#237;&#224;&#240;&#238;&#228;&#237;&#251;&#233; &#202;&#238;&#237;&#227;&#240;&#229;&#241;&#241;. &#194;&#251; &#239;&#240;&#232;&#227;&#235;&#224;&#248;&#229;&#237;&#251; &#237;&#224; &#237;&#229;&#227;&#238;. &#213;&#238;&#242;&#232;&#242;&#229; &#239;&#240;&#232;&#237;&#255;&#242;&#252; &#243;&#247;&#224;&#241;&#242;&#232;&#229;?</Russian>
+		<English>An international Congress is being held in 2 turns. You have been invited to participate. Will you accept the invitation?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_REQUEST</Tag>
+		<Russian>%s1 &#245;&#238;&#247;&#229;&#242; %s2 (%s3)</Russian>
+		<English>%s1 wants %s2 (%s3)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_OF</Tag>
+		<Russian>&#202;&#238;&#237;&#227;&#240;&#229;&#241;&#241;</Russian>
+		<English>Congress of</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_INTRO</Tag>
+		<Russian>&#209;&#234;&#238;&#240;&#238; &#237;&#224;&#247;&#237;&#229;&#242;&#241;&#255; &#237;&#238;&#226;&#251;&#233; &#204;&#229;&#230;&#228;&#243;&#237;&#224;&#240;&#238;&#228;&#237;&#251;&#233; &#202;&#238;&#237;&#227;&#240;&#229;&#241;&#241;. &#203;&#232;&#228;&#229;&#240;&#251; &#237;&#224;&#232;&#225;&#238;&#235;&#229;&#229; &#226;&#235;&#232;&#255;&#242;&#229;&#235;&#252;&#237;&#251;&#245; &#241;&#242;&#240;&#224;&#237; &#226;&#241;&#242;&#240;&#229;&#242;&#255;&#242;&#241;&#255;, &#247;&#242;&#238;&#225;&#251; &#238;&#225;&#241;&#243;&#228;&#232;&#242;&#252; &#240;&#224;&#241;&#241;&#242;&#224;&#237;&#238;&#226;&#234;&#243; &#241;&#232;&#235; &#226; &#236;&#232;&#240;&#229;. [NEWLINE][NEWLINE]&#211;&#247;&#224;&#241;&#242;&#237;&#232;&#234;&#232; &#239;&#238; &#238;&#247;&#229;&#240;&#229;&#228;&#232; &#225;&#243;&#228;&#229;&#242; &#227;&#238;&#235;&#238;&#241;&#238;&#226;&#224;&#242;&#252; &#231;&#224; &#226;&#251;&#225;&#240;&#224;&#237;&#237;&#251;&#233; &#227;&#238;&#240;&#238;&#228;. &#197;&#241;&#235;&#232; &#225;&#243;&#228;&#229;&#242; &#239;&#240;&#232;&#237;&#255;&#242;&#238; &#240;&#229;&#248;&#229;&#237;&#232;&#229; &#238; &#229;&#227;&#238; &#239;&#229;&#240;&#229;&#245;&#238;&#228;&#229; &#234; &#237;&#238;&#226;&#238;&#236;&#243; &#245;&#238;&#231;&#255;&#232;&#237;&#243;, &#239;&#240;&#229;&#230;&#237;&#229;&#236;&#243; &#226;&#235;&#224;&#228;&#229;&#235;&#252;&#246;&#243; &#239;&#240;&#232;&#228;&#229;&#242;&#241;&#255; &#241; &#253;&#242;&#232;&#236; &#241;&#236;&#232;&#240;&#232;&#242;&#252;&#241;&#255;. &#194; &#241;&#235;&#243;&#247;&#224;&#229; &#238;&#242;&#234;&#224;&#231;&#224; &#242;&#229;, &#234;&#242;&#238; &#227;&#238;&#235;&#238;&#241;&#238;&#226;&#224;&#235; &quot;&#231;&#224;&quot;, &#238;&#225;&#250;&#255;&#226;&#255;&#242; &#229;&#236;&#243; &#226;&#238;&#233;&#237;&#243;.</Russian>
+		<English>A new international Congress is about to start.[NEWLINE]The leaders of some of the most important nations will meet there to discuss the balance of the world.[NEWLINE][NEWLINE]Each side will have its turn to ask a city; if the decision is approved the owner of the city that is being traded must accept it.[NEWLINE]If you refuse a decision, you are likely to face a war against some of the sides that voted YES.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_INTRO_NOT_INVITED</Tag>
+		<Russian>&#205;&#224;&#241; &#237;&#229; &#239;&#240;&#232;&#227;&#235;&#224;&#241;&#232;&#235;&#232; &#237;&#224; &#194;&#241;&#229;&#236;&#232;&#240;&#237;&#251;&#233; &#202;&#238;&#237;&#227;&#240;&#229;&#241;&#241;. &#194;&#232;&#228;&#232;&#236;&#238;, &#236;&#251; &#237;&#229; &#239;&#240;&#229;&#228;&#241;&#242;&#224;&#226;&#235;&#255;&#229;&#236; &#232;&#237;&#242;&#229;&#240;&#229;&#241;&#224; &#228;&#235;&#255; &#226;&#235;&#232;&#255;&#242;&#229;&#235;&#252;&#237;&#251;&#245; &#228;&#229;&#240;&#230;&#224;&#226;.[NEWLINE][NEWLINE]&#205;&#224;&#236; &#238;&#241;&#242;&#224;&#229;&#242;&#241;&#255; &#235;&#232;&#248;&#252; &#230;&#228;&#224;&#242;&#252; &#240;&#229;&#248;&#229;&#237;&#232;&#255; &#232; &#237;&#224;&#228;&#229;&#255;&#242;&#252;&#241;&#255; &#237;&#224; &#236;&#243;&#228;&#240;&#238;&#241;&#242;&#252; &#243;&#247;&#224;&#241;&#242;&#237;&#232;&#234;&#238;&#226; &#241;&#238;&#225;&#240;&#224;&#237;&#232;&#255;.</Russian>
+		<English>A World Congress is being held, but we haven't been invited. Maybe we aren't important enough.[NEWLINE][NEWLINE]Now we can only await their decisions and trust in their common sense.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_VOTE_YES</Tag>
+		<Russian>&#195;&#238;&#235;&#238;&#241;&#238;&#226;&#224;&#242;&#252; &#199;&#192;</Russian>
+		<English>Vote YES</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_VOTE_NO</Tag>
+		<Russian>&#195;&#238;&#235;&#238;&#241;&#238;&#226;&#224;&#242;&#252; &#207;&#208;&#206;&#210;&#200;&#194;</Russian>
+		<English>Vote NO</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_POPUP_VOTES_YES</Tag>
+		<Russian>&#227;&#238;&#235;&#238;&#241;&#243;&#229;&#242; &#199;&#192;[NEWLINE]</Russian>
+		<English>votes YES[NEWLINE]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_POPUP_VOTES_NO</Tag>
+		<Russian>&#227;&#238;&#235;&#238;&#241;&#243;&#229;&#242; &#207;&#208;&#206;&#210;&#200;&#194;[NEWLINE]</Russian>
+		<English>votes NO[NEWLINE]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_POPUP_ABSTAINS</Tag>
+		<Russian>&#226;&#238;&#231;&#228;&#229;&#240;&#230;&#232;&#226;&#224;&#229;&#242;&#241;&#255;[NEWLINE]</Russian>
+		<English>abstains[NEWLINE]</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_POPUP_YES_WINS</Tag>
+		<Russian>[NEWLINE]&#193;&#238;&#235;&#252;&#248;&#229; &#227;&#238;&#235;&#238;&#241;&#238;&#226; &#199;&#192;</Russian>
+		<English>[NEWLINE]YES wins</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_POPUP_NO_WINS</Tag>
+		<Russian>[NEWLINE]&#193;&#238;&#235;&#252;&#248;&#229; &#227;&#238;&#235;&#238;&#241;&#238;&#226; &#207;&#208;&#206;&#210;&#200;&#194;</Russian>
+		<English>[NEWLINE]NO wins</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_NO_CITY</Tag>
+		<Russian>&#205;&#229;&#242; &#239;&#238;&#228;&#245;&#238;&#228;&#255;&#249;&#229;&#227;&#238; &#227;&#238;&#240;&#238;&#228;&#224;</Russian>
+		<English>There is no appropriate city to ask</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_HUMAN_REQUEST</Tag>
+		<Russian>&#202;&#224;&#234;&#238;&#233; &#227;&#238;&#240;&#238;&#228; &#225;&#243;&#228;&#229;&#242; &#239;&#240;&#229;&#228;&#236;&#229;&#242;&#238;&#236; &#238;&#225;&#241;&#243;&#230;&#228;&#229;&#237;&#232;&#255;?</Russian>
+		<English>What city shall we ask for?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_NO_REQUEST</Tag>
+		<Russian>&#199;&#192;&#207;&#208;&#206;&#209;&#206;&#194; &#205;&#197;&#210;</Russian>
+		<English>NO REQUEST</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_REQUEST1</Tag>
+		<Russian>&#202;&#238;&#237;&#227;&#240;&#229;&#241;&#241; &#240;&#229;&#248;&#232;&#235;, &#247;&#242;&#238;</Russian>
+		<English>The Congress has decided that</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_REQUEST2</Tag>
+		<Russian>&#228;&#238;&#235;&#230;&#229;&#237; &#241;&#236;&#229;&#237;&#232;&#242;&#252; &#226;&#235;&#224;&#228;&#229;&#235;&#252;&#246;&#224;. &#210;&#229;&#239;&#229;&#240;&#252; &#232;&#236; &#226;&#235;&#224;&#228;&#229;&#254;&#242;</Russian>
+		<English>should be assigned to</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_REQUEST3</Tag>
+		<Russian>[NEWLINE]&#194;&#251; &#241;&#238;&#227;&#235;&#224;&#241;&#237;&#251;? (&#238;&#242;&#234;&#224;&#231; &#236;&#238;&#230;&#229;&#242; &#239;&#240;&#232;&#226;&#229;&#241;&#242;&#232; &#234; &#226;&#238;&#233;&#237;&#229;)</Russian>
+		<English>control.[NEWLINE]Do you agree? (Our refusal may lead to a war)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_NOTIFY_YES1</Tag>
+		<Russian>&#239;&#229;&#240;&#229;&#245;&#238;&#228;&#232;&#242; &#234; &#237;&#238;&#226;&#238;&#236;&#243; &#245;&#238;&#231;&#255;&#232;&#237;&#243;:</Russian>
+		<English>is passing under</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_NOTIFY_YES2</Tag>
+		<Russian></Russian>
+		<English>control</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_ACCEPT_DECISION</Tag>
+		<Russian>&#209;&#236;&#232;&#240;&#232;&#242;&#252;&#241;&#255; &#241; &#240;&#229;&#248;&#229;&#237;&#232;&#229;&#236; &#232; &#239;&#238;&#234;&#232;&#237;&#243;&#242;&#252; &#227;&#238;&#240;&#238;&#228;.</Russian>
+		<English>Accept the decision and leave the city</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_REFUSE_DECISION</Tag>
+		<Russian>&#206;&#242;&#234;&#224;&#231;&#224;&#242;&#252;&#241;&#255; &#239;&#238;&#234;&#232;&#237;&#243;&#242;&#252; &#227;&#238;&#240;&#238;&#228;!</Russian>
+		<English>Refuse leaving the city!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_CORRUPTION_REQUEST</Tag>
+		<Russian>&#204;&#238;&#230;&#237;&#238; &#239;&#238;&#239;&#240;&#238;&#225;&#238;&#226;&#224;&#242;&#252; &#239;&#238;&#228;&#234;&#243;&#239;&#232;&#242;&#252; &#228;&#240;&#243;&#227;&#243;&#254; &#228;&#229;&#240;&#230;&#224;&#226;&#243;, &#247;&#242;&#238;&#225;&#251; &#238;&#237;&#224; &#239;&#240;&#238;&#227;&#238;&#235;&#238;&#241;&#238;&#226;&#224;&#235;&#224; &#242;&#224;&#234;, &#234;&#224;&#234; &#237;&#224;&#236; &#226;&#251;&#227;&#238;&#228;&#237;&#238;. &#213;&#238;&#242;&#232;&#242;&#229; &#239;&#238;&#239;&#251;&#242;&#224;&#242;&#252;&#241;&#255;?</Russian>
+		<English>We can use some of our gold to try to bribe another civilization to vote for our interests. Do you want to attempt?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_CORRUPTION_GOLD</Tag>
+		<Russian>&#209;&#234;&#238;&#235;&#252;&#234;&#238; &#231;&#238;&#235;&#238;&#242;&#224; &#236;&#251; &#237;&#224; &#253;&#242;&#238; &#239;&#238;&#242;&#240;&#224;&#242;&#232;&#236;?</Russian>
+		<English>How much gold shall we use for this purpose?</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_CORRUPTION_YES</Tag>
+		<Russian>&#205;&#224;&#248;&#229; &#239;&#240;&#229;&#228;&#235;&#238;&#230;&#229;&#237;&#232;&#229; &#239;&#240;&#232;&#237;&#255;&#242;&#238;. &#206;&#237;&#232; &#239;&#240;&#238;&#227;&#238;&#235;&#238;&#241;&#243;&#254;&#242; &#231;&#224; &#237;&#224;&#241;.</Russian>
+		<English>They accepted our proposal. They will vote for our interests.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_CORRUPTION_NO</Tag>
+		<Russian>&#205;&#224;&#248;&#229; &#239;&#240;&#229;&#228;&#235;&#238;&#230;&#229;&#237;&#232;&#229; &#238;&#242;&#226;&#229;&#240;&#227;&#237;&#243;&#242;&#238;.</Russian>
+		<English>They refused our proposal.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_CORRUPTION_ENEMY</Tag>
+		<Russian>&#205;&#224;&#248;&#229; &#239;&#240;&#229;&#228;&#235;&#238;&#230;&#229;&#237;&#232;&#229; &#238;&#242;&#226;&#229;&#240;&#227;&#235;&#232; &#241; &#237;&#229;&#227;&#238;&#228;&#238;&#226;&#224;&#237;&#232;&#229;&#236;. &#210;&#229;&#239;&#229;&#240;&#252; &#238;&#237;&#232;, &#241;&#234;&#238;&#240;&#229;&#229; &#226;&#241;&#229;&#227;&#238;, &#239;&#240;&#238;&#227;&#238;&#235;&#238;&#241;&#243;&#254;&#242; &#239;&#240;&#238;&#242;&#232;&#226; &#237;&#224;&#241;!</Russian>
+		<English>They refused our proposal with indignation. Now they might even vote against our interests!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_CITY_WAS_TRADED_TO</Tag>
+		<Russian>&#195;&#238;&#240;&#238;&#228;&#238;&#236; %s1_CityName &#242;&#229;&#239;&#229;&#240;&#252; &#226;&#235;&#224;&#228;&#229;&#229;&#242; %s2_CivName!</Russian>
+		<English>%s1_CityName was traded to the %s2_CivName!!!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_NO_AI_REQUEST</Tag>
+		<Russian>&#237;&#229; &#228;&#229;&#235;&#224;&#229;&#242; &#231;&#224;&#239;&#240;&#238;&#241;&#238;&#226;</Russian>
+		<English>makes no requests</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONGRESS_OK</Tag>
+		<Russian>OK</Russian>
+		<English>OK</English>
+	</TEXT>
+</Civ4GameText>

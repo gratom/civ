@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PLAGUE</Tag>
+		<Russian>&#215;&#243;&#236;&#224;</Russian>
+		<English>Plague</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAGUE_SPREAD_CITY</Tag>
+		<Russian>&#215;&#243;&#236;&#224; &#240;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#255;&#229;&#242;&#241;&#255; &#226; &#227;&#238;&#240;&#238;&#228;&#229;</Russian>
+		<English>Plague has spread in</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAGUE_PROCESS_CITY</Tag>
+		<Russian>&#215;&#243;&#236;&#224; &#243;&#225;&#232;&#226;&#224;&#229;&#242; &#235;&#254;&#228;&#229;&#233; &#226; &#227;&#238;&#240;&#238;&#228;&#229;</Russian>
+		<English>Plague is killing people in</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PLAGUE_PROCESS_UNIT</Tag>
+		<Russian>&#215;&#243;&#236;&#224; &#239;&#238;&#227;&#243;&#225;&#232;&#235;&#224; &#237;&#224;&#248; &#254;&#237;&#232;&#242; &#225;&#235;&#232;&#231; &#227;&#238;&#240;&#238;&#228;&#224;</Russian>
+		<English>Plague has killed our unit near</English>
+	</TEXT>
+</Civ4GameText>

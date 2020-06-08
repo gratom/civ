@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!--Please place any new text entries into this file-->
+	<TEXT>
+		<Tag>TXT_KEY_CIV_CELT_DESC</Tag>
+		<Russian>&#209;&#234;&#224;&#237;&#228;&#232;&#237;&#224;&#226;&#232;&#255;</Russian>
+		<English>Celtic peoples</English>
+		<French>
+			<Text>Peuples celtes</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Keltenvölkerreich:Keltenvölkerreich:Keltenvölkerreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli celtici</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblo Celta</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<!--
+	<TEXT>
+		<Tag>TXT_KEY_CIV_OTTOMAN_DESC</Tag>
+		<English>Turkish Empire</English>
+		<French>
+			<Text>Empire turc</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>T&#252;rkisches Reich:T&#252;rkische Reich:T&#252;rkischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Turco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Turco</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+-->
+	<TEXT>
+		<Tag>TXT_KEY_CIV_OTTOMAN_SHORT_DESC</Tag>
+		<Russian>&#210;&#243;&#240;&#234;&#232;</Russian>
+		<English>Turkey</English>
+		<French>
+			<Text>Turquie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Türkei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Turchia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Turquía</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<!--
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLONIA_DESC</Tag>
+		<English>Babylonian Empire</English>
+		<French>
+			<Text>Empire babylonien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Babylonisches Reich:Babylonische Reich:Babylonischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero Babilonese</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Babilonio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+-->
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLONIA_SHORT_DESC</Tag>
+		<Russian>&#194;&#224;&#226;&#232;&#235;&#238;&#237;&#255;&#237;&#229;</Russian>
+		<English>Babylonia</English>
+		<French>
+			<Text>Babylone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Babylonien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Babilonia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Babilonia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDEPENDENT_DESC</Tag>
+		<Russian>&#209;&#238;&#254;&#231; &#241;&#226;&#238;&#225;&#238;&#228;&#237;&#251;&#245; &#227;&#238;&#240;&#238;&#228;&#238;&#226;</Russian>
+		<English>Independent Cities</English>
+		<French>
+			<Text>Villes indépendantes</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Unabhängiges Städtereich:Unabhängige Städtereich:Unabhängigen Städtereich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Città indipendenti</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Grupo de las ciudades autónomas</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_INDEPENDENT_SHORT_DESC</Tag>
+		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#251;&#229; &#237;&#224;&#240;&#238;&#228;&#251;</Russian>
+		<English>Independents</English>
+		<French>
+			<Text>Indépendants</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Land der Unabhängigen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Indipendenti</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Autonolandia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_INDEPENDENT</Tag>
+		<Russian>&#203;&#232;&#228;&#229;&#240; &#241;&#226;&#238;&#225;&#238;&#228;&#237;&#251;&#245; &#237;&#224;&#240;&#238;&#228;&#238;&#226;</Russian>
+		<English>Independent Leader</English>
+		<French>
+			<Text>Dirigeant indépendant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Unabhängigen-Staatsoberhaupt</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Leader indipendente</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Líder autónomo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NATIVE_DESC</Tag>
+		<Russian>&#207;&#235;&#229;&#236;&#255; &#224;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#238;&#226;</Russian>
+		<English>Native peoples</English>
+		<French>
+			<Text>Peuples natifs</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Eingeborenenreich:Eingeborenenreich:Eingeborenenreich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli nativi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblo Nativo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NATIVE_SHORT_DESC</Tag>
+		<Russian>&#192;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#251;</Russian>
+		<English>Natives</English>
+		<French>
+			<Text>Natifs</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Eingeborenenland</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Nativi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Nativolandia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_NATIVE</Tag>
+		<Russian>&#194;&#238;&#230;&#228;&#252; &#224;&#225;&#238;&#240;&#232;&#227;&#229;&#237;&#238;&#226;</Russian>
+		<English>Native Leader</English>
+		<French>
+			<Text>Dirigeant natif</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eingeborenen-Staatsoberhaupt</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Leader dei nativi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Líder nativo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>MOD_TXT_KEY_RESOURCE_COTTON</Tag>
+		<Russian>&#213;&#235;&#238;&#239;&#238;&#234;</Russian>
+		<English>Cotton</English>
+		<French>
+			<Text>Coton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Baumwolle</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cotone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Algodón</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CHINESE_UNIFICATION_BONUS_COTTON_PEDIA</Tag>
+		<Russian>[TAB]&#204;&#255;&#227;&#234;&#232;&#229; &#226;&#238;&#235;&#238;&#234;&#237;&#224; &#245;&#235;&#238;&#239;&#234;&#224;, &#239;&#238;&#234;&#240;&#251;&#226;&#224;&#254;&#249;&#232;&#229; &#241;&#229;&#236;&#229;&#237;&#224; &#245;&#235;&#238;&#239;&#247;&#224;&#242;&#237;&#232;&#234;&#224;, &#248;&#232;&#240;&#238;&#234;&#238; &#239;&#240;&#232;&#236;&#229;&#237;&#255;&#254;&#242;&#241;&#255; &#226; &#242;&#229;&#234;&#241;&#242;&#232;&#235;&#252;&#237;&#238;&#233; &#239;&#240;&#238;&#236;&#251;&#248;&#235;&#229;&#237;&#237;&#238;&#241;&#242;&#232;. &#209;&#238;&#225;&#240;&#224;&#237;&#237;&#251;&#229; &#241; &#240;&#224;&#241;&#242;&#229;&#237;&#232;&#233; &#226;&#238;&#235;&#238;&#234;&#237;&#224; &#238;&#247;&#232;&#249;&#224;&#254;&#242;&#241;&#255; &#238;&#242; &#241;&#229;&#236;&#255;&#237; &#232; &#241;&#238;&#240;&#237;&#251;&#245; &#239;&#240;&#232;&#236;&#229;&#241;&#229;&#233;, &#224; &#231;&#224;&#242;&#229;&#236; &#241;&#234;&#240;&#243;&#247;&#232;&#226;&#224;&#254;&#242;&#241;&#255; &#226; &#237;&#232;&#242;&#232;. &#213;&#235;&#238;&#239;&#238;&#234; &#245;&#238;&#240;&#238;&#248;&#238; &#240;&#224;&#241;&#242;&#229;&#242; &#234;&#224;&#234; &#226; &#242;&#240;&#238;&#239;&#232;&#247;&#229;&#241;&#234;&#238;&#236;, &#242;&#224;&#234; &#232; &#226; &#243;&#236;&#229;&#240;&#229;&#237;&#237;&#238;&#236; &#234;&#235;&#232;&#236;&#224;&#242;&#229;, &#229;&#227;&#238; &#236;&#238;&#230;&#237;&#238; &#226;&#238;&#231;&#228;&#229;&#235;&#251;&#226;&#224;&#242;&#252; &#226; &#225;&#238;&#235;&#252;&#248;&#232;&#237;&#241;&#242;&#226;&#229; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#237;&#251;&#245; &#236;&#229;&#241;&#242; &#239;&#235;&#224;&#237;&#229;&#242;&#251;.[PARAGRAPH:2]&#214;&#229;&#237;&#237;&#238;&#241;&#242;&#252; &#245;&#235;&#238;&#239;&#234;&#224; &#225;&#251;&#235;&#224; &#232;&#231;&#226;&#229;&#241;&#242;&#237;&#224; &#236;&#237;&#238;&#227;&#232;&#236; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#255;&#236; &#229;&#249;&#229; &#237;&#224; &#231;&#224;&#240;&#229; &#232;&#245; &#240;&#224;&#231;&#226;&#232;&#242;&#232;&#255;, &#226; &#242;&#238;&#236; &#247;&#232;&#241;&#235;&#229; &#229;&#227;&#232;&#239;&#242;&#255;&#237;&#224;&#236;, &#232;&#237;&#228;&#232;&#233;&#246;&#224;&#236; &#232; &#228;&#224;&#230;&#229; &#237;&#229;&#234;&#238;&#242;&#238;&#240;&#251;&#236; &#224;&#236;&#229;&#240;&#232;&#234;&#224;&#237;&#241;&#234;&#232;&#236; &#239;&#235;&#229;&#236;&#229;&#237;&#224;&#236; &#228;&#238;&#234;&#238;&#235;&#243;&#236;&#225;&#238;&#226;&#238;&#233; &#253;&#239;&#238;&#245;&#232;. &#194;&#238; &#226;&#240;&#229;&#236;&#229;&#237;&#224; &#232;&#237;&#228;&#243;&#241;&#242;&#240;&#232;&#224;&#235;&#252;&#237;&#238;&#233; &#240;&#229;&#226;&#238;&#235;&#254;&#246;&#232;&#232; &#225;&#251;&#235;&#232; &#232;&#231;&#238;&#225;&#240;&#229;&#242;&#229;&#237;&#251; &#226;&#251;&#241;&#238;&#234;&#238;&#239;&#240;&#238;&#232;&#231;&#226;&#238;&#228;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#229; &#239;&#240;&#255;&#228;&#232;&#235;&#252;&#237;&#251;&#229; &#232; &#245;&#235;&#238;&#239;&#234;&#238;&#238;&#247;&#232;&#241;&#242;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#229; &#236;&#224;&#248;&#232;&#237;&#251;, &#232; &#240;&#224;&#225;&#238;&#247;&#232;&#245; &#240;&#243;&#234; &#228;&#235;&#255; &#241;&#225;&#238;&#240;&#224; &#245;&#235;&#238;&#239;&#234;&#224; &#241;&#242;&#224;&#235;&#238; &#237;&#229; &#245;&#226;&#224;&#242;&#224;&#242;&#252;. &#221;&#242;&#238; &#239;&#238;&#241;&#235;&#243;&#230;&#232;&#235;&#238; &#238;&#228;&#237;&#238;&#233; &#232;&#231; &#239;&#240;&#229;&#228;&#239;&#238;&#241;&#251;&#235;&#238;&#234; &#234; &#240;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#229;&#237;&#232;&#254; &#240;&#224;&#225;&#241;&#234;&#238;&#227;&#238; &#242;&#240;&#243;&#228;&#224; &#226; &#209;&#216;&#192; &#226; &#241;&#229;&#240;&#229;&#228;&#232;&#237;&#229; XIX &#226;. &#194; &#237;&#224;&#248;&#232; &#228;&#237;&#232; &#245;&#235;&#238;&#239;&#238;&#234; &#241;&#238;&#225;&#232;&#240;&#224;&#229;&#242;&#241;&#255; &#234;&#224;&#234; &#224;&#226;&#242;&#238;&#236;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#232;, &#242;&#224;&#234; &#232; &#226;&#240;&#243;&#247;&#237;&#243;&#254;. &#206;&#237; &#239;&#238;-&#239;&#240;&#229;&#230;&#237;&#229;&#236;&#243; &#231;&#224;&#237;&#232;&#236;&#224;&#229;&#242; &#226;&#224;&#230;&#237;&#238;&#229; &#236;&#229;&#241;&#242;&#238; &#226; &#236;&#232;&#240;&#238;&#226;&#238;&#236; &#242;&#238;&#226;&#224;&#240;&#238;&#238;&#225;&#238;&#240;&#238;&#242;&#229;.</Russian>
+		<English>Important for production of cloth, cotton is a soft fiber which can be extracted from cotton plants. After removal from the plant, the fibers are processed to remove seeds and wax, and then they are spun into threads. Cotton grows well in both tropical and warm temperate climates, and it can be cultivated across much of the inhabited portions of the world.[PARAGRAPH:2]Many civilizations recognized the value cotton very early in their development - examples include the Egyptians, (Asian) Indians and even some pre-Colombian American cultures. The Industrial Revolution saw the invention of the "Spinning Jenny" and cotton gin, which enabled mass production of cotton-based cloth. After these developments the demand for the plant fiber became almost insatiable, driving up labor demands for its cultivation across the world - leading to, among other things, the continuation of slavery in the United States into the mid-nineteenth century. Today, however, most cotton in western nations is harvested mechanically. It remains an important good worldwide.</English>
+		<French>Le coton, matière primordiale pour la production de tissus, est une fibre souple extraite de la plante du même nom. Après avoir été séparées de la plante, les fibres sont traitées afin d'en supprimer graines et cire, avant d'être filées. Le coton s'adapte particulièrement aux climats chauds ou tropicaux et peut être cultivé dans de nombreuses régions désertiques du monde.[PARAGRAPH:2]De nombreuses civilisations ont vite compris l'importance que pouvait avoir le coton pour leur développement, par exemple, les Egyptiens, les Indiens (d'Asie) et certaines cultures précolombiennes. L'invention, à la Révolution industrielle, de la Jenny (une machine à filer le coton) et de l'égreneuse à coton, va permettre une production massive de vêtements. Après ce développement, la demande pour cette fibre devient presque impossible à satisfaire, ce qui incite au développement de sa culture à travers le monde et entraîne, entre autres choses, la poursuite de l'esclavage aux Etats-Unis au XIXe siècle. De nos jours, la plus grande partie des récoltes du monde occidental est effectuée mécaniquement et le coton demeure un produit important dans le monde entier. </French>
+		<German>Baumwolle ist eine weiche Faser, die aus der Baumwollpflanze gewonnen und vorwiegend in der Textilfertigung genutzt wird. Nach der Ernte werden die Samenhaare in einem ersten Verarbeitungsprozess zunächst von den Samen sowie von Wachsrückständen befreit und dann zu Fäden gesponnen. Besonders gut gedeiht die Baumwollpflanze in tropischem und warmem Klima, grundsätzlich kann sie aber in den meisten bewohnten Gebieten der Erde angebaut werden.[PARAGRAPH:2]Viele Zivilisationen erkannten bereits sehr früh den Wert der Baumwolle, so zum Beispiel die Ägypter, die Inder sowie einige präkolumbianische Kulturen auf dem amerikanischen Kontinent. Doch erst die Erfindung der "Spinning Jenny" (Spinnmaschine) und der "Cotton Gin" (Egreniermaschine zur Entkörnung von Baumwolle) im Zeitalter der Industriellen Revolution ermöglichte die Massenfertigung von Baumwolltextilien. In der darauf folgenden Zeit stieg die Nachfrage nach der Pflanzenfaser schier ins Unermessliche, so dass weltweit Unmengen von Arbeitskräften für den Anbau der Baumwollpflanze benötigt wurden - dies war unter anderem auch ein Grund dafür, dass die Sklaverei in den Vereinigten Staaten bis Mitte des 19. Jahrhunderts aufrechterhalten blieb. Heute wird Baumwolle, die nach wie vor zu den wichtigsten Handelsgütern der Welt gehört, in den westlichen Ländern überwiegend mechanisch geerntet.</German>
+		<Italian>Importante per la produzione dell'abbigliamento, il cotone è una fibra soffice che si estrae dalla pianta di cotone. Dopo essere state estratte dalla pianta, le fibre vengono trattate per privarle di semi e cera, quindi sono filate (tessute in fili). Il cotone cresce bene nei climi tropicali e in quelli temperati e perciò è coltivabile in buona parte del mondo abitato.[PARAGRAPH:2]Molte civiltà, tra cui Egizi, Indiani (d'Asia) e certe culture pre-colombiane, hanno apprezzato sin da subito il valore del cotone. La Rivoluzione Industriale vide l'introduzione del "filatoio multiplo" e della sgranatrice, che permisero la produzione di massa dei capi in cotone. In seguito a questi sviluppi, la domanda di cotone divenne quasi insaziabile, facendo impennare la domanda di lavoro nelle piantagioni di cotone in tutto il mondo. Questo portò, tra le altre cose, alla continuazione della pratica della schiavitù negli Stati Uniti fino alla metà del diciannovesimo secolo. Oggi, invece, nelle nazioni occidentali il cotone è raccolto meccanicamente e rimane sempre un bene importante.</Italian>
+		<Spanish>Importante para la producción de tela, el algodón es una fibra suave que se extrae de la planta de algodón. Tras su extracción, las fibras se procesan para quitarles las semillas y la cera y, a continuación, se utilizan para formar hebras. El algodón se cultiva en climas tanto tropicales como cálidos y puede producirse en buena parte de las regiones habitadas del mundo.[PARAGRAPH:2]Muchas civilizaciones reconocieron el valor del algodón en un momento muy temprano de su desarrollo. Entre los ejemplos más característicos tenemos a los egipcios, los hindúes e incluso algunas culturas precolombinas. La Revolución Industrial asistió a la invención de "Jenny la hilandera" y de la desmotadora, que permitían la producción en serie de tela de algodón. Tras estos inventos, la demanda de fibra de algodón se hizo casi insaciable y el cultivo de la planta se extendió por todo el mundo lo que, entre otras cosas, fomentó la supervivencia de la esclavitud en los Estados Unidos hasta el siglo XIX. En nuestros días, no obstante, en las naciones occidentales el algodón se recoge por medios mecánicos. Sigue siendo una mercancía importantísima en todo el mundo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENGLISH_STOCK_EXCHANGE</Tag>
+		<Russian>&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#234;&#224;&#255; &#225;&#232;&#240;&#230;&#224;</Russian>
+		<English>Royal Exchange</English>
+		<French>Bourse Royale</French>
+		<German>Königliche Börse</German>
+		<Italian>Borsa Reale</Italian>
+		<Spanish>Bolsa Real</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENGLISH_STOCK_EXCHANGE_STRATEGY</Tag>
+		<Russian>[COLOR_BUILDING_TEXT]&#202;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#234;&#224;&#255; &#225;&#232;&#240;&#230;&#224;[COLOR_REVERT], &#224;&#237;&#227;&#235;&#232;&#233;&#241;&#234;&#232;&#233; &#253;&#234;&#226;&#232;&#226;&#224;&#235;&#229;&#237;&#242; [COLOR_BUILDING_TEXT]&#225;&#224;&#237;&#234;&#224;[COLOR_REVERT], &#239;&#240;&#232;&#237;&#238;&#241;&#232;&#242; &#227;&#238;&#240;&#238;&#228;&#243; &#228;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#251;&#233; &#228;&#238;&#245;&#238;&#228;.</Russian>
+		<English>A [COLOR_BUILDING_TEXT]Royal Exchange[COLOR_REVERT], the English replacement for a [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT], increases a city's production of wealth even more than a [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT].</English>
+		<French>La [COLOR_BUILDING_TEXT]Bourse Royale[COLOR_REVERT], version anglaise de la [COLOR_BUILDING_TEXT]banque[COLOR_REVERT], augmente la production de richesse d'une ville davantage que la [COLOR_BUILDING_TEXT]banque[COLOR_REVERT].</French>
+		<German>Die englische [COLOR_BUILDING_TEXT]Königliche Börse[COLOR_REVERT] ersetzt die [COLOR_BUILDING_TEXT]Bank[COLOR_REVERT], bewirkt jedoch einen noch größeren Anstieg des Wohlstands einer Stadt.</German>
+		<Italian>La [COLOR_BUILDING_TEXT]Borsa reale[COLOR_REVERT], l'equivalente inglese della [COLOR_BUILDING_TEXT]Banca[COLOR_REVERT], incrementa la produzione di ricchezza della città ancor più della [COLOR_BUILDING_TEXT]banca[COLOR_REVERT] stessa.</Italian>
+		<Spanish>El [COLOR_BUILDING_TEXT]Royal Exchange[COLOR_REVERT], el equivalente inglés del [COLOR_BUILDING_TEXT]Banco[COLOR_REVERT], aumenta la producción de riqueza de la ciudad aún más que este último.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WANGKON</Tag>
+		<Russian>&#210;&#224;&#233;&#246;&#231;&#243;</Russian>
+		<English>Ming Tai Zu</English>
+		<French>
+			<Text>Ming Tai Zu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ming Tai Zu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ming Tai Zu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ming Tai Zu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

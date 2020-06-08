@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Created with the FfH editor by Kael -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - Units -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ARCHERY_RANGE</Tag>
+		<Russian>&#209;&#242;&#240;&#229;&#235;&#252;&#225;&#232;&#249;&#229;</Russian>
+		<English>Archery Range</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BEAR_TOTEM</Tag>
+		<Russian>&#210;&#238;&#242;&#229;&#236; &#236;&#229;&#228;&#226;&#229;&#228;&#255;</Russian>
+		<English>Bear Totem</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BURIAL_MOUND</Tag>
+		<Russian>&#202;&#243;&#240;&#227;&#224;&#237;</Russian>
+		<English>Burial Mound</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CODEX_EDDA</Tag>
+		<Russian>&#221;&#228;&#228;&#224;</Russian>
+		<English>Codex Edda</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DANCING_BEAR</Tag>
+		<Russian>&#204;&#229;&#228;&#226;&#229;&#228;&#252;-&#239;&#235;&#255;&#241;&#243;&#237;</Russian>
+		<English>Dancing Bear</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ELDER_COUNCIL</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242; &#241;&#242;&#224;&#240;&#229;&#233;&#248;&#232;&#237;</Russian>
+		<English>Elder Council</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HERBALIST</Tag>
+		<Russian>&#196;&#238;&#236; &#242;&#240;&#224;&#226;&#237;&#232;&#234;&#224;</Russian>
+		<English>Herbalist</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HERMETIC_SANCTUARY</Tag>
+		<Russian>&#209;&#226;&#255;&#242;&#232;&#235;&#232;&#249;&#229; &#242;&#224;&#233;&#237;</Russian>
+		<English>Hermetic Sanctuary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HUNTING_LODGE</Tag>
+		<Russian>&#206;&#245;&#238;&#242;&#237;&#232;&#247;&#232;&#233; &#228;&#238;&#236;&#232;&#234;</Russian>
+		<English>Hunting Lodge</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INFIRMARY</Tag>
+		<Russian>&#203;&#229;&#247;&#229;&#225;&#237;&#232;&#246;&#224;</Russian>
+		<English>Infirmary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PALACE_AMURITES</Tag>
+		<Russian>&#196;&#226;&#238;&#240;&#229;&#246; &#224;&#236;&#243;&#240;&#232;&#242;&#238;&#226;</Russian>
+		<English>Amurite Palace</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SIEGE_WORKSHOP</Tag>
+		<Russian>&#206;&#241;&#224;&#228;&#237;&#224;&#255; &#236;&#224;&#241;&#242;&#229;&#240;&#241;&#234;&#224;&#255;</Russian>
+		<English>Siege Workshop</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SMOKEHOUSE</Tag>
+		<Russian>&#202;&#238;&#239;&#242;&#232;&#235;&#252;&#237;&#255;</Russian>
+		<English>Smokehouse</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SPIDER_PEN</Tag>
+		<Russian>&#207;&#224;&#243;&#247;&#252;&#229; &#235;&#238;&#227;&#238;&#226;&#238;</Russian>
+		<English>Spider Pen</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STABLE</Tag>
+		<Russian>&#202;&#238;&#237;&#254;&#248;&#237;&#255;</Russian>
+		<English>Stable</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STAG_HIDE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#194;&#229;&#235;&#232;&#234;&#238;&#227;&#238; &#238;&#235;&#229;&#237;&#255;</Russian>
+		<English>The Great Stag Hide</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TEMPLE_OF_THE_HAND</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#193;&#229;&#235;&#238;&#233; &#240;&#243;&#234;&#232;</Russian>
+		<English>Temple of the Hand</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOMB_OF_SUCELLUS</Tag>
+		<Russian>&#195;&#240;&#238;&#225;&#237;&#232;&#246;&#224; &#209;&#243;&#234;&#229;&#235;&#235;&#224;</Russian>
+		<English>Tomb of Sucellus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TRAINING_YARD</Tag>
+		<Russian>&#211;&#247;&#229;&#225;&#237;&#251;&#233; &#239;&#238;&#235;&#232;&#227;&#238;&#237;</Russian>
+		<English>Training Yard</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TROPHY_HALLS</Tag>
+		<Russian>&#199;&#224;&#235; &#242;&#240;&#238;&#244;&#229;&#229;&#226;</Russian>
+		<English>Trophy Halls</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WELL</Tag>
+		<Russian>&#202;&#238;&#235;&#238;&#228;&#229;&#246;</Russian>
+		<English>Well</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WOLF_PEN</Tag>
+		<Russian>&#203;&#238;&#227;&#238;&#226;&#238; &#226;&#238;&#235;&#234;&#238;&#226;</Russian>
+		<English>Wolf Pen</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMURITES_ADJECTIVE</Tag>
+		<Russian>&#224;&#236;&#243;&#240;&#232;&#242;&#251;</Russian>
+		<English>Amurite</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMURITES_DESC</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#224;&#236;&#243;&#240;&#232;&#242;&#238;&#226;</Russian>
+		<English>Amurites Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AMURITES_SHORT_DESC</Tag>
+		<Russian>&#192;&#236;&#243;&#240;&#232;&#242;&#251;</Russian>
+		<English>Amurites</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DOVIELLO_ADJECTIVE</Tag>
+		<Russian>&#228;&#238;&#226;&#232;&#229;&#235;&#235;&#251;</Russian>
+		<English>Doviello</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DOVIELLO_DESC</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#228;&#238;&#226;&#232;&#229;&#235;&#235;&#238;&#226;</Russian>
+		<English>Doviello Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_DOVIELLO_SHORT_DESC</Tag>
+		<Russian>&#196;&#238;&#226;&#232;&#229;&#235;&#235;&#251;</Russian>
+		<English>Doviello</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ILLIANS_ADJECTIVE</Tag>
+		<Russian>&#232;&#235;&#235;&#232;&#233;&#246;&#251;</Russian>
+		<English>Illian</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ILLIANS_DESC</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#232;&#235;&#235;&#232;&#233;&#246;&#229;&#226;</Russian>
+		<English>Illians Empire</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ILLIANS_SHORT_DESC</Tag>
+		<Russian>&#200;&#235;&#235;&#232;&#233;&#246;&#251;</Russian>
+		<English>Illians</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_APPRENTICESHIP</Tag>
+		<Russian>&#211;&#247;&#229;&#237;&#232;&#247;&#229;&#241;&#242;&#226;&#238;</Russian>
+		<English>Apprenticeship</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_FINAL_BATTLE</Tag>
+		<Russian>&#207;&#238;&#241;&#235;&#229;&#228;&#237;&#255;&#255; &#225;&#232;&#242;&#226;&#224;</Russian>
+		<English>Final Battle</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_RITES_OF_REMEMBERANCE</Tag>
+		<Russian>&#208;&#232;&#242;&#243;&#224;&#235;&#251;</Russian>
+		<English>Rites of Rememberance</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_BONES</Tag>
+		<Russian>&#202;&#238;&#241;&#242;&#232;</Russian>
+		<English>Bones</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_CHANCEL</Tag>
+		<Russian>&#192;&#235;&#242;&#224;&#240;&#252;</Russian>
+		<English>Chancel</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_CRATER</Tag>
+		<Russian>&#202;&#240;&#224;&#242;&#229;&#240;</Russian>
+		<English>Crater</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_FROST_GIANT_CASTLE</Tag>
+		<Russian>&#211;&#242;&#227;&#224;&#240;&#228;</Russian>
+		<English>Utgard</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_FROZEN_SHIP</Tag>
+		<Russian>&#199;&#224;&#236;&#229;&#240;&#231;&#248;&#232;&#233; &#234;&#238;&#240;&#224;&#225;&#235;&#252;</Russian>
+		<English>Frozen Ship</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_GEYSER</Tag>
+		<Russian>&#195;&#229;&#233;&#231;&#229;&#240;</Russian>
+		<English>Geyser</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_HUT</Tag>
+		<Russian>&#213;&#232;&#230;&#232;&#237;&#224; &#244;&#240;&#238;&#241;&#242;&#235;&#232;&#237;&#227;&#238;&#226;</Russian>
+		<English>Frostling Hut</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_LETUM_FRIGUS</Tag>
+		<Russian>&#194;&#229;&#247;&#237;&#224;&#255; &#236;&#229;&#240;&#231;&#235;&#238;&#242;&#224;</Russian>
+		<English>Letum Frigus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_ROCK_ARCH</Tag>
+		<Russian>&#202;&#224;&#236;&#229;&#237;&#237;&#251;&#233; &#241;&#226;&#238;&#228;</Russian>
+		<English>Rock Arch</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_TOWER</Tag>
+		<Russian>&#193;&#224;&#248;&#237;&#255;</Russian>
+		<English>Tower</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_TRAP</Tag>
+		<Russian>&#203;&#238;&#226;&#243;&#248;&#234;&#224;</Russian>
+		<English>Trap</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_VOLCANO</Tag>
+		<Russian>&#194;&#243;&#235;&#234;&#224;&#237;</Russian>
+		<English>Volcano</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_BLIZZARD</Tag>
+		<Russian>&#193;&#243;&#240;&#224;&#237;</Russian>
+		<English>Blizzard</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_MAMMOTH_CAMP</Tag>
+		<Russian>&#209;&#242;&#238;&#233;&#225;&#232;&#249;&#229; &#236;&#224;&#236;&#238;&#237;&#242;&#238;&#226;</Russian>
+		<English>Mammoth Camp</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INVISIBLE_ANIMAL</Tag>
+		<Russian>&#207;&#240;&#255;&#247;&#243;&#249;&#232;&#229;&#241;&#255; &#230;&#232;&#226;&#238;&#242;&#237;&#251;&#229;</Russian>
+		<English>Hidden Animals</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHARADON</Tag>
+		<Russian>&#216;&#224;&#240;&#224;&#228;&#238;&#237;</Russian>
+		<English>Charadon</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_KYLORIN</Tag>
+		<Russian>&#202;&#232;&#235;&#238;&#240;&#232;&#237;</Russian>
+		<English>Kylorin</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_MULCARN</Tag>
+		<Russian>&#204;&#243;&#235;&#234;&#224;&#240;&#237;</Russian>
+		<English>Mulcarn, God of Winter</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_AGE_OF_ICE</Tag>
+		<Russian>&#207;&#224;&#228;&#229;&#237;&#232;&#229; &#241; &#237;&#229;&#225;&#229;&#241;: &#221;&#239;&#238;&#245;&#224; &#235;&#252;&#228;&#224;</Russian>
+		<English>Fall from Heaven: Age of Ice</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_COVER2</Tag>
+		<Russian>&#207;&#240;&#232;&#234;&#240;&#251;&#242;&#232;&#229; II</Russian>
+		<English>Cover II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_FORMATION2</Tag>
+		<Russian>&#207;&#238;&#241;&#242;&#240;&#238;&#229;&#237;&#232;&#229; II</Russian>
+		<English>Formation II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GODSLAYER_BLADE</Tag>
+		<Russian>&#202;&#235;&#232;&#237;&#238;&#234; &#193;&#238;&#227;&#238;&#225;&#238;&#240;&#246;&#224;</Russian>
+		<English>Godslayer Blade</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GODSLAYER_CROSSGUARD</Tag>
+		<Russian>&#195;&#224;&#240;&#228;&#224; &#193;&#238;&#227;&#238;&#225;&#238;&#240;&#246;&#224;</Russian>
+		<English>Godslayer Crossguard</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GODSLAYER_HILT</Tag>
+		<Russian>&#208;&#243;&#234;&#238;&#255;&#242;&#252; &#193;&#238;&#227;&#238;&#225;&#238;&#240;&#246;&#224;</Russian>
+		<English>Godslayer Hilt</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HAMSTRUNG</Tag>
+		<Russian>&#206;&#225;&#229;&#231;&#228;&#226;&#232;&#230;&#229;&#237;</Russian>
+		<English>Hamstrung</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HAS_CASTED</Tag>
+		<Russian>&#199;&#224;&#234;&#235;&#232;&#237;&#224;&#237;&#232;&#229;</Russian>
+		<English>Has Casted</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_HASTED</Tag>
+		<Russian>&#211;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229;</Russian>
+		<English>Hasted</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARK_OF_THE_BAT</Tag>
+		<Russian>&#199;&#237;&#224;&#234; &#235;&#229;&#242;&#243;&#247;&#229;&#233; &#236;&#251;&#248;&#232;</Russian>
+		<English>Mark of the Bat</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARK_OF_THE_DOG</Tag>
+		<Russian>&#199;&#237;&#224;&#234; &#239;&#241;&#224;</Russian>
+		<English>Mark of the Dog</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARK_OF_THE_HORSE</Tag>
+		<Russian>&#199;&#237;&#224;&#234; &#235;&#238;&#248;&#224;&#228;&#232;</Russian>
+		<English>Mark of the Horse</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARK_OF_THE_RABBIT</Tag>
+		<Russian>&#199;&#237;&#224;&#234; &#234;&#240;&#238;&#235;&#232;&#234;&#224;</Russian>
+		<English>Mark of the Rabbit</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARK_OF_THE_RAT</Tag>
+		<Russian>&#199;&#237;&#224;&#234; &#234;&#240;&#251;&#241;&#251;</Russian>
+		<English>Mark of the Rat</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARK_OF_THE_RAVEN</Tag>
+		<Russian>&#199;&#237;&#224;&#234; &#226;&#238;&#240;&#238;&#237;&#224;</Russian>
+		<English>Mark of the Raven</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_MARK_OF_THE_SCORPION</Tag>
+		<Russian>&#199;&#237;&#224;&#234; &#241;&#234;&#238;&#240;&#239;&#232;&#238;&#237;&#224;</Russian>
+		<English>Mark of the Scorpion</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ORB_OF_SUCELLUS</Tag>
+		<Russian>&#209;&#244;&#229;&#240;&#224; &#209;&#243;&#234;&#229;&#235;&#235;&#224;</Russian>
+		<English>Orb of Sucellus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RESIST_COLD</Tag>
+		<Russian>&#204;&#238;&#240;&#238;&#231;&#238;&#241;&#242;&#238;&#233;&#234;&#238;&#241;&#242;&#252;</Russian>
+		<English>Resist Cold</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SHOCK2</Tag>
+		<Russian>&#216;&#238;&#234; II</Russian>
+		<English>Shock II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_SUBDUE_ANIMAL</Tag>
+		<Russian>&#207;&#240;&#232;&#240;&#243;&#247;&#229;&#237;&#232;&#229;</Russian>
+		<English>Subdue Animal</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_THE_WHITE_HAND</Tag>
+		<Russian>&#193;&#229;&#235;&#224;&#255; &#240;&#243;&#234;&#224;</Russian>
+		<English>The White Hand</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_ARTIST</Tag>
+		<Russian>&#193;&#224;&#240;&#228;</Russian>
+		<English>Bard</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_ARTIST</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#225;&#224;&#240;&#228;</Russian>
+		<English>Great Bard</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SCIENTIST</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#236;&#243;&#228;&#240;&#229;&#246;</Russian>
+		<English>Great Sage</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_SCIENTIST</Tag>
+		<Russian>&#204;&#243;&#228;&#240;&#229;&#246;</Russian>
+		<English>Sage</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ANCIENT_CHANTS</Tag>
+		<Russian>&#207;&#229;&#241;&#237;&#238;&#239;&#229;&#237;&#232;&#255;</Russian>
+		<English>Ancient Chants</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ANIMAL_HANDLING</Tag>
+		<Russian>&#198;&#232;&#226;&#238;&#242;&#237;&#238;&#226;&#238;&#228;&#241;&#242;&#226;&#238;</Russian>
+		<English>Animal Handling</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_BOWYERS</Tag>
+		<Russian>&#193;&#238;&#229;&#226;&#251;&#229; &#235;&#243;&#234;&#232;</Russian>
+		<English>Bowyers</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_DOMESTICATE_MAMMOTHS</Tag>
+		<Russian>&#207;&#240;&#232;&#240;&#243;&#247;&#229;&#237;&#232;&#229; &#236;&#224;&#236;&#238;&#237;&#242;&#238;&#226;</Russian>
+		<English>Domesticate Mammoths</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_EXPLORATION</Tag>
+		<Russian>&#208;&#224;&#231;&#226;&#229;&#228;&#234;&#224;</Russian>
+		<English>Exploration</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_KNOWLEDGE_OF_THE_ETHER</Tag>
+		<Russian>&#199;&#237;&#224;&#237;&#232;&#229; &#253;&#244;&#232;&#240;&#224;</Russian>
+		<English>Knowledge of the Ether</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MILITARY_STRATEGY</Tag>
+		<Russian>&#194;&#238;&#229;&#237;&#237;&#224;&#255; &#241;&#242;&#240;&#224;&#242;&#229;&#227;&#232;&#255;</Russian>
+		<English>Military Strategy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SMELTING</Tag>
+		<Russian>&#206;&#225;&#240;&#224;&#225;&#238;&#242;&#234;&#224; &#236;&#229;&#242;&#224;&#235;&#235;&#224;</Russian>
+		<English>Smelting</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_STEALTH</Tag>
+		<Russian>&#204;&#224;&#241;&#234;&#232;&#240;&#238;&#226;&#234;&#224;</Russian>
+		<English>Stealth</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TRACKING</Tag>
+		<Russian>&#194;&#251;&#241;&#235;&#229;&#230;&#232;&#226;&#224;&#237;&#232;&#229;</Russian>
+		<English>Tracking</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WINTER_TECH_I</Tag>
+		<Russian>&#199;&#232;&#236;&#224; I</Russian>
+		<English>Winter Tech I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WINTER_TECH_II</Tag>
+		<Russian>&#199;&#232;&#236;&#224; II</Russian>
+		<English>Winter Tech II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WINTER_TECH_III</Tag>
+		<Russian>&#199;&#232;&#236;&#224; III</Russian>
+		<English>Winter Tech III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_WINTER_TECH_IV</Tag>
+		<Russian>&#199;&#232;&#236;&#224; IV</Russian>
+		<English>Winter Tech IV</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TERRAIN_COAST_FROZEN</Tag>
+		<Russian>&#199;&#224;&#236;&#229;&#240;&#231;&#248;&#229;&#229; &#239;&#238;&#225;&#229;&#240;&#229;&#230;&#252;&#229;</Russian>
+		<English>Frozen Coast</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TIME_AD</Tag>
+		<Russian>&#221;&#239;&#238;&#245;&#224; &#235;&#252;&#228;&#224;, %d1_Date &#227;.</Russian>
+		<English>Age of Ice, yr %d1_Date</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ASSASSIN</Tag>
+		<Russian>&#192;&#241;&#241;&#224;&#241;&#232;&#237;</Russian>
+		<English>Assassin</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BELENUS</Tag>
+		<Russian>&#193;&#229;&#235;&#229;&#237;&#243;&#241;</Russian>
+		<English>Belenus the Swordsman</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BELENUS_MACEMAN</Tag>
+		<Russian>&#193;&#229;&#235;&#229;&#237;&#243;&#241; (&#225;&#243;&#235;&#224;&#226;&#238;&#237;&#238;&#241;&#229;&#246;)</Russian>
+		<English>Belenus (Maceman)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BELENUS_PIKEMAN</Tag>
+		<Russian>&#193;&#229;&#235;&#229;&#237;&#243;&#241; (&#239;&#232;&#234;&#232;&#237;&#229;&#240;)</Russian>
+		<English>Belenus (Pikeman)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAERBULIN</Tag>
+		<Russian>&#202;&#229;&#240;&#225;&#243;&#235;&#232;&#237;</Russian>
+		<English>Caerbulin the Hunter</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAERBULIN_ASSASSIN</Tag>
+		<Russian>&#202;&#229;&#240;&#225;&#243;&#235;&#232;&#237; (&#224;&#241;&#241;&#224;&#241;&#232;&#237;)</Russian>
+		<English>Caerbulin (Assassin)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CAERBULIN_RANGER</Tag>
+		<Russian>&#202;&#229;&#240;&#225;&#243;&#235;&#232;&#237; (&#231;&#226;&#229;&#240;&#238;&#235;&#238;&#226;)</Russian>
+		<English>Caerbulin (Ranger)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHILDREN_OF_KYLORIN</Tag>
+		<Russian>&#196;&#229;&#242;&#232; &#202;&#232;&#235;&#238;&#240;&#232;&#237;&#224;</Russian>
+		<English>Children of Kylorin</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DISCIPLE_OF_MULCARN</Tag>
+		<Russian>&#198;&#240;&#229;&#246; &#204;&#243;&#235;&#234;&#224;&#240;&#237;&#224;</Russian>
+		<English>Disciple of Mulcarn</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DRIFA</Tag>
+		<Russian>&#196;&#240;&#224;&#234;&#238;&#237; &#196;&#240;&#232;&#244;&#224;</Russian>
+		<English>Drifa, the White Dragon</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EPONA</Tag>
+		<Russian>&#221;&#239;&#238;&#237;&#224;</Russian>
+		<English>Epona the Mystic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EPONA_SORCERESS</Tag>
+		<Russian>&#221;&#239;&#238;&#237;&#224; (&#226;&#238;&#235;&#248;&#229;&#225;&#237;&#232;&#246;&#224;)</Russian>
+		<English>Epona (Sorceress)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EPONA_WITCH</Tag>
+		<Russian>&#221;&#239;&#238;&#237;&#224; (&#234;&#238;&#235;&#228;&#243;&#237;&#252;&#255;)</Russian>
+		<English>Epona (Witch)</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIACRA</Tag>
+		<Russian>&#212;&#232;&#224;&#234;&#240;&#224;</Russian>
+		<English>Fiacra the North Wind</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FIREBALL</Tag>
+		<Russian>&#206;&#227;&#237;&#229;&#237;&#237;&#251;&#233; &#248;&#224;&#240;</Russian>
+		<English>Fireball</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FLOATING_EYE</Tag>
+		<Russian>&#205;&#229;&#225;&#229;&#241;&#237;&#238;&#229; &#238;&#234;&#238;</Russian>
+		<English>Floating Eye</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FROST_GIANT</Tag>
+		<Russian>&#200;&#237;&#229;&#232;&#241;&#242;&#251;&#233; &#226;&#229;&#235;&#232;&#234;&#224;&#237;</Russian>
+		<English>Frost Giant</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FROSTLING</Tag>
+		<Russian>&#212;&#240;&#238;&#241;&#242;&#235;&#232;&#237;&#227;</Russian>
+		<English>Frostling</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FROSTLING_ARCHER</Tag>
+		<Russian>&#212;&#240;&#238;&#241;&#242;&#235;&#232;&#237;&#227;-&#235;&#243;&#247;&#237;&#232;&#234;</Russian>
+		<English>Frostling Archer</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FROSTLING_HUNTER</Tag>
+		<Russian>&#212;&#240;&#238;&#241;&#242;&#235;&#232;&#237;&#227;-&#238;&#245;&#238;&#242;&#237;&#232;&#234;</Russian>
+		<English>Frostling Hunter</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GIANT_SPIDER</Tag>
+		<Russian>&#195;&#232;&#227;&#224;&#237;&#242;&#241;&#234;&#232;&#233; &#239;&#224;&#243;&#234;</Russian>
+		<English>Giant Spider</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GODSLAYER_BLADE</Tag>
+		<Russian>&#202;&#235;&#232;&#237;&#238;&#234; &#193;&#238;&#227;&#238;&#225;&#238;&#240;&#246;&#224;</Russian>
+		<English>Godslayer, Blade</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GODSLAYER_CROSSGUARD</Tag>
+		<Russian>&#195;&#224;&#240;&#228;&#224; &#193;&#238;&#227;&#238;&#225;&#238;&#240;&#246;&#224;</Russian>
+		<English>Godslayer, Crossguard</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GODSLAYER_HILT</Tag>
+		<Russian>&#208;&#243;&#234;&#238;&#255;&#242;&#252; &#193;&#238;&#227;&#238;&#225;&#238;&#240;&#246;&#224;</Russian>
+		<English>Godslayer, Hilt</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HATI</Tag>
+		<Russian>&#213;&#224;&#242;&#232;</Russian>
+		<English>Hati</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HORSEMAN</Tag>
+		<Russian>&#194;&#241;&#224;&#228;&#237;&#232;&#234;</Russian>
+		<English>Horseman</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HUNTER</Tag>
+		<Russian>&#206;&#245;&#238;&#242;&#237;&#232;&#234;</Russian>
+		<English>Hunter</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ICE_GOLEM</Tag>
+		<Russian>&#203;&#229;&#228;&#255;&#237;&#238;&#233; &#227;&#238;&#235;&#229;&#236;</Russian>
+		<English>Ice Golem</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JAVELIN_THROWER</Tag>
+		<Russian>&#202;&#238;&#239;&#252;&#229;&#236;&#229;&#242;&#224;&#242;&#229;&#235;&#252;</Russian>
+		<English>Javelin Thrower</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KYLORIN</Tag>
+		<Russian>&#202;&#232;&#235;&#238;&#240;&#232;&#237;</Russian>
+		<English>Kylorin</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_LUGH</Tag>
+		<Russian>&#194;&#238;&#235;&#234; &#203;&#224;&#227;</Russian>
+		<English>Lugh the Wolf</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MALUS</Tag>
+		<Russian>&#204;&#224;&#235;&#243;&#241;</Russian>
+		<English>Malus of the Five</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAMMOTH</Tag>
+		<Russian>&#204;&#224;&#236;&#238;&#237;&#242;</Russian>
+		<English>Mammoth</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAMMOTH_RIDER</Tag>
+		<Russian>&#205;&#224;&#229;&#231;&#228;&#237;&#232;&#234; &#237;&#224; &#236;&#224;&#236;&#238;&#237;&#242;&#229;</Russian>
+		<English>Mammoth Rider</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOKKA</Tag>
+		<Russian>&#204;&#238;&#234;&#234;&#224;</Russian>
+		<English>Mokka</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MULCARN</Tag>
+		<Russian>&#204;&#243;&#235;&#234;&#224;&#240;&#237;</Russian>
+		<English>Mulcarn, God of Winter</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_OGRE</Tag>
+		<Russian>&#206;&#227;&#240;</Russian>
+		<English>Ogre</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_OGRE_WARCHIEF</Tag>
+		<Russian>&#194;&#238;&#230;&#228;&#252; &#238;&#227;&#240;&#238;&#226;</Russian>
+		<English>Ogre Warchief</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ORB_OF_SUCELLUS</Tag>
+		<Russian>&#209;&#244;&#229;&#240;&#224; &#209;&#243;&#234;&#229;&#235;&#235;&#224;</Russian>
+		<English>Orb of Sucellus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PIT_BEAST</Tag>
+		<Russian>&#206;&#226;&#240;&#224;&#230;&#237;&#232;&#234;</Russian>
+		<English>Pit Beast</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RANGER</Tag>
+		<Russian>&#199;&#226;&#229;&#240;&#238;&#235;&#238;&#226;</Russian>
+		<English>Ranger</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SKELETON</Tag>
+		<Russian>&#209;&#234;&#229;&#235;&#229;&#242;</Russian>
+		<English>Skeleton</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STAG</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#238;&#235;&#229;&#237;&#252;</Russian>
+		<English>The Great Stag</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STONESKIN_OGRE</Tag>
+		<Russian>&#202;&#224;&#236;&#229;&#237;&#237;&#251;&#233; &#238;&#227;&#240;</Russian>
+		<English>Stoneskin Ogre</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TARANIS</Tag>
+		<Russian>&#210;&#224;&#240;&#224;&#237;&#232;&#241;</Russian>
+		<English>Taranis</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_WOLF_RIDER</Tag>
+		<Russian>&#205;&#224;&#229;&#231;&#228;&#237;&#232;&#234; &#237;&#224; &#226;&#238;&#235;&#234;&#229;</Russian>
+		<English>Wolf Rider</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KENNEL</Tag>
+		<Russian>&#194;&#238;&#235;&#247;&#252;&#255; &#234;&#235;&#229;&#242;&#234;&#224;</Russian>
+		<English>Kennel</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_EPONAS_HEARTH</Tag>
+		<Russian>&#206;&#247;&#224;&#227; &#221;&#239;&#238;&#237;&#251;</Russian>
+		<English>Epona's Hearth</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_AGRARIANISM</Tag>
+		<Russian>&#206;&#241;&#229;&#228;&#235;&#224;&#255; &#230;&#232;&#231;&#237;&#252;</Russian>
+		<English>Agrarianism</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MAGEOCRACY</Tag>
+		<Russian>&#204;&#224;&#227;&#238;&#234;&#240;&#224;&#242;&#232;&#255;</Russian>
+		<English>Mageocracy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_MILITARY_DISCIPLINE</Tag>
+		<Russian>&#194;&#238;&#229;&#237;&#237;&#238;&#229; &#226;&#240;&#229;&#236;&#255;</Russian>
+		<English>Military Discipline</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_NOMADIC</Tag>
+		<Russian>&#202;&#238;&#247;&#229;&#226;&#224;&#255; &#230;&#232;&#231;&#237;&#252;</Russian>
+		<English>Nomadic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVIC_RITES_OF_REMEMBRANCE</Tag>
+		<Russian>&#208;&#232;&#242;&#243;&#224;&#235;&#251; &#239;&#240;&#229;&#228;&#234;&#238;&#226;</Russian>
+		<English>Rites of Remembrance</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FFH_ARCHERY_BARRAGE</Tag>
+		<Russian>&#209;&#246;&#229;&#237;&#224;&#240;&#232;&#233; - &#238;&#225;&#241;&#242;&#240;&#229;&#235;</Russian>
+		<English>Fall from Heaven Archery Barrage</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FFH_CLIMATE</Tag>
+		<Russian>&#209;&#246;&#229;&#237;&#224;&#240;&#232;&#233; - &#239;&#238;&#227;&#238;&#228;&#224;</Russian>
+		<English>Fall from Heaven Climate</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FFH_HEROES</Tag>
+		<Russian>&#209;&#246;&#229;&#237;&#224;&#240;&#232;&#233; - &#227;&#229;&#240;&#238;&#232;</Russian>
+		<English>Fall from Heaven Heroes</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FFH_ITEMS</Tag>
+		<Russian>&#209;&#246;&#229;&#237;&#224;&#240;&#232;&#233; - &#239;&#240;&#229;&#228;&#236;&#229;&#242;&#251;</Russian>
+		<English>Fall from Heaven Items</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FFH_MONSTER_LAIRS</Tag>
+		<Russian>&#209;&#246;&#229;&#237;&#224;&#240;&#232;&#233; - &#235;&#238;&#227;&#238;&#226;&#224; &#236;&#238;&#237;&#241;&#242;&#240;&#238;&#226;</Russian>
+		<English>Fall from Heaven Monster Lairs</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FFH_SPELLS</Tag>
+		<Russian>&#209;&#246;&#229;&#237;&#224;&#240;&#232;&#233; - &#231;&#224;&#234;&#235;&#232;&#237;&#224;&#237;&#232;&#255;</Russian>
+		<English>Fall from Heaven Spells</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_HUT_1</Tag>
+		<Russian>&#203;&#238;&#227;&#238;&#226;&#238; &#244;&#240;&#238;&#241;&#242;&#235;&#232;&#237;&#227;&#238;&#226;</Russian>
+		<English>Frostling Den</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_ANIMAL</Tag>
+		<Russian>&#198;&#232;&#226;&#238;&#242;&#237;&#251;&#229;</Russian>
+		<English>Animal Units</English>
+	</TEXT>
+</Civ4GameText>

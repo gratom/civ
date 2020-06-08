@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_STABILITY_CHECKF2</Tag>
+		<Russian>(&#239;&#238;&#228;&#240;&#238;&#225;&#237;&#229;&#229; &#241;&#236;. &#253;&#234;&#240;&#224;&#237; &#253;&#234;&#238;&#237;&#238;&#236;&#232;&#247;&#229;&#241;&#234;&#238;&#227;&#238; &#241;&#238;&#226;&#229;&#242;&#237;&#232;&#234;&#224; [F2])</Russian>
+		<English>Check the Interior Advisor (F2) for details</English>
+		<French>Consulter le Conseiller aux affaires intérieures (F2) pour de plus amples détails</French>
+		<German>Einzelheiten im Inlandsberater (F2)</German>
+		<Italian>Per avere ulteriori dettagli consulta il Consigliere per gli interni (F2)</Italian>
+		<Spanish>Revisa el Consejero de Interior [F2] para obtener más detalles.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_CHECKF8</Tag>
+		<Russian>(&#239;&#238;&#228;&#240;&#238;&#225;&#237;&#229;&#229; &#241;&#236;. &#226; &#214;&#232;&#226;&#232;&#235;&#238;&#239;&#229;&#228;&#232;&#232; &#228;&#235;&#255; &#226;&#224;&#248;&#229;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#251; &#232;&#235;&#232; &#237;&#224; &#253;&#234;&#240;&#224;&#237;&#229; &#243;&#241;&#235;&#238;&#226;&#232;&#233; &#239;&#238;&#225;&#229;&#228;&#251; [F8])</Russian>
+		<English>Check the Victory Conditions (F8) for details</English>
+		<French>Consulter les conditions de victoire (F8) pour de plus amples détails</French>
+		<German>Einzelheiten in den Siegbedingungen (F8)</German>
+		<Italian>Per ulteriori dettagli consulta le Condizioni di vittoria (F8)</Italian>
+		<Spanish>Revisa las condiciones para la victoria [F8] para obtener más detalles.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_ACCOMPLISHED</Tag>
+		<Russian>&#196;&#238;&#241;&#242;&#232;&#227;&#237;&#243;&#242;&#238; &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#232;&#245; &#246;&#229;&#235;&#229;&#233;:</Russian>
+		<English>Historical goals accomplished:</English>
+		<French>Objectifs historiques accomplis :</French>
+		<German>Erreichte historische Ziele:</German>
+		<Italian>Obiettivi storici raggiunti:</Italian>
+		<Spanish>Objetivos históricos conseguidos:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LOADING_TIME</Tag>
+		<Russian>(&#207;&#240;&#229;&#228;&#239;&#238;&#235;&#238;&#230;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#229; &#226;&#240;&#229;&#236;&#255; &#231;&#224;&#227;&#240;&#243;&#231;&#234;&#232;:</Russian>
+		<English>(Estimated loading time:</English>
+		<French>(Temps de chargement estimé :</French>
+		<German>(Geschätzte Ladezeit:</German>
+		<Italian>(Tempo stimato di caricamento:</Italian>
+		<Spanish>(Tiempo estimado de carga:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MINUTES</Tag>
+		<Russian>&#236;&#232;&#237;.)</Russian>
+		<English>minutes)</English>
+		<French>minutes)</French>
+		<German>Minuten)</German>
+		<Italian>minuti)</Italian>
+		<Spanish>minuto/s)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FLIP_TO_US</Tag>
+		<Russian>&#206;&#234;&#240;&#229;&#241;&#242;&#237;&#251;&#229; &#227;&#238;&#240;&#238;&#228;&#224; &#239;&#240;&#232;&#241;&#238;&#229;&#228;&#232;&#237;&#232;&#235;&#232;&#241;&#252; &#234; &#237;&#224;&#248;&#229;&#233; &#236;&#238;&#235;&#238;&#228;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#229;!</Russian>
+		<English>Cities in the area have joined our rising empire!</English>
+		<French>Certaines villes de la région ont rejoint notre empire florissant !</French>
+		<German>Die Städte in der Gegend haben sich unserem aufstrebenden Reich angeschlossen!</German>
+		<Italian>Le città di questa regione si sono unite al nostro impero!</Italian>
+		<Spanish>¡Las ciudades de la zona se han unido a nuestro naciente imperio!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT</Tag>
+		<Russian>&#207;&#240;&#224;&#226;&#232;&#235;&#224; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#255;</Russian>
+		<English>RFC Concepts</English>
+		<French>
+			<Text>Concepts du RFC</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>RFC-Konzepte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nozioni di RFC</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Conceptos de RFC</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_RFCINTRO</Tag>
+		<Russian>&#196;&#238;&#225;&#240;&#238; &#239;&#238;&#230;&#224;&#235;&#238;&#226;&#224;&#242;&#252;!</Russian>
+		<English>Welcome to Rhye's and Fall of Civilization</English>
+		<French>Bienvenue à "Rhye's and Fall of Civilization"</French>
+		<German>Willkommen zu Rhye's and Fall of Civilization</German>
+		<Italian>Benvenuto a Rhye's and Fall</Italian>
+		<Spanish>Bienvenido a "Rhye's and Fall of Civilization"</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_RFCINTRO_PEDIA</Tag>
+		<Russian>[H1]&#196;&#238;&#225;&#240;&#238; &#239;&#238;&#230;&#224;&#235;&#238;&#226;&#224;&#242;&#252;![\H1]
+[PARAGRAPH:2]&#221;&#242;&#224; &#236;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#255; &#238;&#241;&#237;&#238;&#226;&#224;&#237;&#224; &#237;&#224; &#234;&#224;&#240;&#242;&#229; &#240;&#229;&#224;&#235;&#252;&#237;&#238;&#227;&#238; &#236;&#232;&#240;&#224;, &#238;&#237;&#224; &#239;&#240;&#229;&#228;&#241;&#242;&#224;&#226;&#235;&#255;&#229;&#242; &#241;&#238;&#225;&#238;&#233; &#239;&#238;&#239;&#251;&#242;&#234;&#243; &#226;&#238;&#241;&#241;&#238;&#231;&#228;&#224;&#242;&#252; &#232;&#241;&#242;&#238;&#240;&#232;&#254; &#199;&#229;&#236;&#235;&#232; &#232; &#255;&#226;&#235;&#255;&#229;&#242;&#241;&#255; &#239;&#240;&#238;&#228;&#238;&#235;&#230;&#229;&#237;&#232;&#229;&#236; &#239;&#238;&#239;&#243;&#235;&#255;&#240;&#237;&#238;&#233; &#236;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#232; "Rhye's of Civilization" &#228;&#235;&#255; Civilization III. 
+[PARAGRAPH:2]&#196;&#229;&#240;&#230;&#224;&#226;&#251; &#239;&#238;&#255;&#226;&#235;&#255;&#254;&#242;&#241;&#255; &#237;&#224; &#241;&#226;&#229;&#242; &#226; &#240;&#224;&#231;&#237;&#238;&#229; &#226;&#240;&#229;&#236;&#255;, &#226; &#241;&#238;&#238;&#242;&#226;&#229;&#242;&#241;&#242;&#226;&#232;&#232; &#241; &#245;&#238;&#228;&#238;&#236; &#232;&#241;&#242;&#238;&#240;&#232;&#232;. &#209; &#239;&#238;&#236;&#238;&#249;&#252;&#254; &#241;&#232;&#241;&#242;&#229;&#236;&#251; &#239;&#238;&#231;&#228;&#237;&#229;&#227;&#238; &#241;&#242;&#224;&#240;&#242;&#224; &#226;&#251; &#236;&#238;&#230;&#229;&#242;&#229; &#237;&#224;&#247;&#224;&#242;&#252; &#232;&#227;&#240;&#243; &#241;&#239;&#243;&#241;&#242;&#255; &#237;&#229;&#241;&#234;&#238;&#235;&#252;&#234;&#238; &#226;&#229;&#234;&#238;&#226; &#239;&#238;&#241;&#235;&#229; &#231;&#224;&#240;&#238;&#230;&#228;&#229;&#237;&#232;&#255; &#239;&#229;&#240;&#226;&#238;&#233; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#232;. &#194; &#253;&#242;&#238;&#236; &#241;&#235;&#243;&#247;&#224;&#229; &#234;&#238;&#236;&#239;&#252;&#254;&#242;&#229;&#240; &#224;&#226;&#242;&#238;&#236;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#232; &#241;&#236;&#238;&#228;&#229;&#235;&#232;&#240;&#243;&#229;&#242; &#240;&#224;&#231;&#226;&#232;&#242;&#232;&#229; &#236;&#232;&#240;&#224; &#228;&#238; &#243;&#234;&#224;&#231;&#224;&#237;&#237;&#238;&#233; &#228;&#224;&#242;&#251;. &#195;&#240;&#224;&#230;&#228;&#224;&#237;&#241;&#234;&#232;&#229; &#226;&#238;&#233;&#237;&#251; &#232; &#237;&#224;&#248;&#229;&#241;&#242;&#226;&#232;&#255; &#226;&#224;&#240;&#226;&#224;&#240;&#238;&#226; &#236;&#238;&#227;&#243;&#242; &#239;&#240;&#232;&#226;&#229;&#241;&#242;&#232; &#235;&#254;&#225;&#243;&#254; &#232;&#236;&#239;&#229;&#240;&#232;&#254; &#234; &#234;&#240;&#224;&#245;&#243;.
+[PARAGRAPH:2]&#211; &#234;&#224;&#230;&#228;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#251; &#229;&#241;&#242;&#252; &#241;&#226;&#238;&#229; &#243;&#237;&#232;&#234;&#224;&#235;&#252;&#237;&#238;&#229; &#239;&#240;&#229;&#232;&#236;&#243;&#249;&#229;&#241;&#242;&#226;&#238; &#232; &#232;&#237;&#228;&#232;&#226;&#232;&#228;&#243;&#224;&#235;&#252;&#237;&#251;&#229; &#243;&#241;&#235;&#238;&#226;&#232;&#255; &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#238;&#233; &#239;&#238;&#225;&#229;&#228;&#251;. &#202;&#238;&#236;&#239;&#252;&#254;&#242;&#229;&#240; &#241;&#242;&#240;&#238;&#232;&#242; &#237;&#238;&#226;&#251;&#229; &#227;&#238;&#240;&#238;&#228;&#224; &#226; &#241;&#238;&#238;&#242;&#226;&#229;&#242;&#241;&#242;&#226;&#232;&#232; &#241; &#232;&#245; &#240;&#229;&#224;&#235;&#252;&#237;&#251;&#236; &#236;&#229;&#241;&#242;&#238;&#239;&#238;&#235;&#238;&#230;&#229;&#237;&#232;&#229;&#236;, &#241;&#238;&#245;&#240;&#224;&#237;&#255;&#255; &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#232;&#229; &#237;&#224;&#231;&#226;&#224;&#237;&#232;&#255;.
+[PARAGRAPH:2]&#209;&#240;&#229;&#228;&#232; &#228;&#240;&#243;&#227;&#232;&#245; &#237;&#238;&#226;&#248;&#229;&#241;&#242;&#226; - &#253;&#239;&#232;&#228;&#229;&#236;&#232;&#232; &#247;&#243;&#236;&#251;, &#231;&#224;&#241;&#229;&#228;&#224;&#237;&#232;&#255; &#204;&#232;&#240;&#238;&#226;&#238;&#227;&#238; &#234;&#238;&#237;&#227;&#240;&#229;&#241;&#241;&#224; &#239;&#238; &#226;&#238;&#239;&#240;&#238;&#241;&#224;&#236; &#239;&#229;&#240;&#229;&#228;&#224;&#247;&#232; &#241;&#239;&#238;&#240;&#237;&#251;&#245; &#227;&#238;&#240;&#238;&#228;&#238;&#226;, &#228;&#232;&#237;&#224;&#236;&#232;&#247;&#229;&#241;&#234;&#238;&#229; &#240;&#224;&#241;&#239;&#240;&#229;&#228;&#229;&#235;&#229;&#237;&#232;&#229; &#240;&#229;&#241;&#243;&#240;&#241;&#238;&#226;, &#237;&#238;&#226;&#224;&#255; &#227;&#240;&#224;&#244;&#232;&#234;&#224; &#244;&#235;&#224;&#227;&#238;&#226; &#232; &#236;&#229;&#241;&#242;&#237;&#238;&#241;&#242;&#232;.
+[PARAGRAPH:2]&#215;&#242;&#238;&#225;&#251; &#239;&#238;&#228;&#240;&#238;&#225;&#237;&#229;&#229; &#243;&#231;&#237;&#224;&#242;&#252; &#238;&#225; &#253;&#242;&#238;&#233; &#236;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#232;, &#239;&#238;&#241;&#229;&#242;&#232;&#242;&#229; &#229;&#229; &#238;&#244;&#232;&#246;&#232;&#224;&#235;&#252;&#237;&#251;&#233; &#241;&#224;&#233;&#242; (http://rhye.civfanatics.net), &#244;&#238;&#240;&#243;&#236; &#240;&#224;&#231;&#240;&#224;&#225;&#238;&#242;&#247;&#232;&#234;&#238;&#226; (http://forums.civfanatics.com/forumdisplay.php?f=204) &#232;&#235;&#232; &#232;&#237;&#242;&#229;&#240;&#224;&#234;&#242;&#232;&#226;&#237;&#243;&#254; &#253;&#237;&#246;&#232;&#234;&#235;&#238;&#239;&#229;&#228;&#232;&#254; (http://wikirhye.wikidot.com/), &#234;&#238;&#242;&#238;&#240;&#224;&#255; &#241;&#238;&#228;&#229;&#240;&#230;&#232;&#242; &#236;&#237;&#238;&#230;&#229;&#241;&#242;&#226;&#238; &#239;&#238;&#235;&#229;&#231;&#237;&#251;&#245; &#241;&#238;&#226;&#229;&#242;&#238;&#226;.
+		</Russian>
+		<English>[H1]Welcome to Rhye's and Fall of Civilization[\H1]
+[PARAGRAPH:0]v1.181
+[PARAGRAPH:2]Rhye's and Fall of Civilization is a mod based on a map of the world, that attempts to make your single-player game a realistic simulator of history on Earth. It is the sequel to "Rhye's of Civilization", one of the most popular modpacks for Civilization III. 
+[PARAGRAPH:2]The mod revolves around the historic rise and fall of civilizations: they won't start all at the same time, but at appropriate dates. The human player can choose a late start (waiting for the game to play by itself) or take the control of one of the early civs and switch to another one later on. Civilizations will fall by many factors, including civil wars caused by inner instability, and scripted barbarian attacks.
+[PARAGRAPH:2]Each civilization is heavily differentiated from the others, thanks to the UPs (Unique Powers), the UHVs (Unique Historical Victory conditions), and a unique AI that will found cities in their historical place, with their historical name.
+[PARAGRAPH:2]Other additions include plague outbreaks, embassies, world congresses where cities are traded, dynamic spread of the resources, and new flag and terrain graphics.
+[PARAGRAPH:2]More detailed info is provided in the readme. For any other question you can visit the official site (http://rhye.civfanatics.net), the development forum (http://forums.civfanatics.com/forumdisplay.php?f=204) or the wiki (http://wikirhye.wikidot.com/), which contains useful strategy guides.
+		</English>
+		<French>[H1]Bienvenue à "Rhye's and Fall of Civilization"[\H1]
+[PARAGRAPH:0]v1.181
+[PARAGRAPH:2]"Rhye's and Fall of Civilization" est un mod basé sur une carte du monde, qui tente de rendre votre partie aussi proche de la réalité historique que possible. Il s'agit de la suite de "Rhye's of Civilization", l'un des mods les plus populaires de Civilization III . 
+[PARAGRAPH:2]Ce mod est basé sur l'essor et la chute des civilisations tels que ces événements se sont réellement déroulés. Toutes ces civilisations ne démarreront pas en même temps, mais aux dates appropriées. Le joueur peut choisir de commencer plus tard (la partie démarre alors sans lui) ou de prendre le contrôle de l'une des premières civilisations pour en changer plus tard. Les civilisations chuteront en raison de nombreux facteurs, dont les guerres civiles causées par l'instabilité du pays et les attaques barbares scénarisées.
+[PARAGRAPH:2]Chaque civilisation est extrêmement différente des autres, grâce aux PU (Pouvoirs uniques), aux VHU (conditions de Victoires Historiques Uniques), et à une IA unique qui fondera les villes dans leur site historique et leur donnera le nom qu’elles ont réellement porté.
+[PARAGRAPH:2]Parmi les nouveautés, citons les épidémies de peste, les ambassades, les congrès mondiaux où sont échangées les villes, la propagation dynamique des ressources et de nouveaux graphismes pour les drapeaux et les terrains.
+[PARAGRAPH:2]Vous trouverez de plus amples informations dans la section Lisez-moi. Vous pouvez également consulter le site officiel (http://rhye.civfanatics.net), le forum de développement (http://forums.civfanatics.com/forumdisplay.php?f=204) ou l'encyclopédie (http://wikirhye.wikidot.com/), laquelle contient de nombreux conseils stratégiques.
+		</French>
+		<German>[H1]Willkommen zu Rhye's and Fall of Civilization[\H1]
+[PARAGRAPH:0]v1.181
+[PARAGRAPH:2]Rhye's and Fall of Civilization ist ein Mod, das auf einer Weltkarte basiert, um das Einzelspielerspiel zu einer realistischen Simulation der Geschichte der Erde zu machen. Es ist die Fortsetzung von "Rhye's of Civilization", eines der bekanntesten Mod-Pakete für Civilization III. 
+[PARAGRAPH:2]Das Mod handelt vom historischen Aufstieg und Fall der Zivilisationen: Sie beginnen nicht alle zur selben Zeit, sondern zum passenden Zeitpunkt. Der Spieler kann einen späten Start wählen (und warten, bis das Spiel so weit vorangeschritten ist) oder die Kontrolle über eine der frühen Zivilisationen übernehmen und später dann zu einer anderen wechseln. Der Fall von Zivilisationen wird von vielen Faktoren beeinflusst, wie etwa Bürgerkriege, die durch innere Instabilität ausgelöst werden, und programmierte Angriffe von Barbaren.
+[PARAGRAPH:2]Jede Zivilisation unterscheidet sich von den anderen durch die EMs (Einzigartigen Mächte), die EHS (Einzigartigen historischen Siegbedingungen) und eine einzigartige KI, die Städte an historischen Orten und mit ihrem historischen Namen errichten wird.
+[PARAGRAPH:2]Andere Ergänzungen beinhalten den Ausbruch der Pest, Botschaften, Weltkongresse, bei denen ganze Städte verkauft werden, dynamische Verteilung der Ressourcen und neue Gelände- und  Flaggengrafiken.
+[PARAGRAPH:2]Genauere Informationen finden Sie im ReadMe. Für weitergehende Fragen, sehen Sie bitte auf der offiziellen Website (http://rhye.civfanatics.net), dem Entwicklerforum (http://forums.civfanatics.com/forumdisplay.php?f=204) oder der Wikipedia (http://wikirhye.wikidot.com/) nach. Hier finden Sie hilfreiche Strategietipps.
+		</German>
+		<Italian>[H1]Benvenuto a Rhye's and Fall[\H1]
+[PARAGRAPH:0]v1.181
+[PARAGRAPH:2]Rhye's and Fall è un mod basato sulla mappa del mondo, che cerca di trasformare una partita per giocatore singolo in un simulatore realistico di storia della Terra. È il seguito di "Rhye's of Civilization", uno dei mod più popolari per Civilization III. 
+[PARAGRAPH:2]Il mod ruota attorno all'ascesa e al declino delle civiltà storiche: non avranno tutte inizio nel medesimo istante, ma nella propria epoca. Il giocatore può scegliere un avvio in ritardo (lasciando che la partita evolva per conto proprio) o prendere subito il controllo di una delle prime civiltà e passare a un'altra in un secondo momento. Le civiltà cadranno per diversi motivi, tra cui guerre civili scatenate da instabilità interna, e attacchi dei barbari programmati.
+[PARAGRAPH:2]Ogni civiltà è estremamente diversa dalle altre, grazie ai poteri unici, le condizioni di vittoria uniche e una intelligenza artificiale che fonderà le città nella loro corretta ubicazione storica, con il loro vero nome.
+[PARAGRAPH:2]Tra le altre aggiunte ci sono le epidemie di peste, le ambasciate, i congressi mondiali nei quali scambiare le città, la diffusione dinamica delle risorse, e una nuova grafica per bandiere e terreno.
+[PARAGRAPH:2]Il file readme contiene ulteriori informazioni. Per ogni altro dubbio potete visitare il sito ufficiale (http://rhye.civfanatics.net), il forum degli sviluppatori (http://forums.civfanatics.com/forumdisplay.php?f=204) o la voce wiki (http://wikirhye.wikidot.com/), che contiene utili consigli strategici.
+		</Italian>
+		<Spanish>[H1]Bienvenido a "Rhye's and Fall of Civilization"[\H1]
+[PARAGRAPH:0]v1.181
+[PARAGRAPH:2]"Rhye's and Fall of Civilization" es un mod basado en un mapa del mundo que intenta hacer que la partida para un jugador sea una simulación realista de la historia de la Tierra. Es la secuela de "Rhye's of Civilization", uno de los mods más populares de Civilization III.  
+[PARAGRAPH:2]El mod gira en torno al auge y caída históricos de las civilizaciones: no empezarán todas al mismo tiempo, sino en las fechas precisas. El jugador puede optar por un inicio tardío (si se espera a que el programa juegue por sí mismo) o tomar el control de una de las civilizaciones y cambiar posteriormente a otra. Las civilizaciones pueden caer por muchos factores, incluyendo las guerras civiles causadas por la inestabilidad interna y los ataques bárbaros programados en el script.
+[PARAGRAPH:2]Cada civilización se diferencia acusadamente de las demás gracias a los PU (poderes únicos), las condiciones UVH (condiciones únicas para la victoria histórica) y una IA propia que ubicará las ciudades en su emplazamiento histórico y les dará su nombre real.
+[PARAGRAPH:2]Otros añadidos incluyen apariciones de plagas, embajadas, congresos mundiales donde se intercambian ciudades, una propagación dinámica de los recursos y nuevos gráficos para las marcas y terrenos.
+[PARAGRAPH:2]En el documento "Readme (Léame)" se proporciona información más detallada. Para cualquier otra cuestión, visita la página oficial (http://rhye.civfanatics.net), el foro de desarrollo (http://forums.civfanatics.com/forumdisplay.php?f=204) o la wikiguía (http://wikirhye.wikidot.com/), que contiene consejos útiles sobre la estrategia.
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

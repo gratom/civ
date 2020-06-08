@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- -->
+<!-- Game Text - Unit Upgrades for Civilopedia -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_EGYPT_DESC</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#242;&#255;&#237;&#229;</Russian>
+		<English>The Egyptians</English>
+		<French>
+			<Text>Les Egyptiens</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Ägypter:Die Ägypter:den Ägyptern</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Gli Egizi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Egipcios</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY00</Tag>
+		<Russian>&#205;&#224;&#240;&#238;&#228;&#251; &#205;&#232;&#235;&#224;</Russian>
+		<English>Peoples of the Nile</English>
+		<French>
+			<Text>Peuplades Nilotiques</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Nilvölker:Nilvölker:Nilvölkern</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli del Nilo</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos del Nilo</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY01</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#238;&#229; &#196;&#240;&#229;&#226;&#237;&#229;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Egyptian Old Kingdom</English>
+		<French>
+			<Text>Ancien Empire Egyptien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Altes Reich Ägyptens:Alte Reich Ägyptens:Alten Reich Ägyptens</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Antico Regno d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Antiguo de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY02</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#238;&#229; &#196;&#240;&#229;&#226;&#237;&#229;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Egyptian Old Kingdom</English>
+		<French>
+			<Text>Ancien Empire Egyptien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Altes Reich Ägyptens:Alte Reich Ägyptens:Alten Reich Ägyptens</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Antico Regno d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Antiguo de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY03</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#238;&#229; &#205;&#238;&#226;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Egyptian New Kingdom</English>
+		<French>
+			<Text>Nouvel Empire Egyptien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Neues Reich Ägyptens:Neue Reich Ägyptens:Neuen Reich Ägyptens</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Nuovo Regno d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Nuevo de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY04</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#238;&#229; &#205;&#238;&#226;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Egyptian New Kingdom</English>
+		<French>
+			<Text>Nouvel Empire Egyptien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Neues Reich Ägyptens:Neue Reich Ägyptens:Neuen Reich Ägyptens</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Nuovo Regno d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Nuevo de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY05</Tag>
+		<Russian>&#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Republic of Egypt</English>
+		<French>
+			<Text>République d'Egypte</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Republik Ägypten:Republik Ägypten:Republik Ägypten</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica d'Egitto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República de Egipto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY06</Tag>
+		<Russian>&#209;&#226;&#238;&#225;&#238;&#228;&#237;&#238;&#229; &#206;&#225;&#250;&#229;&#228;&#232;&#237;&#229;&#237;&#232;&#229; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Liberation Rally of Egypt</English>
+		<French>
+			<Text>Rassemblement pour la Libération de l'Egypte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Bewegung für die Befreiung Ägyptens:Bewegung für die Befreiung Ägyptens:Bewegung für die Befreiung Ägyptens</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Raduno per la Liberazione dell'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reunión por la Liberación del Egipto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY07</Tag>
+		<Russian>&#206;&#244;&#232;&#246;&#229;&#240;&#241;&#234;&#232;&#233; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Officers' Egypt</English>
+		<French>
+			<Text>Egypte des Officiers</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ägypten der Offiziere:Ägypten der Offiziere:Ägypten der Offiziere</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Egitto degli Ufficiali</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Egipto de los Oficiales</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY08</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#232;&#233; &#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242;</Russian>
+		<English>Sultanate of Egypt</English>
+		<French>
+			<Text>Sultanat d'Egypte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sultanat Ägypten:Sultanat Ägypten:Sultanat Ägypten</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sultanato d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sultanato de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY09</Tag>
+		<Russian>&#200;&#241;&#235;&#224;&#236;&#241;&#234;&#224;&#255; &#208;&#229;&#241;&#239;&#243;&#225;&#235;&#232;&#234;&#224; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Islamic Republic of Egypt</English>
+		<French>
+			<Text>République Islamique d'Egypte</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Islamische Republik Ägypten:Islamische Republik Ägypten:Islamischen Republik Ägypten</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Repubblica Islamica d'Egitto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>República Islámica de Egipto</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY10</Tag>
+		<Russian>&#196;&#229;&#226;&#255;&#242;&#224;&#255; &#209;&#224;&#242;&#240;&#224;&#239;&#232;&#255;</Russian>
+		<English>Ninth Satrapy</English>
+		<French>
+			<Text>Neuvième Satrape</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Neunte Satrapie:Neunte Satrapie:Neunten Satrapie</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Nona Satrapia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Novena Satrápia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY11</Tag>
+		<Russian>&#207;&#240;&#238;&#226;&#232;&#237;&#246;&#232;&#255; &#221;&#227;&#232;&#239;&#242;</Russian>
+		<English>Province of Aegyptus</English>
+		<French>
+			<Text>Province d'Aegyptus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Provinz Aegyptus:Provinz Aegyptus:Provinz Aegyptus</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Provincia di Aegyptus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Provincia de Aegyptus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY12</Tag>
+		<Russian>&#209;&#243;&#235;&#242;&#224;&#237;&#224;&#242; &#204;&#232;&#241;&#240;</Russian>
+		<English>Sultanate of Misr</English>
+		<French>
+			<Text>Sultanat de Misr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sultanat Misr:Sultanat Misr:Sultanat Misr</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sultanato di Misr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sultanato de Misr</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY13</Tag>
+		<Russian>&#194;&#232;&#246;&#229;-&#234;&#238;&#240;&#238;&#235;&#229;&#226;&#241;&#242;&#226;&#238; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Viceroyalty of Egypt</English>
+		<French>
+			<Text>Vice-Royauté d'Egypte</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vizekönigreich Ägypten:Vizekönigreich Ägypten:Vizekönigreich Ägypten</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Vicereame d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Virreinato de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY14</Tag>
+		<Russian>&#212;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#224;&#255; &#239;&#238;&#228;&#236;&#224;&#237;&#228;&#224;&#242;&#237;&#224;&#255; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#255; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>French Mandate of Egypt</English>
+		<French>
+			<Text>Mandat Français d'Egypte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Französisches Mandat Ägypten:Französische Mandat Ägypten:Französischen Mandat Ägypten</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Mandato Francese d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mandato Francés de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY15</Tag>
+		<Russian>&#193;&#240;&#232;&#242;&#224;&#237;&#241;&#234;&#232;&#233; &#229;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#232;&#233; &#239;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242;</Russian>
+		<English>British Protectorate of Egypt</English>
+		<French>
+			<Text>Protectorat Britannique d'Egypte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Britisches Protektorat Ägypten:Britische Protektorat Ägypten:Britischen Protektorat Ägypten</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Protettorato Britannico d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Protectorado Inglés de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY16</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#232;&#233; &#240;&#229;&#233;&#245;&#241;&#234;&#238;&#236;&#232;&#241;&#241;&#224;&#240;&#232;&#224;&#242;</Russian>
+		<English>Reichskommissariat Egypt</English>
+		<French>
+			<Text>Reichskommissariat d'Egypte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Reichskommissariat Ägypten:Reichskommissariat Ägypten:Reichskommissariat Ägypten</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Reichskommissariat d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reichskommissariat d'Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY17</Tag>
+		<Russian>&#209;&#238;&#226;&#229;&#242;&#241;&#234;&#232;&#233; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Soviet Egypt</English>
+		<French>
+			<Text>Egypte Soviétique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sowjetägypten:Sowjetägypten:Sowjetägypten</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Egitto Sovietico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Egipto Soviético</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY18</Tag>
+		<Russian>&#197;&#227;&#232;&#239;&#229;&#242;&#241;&#234;&#238;&#229; &#213;&#224;&#237;&#241;&#242;&#226;&#238;</Russian>
+		<English>Ilkhanate of Egypt</English>
+		<French>
+			<Text>Ilkhanat d'Egypte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ilkhanat Ägypten:Ilkhanat Ägypten:Ilkhanat Ägypten</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Ilkhanato d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Iljanato de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY19</Tag>
+		<Russian>&#221;&#255;&#235;&#229;&#242; &#204;&#232;&#241;&#232;&#240;</Russian>
+		<English>Eyalet of Misir</English>
+		<French>
+			<Text>Eyalet de Misir</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eyalet Misir:Eyalet Misir:Eyalet Misir</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Eyalet di Misir</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eyalet de Misir</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY20</Tag>
+		<Russian>&#194;&#224;&#241;&#241;&#224;&#235;&#252;&#237;&#238;&#229; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#238; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Tributary Egyptian State</English>
+		<French>
+			<Text>Etat Egyptien Tributaire</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tributstaat Ägypten:Tributstaat Ägypten:Tributstaat Ägypten</Text>
+			<Gender>Male:Male:Male</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Stato Egiziano Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estado Egipcio Tributario</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DN_EGY21</Tag>
+		<Russian>&#207;&#240;&#238;&#242;&#229;&#234;&#242;&#238;&#240;&#224;&#242; &#197;&#227;&#232;&#239;&#229;&#242;</Russian>
+		<English>Protectorate of Egypt</English>
+		<French>
+			<Text>Protectorat d'Egypte</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Protektorat Ägypten:Protektorat Ägypten:Protektorat Ägypten</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Protettorato d'Egitto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Protectorado de Egipto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

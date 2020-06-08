@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Tim McCracken (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<!-- UNIT STUFF -->
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AFTERWORLD</Tag>
+		<Russian>&#222;&#237;&#232;&#242; &#228;&#240;&#243;&#227;&#238;&#227;&#238; &#236;&#232;&#240;&#224;</Russian>
+		<English>Afterworld Unit</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MACHINERYPOPUP</Tag>
+		<Russian>&#202;&#238;&#237;&#241;&#238;&#235;&#232;</Russian>
+		<English>Consoles </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_BLASTWALLS</Tag>
+		<Russian>&#199;&#224;&#249;&#232;&#242;&#237;&#251;&#229; &#241;&#242;&#229;&#237;&#251;</Russian>
+		<English>Blast Walls</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_I</Tag>
+		<Russian>&#193;&#238;&#229;&#226;&#224;&#255; &#241;&#238;&#225;&#240;&#224;&#237;&#237;&#238;&#241;&#242;&#252; I</Russian>
+		<English>Combat Integrity  I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_II</Tag>
+		<Russian>&#193;&#238;&#229;&#226;&#224;&#255; &#241;&#238;&#225;&#240;&#224;&#237;&#237;&#238;&#241;&#242;&#252; II</Russian>
+		<English>Combat Integrity II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_III</Tag>
+		<Russian>&#193;&#238;&#229;&#226;&#224;&#255; &#241;&#238;&#225;&#240;&#224;&#237;&#237;&#238;&#241;&#242;&#252; III</Russian>
+		<English>Combat Integrity III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IFD_I</Tag>
+		<Russian>&#207;&#238;&#235;&#229;&#226;&#238;&#233; &#228;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240; I</Russian>
+		<English>Field Detonator I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IFD_II</Tag>
+		<Russian>&#207;&#238;&#235;&#229;&#226;&#238;&#233; &#228;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240; II</Russian>
+		<English>Field Detonator II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IFD_III</Tag>
+		<Russian>&#207;&#238;&#235;&#229;&#226;&#238;&#233; &#228;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240; III</Russian>
+		<English>Field Detonator III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AC_I</Tag>
+		<Russian>&#211;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229; I</Russian>
+		<English>Acceleration I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AC_II</Tag>
+		<Russian>&#211;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229; II</Russian>
+		<English>Acceleration II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AC_III</Tag>
+		<Russian>&#211;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229; III</Russian>
+		<English>Acceleration III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDA_I</Tag>
+		<Russian>&quot;&#216;&#224;&#227; &#242;&#229;&#237;&#232;&quot; I</Russian>
+		<English>Shadow Walk</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDA_II</Tag>
+		<Russian>&quot;&#216;&#224;&#227; &#242;&#229;&#237;&#232;&quot; II</Russian>
+		<English>Shadow Walk II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDA_III</Tag>
+		<Russian>&quot;&#216;&#224;&#227; &#242;&#229;&#237;&#232;&quot; III</Russian>
+		<English>Shadow Walk III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SILENCE</Tag>
+		<Russian>&quot;&#199;&#224;&#225;&#226;&#229;&#237;&#232;&#229;&quot;</Russian>
+		<English>Silence</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PM_I</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#226;&#238;&#241;&#239;&#240;&#232;&#255;&#242;&#232;&#255; I</Russian>
+		<English>Perception Module I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PM_II</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#226;&#238;&#241;&#239;&#240;&#232;&#255;&#242;&#232;&#255; II</Russian>
+		<English>Perception Module II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PM_III</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#226;&#238;&#241;&#239;&#240;&#232;&#255;&#242;&#232;&#255; III</Russian>
+		<English>Perception Module III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IRM_I</Tag>
+		<Russian>&#208;&#229;&#236;&#238;&#237;&#242;&#237;&#251;&#233; &#236;&#238;&#228;&#243;&#235;&#252; I</Russian>
+		<English>Repair I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IRM_II</Tag>
+		<Russian>&#208;&#229;&#236;&#238;&#237;&#242;&#237;&#251;&#233; &#236;&#238;&#228;&#243;&#235;&#252; II</Russian>
+		<English>Repair II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IRM_III</Tag>
+		<Russian>&#208;&#229;&#236;&#238;&#237;&#242;&#237;&#251;&#233; &#236;&#238;&#228;&#243;&#235;&#252; III</Russian>
+		<English>Repair III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FS_I</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#232;&#233; &#238;&#225;&#231;&#238;&#240; I</Russian>
+		<English>Far Sight I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FS_II</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#232;&#233; &#238;&#225;&#231;&#238;&#240; II</Russian>
+		<English>Far Sight II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FS_III</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#232;&#233; &#238;&#225;&#231;&#238;&#240; III</Russian>
+		<English>Far Sight III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WM_I</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#239;&#240;&#238;&#229;&#234;&#246;&#232;&#232; I</Russian>
+		<English>Projection Module I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WM_II</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#239;&#240;&#238;&#229;&#234;&#246;&#232;&#232; II</Russian>
+		<English>Projection Module II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WM_III</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#239;&#240;&#238;&#229;&#234;&#246;&#232;&#232; III</Russian>
+		<English>Projection Module III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MDA</Tag>
+		<Russian>&#204;&#196;</Russian>
+		<English>MDA</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MDA_I</Tag>
+		<Russian>&#204;&#196; I</Russian>
+		<English>MDA I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MDA_II</Tag>
+		<Russian>&#204;&#196; II</Russian>
+		<English>MDA II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MDA_III</Tag>
+		<Russian>&#204;&#196; III</Russian>
+		<English>MDA III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAUL</Tag>
+		<Russian>&quot;&#204;&#238;&#235;&#238;&#242;&quot;</Russian>
+		<English>MAUL</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAUL_I</Tag>
+		<Russian>&quot;&#204;&#238;&#235;&#238;&#242; I&quot;</Russian>
+		<English>MAUL I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAUL_II</Tag>
+		<Russian>&quot;&#204;&#238;&#235;&#238;&#242; II&quot;</Russian>
+		<English>MAUL II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MAUL_III</Tag>
+		<Russian>&quot;&#204;&#238;&#235;&#238;&#242; III&quot;</Russian>
+		<English>MAUL III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRECISION_I</Tag>
+		<Russian>&#204;&#229;&#242;&#234;&#238;&#241;&#242;&#252; I</Russian>
+		<English>Precision I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRECISION_II</Tag>
+		<Russian>&#204;&#229;&#242;&#234;&#238;&#241;&#242;&#252; II</Russian>
+		<English>Precision II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRECISION_III</Tag>
+		<Russian>&#204;&#229;&#242;&#234;&#238;&#241;&#242;&#252; III</Russian>
+		<English>Precision III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVADE_I</Tag>
+		<Russian>&#211;&#234;&#235;&#238;&#237;&#229;&#237;&#232;&#229; I</Russian>
+		<English>Evade I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVADE_II</Tag>
+		<Russian>&#211;&#234;&#235;&#238;&#237;&#229;&#237;&#232;&#229; II</Russian>
+		<English>Evade II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EVADE_III</Tag>
+		<Russian>&#211;&#234;&#235;&#238;&#237;&#229;&#237;&#232;&#229; III</Russian>
+		<English>Evade III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMMOBILIZE_I</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#235;&#232;&#247; I</Russian>
+		<English>Immobilize I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMMOBILIZE_II</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#235;&#232;&#247; II</Russian>
+		<English>Immobilize II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMMOBILIZE_III</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#235;&#232;&#247; III</Russian>
+		<English>Immobilize III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BARRIER</Tag>
+		<Russian>&#193;&#224;&#240;&#252;&#229;&#240;</Russian>
+		<English>Barrier </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BARRIER_I</Tag>
+		<Russian>&#193;&#224;&#240;&#252;&#229;&#240; I</Russian>
+		<English>Barrier I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BARRIER_II</Tag>
+		<Russian>&#193;&#224;&#240;&#252;&#229;&#240; II</Russian>
+		<English>Barrier II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BARRIER_III</Tag>
+		<Russian>&#193;&#224;&#240;&#252;&#229;&#240; III</Russian>
+		<English>Barrier III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INHIBITOR_I</Tag>
+		<Russian>&#200;&#237;&#227;&#232;&#225;&#232;&#242;&#238;&#240; I</Russian>
+		<English>Inhibitor I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INHIBITOR_II</Tag>
+		<Russian>&#200;&#237;&#227;&#232;&#225;&#232;&#242;&#238;&#240; II</Russian>
+		<English>Inhibitor II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INHIBITOR_III</Tag>
+		<Russian>&#200;&#237;&#227;&#232;&#225;&#232;&#242;&#238;&#240; III</Russian>
+		<English>Inhibitor III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AC</Tag>
+		<Russian>&#196;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#229; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229;</Russian>
+		<English>Enhance Acceleration</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AC_I</Tag>
+		<Russian>&#196;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#229; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229; I</Russian>
+		<English>Enhance Acceleration I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AC_II</Tag>
+		<Russian>&#196;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#229; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229; II</Russian>
+		<English>Enhance Acceleration II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AC_III</Tag>
+		<Russian>&#196;&#238;&#239;&#238;&#235;&#237;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#229; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#229; III</Russian>
+		<English>Enhance Acceleration III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AM</Tag>
+		<Russian>&#207;&#238;&#226;&#251;&#248;&#229;&#237;&#237;&#224;&#255; &#225;&#238;&#229;&#226;&#224;&#255; &#241;&#238;&#225;&#240;&#224;&#237;&#237;&#238;&#241;&#242;&#252;</Russian>
+		<English>Enhance Combat Integrity</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AM_I</Tag>
+		<Russian>&#207;&#238;&#226;&#251;&#248;&#229;&#237;&#237;&#224;&#255; &#225;&#238;&#229;&#226;&#224;&#255; &#241;&#238;&#225;&#240;&#224;&#237;&#237;&#238;&#241;&#242;&#252; I</Russian>
+		<English>Enhance Combat Integrity I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AM_II</Tag>
+		<Russian>&#207;&#238;&#226;&#251;&#248;&#229;&#237;&#237;&#224;&#255; &#225;&#238;&#229;&#226;&#224;&#255; &#241;&#238;&#225;&#240;&#224;&#237;&#237;&#238;&#241;&#242;&#252; II</Russian>
+		<English>Enhance Combat Integrity II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENH_AM_III</Tag>
+		<Russian>&#207;&#238;&#226;&#251;&#248;&#229;&#237;&#237;&#224;&#255; &#225;&#238;&#229;&#226;&#224;&#255; &#241;&#238;&#225;&#240;&#224;&#237;&#237;&#238;&#241;&#242;&#252; III</Russian>
+		<English>Enhance Combat Integrity III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPAWN_I</Tag>
+		<Russian>&#209;&#238;&#231;&#228;&#224;&#237;&#232;&#229; I</Russian>
+		<English>Spawn I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPAWN_II</Tag>
+		<Russian>&#209;&#238;&#231;&#228;&#224;&#237;&#232;&#229; II</Russian>
+		<English>Spawn II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPAWN_III</Tag>
+		<Russian>&#209;&#238;&#231;&#228;&#224;&#237;&#232;&#229; III</Russian>
+		<English>Spawn III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONTROL1</Tag>
+		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#252; I</Russian>
+		<English>Control</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONTROL2</Tag>
+		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#252; II</Russian>
+		<English>Control II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONTROL3</Tag>
+		<Russian>&#202;&#238;&#237;&#242;&#240;&#238;&#235;&#252; III</Russian>
+		<English>Control III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_TREE2</Tag>
+		<Russian>&#196;&#229;&#240;&#229;&#226;&#238; 2</Russian>
+		<English>Tree 2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_TREE3</Tag>
+		<Russian>&#196;&#229;&#240;&#229;&#226;&#238; 3</Russian>
+		<English>Tree 3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_FLOOR1</Tag>
+		<Russian>&#207;&#238;&#235; 1</Russian>
+		<English>Floor 1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_FLOOR2</Tag>
+		<Russian>&#207;&#238;&#235; 2</Russian>
+		<English>Floor 2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_GROUND1</Tag>
+		<Russian>&#207;&#238;&#247;&#226;&#224; 1</Russian>
+		<English>Ground 1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_GROUND2</Tag>
+		<Russian>&#207;&#238;&#247;&#226;&#224; 2</Russian>
+		<English>Ground 2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_RUBBLE1</Tag>
+		<Russian>&#202;&#224;&#236;&#229;&#237;&#252; 1</Russian>
+		<English>Rubble 1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_RUBBLE2</Tag>
+		<Russian>&#202;&#224;&#236;&#229;&#237;&#252; 2</Russian>
+		<English>Rubble 2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_RUBBLE3</Tag>
+		<Russian>&#202;&#224;&#236;&#229;&#237;&#252; 3</Russian>
+		<English>Rubble 3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_ROAD</Tag>
+		<Russian>&#196;&#238;&#240;&#238;&#227;&#224;</Russian>
+		<English>Road</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_SKELETAL1</Tag>
+		<Russian>&#199;&#228;&#224;&#237;&#232;&#229; 1</Russian>
+		<English>Skeletal Building 1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_SKELETAL2</Tag>
+		<Russian>&#199;&#228;&#224;&#237;&#232;&#229; 2</Russian>
+		<English>Skeletal Building 2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_MACHINERY1</Tag>
+		<Russian>&#204;&#229;&#245;&#224;&#237;&#232;&#231;&#236; 1</Russian>
+		<English>Machinery 1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_MACHINERY2</Tag>
+		<Russian>&#204;&#229;&#245;&#224;&#237;&#232;&#231;&#236; 2</Russian>
+		<English>Machinery 2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_MACHINERY3</Tag>
+		<Russian>&#204;&#229;&#245;&#224;&#237;&#232;&#231;&#236; 3</Russian>
+		<English>Machinery 3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_GLOW</Tag>
+		<Russian>&#209;&#242;&#240;&#224;&#237;&#237;&#238;&#229; &#241;&#226;&#229;&#247;&#229;&#237;&#232;&#229;</Russian>
+		<English>Strange Glow</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_BROKEN_WALL2</Tag>
+		<Russian>&#208;&#224;&#231;&#226;&#224;&#235;&#232;&#237;&#251;</Russian>
+		<English>Broken Wall</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SAVAGE_BLEEDER</Tag>
+		<Russian>&#209;&#226;&#232;&#240;&#229;&#239;&#251;&#233; &#239;&#224;&#240;&#224;&#231;&#232;&#242;</Russian>
+		<English>Savage Bleeder</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RABID_BLEEDER</Tag>
+		<Russian>&#193;&#229;&#248;&#229;&#237;&#251;&#233; &#239;&#224;&#240;&#224;&#231;&#232;&#242;</Russian>
+		<English>Rabid Bleeder</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COMBAT_SENTINEL</Tag>
+		<Russian>&#209;&#242;&#240;&#224;&#230; I</Russian>
+		<English>Combat Sentinel I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COMBAT_SENTINEL2</Tag>
+		<Russian>&#209;&#242;&#240;&#224;&#230; II</Russian>
+		<English>Combat Sentinel II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_COMBAT_SENTINEL3</Tag>
+		<Russian>&#209;&#242;&#240;&#224;&#230; III</Russian>
+		<English>Combat Sentinel III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BODYTANK</Tag>
+		<Russian>&#193;&#238;&#229;&#246;</Russian>
+		<English>Bodytank</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MODULES</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#232;</Russian>
+		<English>Modules</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MODULE</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252;</Russian>
+		<English>Module</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MODULESYSTEMS</Tag>
+		<Russian>&#209;&#232;&#241;&#242;&#229;&#236;&#251; &#236;&#238;&#228;&#243;&#235;&#229;&#233;</Russian>
+		<English>Module Systems</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REPSYSTEM</Tag>
+		<Russian>&#209;&#232;&#241;&#242;&#229;&#236;&#251; &#240;&#229;&#236;&#238;&#237;&#242;&#224;</Russian>
+		<English>Repair System</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GUARDIANSYSTEM</Tag>
+		<Russian>&#199;&#224;&#249;&#232;&#242;&#237;&#251;&#229; &#241;&#232;&#241;&#242;&#229;&#236;&#251;</Russian>
+		<English>Guardian System</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ASSAULTSYSTEM</Tag>
+		<Russian>&#216;&#242;&#243;&#240;&#236;&#238;&#226;&#251;&#229; &#241;&#232;&#241;&#242;&#229;&#236;&#251;</Russian>
+		<English>Assault System</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_WALLS</Tag>
+		<Russian>&#209;&#242;&#229;&#237;&#251; &#228;&#240;&#243;&#227;&#238;&#227;&#238; &#236;&#232;&#240;&#224;</Russian>
+		<English>Afterworld Walls</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_CLOSED_DOOR</Tag>
+		<Russian>&#199;&#224;&#234;&#240;&#251;&#242;&#224;&#255; &#228;&#226;&#229;&#240;&#252;</Russian>
+		<English>Closed Door</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FEATURE_AFTERWORLD_OPEN_DOOR</Tag>
+		<Russian>&#206;&#242;&#234;&#240;&#251;&#242;&#224;&#255; &#228;&#226;&#229;&#240;&#252;</Russian>
+		<English>Open Door</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_JAL</Tag>
+		<Russian>&#196;&#230;&#229;&#235;</Russian>
+		<English>Jal</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SEVER</Tag>
+		<Russian>&#209;&#232;&#226;&#224;&#240;</Russian>
+		<English>Sever</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RAGAH</Tag>
+		<Russian>&#208;&#253;&#227;</Russian>
+		<English>Ragah</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ATTICUS</Tag>
+		<Russian>&#192;&#242;&#242;&#232;&#234;&#243;&#241;</Russian>
+		<English>Atticus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RIEST</Tag>
+		<Russian>&#208;&#224;&#233;&#241;&#242;</Russian>
+		<English>Riest</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REMAINING_ARMOR</Tag>
+		<Russian>&#206;&#241;&#242;&#224;&#242;&#238;&#234; &#225;&#240;&#238;&#237;&#229;&#231;&#224;&#249;&#232;&#242;&#251;</Russian>
+		<English>Remaining Armor</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_REMAINING_ACTIONS</Tag>
+		<Russian>&#206;&#241;&#242;&#224;&#242;&#238;&#234; &#238;&#247;&#234;&#238;&#226; &#228;&#229;&#233;&#241;&#242;&#226;&#232;&#255;</Russian>
+		<English>Remaining Actions</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ARMOR</Tag>
+		<Russian>&#193;&#240;&#238;&#237;&#229;&#231;&#224;&#249;&#232;&#242;&#224;</Russian>
+		<English>Armor</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACTIONS</Tag>
+		<Russian>&#206;&#247;&#234;&#232; &#228;&#229;&#233;&#241;&#242;&#226;&#232;&#255;</Russian>
+		<English>Actions</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_OLDRECON_DEVICE</Tag>
+		<Russian>&#208;&#224;&#231;&#226;&#229;&#228;&#224;&#239;&#239;&#224;&#240;&#224;&#242;</Russian>
+		<English>Reconnaissance device</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TERMINAL</Tag>
+		<Russian>&#210;&#229;&#240;&#236;&#232;&#237;&#224;&#235; &#241;&#226;&#255;&#231;&#232;</Russian>
+		<English>Transfer link Terminal</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DETONATOR</Tag>
+		<Russian>&#196;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240;</Russian>
+		<English>Detonator</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BLEEDER</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#231;&#232;&#242;</Russian>
+		<English>Bleeder</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FERAL</Tag>
+		<Russian>&#213;&#232;&#249;&#237;&#232;&#234;</Russian>
+		<English>Feral</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ENTITY</Tag>
+		<Russian>&#209;&#243;&#249;&#229;&#241;&#242;&#226;&#238;</Russian>
+		<English>Entity</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SHADOW</Tag>
+		<Russian>&quot;&#216;&#224;&#227; &#242;&#229;&#237;&#232;&quot;</Russian>
+		<English>Shadow walk</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCLUDE</Tag>
+		<Russian>&#202;&#238;&#237;&#229;&#246; &#245;&#238;&#228;&#224;</Russian>
+		<English>Conclude Turn</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INVESTIGATE</Tag>
+		<Russian>&#208;&#224;&#231;&#226;&#229;&#228;&#234;&#224;</Russian>
+		<English>Investigate</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEVEL</Tag>
+		<Russian>&#211;&#240;&#238;&#226;&#229;&#237;&#252;</Russian>
+		<English>Level </English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RANGE_DAMAGE</Tag>
+		<Russian>&#211;&#240;&#238;&#237; &#226; &#228;&#224;&#235;&#252;&#237;&#229;&#236; &#225;&#238;&#254;</Russian>
+		<English>Range Damage</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MELEE_DAMAGE</Tag>
+		<Russian>&#211;&#240;&#238;&#237; &#226; &#225;&#235;&#232;&#230;&#237;&#229;&#236; &#225;&#238;&#254;</Russian>
+		<English>Melee Damage</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EXPERIENCE</Tag>
+		<Russian>&#206;&#239;&#251;&#242;</Russian>
+		<English>Experience</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INFINITY_SKIRMISH</Tag>
+		<Russian>&#193;&#229;&#241;&#234;&#238;&#237;&#229;&#247;&#237;&#224;&#255; &#239;&#229;&#240;&#229;&#241;&#242;&#240;&#229;&#235;&#234;&#224;</Russian>
+		<English>Infinity Skirmish</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BODY_TANK</Tag>
+		<Russian>&#193;&#240;&#238;&#237;&#229;&#234;&#238;&#241;&#242;&#254;&#236;</Russian>
+		<English>Body Tank</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FD</Tag>
+		<Russian>&#207;&#238;&#235;&#229;&#226;&#238;&#233; &#228;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240;</Russian>
+		<English>Field Detonator</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#225;&#240;&#238;&#237;&#232;</Russian>
+		<English>Armor Module</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACM</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#255;</Russian>
+		<English>Acceleration Module</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDA</Tag>
+		<Russian>&#200;&#231;&#238;&#227;&#229;&#237;&#237;&#251;&#233; &#243;&#241;&#234;&#238;&#240;&#232;&#242;&#229;&#235;&#252;</Russian>
+		<English>Isogen Displacement Accelerator</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PM</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#226;&#238;&#241;&#239;&#240;&#232;&#255;&#242;&#232;&#255;</Russian>
+		<English>Perception Module</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IRM</Tag>
+		<Russian>&#208;&#229;&#236;&#238;&#237;&#242;&#237;&#251;&#233; &#236;&#238;&#228;&#243;&#235;&#252;</Russian>
+		<English>Isogen Reconstructive Module</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FS</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#232;&#233; &#238;&#225;&#231;&#238;&#240;</Russian>
+		<English>Far Sight</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MDA</Tag>
+		<Russian>&#204;&#229;&#242;&#224;&#225;&#224;&#240;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#228;&#229;&#242;&#238;&#237;&#224;&#246;&#232;&#255;</Russian>
+		<English>Metabaric Detonating Aura</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CI</Tag>
+		<Russian>&#214;&#229;&#240;&#229;&#225;&#240;&#224;&#235;&#252;&#237;&#251;&#233; &#232;&#237;&#227;&#232;&#225;&#232;&#242;&#238;&#240;</Russian>
+		<English>Cerebral Inhibitor</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RWF</Tag>
+		<Russian>&#209;&#234;&#238;&#240;&#238;&#241;&#242;&#240;&#229;&#235;&#252;&#237;&#238;&#229; &#242;&#229;&#240;&#236;&#238;&#255;&#228;&#229;&#240;&#237;&#238;&#229; &#238;&#240;&#243;&#230;&#232;&#229;</Russian>
+		<English>Recurrent Fusion Weapon</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RFW_I</Tag>
+		<Russian>&#209;&#210;&#206; I</Russian>
+		<English>Improved RFW I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RFW_II</Tag>
+		<Russian>&#209;&#210;&#206; II</Russian>
+		<English>Improved RFW II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RFW_III</Tag>
+		<Russian>&#209;&#210;&#206; III</Russian>
+		<English>Improved RFW III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_I</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#225;&#240;&#238;&#237;&#232; I</Russian>
+		<English>Armor Module I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_II</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#225;&#240;&#238;&#237;&#232; II</Russian>
+		<English>Armor Module II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_III</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#225;&#240;&#238;&#237;&#232; III</Russian>
+		<English>Armor Module III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_IV</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#225;&#240;&#238;&#237;&#232; IV</Russian>
+		<English>Armor Module IV</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_V</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#225;&#240;&#238;&#237;&#232; V</Russian>
+		<English>Armor Module V</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_AM_VI</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#225;&#240;&#238;&#237;&#232; VI</Russian>
+		<English>Armor Module VI</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IFD_I</Tag>
+		<Russian>&#207;&#238;&#235;&#229;&#226;&#238;&#233; &#228;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240; I</Russian>
+		<English>Increased Field Detonator I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IFD_II</Tag>
+		<Russian>&#207;&#238;&#235;&#229;&#226;&#238;&#233; &#228;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240; II</Russian>
+		<English>Increased Field Detonator II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IFD_III</Tag>
+		<Russian>&#207;&#238;&#235;&#229;&#226;&#238;&#233; &#228;&#229;&#242;&#238;&#237;&#224;&#242;&#238;&#240; III</Russian>
+		<English>Increased Field Detonator III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACM_I</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#255; I</Russian>
+		<English>Acceleration Module I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACM_II</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#255; II</Russian>
+		<English>Acceleration Module II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACM_III</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#255; III</Russian>
+		<English>Acceleration Module III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACM_IV</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#255; IV</Russian>
+		<English>Acceleration Module IV</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACM_V</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#255; V</Russian>
+		<English>Acceleration Module V</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACM_VI</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#243;&#241;&#234;&#238;&#240;&#229;&#237;&#232;&#255; VI</Russian>
+		<English>Acceleration Module VI</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDA_I</Tag>
+		<Russian>&#200;&#231;&#238;&#227;&#229;&#237;&#237;&#251;&#233; &#243;&#241;&#234;&#238;&#240;&#232;&#242;&#229;&#235;&#252; I</Russian>
+		<English>Isogen Displacement Accelerator I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDA_II</Tag>
+		<Russian>&#200;&#231;&#238;&#227;&#229;&#237;&#237;&#251;&#233; &#243;&#241;&#234;&#238;&#240;&#232;&#242;&#229;&#235;&#252; II</Russian>
+		<English>Isogen Displacement Accelerator II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IDA_III</Tag>
+		<Russian>&#200;&#231;&#238;&#227;&#229;&#237;&#237;&#251;&#233; &#243;&#241;&#234;&#238;&#240;&#232;&#242;&#229;&#235;&#252; III</Russian>
+		<English>Isogen Displacement Accelerator III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PM_I</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#226;&#238;&#241;&#239;&#240;&#232;&#255;&#242;&#232;&#255; I</Russian>
+		<English>Perception Module I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PM_II</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#226;&#238;&#241;&#239;&#240;&#232;&#255;&#242;&#232;&#255; II</Russian>
+		<English>Perception Module II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PM_III</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#226;&#238;&#241;&#239;&#240;&#232;&#255;&#242;&#232;&#255; III</Russian>
+		<English>Perception Module III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IRM_I</Tag>
+		<Russian>&#208;&#229;&#236;&#238;&#237;&#242;&#237;&#251;&#233; &#236;&#238;&#228;&#243;&#235;&#252; I</Russian>
+		<English>Isogen Reconstructive Module I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IRM_II</Tag>
+		<Russian>&#208;&#229;&#236;&#238;&#237;&#242;&#237;&#251;&#233; &#236;&#238;&#228;&#243;&#235;&#252; II</Russian>
+		<English>Isogen Reconstructive Module II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IRM_III</Tag>
+		<Russian>&#208;&#229;&#236;&#238;&#237;&#242;&#237;&#251;&#233; &#236;&#238;&#228;&#243;&#235;&#252; III</Russian>
+		<English>Isogen Reconstructive Module III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FS_I</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#232;&#233; &#238;&#225;&#231;&#238;&#240; I</Russian>
+		<English>Far Sight I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FS_II</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#232;&#233; &#238;&#225;&#231;&#238;&#240; II</Russian>
+		<English>Far Sight II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_FS_III</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#232;&#233; &#238;&#225;&#231;&#238;&#240; III</Russian>
+		<English>Far Sight III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WM_I</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#228;&#229;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#232; I</Russian>
+		<English>Warp Module I</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WM_II</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#228;&#229;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#232; II</Russian>
+		<English>Warp Module II</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_WM_III</Tag>
+		<Russian>&#204;&#238;&#228;&#243;&#235;&#252; &#228;&#229;&#244;&#238;&#240;&#236;&#224;&#246;&#232;&#232; III</Russian>
+		<English>Warp Module III</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TACTICALSYSTEM</Tag>
+		<Russian>&#210;&#224;&#234;&#242;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#241;&#232;&#241;&#242;&#229;&#236;&#224;</Russian>
+		<English>Tactical System</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_NEWOBJECTIVE</Tag>
+		<Russian>&#205;&#238;&#226;&#238;&#229; &#231;&#224;&#228;&#224;&#237;&#232;&#229;</Russian>
+		<English>New Objective</English>
+	</TEXT>
+</Civ4GameText>

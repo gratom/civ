@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_KI</Tag>
+		<Russian>&#202;&#243;&#235;&#252;&#242; &#202;&#232;</Russian>
+		<English>Ki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ENKI</Tag>
+		<Russian>&#202;&#243;&#235;&#252;&#242; &#221;&#237;&#234;&#232;</Russian>
+		<English>Enki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ENLIL</Tag>
+		<Russian>&#202;&#243;&#235;&#252;&#242; &#221;&#237;&#235;&#232;&#235;&#255;</Russian>
+		<English>Enlil</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_INANNA</Tag>
+		<Russian>&#202;&#243;&#235;&#252;&#242; &#200;&#237;&#224;&#237;&#237;&#251;</Russian>
+		<English>Inanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_NANNA</Tag>
+		<Russian>&#202;&#243;&#235;&#252;&#242; &#205;&#224;&#237;&#237;&#251;</Russian>
+		<English>Nanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_UTU</Tag>
+		<Russian>&#202;&#243;&#235;&#252;&#242; &#211;&#242;&#243;</Russian>
+		<English>Utu</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_AN</Tag>
+		<Russian>&#202;&#243;&#235;&#252;&#242; &#192;&#237;&#224;</Russian>
+		<English>An</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KI_TEMPLE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#202;&#232;</Russian>
+		<English>Temple of Ki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KI_CATHEDRAL</Tag>
+		<Russian>&#209;&#238;&#225;&#238;&#240; &#202;&#232;</Russian>
+		<English>Cathedral of Ki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KI_MONASTERY</Tag>
+		<Russian>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252; &#202;&#232;</Russian>
+		<English>Monastery of Ki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KI_SHRINE</Tag>
+		<Russian>&#214;&#232;&#242;&#224;&#228;&#229;&#235;&#252; &#199;&#229;&#236;&#235;&#232;</Russian>
+		<English>Techtonic Citadel</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENKI_TEMPLE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#221;&#237;&#234;&#232;</Russian>
+		<English>Temple of Enki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENKI_CATHEDRAL</Tag>
+		<Russian>&#209;&#238;&#225;&#238;&#240; &#221;&#237;&#234;&#232;</Russian>
+		<English>Cathedral of Enki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENKI_MONASTERY</Tag>
+		<Russian>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252; &#221;&#237;&#234;&#232;</Russian>
+		<English>Monastery of Enki</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENKI_SHRINE</Tag>
+		<Russian>&#206;&#224;&#231;&#232;&#241; &#226;&#229;&#247;&#237;&#238;&#233; &#230;&#232;&#231;&#237;&#232;</Russian>
+		<English>Everliving Oasis</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENLIL_TEMPLE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#221;&#237;&#235;&#232;&#235;&#255;</Russian>
+		<English>Temple of Enlil</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENLIL_CATHEDRAL</Tag>
+		<Russian>&#209;&#238;&#225;&#238;&#240; &#221;&#237;&#235;&#232;&#235;&#255;</Russian>
+		<English>Cathedral of Enlil</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENLIL_MONASTERY</Tag>
+		<Russian>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252; &#221;&#237;&#235;&#232;&#235;&#255;</Russian>
+		<English>Monastery of Enlil</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ENLIL_SHRINE</Tag>
+		<Russian>&#206;&#225;&#232;&#242;&#229;&#235;&#252; &#225;&#243;&#240;&#252;</Russian>
+		<English>Church of the Tempest</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INANNA_TEMPLE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#200;&#237;&#224;&#237;&#237;&#251;</Russian>
+		<English>Temple of Inanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INANNA_CATHEDRAL</Tag>
+		<Russian>&#209;&#238;&#225;&#238;&#240; &#200;&#237;&#224;&#237;&#237;&#251;</Russian>
+		<English>Cathedral of Inanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INANNA_MONASTERY</Tag>
+		<Russian>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252; &#200;&#237;&#224;&#237;&#237;&#251;</Russian>
+		<English>Monastery of Inanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INANNA_SHRINE</Tag>
+		<Russian>&#206;&#239;&#235;&#238;&#242; &#200;&#237;&#224;&#237;&#237;&#251;</Russian>
+		<English>Inanna's Stronghold</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NANNA_TEMPLE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#205;&#224;&#237;&#237;&#251;</Russian>
+		<English>Temple of Nanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NANNA_CATHEDRAL</Tag>
+		<Russian>&#209;&#238;&#225;&#238;&#240; &#205;&#224;&#237;&#237;&#251;</Russian>
+		<English>Cathedral of Nanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NANNA_MONASTERY</Tag>
+		<Russian>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252; &#205;&#224;&#237;&#237;&#251;</Russian>
+		<English>Monastery of Nanna</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NANNA_SHRINE</Tag>
+		<Russian>&#209;&#243;&#236;&#229;&#240;&#229;&#247;&#237;&#251;&#233; &#245;&#240;&#224;&#236;</Russian>
+		<English>Twilight Observatory</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UTU_TEMPLE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#211;&#242;&#243;</Russian>
+		<English>Temple of Utu</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UTU_CATHEDRAL</Tag>
+		<Russian>&#209;&#238;&#225;&#238;&#240; &#211;&#242;&#243;</Russian>
+		<English>Cathedral of Utu</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UTU_MONASTERY</Tag>
+		<Russian>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252; &#211;&#242;&#243;</Russian>
+		<English>Monastery of Utu</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_UTU_SHRINE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#209;&#238;&#235;&#237;&#246;&#224;</Russian>
+		<English>Temple of the Sun</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AN_TEMPLE</Tag>
+		<Russian>&#213;&#240;&#224;&#236; &#192;&#237;&#224;</Russian>
+		<English>Temple of An</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AN_CATHEDRAL</Tag>
+		<Russian>&#209;&#238;&#225;&#238;&#240; &#192;&#237;&#224;</Russian>
+		<English>Cathedral of An</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AN_MONASTERY</Tag>
+		<Russian>&#204;&#238;&#237;&#224;&#241;&#242;&#251;&#240;&#252; &#192;&#237;&#224;</Russian>
+		<English>Monastery of An</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_AN_SHRINE</Tag>
+		<Russian>&#193;&#224;&#241;&#242;&#232;&#238;&#237; &#192;&#237;&#224;</Russian>
+		<English>Bastion of An</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KI_MISSIONARY</Tag>
+		<Russian>&#204;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240; &#202;&#232;</Russian>
+		<English>Ki Missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ENKI_MISSIONARY</Tag>
+		<Russian>&#204;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240; &#221;&#237;&#234;&#232;</Russian>
+		<English>Enki Missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ENLIL_MISSIONARY</Tag>
+		<Russian>&#204;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240; &#221;&#237;&#235;&#232;&#235;&#255;</Russian>
+		<English>Enlil Missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_INANNA_MISSIONARY</Tag>
+		<Russian>&#204;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240; &#200;&#237;&#224;&#237;&#237;&#251;</Russian>
+		<English>Inanna Missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NANNA_MISSIONARY</Tag>
+		<Russian>&#204;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240; &#205;&#224;&#237;&#237;&#251;</Russian>
+		<English>Nanna Missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_UTU_MISSIONARY</Tag>
+		<Russian>&#204;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240; &#211;&#242;&#243;</Russian>
+		<English>Utu Missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AN_MISSIONARY</Tag>
+		<Russian>&#204;&#232;&#241;&#241;&#232;&#238;&#237;&#229;&#240; &#192;&#237;&#224;</Russian>
+		<English>An Missionary</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_KI_STRENGTH</Tag>
+		<Russian>&#209;&#232;&#235;&#224; &#202;&#232;</Russian>
+		<English>Ki's Strength</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_KI_AID</Tag>
+		<Russian>&#207;&#238;&#236;&#238;&#249;&#252; &#231;&#229;&#236;&#235;&#232;</Russian>
+		<English>Earthen Aid</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_KI_DEFENSE</Tag>
+		<Russian>&#199;&#224;&#249;&#232;&#242;&#224; &#231;&#229;&#236;&#235;&#232;</Russian>
+		<English>Earthen Defense</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_ENKI_BLESSING</Tag>
+		<Russian>&#193;&#235;&#224;&#227;&#238;&#241;&#235;&#238;&#226;&#229;&#237;&#232;&#229; &#239;&#240;&#232;&#235;&#232;&#226;&#224;</Russian>
+		<English>Tidal Blessing</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_ENKI_ESCORT</Tag>
+		<Russian>&#207;&#238;&#234;&#240;&#238;&#226;&#232;&#242;&#229;&#235;&#252;&#241;&#242;&#226;&#238; &#221;&#237;&#234;&#232;</Russian>
+		<English>Enki's Escort</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_ENLIL_GUIDANCE</Tag>
+		<Russian>&#205;&#224;&#241;&#242;&#224;&#226;&#235;&#229;&#237;&#232;&#229; &#221;&#237;&#235;&#232;&#235;&#255;</Russian>
+		<English>Enlil's Guidance</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_ENLIL_PROTECTION</Tag>
+		<Russian>&#199;&#224;&#249;&#232;&#242;&#224; &#226;&#229;&#242;&#240;&#224;</Russian>
+		<English>Protection of Wind</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_ENLIL_WINDFALL</Tag>
+		<Russian>&#211;&#240;&#224;&#227;&#224;&#237; &#221;&#237;&#235;&#232;&#235;&#255;</Russian>
+		<English>Enlil's Windfall</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_INANNA_TEACHING</Tag>
+		<Russian>&#211;&#247;&#229;&#237;&#232;&#229; &#200;&#237;&#224;&#237;&#237;&#251;</Russian>
+		<English>Inanna's Teachings</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_INANNA_FURY</Tag>
+		<Russian>&#193;&#243;&#233;&#237;&#224;&#255; &#255;&#240;&#238;&#241;&#242;&#252;</Russian>
+		<English>Unbridled Fury</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_NANNA_CLOAK</Tag>
+		<Russian>&#205;&#224;&#234;&#232;&#228;&#234;&#224; &#205;&#224;&#237;&#237;&#251;</Russian>
+		<English>Nanna's Cloak</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_UTU_RETRIBUTION</Tag>
+		<Russian>&#194;&#238;&#231;&#236;&#229;&#231;&#228;&#232;&#229; &#211;&#242;&#243;</Russian>
+		<English>Utu's Retribution</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_UTU_ALLEGIANCE</Tag>
+		<Russian>&#207;&#240;&#229;&#228;&#224;&#237;&#237;&#238;&#241;&#242;&#252; &#211;&#242;&#243;</Russian>
+		<English>Utu's Allegiance</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_GOO_AN_COMFORT</Tag>
+		<Russian>&#206;&#242;&#228;&#251;&#245; &#192;&#237;&#224;</Russian>
+		<English>An's Comfort</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GODS_UNIT_INQUISITOR</Tag>
+		<Russian>&#200;&#237;&#234;&#226;&#232;&#231;&#232;&#242;&#238;&#240;</Russian>
+		<English>Inquisitor</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_RELIGIOUS</Tag>
+		<Russian>&#208;&#229;&#235;&#232;&#227;&#232;&#238;&#231;&#237;&#224;&#255;</Russian>
+		<English>Religious</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_KI_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#229;&#240;&#243;&#254;&#249;&#232;&#229; &#226; &#202;&#232;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Kian</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ENKI_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#229;&#240;&#243;&#254;&#249;&#232;&#229; &#226; &#221;&#237;&#234;&#232;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Enkian</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ENLIL_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#229;&#240;&#243;&#254;&#249;&#232;&#229; &#226; &#221;&#237;&#235;&#232;&#235;&#255;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Enlilist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_INANNA_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#229;&#240;&#243;&#254;&#249;&#232;&#229; &#226; &#200;&#237;&#224;&#237;&#237;&#243;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Inannan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_NANNA_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#229;&#240;&#243;&#254;&#249;&#232;&#229; &#226; &#205;&#224;&#237;&#237;&#243;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Nannan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_UTU_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#229;&#240;&#243;&#254;&#249;&#232;&#229; &#226; &#211;&#242;&#243;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Utuan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_AN_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#229;&#240;&#243;&#254;&#249;&#232;&#229; &#226; &#192;&#237;&#224;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Anist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+	</TEXT>
+</Civ4GameText>

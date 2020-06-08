@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Strategy -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_HINT_1</Tag>
+		<Russian>&#215;&#242;&#238;&#225;&#251; &#239;&#240;&#232;&#237;&#255;&#242;&#252; &#237;&#224; &#241;&#235;&#243;&#230;&#225;&#243; &#237;&#224;&#229;&#236;&#237;&#232;&#234;&#224;, &#237;&#224;&#230;&#236;&#232;&#242;&#229; &#234;&#237;&#238;&#239;&#234;&#243; &#241; &#232;&#231;&#238;&#225;&#240;&#224;&#230;&#229;&#237;&#232;&#229;&#236; &#242;&#238;&#239;&#238;&#240;&#224; &#226; &#235;&#229;&#226;&#238;&#236; &#226;&#229;&#240;&#245;&#237;&#229;&#236; &#243;&#227;&#235;&#243; &#253;&#234;&#240;&#224;&#237;&#224;.</Russian>
+		<English>To hire a mercenary, click on the "axe" icon in the upper left hand side of the screen.</English>
+		<French>Pour engager un mercenaire, cliquez sur la hache dans la partie supérieure gauche de l'écran.</French>
+		<German>Um einen Söldner anzuheuern, klicken Sie auf das Axt-Symbol in der oberen linken Ecke des Bildschirms.</German>
+		<Italian>Per assoldare dei mercenari clicca sull'icona a forma di "ascia" in alto a sinistra, sullo schermo.</Italian>
+		<Spanish>Para contratar a un mercenario, haz clic en el icono del hacha que hay en la parte superior izquierda de la pantalla.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_2</Tag>
+		<Russian>&#204;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#254; Rhye's of Civilization &#228;&#235;&#255; &#232;&#227;&#240;&#251; Civilization III &#242;&#238;&#235;&#252;&#234;&#238; &#231;&#224; 2005 &#227;. &#231;&#224;&#227;&#240;&#243;&#231;&#232;&#235;&#232; 25 &#242;&#251;&#241;&#255;&#247; &#232;&#227;&#240;&#238;&#234;&#238;&#226;.</Russian>
+		<English>Rhye's of Civilization for Civilization III reached 25,000 downloads in 2005.</English>
+		<French>Rhye's of Civilization pour Civilization III a été téléchargé 25 000 fois en 2005.</French>
+		<German>Rhye's of Civilization für Civilization III wurde im Jahr 2005 25.000 Mal heruntergeladen.</German>
+		<Italian>Rhye's of Civilization per Civilization III ha raggiunto i 25.000 download nel 2005.</Italian>
+		<Spanish>El mod de Rhye para Civilization III fue descargado más de 25.000 veces en 2005.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_3</Tag>
+		<Russian>&#207;&#229;&#240;&#229;&#245;&#238;&#228; &#238;&#242; &#224;&#226;&#242;&#238;&#240;&#232;&#242;&#224;&#240;&#232;&#231;&#236;&#224; &#234; &#228;&#229;&#236;&#238;&#234;&#240;&#224;&#242;&#232;&#232; &#226;&#251;&#231;&#238;&#226;&#229;&#242; &#239;&#229;&#240;&#232;&#238;&#228; &#237;&#229;&#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#232;.</Russian>
+		<English>Switching from an authoritarian civic to Democracy will cause a period of instability.</English>
+		<French>Si vous passez d'une doctrine autoritaire à la démocratie, votre empire connaîtra une période d'instabilité.</French>
+		<German>Durch den Wechsel von einer autoritären Staatsform zur Demokratie wird eine Phase der Instabilität ausgelöst.</German>
+		<Italian>Passare da una forma di governo autoritaria alla democrazia causerà un periodo di instabilità.</Italian>
+		<Spanish>Al cambiar de un principio autoritario a la Democracia se producirá un periodo de inestabilidad.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_4</Tag>
+		<Russian>&#211;&#231;&#237;&#224;&#242;&#252;, &#234;&#224;&#234;&#232;&#229; &#239;&#224;&#240;&#224;&#236;&#229;&#242;&#240;&#251; &#226;&#235;&#232;&#255;&#254;&#242; &#237;&#224; &#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#252;, &#236;&#238;&#230;&#237;&#238; &#243; &#244;&#232;&#237;&#224;&#237;&#241;&#238;&#226;&#238;&#227;&#238; &#241;&#238;&#226;&#229;&#242;&#237;&#232;&#234;&#224;.</Russian>
+		<English>You can check the parameters influencing your stability in the Financial Advisor</English>
+		<French>Vous pouvez consulter les paramètres qui influencent votre stabilité dans l'écran du conseiller financier.</French>
+		<German>Sie können die für Ihre Stabilität entscheidenden Parameter im Finanzberater überprüfen.</German>
+		<Italian>Puoi controllare i parametri che influenzano la tua stabilità nella schermata del consigliere economico.</Italian>
+		<Spanish>Puedes comprobar los parámetros que afectan a tu estabilidad en el consejero financiero.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_5</Tag>
+		<Russian>&#192;&#226;&#242;&#238;&#240; &#253;&#242;&#238;&#233; &#236;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#232;, &#232;&#231;&#226;&#229;&#241;&#242;&#237;&#251;&#233; &#239;&#238;&#228; &#239;&#241;&#229;&#226;&#228;&#238;&#237;&#232;&#236;&#238;&#236; Rhye, &#239;&#229;&#240;&#229;&#240;&#224;&#225;&#224;&#242;&#251;&#226;&#224;&#229;&#242; &#226;&#241;&#229; &#247;&#224;&#241;&#242;&#232; &#232; &#228;&#238;&#239;&#238;&#235;&#237;&#229;&#237;&#232;&#255; &#232;&#227;&#240;&#251;, &#237;&#224;&#247;&#232;&#237;&#224;&#255; &#241; Civilization II (&#241;&#246;&#229;&#237;&#224;&#240;&#232;&#233; Ultima Online: T2A).</Russian>
+		<English>Rhye has been making Civilization mods since Civ II, with his "Ultima Online: T2A" scenario, and has continued modding through each of Civilization's sequels and expansions.</English>
+		<French>Rhye a commencé à créer des mods pour Civilization avec son scénario "Ultima Online: T2A" pour Civ II et continue depuis à sortir des mods pour chaque nouvel épisode de Civilization et leurs extensions.</French>
+		<German>Angefangen mit seinem "Ultima Online: T2A"-Szenario entwickelt Rhye schon seit Civilization II Civ-Mods und hat dies auch für alle folgenden Civilization-Teile und -Expansion Packs getan.</German>
+		<Italian>Rhye ha iniziato a creare mod per Civilization ai tempi di Civilization II, con lo scenario "Ultima Online: T2A", e ha continuato a creare mod per ognuno dei sequel e delle espansioni di Civilization.</Italian>
+		<Spanish>Rhye diseña mods para Civilization desde Civilization II, con su escenario "Ultima Online: T2A". Desde entonces ha realizado mods para todas las secuelas y expansiones.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_6</Tag>
+		<Russian>&#206;&#242;&#234;&#240;&#251;&#242;&#232;&#229; &#236;&#229;&#228;&#232;&#246;&#232;&#237;&#251; &#238;&#225;&#229;&#231;&#238;&#239;&#224;&#241;&#232;&#242; &#226;&#224;&#241; &#238;&#242; &#247;&#243;&#236;&#251;</Russian>
+		<English>Discovering medicine will keep you safe from plagues</English>
+		<French>La découverte de la médecine vous protégera de la peste.</French>
+		<German>Die Erforschung der "Medizin" bewahrt Sie vor der Pest.</German>
+		<Italian>Scoprendo la medicina sarai al sicuro dalla peste.</Italian>
+		<Spanish>Cuando descubras la Medicina estarás a salvo de la peste.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_7</Tag>
+		<Russian>&#206;&#244;&#232;&#246;&#232;&#224;&#235;&#252;&#237;&#251;&#233; &#241;&#224;&#233;&#242; &#228;&#224;&#237;&#237;&#238;&#233; &#236;&#238;&#228;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#232;: http://rhye.civfanatics.net</Russian>
+		<English>Visit the official site for "Rhye's and Fall" at http://rhye.civfanatics.net</English>
+		<French>Visitez le site officiel de "Rhye's and Fall" sur http://rhye.civfanatics.net (site en anglais).</French>
+		<German>Besuchen Sie die offizielle "Rhye's and Fall"-Website unter http://rhye.civfanatics.net.</German>
+		<Italian>Visita il sito ufficiale di "Rhye's and Fall" all'indirizzo http://rhye.civfanatics.net</Italian>
+		<Spanish>Visita el sitio web oficial de "Rhye's and Fall" en http://rhye.civfanatics.net</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_8</Tag>
+		<Russian>&#205;&#224;&#239;&#224;&#226; &#237;&#224; &#208;&#238;&#241;&#241;&#232;&#254;, &#226;&#251; &#243;&#231;&#237;&#224;&#229;&#242;&#229;, &#239;&#240;&#224;&#226;&#228;&#243; &#235;&#232; &#241;&#234;&#224;&#231;&#224;&#235; &#205;&#224;&#239;&#238;&#235;&#229;&#238;&#237; &#239;&#240;&#238; "&#227;&#229;&#237;&#229;&#240;&#224;&#235;&#224; &#199;&#232;&#236;&#243;".</Russian>
+		<English>Attack Russia to find out if Napoleon was right when he talked about "General Winter"</English>
+		<French>Attaquez la Russie pour découvrir si Napoléon avait raison au sujet de l'hiver russe.</French>
+		<German>Greifen Sie Russland an und überzeugen Sie sich von der Richtigkeit von Napoleons Aussage über den "General Winter".</German>
+		<Italian>Attacca la Russia per scoprire se Napoleone aveva ragione, quando parlava del "Generale Inverno".</Italian>
+		<Spanish>Ataca Rusia y comprobarás si Napoleón tenía razón al hablar del "general Invierno".</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_9</Tag>
+		<Russian>&#192;&#246;&#242;&#229;&#234;&#241;&#234;&#232;&#229; &#226;&#238;&#229;&#237;&#237;&#251;&#229; &#254;&#237;&#232;&#242;&#251; &#236;&#238;&#227;&#243;&#242; &#238;&#225;&#240;&#224;&#249;&#224;&#242;&#252; &#226; &#240;&#224;&#225;&#241;&#242;&#226;&#238; &#239;&#238;&#225;&#229;&#230;&#228;&#229;&#237;&#237;&#251;&#245;.</Russian>
+		<English>Aztec military units can enslave defeated enemy units</English>
+		<French>Les unités militaires aztèques peuvent asservir les unités ennemies vaincues.</French>
+		<German>Aztekische Militäreinheiten können besiegte feindliche Einheiten versklaven.</German>
+		<Italian>Le unità militari azteche possono schiavizzare le unità nemiche sconfitte.</Italian>
+		<Spanish>Las unidades militares aztecas pueden esclavizar a las unidades enemigas derrotadas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_10</Tag>
+		<Russian>&#210;&#229;&#240;&#236;&#232;&#237; "&#236;&#232;&#240;&#232;&#224;&#228;&#251;" (10000) &#239;&#240;&#232;&#237;&#255;&#242; &#226; &#234;&#232;&#242;&#224;&#233;&#241;&#234;&#238;&#233; &#241;&#232;&#241;&#242;&#229;&#236;&#229; &#232;&#241;&#247;&#232;&#241;&#235;&#229;&#237;&#232;&#255;.</Russian>
+		<English>Myriads (meaning 10 000) are commonly used in Chinese numbering system</English>
+		<French>Le système numérique chinois utilise souvent le terme de myriade, équivalent à 10 000.</French>
+		<German>Myriaden (sprich 10.000) sind im chinesischen Zahlensystem allgemein gebräuchlich.</German>
+		<Italian>Le miriadi (che significa 10.000) vengono comunemente usate nel sistema di numerazione cinese.</Italian>
+		<Spanish>Las miríadas (que equivalen a 10.000) se utilizan con frecuencia en el sistema de numeración chino.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_11</Tag>
+		<Russian>"&#192;&#237;&#242;&#224;&#237;&#242;&#224;" &#239;&#238;-&#244;&#240;&#224;&#237;&#246;&#243;&#231;&#241;&#234;&#232; &#238;&#231;&#237;&#224;&#247;&#224;&#229;&#242; "&#241;&#238;&#227;&#235;&#224;&#241;&#232;&#229;".</Russian>
+		<English>"Entente" is the French word for diplomatic understanding</English>
+		<French>"Entente" est un terme utilisé pour parler des accords diplomatiques.</French>
+		<German>"Entente" ist das französische Wort für diplomatisches Einverständnis.</German>
+		<Italian>"Entente" è la parola francese che indica l'intesa diplomatica.</Italian>
+		<Spanish>"Entente" es un galicismo que significa acuerdo entre países.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_12</Tag>
+		<Russian>&#202;&#224;&#240;&#242;&#224;, &#237;&#224; &#234;&#238;&#242;&#238;&#240;&#238;&#233; &#239;&#240;&#238;&#232;&#241;&#245;&#238;&#228;&#232;&#242; &#232;&#227;&#240;&#224;, &#239;&#240;&#229;&#228;&#241;&#242;&#224;&#226;&#235;&#229;&#237;&#224; &#226; &#239;&#240;&#238;&#229;&#234;&#246;&#232;&#232; &#208;&#238;&#225;&#232;&#237;&#241;&#238;&#237;&#224;.</Russian>
+		<English>This Earth map is based on Robinson's projection</English>
+		<French>Cette carte de la Terre est basée sur la projection de Robinson.</French>
+		<German>Diese Weltkarte basiert auf der Robinson-Projektion.</German>
+		<Italian>Questa mappa della Terra si basa sulla proiezione di Robinson.</Italian>
+		<Spanish>Este mapamundi se basa en la proyección de Robinson.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_13</Tag>
+		<Russian>&#205;&#229; &#234;&#224;&#230;&#228;&#224;&#255; &#234;&#235;&#229;&#242;&#234;&#224; &#238;&#231;&#229;&#240;&#224; &#228;&#224;&#229;&#242; 2 &#229;&#228;&#232;&#237;&#232;&#246;&#251; &#239;&#232;&#249;&#232;. &#209;&#238;&#235;&#229;&#237;&#251;&#229; &#238;&#231;&#229;&#240;&#224; &#239;&#240;&#232;&#237;&#238;&#241;&#255;&#242; &#239;&#238; &#238;&#228;&#237;&#238;&#233; &#229;&#228;&#232;&#237;&#232;&#246;&#229;, &#234;&#224;&#234; &#239;&#240;&#232;&#225;&#240;&#229;&#230;&#237;&#251;&#229; &#234;&#235;&#229;&#242;&#234;&#232;.</Russian>
+		<English>Not every lake produces 2 food. Some are salt lakes, and thus produce 1 food, like coast.</English>
+		<French>Les lacs ne produisent pas tous 2 nourriture. Les lacs salés produisent seulement 1 nourriture, comme les côtes.</French>
+		<German>Nicht jeder See produziert 2 Nahrung. Einige von ihnen sind Salzwasserseen, die aus diesem Grund wie Küsten-Geländefelder nur 1 Nahrung produzieren.</German>
+		<Italian>Non tutti i laghi producono 2 cibo. Alcuni sono laghi salati, quindi producono 1 cibo, come la costa.</Italian>
+		<Spanish>No todos los lagos producen 2 alimentos. Algunos son salados y, por tanto, producen 1 alimento, como las costas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_14</Tag>
+		<Russian>&#215;&#229;&#240;&#229;&#239; &#237;&#224;&#228; &#227;&#238;&#240;&#238;&#228;&#238;&#236; &#238;&#231;&#237;&#224;&#247;&#224;&#229;&#242; &#239;&#240;&#232;&#248;&#229;&#241;&#242;&#226;&#232;&#229; &#247;&#243;&#236;&#251;! &#215;&#232;&#241;&#235;&#229;&#237;&#237;&#238;&#241;&#242;&#252; &#237;&#224;&#241;&#229;&#235;&#229;&#237;&#232;&#255; &#232; &#254;&#237;&#232;&#242;&#238;&#226; &#226; &#227;&#238;&#240;&#238;&#228;&#229; &#240;&#229;&#231;&#234;&#238; &#241;&#238;&#234;&#240;&#224;&#249;&#224;&#229;&#242;&#241;&#255;. &#215;&#242;&#238;&#225;&#251; &#241;&#236;&#255;&#227;&#247;&#232;&#242;&#252; &#239;&#238;&#241;&#235;&#229;&#228;&#241;&#242;&#226;&#232;&#255; &#247;&#243;&#236;&#251; &#232; &#243;&#236;&#229;&#237;&#252;&#248;&#232;&#242;&#252; &#229;&#229; &#239;&#240;&#238;&#228;&#238;&#235;&#230;&#232;&#242;&#229;&#235;&#252;&#237;&#238;&#241;&#242;&#252;, &#226;&#241;&#229;&#236;&#232; &#241;&#232;&#235;&#224;&#236;&#232; &#239;&#238;&#226;&#251;&#248;&#224;&#233;&#242;&#229; &#243;&#240;&#238;&#226;&#229;&#237;&#252; &#231;&#228;&#240;&#224;&#226;&#238;&#238;&#245;&#240;&#224;&#237;&#229;&#237;&#232;&#255;.</Russian>
+		<English>If you get a skull over your cities, it means they have the plague! The population and units in the city and in the surrounding region will probably decrease dramatically. To reduce the effects and the duration of plague, keep your cities healthy.</English>
+		<French>Si un crâne apparaît au-dessus d'une de vos villes, cela signifie qu'elle est frappée par la peste ! Attendez-vous alors à voir la population et les unités dans la ville et la région environnante diminuer considérablement. Pour réduire la durée et les effets de la peste, gardez vos villes en bonne santé.</French>
+		<German>Wenn ein Totenkopf über Ihren Städten eingeblendet wird, bedeutet dies, dass dort die Pest ausgebrochen ist! Die Anzahl der Bevölkerung und Einheiten in der betreffenden Stadt und ihrer näheren Umgebung werden aller Voraussicht nach dramatisch sinken. Um die Auswirkungen und Dauer der Pest zu reduzieren, sollten Sie den Gesundheitswert Ihrer Städte möglichst hoch halten.</German>
+		<Italian>Se vedi un teschio sulle tue città significa che c'è la peste! Popolazione e unità in città e nella zona circostante diminuiranno drasticamente. Per ridurre effetti e durata della peste mantieni in salute le tue città.</Italian>
+		<Spanish>Si aparece una calavera sobre tus ciudades... ¡es por que tienen la peste! La población y las unidades de la ciudad y su región circundante probablemente comiencen a decrecer dramáticamente. Para reducir los efectos y la duración de la peste, mantén elevada la salud de tus ciudades.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_15</Tag>
+		<Russian>&#215;&#243;&#236;&#224; &#240;&#224;&#241;&#239;&#240;&#238;&#241;&#242;&#240;&#224;&#237;&#255;&#229;&#242;&#241;&#255; &#239;&#238; &#242;&#238;&#240;&#227;&#238;&#226;&#251;&#236; &#239;&#243;&#242;&#255;&#236;, &#228;&#238;&#240;&#238;&#227;&#224;&#236; &#232; &#236;&#229;&#230;&#228;&#243; &#225;&#235;&#232;&#231;&#234;&#238; &#240;&#224;&#241;&#239;&#238;&#235;&#238;&#230;&#229;&#237;&#237;&#251;&#236;&#232; &#227;&#238;&#240;&#238;&#228;&#224;&#236;&#232;.</Russian>
+		<English>Plague can spread in many ways - through trade routes, along roads and between neighbouring cities.</English>
+		<French>La peste peut se propager de nombreuses façons. Elle peut être apportée par les routes commerciales, les routes et les villes voisines.</French>
+		<German>Die Pest kann sich auf viele Arten ausbreiten - über Handelswege, Straßen und zwischen benachbarten Städten.</German>
+		<Italian>La peste si può diffondere in molti modi: attraverso rotte commerciali, lungo le strade e tra città confinanti.</Italian>
+		<Spanish>La peste se puede propagar de muchas maneras, a través de las rutas comerciales, por los caminos o entre ciudades vecinas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_16</Tag>
+		<Russian>&#194;&#251;&#225;&#232;&#240;&#224;&#233;&#242;&#229; &#239;&#240;&#232;&#226;&#251;&#247;&#237;&#243;&#254; &#228;&#235;&#255; &#226;&#224;&#241; &#228;&#229;&#240;&#230;&#224;&#226;&#243;, &#232;&#237;&#224;&#247;&#229; &#232;&#227;&#240;&#224;&#242;&#252; &#225;&#243;&#228;&#229;&#242; &#241;&#235;&#238;&#230;&#237;&#229;&#229;.</Russian>
+		<English>The civilization you choose to play affects your difficulty every bit as much as the difficulty level you choose. Make sure to pick a civ that suits your playing style and your level of expertise.</English>
+		<French>La difficulté du jeu dépend tout autant du niveau de difficulté sélectionné que de la civilisation avec laquelle vous jouez. Veillez à choisir une civilisation qui correspond à votre façon de jouer et à votre niveau d'expérience.</French>
+		<German>Neben dem eingestellten Schwierigkeitsgrad wirkt sich auch die Wahl der Zivilisation auf das Schwierigkeitsniveau im Spiel aus. Achten Sie deshalb darauf, eine Zivilisation zu wählen, die Ihrem Spielstil und Ihrem Erfahrungsstand entspricht.</German>
+		<Italian>La civiltà che scegli influenza la difficoltà tanto quanto il livello di difficoltà che hai scelto. Assicurati di selezionare una civiltà che sia adatta al tuo stile di gioco e al tuo livello di esperienza.</Italian>
+		<Spanish>La civilización que elijas afecta a la dificultad tanto como el nivel de dificultad que elijas. Elige una civilización que se acomode a tu estilo de juego y tu nivel de experiencia.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_17</Tag>
+		<Russian>&#211; &#234;&#224;&#230;&#228;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#251; &#229;&#241;&#242;&#252; &#239;&#240;&#229;&#228;&#240;&#224;&#241;&#239;&#238;&#235;&#238;&#230;&#229;&#237;&#237;&#238;&#241;&#242;&#252; &#234; &#240;&#224;&#231;&#226;&#232;&#242;&#232;&#254; &#226; &#238;&#239;&#240;&#229;&#228;&#229;&#235;&#229;&#237;&#237;&#238;&#236; &#237;&#224;&#239;&#240;&#224;&#226;&#235;&#229;&#237;&#232;&#232;. &#221;&#242;&#238; &#225;&#224;&#235;&#224;&#237;&#241;&#232;&#240;&#243;&#229;&#242; &#232;&#227;&#240;&#243; &#232; &#234;&#238;&#236;&#239;&#229;&#237;&#241;&#232;&#240;&#243;&#229;&#242; &#240;&#224;&#231;&#237;&#232;&#246;&#243; &#226; &#237;&#224;&#247;&#224;&#235;&#252;&#237;&#251;&#245; &#243;&#241;&#235;&#238;&#226;&#232;&#255;&#245;.</Russian>
+		<English>Every civ has hidden modifiers that influence their growth. This way, modern civs are not disadvantaged by their late start.</English>
+		<French>Des modificateurs cachés influent sur le développement de chaque civilisation. Ainsi, les civilisations modernes ne sont pas désavantagées en commençant plus tard.</French>
+		<German>Jede Zivilisation verfügt über verborgene Modifikatoren, die ihr Wachstum beeinflussen. Auf diese Weise werden auch moderne Zivilisationen trotz ihres späteren Spielstarts nicht benachteiligt.</German>
+		<Italian>Ogni civiltà ha dei modificatori nascosti che ne influenzano la crescita. In questo modo le civiltà moderne non sono svantaggiate dall'avvio in ritardo.</Italian>
+		<Spanish>Todas las civilizaciones tienen modificadores ocultos que afectan a su crecimiento. De este modo, el inicio tardío de las civilizaciones modernas no constituye una desventaja.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_18</Tag>
+		<Russian>&#215;&#242;&#238;&#225;&#251; &#238;&#225;&#250;&#255;&#226;&#232;&#242;&#252; &#226;&#238;&#233;&#237;&#243; &#237;&#229;&#231;&#224;&#226;&#232;&#241;&#232;&#236;&#238;&#233; &#232;&#235;&#232; &#236;&#224;&#235;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#229;, &#226;&#226;&#229;&#228;&#232;&#242;&#229; &#226;&#238;&#233;&#241;&#234;&#224; &#237;&#224; &#229;&#229; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#254;.</Russian>
+		<English>You can declare war on independent states and minor civs only by moving your units into their territory.</English>
+		<French>Vous ne pouvez déclarer la guerre aux états indépendants et aux petites civilisations qu'en envoyant des unités sur leur territoire.</French>
+		<German>Sie können unabhängigen Staaten und unbedeutenderen Zivilisationen nur dadurch den Krieg erklären, dass Sie Ihre Einheiten in ihr Territorium einmarschieren lassen.</German>
+		<Italian>Puoi dichiarare guerra agli stati indipendenti e alle civiltà minori solo facendo entrare le tue unità nel loro territorio.</Italian>
+		<Spanish>Puedes declarar la guerra a estados independientes y civilizaciones menores si mueves tus unidades a su territorio.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_19</Tag>
+		<Russian>&#197;&#241;&#235;&#232; &#240;&#224;&#231;&#226;&#232;&#242;&#232;&#229; &#239;&#240;&#238;&#232;&#231;&#226;&#238;&#228;&#241;&#242;&#226;&#224; &#237;&#229;&#239;&#240;&#238;&#239;&#238;&#240;&#246;&#232;&#238;&#237;&#224;&#235;&#252;&#237;&#238; &#240;&#238;&#241;&#242;&#243; &#234;&#224;&#239;&#232;&#242;&#224;&#235;&#224;, &#237;&#224;&#247;&#232;&#237;&#224;&#229;&#242;&#241;&#255; &#194;&#229;&#235;&#232;&#234;&#224;&#255; &#228;&#229;&#239;&#240;&#229;&#241;&#241;&#232;&#255;.</Russian>
+		<English>Great Depressions are caused by a disproportion between production and wealth, which triggers deflation.</English>
+		<French>Les grandes crises sont provoquées par une déflation, due à un déséquilibre entre la production et la richesse.</French>
+		<German>Eine Große Depression wird in erster Linie durch ein Missverhältnis zwischen Produktion und Wohlstand verursacht und löst eine Deflation aus.</German>
+		<Italian>La Grande Depressione viene causata da una disparità tra produzione e ricchezza, che causa deflazione.</Italian>
+		<Spanish>La Gran Depresión es provocada por la desproporción entre la producción y la riqueza, que causa deflacción.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_20</Tag>
+		<Russian>&#207;&#229;&#240;&#229;&#245;&#238;&#228; &#234; &#234;&#224;&#239;&#232;&#242;&#224;&#235;&#232;&#231;&#236;&#243; &#238;&#231;&#237;&#224;&#236;&#229;&#237;&#243;&#229;&#242;&#241;&#255; &#239;&#229;&#240;&#232;&#238;&#228;&#238;&#236; &#237;&#229;&#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#232;.</Russian>
+		<English>Transition to capitalism will cause a period of instability.</English>
+		<French>Le passage au capitalisme provoquera une période d'instabilité.</French>
+		<German>Durch den Wechsel zum Kapitalismus wird eine Phase der Instabilität ausgelöst.</German>
+		<Italian>Il passaggio al capitalismo causerà un periodo di instabilità.</Italian>
+		<Spanish>La transición al capitalismo producirá un periodo de inestabilidad.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_21</Tag>
+		<Russian>&#209;&#238;&#247;&#229;&#242;&#224;&#237;&#232;&#229; &#239;&#224;&#240;&#224;&#228;&#232;&#227;&#236; &#236;&#238;&#230;&#229;&#242; &#234;&#224;&#234; &#239;&#238;&#226;&#251;&#248;&#224;&#242;&#252; &#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#252;, &#242;&#224;&#234; &#232; &#241;&#237;&#232;&#230;&#224;&#242;&#252; &#229;&#229;.</Russian>
+		<English>Combining certain civics will improve or harm the stability of your empire.</English>
+		<French>La combinaison de certaines doctrines peut améliorer ou réduire la stabilité de votre empire.</French>
+		<German>Die Kombination bestimmter Staatsformen kann die Stabilität Ihrer Zivilisation verbessern oder auch beeinträchtigen.</German>
+		<Italian>Combinare alcune forme di governo può migliorare o peggiorare la stabilità del tuo impero.</Italian>
+		<Spanish>Al combinar algunos principios mejorarás o perjudicarás la estabilidad de tu imperio.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_22</Tag>
+		<Russian>&#194;&#251; &#237;&#229; &#243;&#226;&#232;&#228;&#232;&#242;&#229; &#242;&#229;&#234;&#243;&#249;&#232;&#233; &#227;&#238;&#228; &#228;&#238; &#242;&#229;&#245; &#239;&#238;&#240;, &#239;&#238;&#234;&#224; &#237;&#229; &#232;&#231;&#238;&#225;&#240;&#229;&#242;&#229;&#242;&#229; &#234;&#224;&#235;&#229;&#237;&#228;&#224;&#240;&#252;.</Russian>
+		<English>You can't see the current year until you discover calendar.</English>
+		<French>Vous ne pouvez pas connaître l'année actuelle avant d'avoir découvert le calendrier.</French>
+		<German>Das aktuelle Spieljahr ist bis zur Entdeckung des "Kalenders" nicht sichtbar.</German>
+		<Italian>Non puoi sapere in che anno ti trovi fino a quando non scopri il calendario.</Italian>
+		<Spanish>No podrás ver el año actual hasta que descubras el calendario.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_23</Tag>
+		<Russian>&#197;&#241;&#235;&#232; &#226;&#251; &#237;&#229;&#243;&#228;&#224;&#247;&#237;&#238; &#237;&#224;&#247;&#224;&#235;&#232; &#232;&#227;&#240;&#243;, &#239;&#238;&#239;&#240;&#238;&#225;&#243;&#233;&#242;&#229; &#239;&#240;&#232;&#237;&#255;&#242;&#252; &#225;&#240;&#224;&#231;&#228;&#251; &#239;&#240;&#224;&#226;&#235;&#229;&#237;&#232;&#255; &#237;&#238;&#226;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#238;&#233;. &#194;&#251; &#236;&#238;&#230;&#229;&#242;&#229; &#237;&#224;&#247;&#224;&#242;&#252; &#232;&#227;&#240;&#243; &#241; 3000 &#227;. &#228;&#238; &#237;.&#253;., &#224; &#226;&#239;&#238;&#241;&#235;&#229;&#228;&#241;&#242;&#226;&#232;&#232; &#239;&#229;&#240;&#229;&#234;&#235;&#254;&#247;&#232;&#242;&#252;&#241;&#255; &#237;&#224; &#225;&#238;&#235;&#229;&#229; &#239;&#238;&#231;&#228;&#237;&#254;&#254; &#246;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#254;.</Russian>
+		<English>Remember that you can always take control of a newborn civ if you don't like the civilization you started with. You can also use this feature to play from 3000BC even when you want to pick a civ that starts later on.</English>
+		<French>N'oubliez pas que vous pouvez toujours prendre le contrôle d'une civilisation émergente, si la civilisation avec laquelle vous avez commencé ne vous plaît pas. Vous pouvez aussi utiliser cette option pour jouer à partir de 3000 av. J.-C., même si vous voulez choisir une civilisation qui commence plus tard.</French>
+		<German>Beachten Sie, dass Sie jederzeit eine neu entstandene Zivilisation übernehmen können, wenn Sie mit der Zivilisation, die Sie zuerst gewählt haben, nicht zufrieden sind. Sie können diese Möglichkeit auch nutzen, um bereits ab dem Jahr 3000 v. Chr. zu spielen, obwohl Sie sich eigentlich eine Zivilisation ausgesucht haben, die erst später im Spiel startet.</German>
+		<Italian>Ricorda che puoi sempre assumere il controllo di una civiltà appena sorta, se non ti piace quella con cui hai iniziato. Inoltre puoi usare questa caratteristica per cominciare a giocare dal 3000 a.C. anche se vuoi scegliere una civiltà che comincia più tardi.</Italian>
+		<Spanish>Recuerda que siempre puedes asumir el control de una civilización reciente si no te gusta la civilización con la que has empezado. También puedes aprovechar esta opción para jugar desde el año 3000 a. C. si deseas jugar con una civilización que empiece más tarde.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_24</Tag>
+		<Russian>&#209;&#238;&#247;&#229;&#242;&#224;&#242;&#252; &#239;&#224;&#240;&#224;&#228;&#232;&#227;&#236;&#251; &#239;&#238;&#235;&#232;&#246;&#229;&#233;&#241;&#234;&#238;&#227;&#238; &#227;&#238;&#241;&#243;&#228;&#224;&#240;&#241;&#242;&#226;&#224; &#232; &#241;&#226;&#238;&#225;&#238;&#228;&#251; &#241;&#235;&#238;&#226;&#224; &#237;&#229;&#246;&#229;&#235;&#229;&#241;&#238;&#238;&#225;&#240;&#224;&#231;&#237;&#238;.</Russian>
+		<English>Combining police state and free speech isn't a good idea.</English>
+		<French>Il est déconseillé d'instaurer la liberté d'expression dans un état policier.</French>
+		<German>Die Kombination von Polizeistaat und Meinungsfreiheit ist keine gute Idee.</German>
+		<Italian>Combinare lo stato di polizia con la libertà di parola non è una buona idea.</Italian>
+		<Spanish>Combinar Estado policial y Libertad de expresión no es una buena idea.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_25</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#226;&#224;&#241;&#241;&#224;&#235;&#251; &#236;&#238;&#227;&#243;&#242; &#238;&#225;&#250;&#255;&#226;&#235;&#255;&#242;&#252; &#226;&#238;&#233;&#237;&#243;.</Russian>
+		<English>In Rhye's and Fall of Civilization, vassals can declare war.</English>
+		<French>Dans Rhye's and Fall of Civilization, les vassaux peuvent déclarer la guerre.</French>
+		<German>In Rhye's and Fall of Civilization können Vasallenstaaten Kriegserklärungen ausgeben.</German>
+		<Italian>In Rhye's and Fall i vassalli possono dichiarare guerra.</Italian>
+		<Spanish>Los vasallos pueden declarar una guerra en Rhye's and Fall of Civilization.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_26</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#239;&#229;&#240;&#229;&#228;&#226;&#232;&#230;&#229;&#237;&#232;&#229; &#239;&#238; &#238;&#234;&#229;&#224;&#237;&#232;&#247;&#229;&#241;&#234;&#232;&#236; &#234;&#235;&#229;&#242;&#234;&#224;&#236; &#239;&#240;&#238;&#232;&#241;&#245;&#238;&#228;&#232;&#242; &#226; &#228;&#226;&#224; &#240;&#224;&#231;&#224; &#225;&#251;&#241;&#242;&#240;&#229;&#229;.</Russian>
+		<English>In Rhye's and Fall of Civilization, movement through ocean tiles costs ½ a movement point.</English>
+		<French>Dans Rhye's and Fall of Civilization, les déplacements sur les cases d'océan coûtent ½ point de mouvement.</French>
+		<German>In Rhye's and Fall of Civilization kostet die Fortbewegung auf Ozean-Geländefeldern ½ Fortbewegungspunkt.</German>
+		<Italian>In Rhye's and Fall il movimento nelle caselle oceaniche costa ½ punto movimento.</Italian>
+		<Spanish>En Rhye's and Fall of Civilization el movimiento a través de casillas de océano cuesta medio punto de movimiento.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_27</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#236;&#224;&#234;&#241;&#232;&#236;&#224;&#235;&#252;&#237;&#251;&#233; &#228;&#238;&#245;&#238;&#228; &#238;&#242; &#241;&#226;&#255;&#242;&#232;&#235;&#232;&#249;&#224; &#238;&#227;&#240;&#224;&#237;&#232;&#247;&#229;&#237; 20 &#229;&#228;&#232;&#237;&#232;&#246;&#224;&#236;&#232; &#231;&#238;&#235;&#238;&#242;&#224; &#231;&#224; &#245;&#238;&#228;.</Russian>
+		<English>In Rhye's and Fall of Civilization, the max income from a shrine is 20 gold per turn.</English>
+		<French>Dans Rhye's and Fall of Civilization, le revenu maximum d'un sanctuaire est de 20 pièces d'or par tour.</French>
+		<German>In Rhye's and Fall of Civilization beträgt das maximale Einkommen durch Schreine 20 Gold pro Runde.</German>
+		<Italian>In Rhye's and Fall l'entrata massima da un santuario è di 20 oro per turno.</Italian>
+		<Spanish>En Rhye's and Fall of Civilization los ingresos máximos de un santuario o corporación son de 20 monedas por turno.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_28</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#229;&#241;&#242;&#252; &#247;&#243;&#228;&#238; &#241;&#226;&#229;&#242;&#224; &#202;&#238;&#235;&#232;&#231;&#229;&#233;, &#224; &#241;&#242;&#224;&#228;&#232;&#238;&#237; &#239;&#229;&#240;&#229;&#232;&#236;&#229;&#237;&#238;&#226;&#224;&#237; &#226; &#224;&#236;&#244;&#232;&#242;&#229;&#224;&#242;&#240;.</Russian>
+		<English>In Rhye's and Fall of Civilization, the Colosseum is a world wonder. The generic building is called an "amphitheatre."</English>
+		<French>Dans Rhye's and Fall of Civilization, le Colisée est une merveille mondiale. Le bâtiment générique est appelé "amphithéâtre".</French>
+		<German>In Rhye's and Fall of Civilization ist das Kolosseum ein Weltwunder. Das gewöhnliche Gebäude heißt hier "Amphitheater".</German>
+		<Italian>In Rhye's and Fall il Colosseo è una Grande Meraviglia. L'edificio generico si chiama "anfiteatro."</Italian>
+		<Spanish>En Rhye's and Fall of Civilization el Coliseo es una maravilla del mundo. El edificio genérico se denomina "anfiteatro".</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_29</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#228;&#238;&#227;&#238;&#226;&#238;&#240;&#251; &#226;&#224;&#241;&#241;&#224;&#235;&#232;&#242;&#229;&#242;&#224; &#236;&#238;&#230;&#237;&#238; &#231;&#224;&#234;&#235;&#254;&#247;&#224;&#242;&#252; &#242;&#238;&#235;&#252;&#234;&#238; &#239;&#238;&#241;&#235;&#229; &#238;&#242;&#234;&#240;&#251;&#242;&#232;&#255; &#236;&#238;&#237;&#224;&#240;&#245;&#232;&#232;.</Russian>
+		<English>In Rhye's and Fall of Civilization, vassal stases are enabled by the discovery of monarchy.</English>
+		<French>Dans Rhye's and Fall of Civilization, la découverte de la monarchie permet les états vassaux.</French>
+		<German>In Rhye's and Fall of Civilization werden Vasallenstaaten durch die Entdeckung der "Monarchie" verfügbar.</German>
+		<Italian>In Rhye's and Fall gli stati vassalli sono abilitati dalla scoperta della monarchia.</Italian>
+		<Spanish>En Rhye's and Fall of Civilization los estados vasallos se activan con el descubrimiento de la Monarquía.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_30</Tag>
+		<Russian>&#215;&#242;&#238;&#225;&#251; &#239;&#240;&#229;&#228;&#235;&#238;&#230;&#232;&#242;&#252; &#241;&#226;&#238;&#233; &#238;&#242;&#240;&#255;&#228; &#228;&#240;&#243;&#227;&#232;&#236; &#228;&#229;&#240;&#230;&#224;&#226;&#224;&#236; &#226; &#234;&#224;&#247;&#229;&#241;&#242;&#226;&#229; &#237;&#224;&#229;&#236;&#237;&#238;&#227;&#238;, &#237;&#224;&#230;&#236;&#232;&#242;&#229; &#234;&#237;&#238;&#239;&#234;&#243; &#241;&#238; &#241;&#226;&#232;&#242;&#234;&#238;&#236; &#237;&#224; &#239;&#224;&#237;&#229;&#235;&#232; &#228;&#229;&#233;&#241;&#242;&#226;&#232;&#233;.</Russian>
+		<English>You can hire out one of your units as a Mercenary by clicking on the button with the hand symbol on it in the unit actions interface. Another civ may hire it.</English>
+		<French>Vous pouvez louer les services de l'une de vos unités comme mercenaire. Pour cela, cliquez sur la main dans sa fenêtre d'action. Une autre civilisation pourra alors l'engager.</French>
+		<German>Sie können eine Ihrer Einheiten als Söldner verdingen, indem Sie den Button mit dem Hand-Symbol im Einheitenaktionsmenü anklicken. Anschließend kann sie von anderen Zivilisationen angeheuert werden.</German>
+		<Italian>Puoi affittare una delle tue unità come mercenari cliccando sul pulsante con il simbolo della mano, nell'interfaccia delle azioni delle unità. Potrebbe essere ingaggiata da un'altra civiltà.</Italian>
+		<Spanish>Puedes alquilar los servicios de una de tus unidades como mercenaria si haces clic en el símbolo de la mano de la interfaz de acciones de la unidad. Otra civilización podría contratarla.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_31</Tag>
+		<Russian>&#197;&#241;&#235;&#232; &#226;&#251; &#237;&#224;&#248;&#235;&#232; &#238;&#248;&#232;&#225;&#234;&#243; &#232;&#235;&#232; &#231;&#237;&#224;&#229;&#242;&#229;, &#234;&#224;&#234; &#243;&#235;&#243;&#247;&#248;&#232;&#242;&#252; &#253;&#242;&#238;&#242; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#233;, &#239;&#238;&#241;&#229;&#242;&#232;&#242;&#229; &#244;&#238;&#240;&#243;&#236; &#240;&#224;&#231;&#240;&#224;&#225;&#238;&#242;&#247;&#232;&#234;&#238;&#226; &#237;&#224; &#241;&#224;&#233;&#242;&#229; CivFanatics.com.</Russian>
+		<English>If you like the mod, and if you have any ideas to improve it, or you just have a bug to report, make sure to check out the development forum at CivFanatics.com.</English>
+		<French>Si le mod vous plaît et que vous avez des idées pour l'améliorer, ou simplement un bug à signaler, pensez à consulter le forum de développement sur CivFanatics.com.</French>
+		<German>Wenn Sie das Mod mögen und Verbesserungsvorschläge haben oder einen Bug melden wollen, besuchen Sie das Entwicklerforum unter CivFanatics.com.</German>
+		<Italian>Se ti piace questo mod e hai delle idee per migliorarlo, o anche se devi semplicemente segnalare un problema, assicurati di controllare il forum di sviluppo su CivFanatics.com.</Italian>
+		<Spanish>Si te gusta el mod y tienes ideas para mejorarlo o has encontrado algún error del que informar, visita el foro de diseño en CivFanatics.com.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_32</Tag>
+		<Russian>&#207;&#238;&#241;&#235;&#229;&#228;&#237;&#232;&#229; &#238;&#225;&#237;&#238;&#226;&#235;&#229;&#237;&#232;&#255; &#234; &#253;&#242;&#238;&#236;&#243; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#254; &#236;&#238;&#230;&#237;&#238; &#237;&#224;&#233;&#242;&#232; &#237;&#224; &#241;&#224;&#233;&#242;&#229; CivFanatics.com.</Russian>
+		<English>If it's been a while since the last time you got an updated version of the mod, make sure to check CivFanatics.com for a new version. The mod is in active development, and updates are uploaded often. Every update is full of fixes and new features.</English>
+		<French>Si votre version du mod commence à dater, rendez-vous sur CivFanatics.com pour télécharger une version mise à jour. Le mod est en plein développement et bénéficie de mises à jour fréquentes. Chaque mise à jour apporte une multitude de corrections et de nouvelles options.</French>
+		<German>Wenn es schon eine Weile her ist, seit Sie das letzte Mod-Update installiert haben, besuchen Sie CivFanatics.com, um eine neuere Version herunterzuladen. Bei diesem Mod handelt es sich um ein aktives Entwicklungsprojekt und dementsprechend häufig werden neue Updates bereitgestellt, von denen jedes zahlreiche Fixes und neue Features enthält.</German>
+		<Italian>Se è passato un po' di tempo dall'ultima volta che hai scaricato una versione aggiornata del mod, assicurati di controllare su CivFanatics.com se ce n'è una nuova. Il mod è in continuo sviluppo e spesso vengono caricati degli aggiornamenti, ognuno dei quali è pieno di novità e risolve i problemi di quelli precedenti.</Italian>
+		<Spanish>Si ya hace tiempo que conseguiste tu última versión actualizada del mod, visita CivFanatics.com para ver si hay alguna nueva. El mod está en continuo desarrollo, por lo que las actualizaciones son frecuentes. Todas las actualizaciones incluyen nuevas características y soluciones de errores.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_33</Tag>
+		<Russian>&#208;&#224;&#231;&#240;&#224;&#241;&#242;&#224;&#254;&#249;&#224;&#255;&#241;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255; &#240;&#232;&#241;&#234;&#243;&#229;&#242; &#243;&#242;&#240;&#224;&#242;&#232;&#242;&#252; &#241;&#242;&#224;&#225;&#232;&#235;&#252;&#237;&#238;&#241;&#242;&#252;. &#215;&#242;&#238;&#225;&#251; &#253;&#242;&#238;&#227;&#238; &#237;&#229; &#239;&#240;&#238;&#232;&#231;&#238;&#248;&#235;&#238;, &#226;&#251;&#225;&#232;&#240;&#224;&#233;&#242;&#229; &#239;&#238;&#228;&#245;&#238;&#228;&#255;&#249;&#232;&#229; &#239;&#224;&#240;&#224;&#228;&#232;&#227;&#236;&#251; &#253;&#234;&#241;&#239;&#224;&#237;&#241;&#232;&#232;.</Russian>
+		<English>Creating an enormous empire may seem tempting, but you have to be very careful not to let your expansion destabilize your empire! The Expansion Civics can help with that.</English>
+		<French>Créer un empire gigantesque peut sembler tentant, mais vous devez veiller à ce que votre expansion territoriale n'entraîne pas d''instabilité ! La doctrine Expansion peut vous faciliter la tâche.</French>
+		<German>Es mag verlockend erscheinen, ein riesiges Imperium aufzubauen, dennoch sollten Sie darauf achten, dass Ihre Expansionsbestrebungen nicht zu einer Destabilisierung Ihrer Zivilisation führen! Expansiv orientierte Staatsformen können dabei sicherlich hilfreich sein.</German>
+		<Italian>Potrà anche sembrare una buona idea, creare un impero enorme, ma devi stare attento a non lasciare che la tua espansione destabilizzi l'impero! La forma di governo espansione ti può aiutare.</Italian>
+		<Spanish>Crear un imperio enorme puede ser tentador, pero debes tener cuidado para que tu expansión no lo desestabilice. Los principios de expansión te ayudarán a conseguirlo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_34</Tag>
+		<Russian>&#197;&#241;&#235;&#232; &#226;&#224;&#248;&#224; &#232;&#241;&#242;&#238;&#240;&#232;&#247;&#229;&#241;&#234;&#224;&#255; &#246;&#229;&#235;&#252; - &#234;&#238;&#235;&#238;&#237;&#232;&#231;&#224;&#246;&#232;&#255;, &#237;&#229;&#238;&#225;&#245;&#238;&#228;&#232;&#236;&#238; &#238;&#241;&#237;&#238;&#226;&#224;&#242;&#252; &#237;&#224; &#237;&#238;&#226;&#251;&#245; &#231;&#229;&#236;&#235;&#255;&#245; &#231;&#224;&#228;&#224;&#237;&#237;&#238;&#229; &#234;&#238;&#235;&#232;&#247;&#229;&#241;&#242;&#226;&#238; &#227;&#238;&#240;&#238;&#228;&#238;&#226;. &#197;&#241;&#235;&#232; &#230;&#229; &#246;&#229;&#235;&#252; - &#231;&#224;&#226;&#235;&#224;&#228;&#229;&#242;&#252; &#234;&#224;&#234;&#238;&#233;-&#235;&#232;&#225;&#238; &#242;&#229;&#240;&#240;&#232;&#242;&#238;&#240;&#232;&#229;&#233;, &#228;&#238;&#241;&#242;&#224;&#242;&#238;&#247;&#237;&#238; &#239;&#240;&#238;&#241;&#242;&#238; &#239;&#238;&#234;&#238;&#240;&#232;&#242;&#252; &#229;&#229; &#242;&#229;&#236; &#232;&#235;&#232; &#232;&#237;&#251;&#236; &#241;&#239;&#238;&#241;&#238;&#225;&#238;&#236;.</Russian>
+		<English>When a Historical goal asks for colonizing a territory, you must found a certain number of cities in it. When it asks to control a territory, you can just conquer it.</English>
+		<French>Quand un objectif historique exige que vous colonisiez un territoire, vous devez y fonder un certain nombre de villes. Quand il exige de contrôler un territoire, vous pouvez simplement le conquérir.</French>
+		<German>Wenn eine historische Zielvorgabe die Kolonisierung eines Territoriums verlangt, müssen Sie dort eine bestimmte Anzahl von Städten gründen. Sollen Sie dagegen ein Territorium unter Ihre Kontrolle bringen, brauchen Sie es lediglich zu erobern.</German>
+		<Italian>Quando un obiettivo storico richiede la colonizzazione di un territorio significa che devi fondarci un certo numero di città. Quando invece ne richiede il controllo, ti basta conquistarlo.</Italian>
+		<Spanish>Cuando un objetivo histórico te pida que colonices un territorio, debes fundar una cantidad determinada de ciudades en él. Cuando te pida que controles un territorio, basta con conquistarlo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_35</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#228;&#235;&#255; &#238;&#225;&#231;&#238;&#240;&#224; &#241; &#239;&#242;&#232;&#247;&#252;&#229;&#227;&#238; &#239;&#238;&#235;&#229;&#242;&#224; &#241;&#235;&#243;&#230;&#232;&#242; &#241;&#238;&#247;&#229;&#242;&#224;&#237;&#232;&#229; &#234;&#235;&#224;&#226;&#232;&#248; [CTRL + F]</Russian>
+		<English>In Rhye's and Fall of Civilization, camera flying mode hotkey has changed to [CTRL + F]</English>
+		<French>Dans Rhye's and Fall of Civilization, le raccourci pour activer la caméra libre est [CTRL + F].</French>
+		<German>In Rhye's and Fall of Civilization ist die Schnelltaste für den Kameraflugmodus [STRG + F]</German>
+		<Italian>In Rhye's and Fall la combinazione di tasti per la selezione rapida della visuale dall'alto è diventata [CTRL + F]</Italian>
+		<Spanish>En Rhye's and Fall of Civilization se ha cambiado el atajo de teclado para la cámara aérea a [CTRL + F].</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_36</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#227;&#238;&#240;&#238;&#228; &#237;&#229;&#235;&#252;&#231;&#255; &#238;&#241;&#237;&#238;&#226;&#224;&#242;&#252; &#226; &#242;&#243;&#237;&#228;&#240;&#229;, &#226;&#238; &#235;&#252;&#228;&#224;&#245; &#232;&#235;&#232; &#226; &#239;&#243;&#241;&#242;&#251;&#237;&#229;, &#224; &#242;&#224;&#234;&#230;&#229; &#226;&#228;&#224;&#235;&#232; &#238;&#242; &#226;&#238;&#228;&#251;.</Russian>
+		<English>In Rhye's and Fall of Civilization, city founding is not allowed in tundra, ice or desert if far from water.</English>
+		<French>Dans Rhye's and Fall of Civilization, il est impossible de fonder une ville sur une case de toundra, de désert ou de glace trop loin de l'eau.</French>
+		<German>In Rhye's and Fall of Civilization ist die Gründung einer Stadt auf den Geländearten Tundra, Eis und Wüste, sofern zu weit von einer Wasserquelle entfernt, nicht zulässig.</German>
+		<Italian>In Rhye's and Fall non è permessa la fondazione di città nella tundra, sul ghiaccio o nel deserto, se distanti dall'acqua.</Italian>
+		<Spanish>En Rhye's and Fall of Civilization no se permite fundar ciudades en tundra, hielo o desierto si no hay agua cerca.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_37</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#228;&#230;&#243;&#237;&#227;&#235;&#232; &#232; &#225;&#238;&#235;&#238;&#242;&#224; &#237;&#229;&#239;&#240;&#238;&#245;&#238;&#228;&#232;&#236;&#251; &#228;&#235;&#255; &#225;&#238;&#235;&#252;&#248;&#232;&#237;&#241;&#242;&#226;&#224; &#237;&#224;&#231;&#229;&#236;&#237;&#251;&#245; &#254;&#237;&#232;&#242;&#238;&#226;.</Russian>
+		<English>In Rhye's and Fall of Civilization, jungle and marshes are impassable to most land units.</English>
+		<French>Dans Rhye's and Fall of Civilization, la plupart des unités terrestres ne peuvent pas franchir les marais et les jungles.</French>
+		<German>In Rhye's and Fall of Civilization sind Dschungel- und Sumpf-Geländefelder für die meisten Landeinheiten unpassierbar.</German>
+		<Italian>In Rhye's and Fall giungle e paludi sono impossibili da attraversare per la maggior parte delle unità terrestri.</Italian>
+		<Spanish>En Rhye's and Fall of Civilization la mayoría de las unidades terrestres no pueden atravesar junglas ni ciénagas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_38</Tag>
+		<Russian>&#197;&#241;&#235;&#232; &#226;&#251; &#239;&#238;&#239;&#251;&#242;&#224;&#229;&#242;&#229;&#241;&#252; &#239;&#240;&#229;&#239;&#255;&#242;&#241;&#242;&#226;&#238;&#226;&#224;&#242;&#252; &#238;&#225;&#240;&#224;&#231;&#238;&#226;&#224;&#237;&#232;&#254; &#237;&#238;&#226;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#251;, &#247;&#224;&#241;&#242;&#252; &#226;&#224;&#248;&#232;&#245; &#254;&#237;&#232;&#242;&#238;&#226; &#226;&#251;&#241;&#242;&#243;&#239;&#232;&#242; &#239;&#240;&#238;&#242;&#232;&#226; &#226;&#224;&#241; &#237;&#224; &#229;&#229; &#241;&#242;&#238;&#240;&#238;&#237;&#229;.</Russian>
+		<English>If you attempt to stop the growth of newborn civs, some of your units will flip to their side.</English>
+		<French>Si vous tentez d'arrêter le développement d'une civilisation émergente, certaines de vos unités se rangeront de son côté.</French>
+		<German>Wenn Sie versuchen, das Wachstum neu entstandener Zivilisationen zu behindern, werden einige Ihrer Einheiten die Seiten wechseln.</German>
+		<Italian>Se provi a fermare la crescita delle civiltà appena nate, alcune delle tue unità passeranno dalla loro parte.</Italian>
+		<Spanish>Si intentas frenar el crecimiento de civilizaciones recientes, algunas de tus unidades se unirán a ellas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_39</Tag>
+		<Russian>&#194; &#253;&#242;&#238;&#236; &#241;&#246;&#229;&#237;&#224;&#240;&#232;&#232; &#232;&#231;&#236;&#229;&#237;&#232;&#235;&#232;&#241;&#252; &#241;&#226;&#238;&#233;&#241;&#242;&#226;&#224; &#236;&#237;&#238;&#227;&#232;&#245; &#247;&#243;&#228;&#229;&#241;.</Russian>
+		<English>In Rhye's and Fall of Civilization, many wonders effects have been changed</English>
+		<French>Dans Rhye's and Fall of Civilization, les effets de beaucoup de merveilles ont été modifiés.</French>
+		<German>In Rhye's and Fall of Civilization wurden die Auswirkungen vieler Wunder geändert.</German>
+		<Italian>In Rhye's and Fall sono stati cambiati gli effetti di molte Grandi Meraviglie.</Italian>
+		<Spanish>En Rhye's and Fall of Civilization se han cambiado los efectos de muchas maravillas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_40</Tag>
+		<Russian>&#207;&#238;&#241;&#229;&#242;&#232;&#242;&#229; &#241;&#224;&#233;&#242; &#240;&#243;&#241;&#241;&#234;&#238;&#255;&#231;&#251;&#247;&#237;&#238;&#227;&#238; &#241;&#238;&#238;&#225;&#249;&#229;&#241;&#242;&#226;&#224; &#235;&#254;&#225;&#232;&#242;&#229;&#235;&#229;&#233; "&#214;&#232;&#226;&#232;&#235;&#232;&#231;&#224;&#246;&#232;&#232;" - civfanatics.ru</Russian>
+		<English>If you can read Russian, visit civfanatics.ru. It hosts a large community that translates the mod into Russian and is making a dedicated wikipedia</English>
+		<French>Si vous lisez le russe, rendez-vous sur civfanatics.ru. Ce site héberge une grande communauté qui traduit le mod en russe et y consacre une page Wikipedia.</French>
+		<German>Wenn Sie die russische Sprache beherrschen, sollten Sie der Site civfanatics.ru einen Besuch abstatten. Hier arbeitet eine große Community an der Übersetzung des Mods ins Russische und entwickelt einen Civ-spezifischen Wikipedia-Beitrag.</German>
+		<Italian>Se sai il russo vai al sito civfanatics.ru. Ospita una grande comunità che traduce il mod in russo e sta creando una wikipedia dedicata.</Italian>
+		<Spanish>Si lees ruso, visita civfanatics.ru. Es el sitio web de una numerosa comunidad que está traduciendo el mod al ruso y creando una wikipedia.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_41</Tag>
+		<Russian>&#205;&#229;&#235;&#252;&#231;&#255; &#239;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; &#226; &#241;&#226;&#238;&#229;&#236; &#227;&#238;&#240;&#238;&#228;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238; &#242;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#251;, &#241; &#234;&#238;&#242;&#238;&#240;&#238;&#233; &#226;&#251; &#226;&#238;&#254;&#229;&#242;&#229;. &#193;&#238;&#235;&#229;&#229; &#242;&#238;&#227;&#238;, &#239;&#240;&#232; &#238;&#225;&#250;&#255;&#226;&#235;&#229;&#237;&#232;&#232; &#226;&#238;&#233;&#237;&#251; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#224; &#226;&#224;&#248;&#232;&#245; &#226;&#240;&#224;&#227;&#238;&#226; &#243;&#237;&#232;&#247;&#242;&#238;&#230;&#224;&#254;&#242;&#241;&#255;.</Russian>
+		<English>You can't build another civ's embassy while you're at war with it. Furthermore, when war is declared, the pair of embassies, if already built, are automatically destroyed.</English>
+		<French>Vous ne pouvez pas construire l'ambassade d'une civilisation avec laquelle vous êtes en guerre. Par ailleurs, si vous entrez en guerre avec une civilisation, son ambassade sera détruite automatiquement si vous l'avez déjà construite, et la vôtre connaîtra le même sort.</French>
+		<German>Solange Sie sich mit einer anderen Zivilisation im Krieg befinden, können Sie keine Botschaft für diese Nation errichten. Im Falle einer Kriegserklärung werden die gegenseitigen Botschaften, sofern sie bereits existieren, automatisch zerstört.</German>
+		<Italian>Non puoi costruire l'ambasciata di una civiltà, se siete in guerra. Inoltre quando viene dichiarata la guerra le ambasciate, se sono già state costruite, vengono automaticamente distrutte.</Italian>
+		<Spanish>No podrás construir una embajada de otra civilización si estás en guerra con ella. Además, cuando se declara la guerra, vuestras embajadas, si las tenéis, serán automáticamente destruidas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_42</Tag>
+		<Russian>&#215;&#242;&#238;&#225;&#251; &#237;&#229; &#239;&#238;&#242;&#229;&#240;&#255;&#242;&#252; &#241;&#226;&#255;&#231;&#252; &#241; &#228;&#240;&#243;&#227;&#238;&#233; &#228;&#229;&#240;&#230;&#224;&#226;&#238;&#233;, &#239;&#238;&#241;&#242;&#240;&#238;&#233;&#242;&#229; &#229;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238; &#226; &#238;&#228;&#237;&#238;&#236; &#232;&#231; &#241;&#226;&#238;&#232;&#245; &#227;&#238;&#240;&#238;&#228;&#238;&#226;. &#194;&#224;&#248;&#229; &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;&#238; &#225;&#243;&#228;&#229;&#242; &#224;&#226;&#242;&#238;&#236;&#224;&#242;&#232;&#247;&#229;&#241;&#234;&#232; &#240;&#224;&#231;&#236;&#229;&#249;&#229;&#237;&#238; &#226; &#229;&#229; &#227;&#238;&#240;&#238;&#228;&#229;.</Russian>
+		<English>To avoid losing contact with another civilization, build their embassy in one of your cities. Your embassy will be automatically placed in one of their cities.</English>
+		<French>Pour éviter de perdre le contact avec une autre civilisation, construisez son ambassade dans une de vos villes. Votre ambassade sera placée automatiquement dans une de ses villes.</French>
+		<German>Um dauerhaften Kontakt mit einer anderen Zivilisation zu halten, sollten Sie in einer Ihrer Städte eine Botschaft für diese Nation errichten. Gleichzeitig wird automatisch auch eine Botschaft für Ihre Zivilisation in einer deren Städte eingerichtet.</German>
+		<Italian>Per evitare di perdere i contatti con un'altra civiltà costruisci la sua ambasciata in una delle tue città. La tua ambasciata verrà automaticamente costruita in una delle città dell'altra civiltà.</Italian>
+		<Spanish>Para evitar perder el contacto con otra civilización, construye su embajada en una de tus ciudades. Tu embajada se colocará automáticamente en una de las suyas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_43</Tag>
+		<Russian>&#194; &#227;&#238;&#240;&#238;&#228;&#229; &#236;&#238;&#230;&#237;&#238; &#239;&#238;&#241;&#242;&#240;&#238;&#232;&#242;&#252; &#237;&#229; &#225;&#238;&#235;&#229;&#229; 5 &#239;&#238;&#241;&#238;&#235;&#252;&#241;&#242;&#226;.</Russian>
+		<English>You can build no more than 5 embassies per city.</English>
+		<French>Vous ne pouvez pas construire plus de cinq ambassades par ville.</French>
+		<German>Es können maximal 5 Botschaften pro Stadt errichtet werden.</German>
+		<Italian>Non puoi costruire più di 5 ambasciate per città.</Italian>
+		<Spanish>No puedes construir más de 5 embajadas por ciudad.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_44</Tag>
+		<Russian>"&#205;&#229; &#227;&#238;&#226;&#238;&#240;&#232; ''&#234;&#238;&#248;&#234;&#224;'', &#239;&#238;&#234;&#224; &#238;&#237;&#224; &#237;&#229; &#241;&#232;&#228;&#232;&#242; &#243; &#242;&#229;&#225;&#255; &#226; &#236;&#229;&#248;&#234;&#229;". (&#196;&#230;.&#210;&#240;&#224;&#239;&#224;&#242;&#242;&#238;&#237;&#232;)</Russian>
+		<English>Never say "cat" if you don't have it in your sack (G.Trapattoni)</English>
+		<French>"Non dire gatto se non ce l'hai nel sacco." (Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.) _ G. Trapattoni</French>
+		<German>Sag nicht Katze, wenn du sie nicht im Sack hast! (G. Trapattoni)</German>
+		<Italian>Non dire "gatto" se non ce l'hai nel sacco. (G.Trapattoni)</Italian>
+		<Spanish>No hay que vender la piel del oso antes de haberlo cazado.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_HINT_45</Tag>
+		<Russian>"&#205;&#229; &#227;&#238;&#226;&#238;&#240;&#232; ''&#234;&#238;&#248;&#234;&#224;'', &#239;&#238;&#234;&#224; &#238;&#237;&#224; &#237;&#229; &#241;&#232;&#228;&#232;&#242; &#243; &#242;&#229;&#225;&#255; &#226; &#236;&#229;&#248;&#234;&#229;". (&#196;&#230;.&#210;&#240;&#224;&#239;&#224;&#242;&#242;&#238;&#237;&#232;)</Russian>
+		<English>Never say "cat" if you don't have it in your sack (G.Trapattoni)</English>
+		<French>"Non dire gatto se non ce l'hai nel sacco." (Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.) _ G. Trapattoni</French>
+		<German>Es gibt Spieler, die zwei oder drei oder vier Spiele waren schwach wie eine Flasche leer! (G. Trapattoni)</German>
+		<Italian>Non dire "gatto" se non ce l'hai nel sacco. (G.Trapattoni)</Italian>
+		<Spanish>No hay que vender la piel del oso antes de haberlo cazado.</Spanish>
+	</TEXT>
+</Civ4GameText>

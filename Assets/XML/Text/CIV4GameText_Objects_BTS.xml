@@ -1,0 +1,4780 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HOLY_ROMAN_DESC</Tag>
+		<Russian>&#209;&#226;&#255;&#249;&#229;&#237;&#237;&#224;&#255; &#208;&#232;&#236;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Holy Roman Empire</English>
+		<French>
+			<Text>Saint Empire romain germanique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Heiliges Römisches Reich:Heilige Römische Reich:Heiligen Römischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Sacro Romano Impero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sacro Imperio Romano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HOLY_ROMAN_SHORT_DESC</Tag>
+		<Russian>&#195;&#229;&#240;&#236;&#224;&#237;&#246;&#251;</Russian>
+		<English>Holy Rome</English>
+		<French>
+			<Text>Romains saints</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Hl. Rom</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero carolingio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Europa Carolingia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HOLY_ROMAN_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#227;&#229;&#240;&#236;&#224;&#237;&#246;&#251;:&#227;&#229;&#240;&#236;&#224;&#237;&#246;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Holy Roman:Holy Romans</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>romain:romaine:romains:romaines</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Heilig-römisch:heilig-römischen:heilig-römische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei Carolingi:dei Carolingi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>carolingio:carolingia:carolingios:carolingias</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_CHARLEMAGNE</Tag>
+		<Russian>&#202;&#224;&#240;&#235; &#194;&#229;&#235;&#232;&#234;&#232;&#233;</Russian>
+		<English>Charlemagne</English>
+		<French>
+			<Text>Charlemagne</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Karl der Große</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Carlo Magno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Carlomagno</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_HOLY_ROMAN_RATHAUS</Tag>
+		<Russian>&#208;&#224;&#242;&#243;&#248;&#224;</Russian>
+		<English>Rathaus</English>
+		<French>
+			<Text>Rathaus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Rathaus</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rathaus:Rathaus</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rathaus:Rathaus</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HOLY_ROMAN_LANDSKNECHT</Tag>
+		<Russian>&#203;&#224;&#237;&#228;&#241;&#234;&#237;&#229;&#245;&#242;</Russian>
+		<English>Landsknecht</English>
+		<French>
+			<Text>Lansquenet:Lansquenets</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Landsknecht</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Lanzichenecco:Lanzichenecchi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Lansquenete:Lansquenetes</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NETHERLANDS_OOSTINDIEVAARDER</Tag>
+		<Russian>&#206;&#241;&#242;-&#232;&#237;&#228;&#232;&#229;&#246;</Russian>
+		<English>East Indiaman</English>
+		<French>
+			<Text>East Indiaman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ostindienfahrer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>East Indiaman:East Indiaman</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Navío de las Indias Orientales:Navíos de las Indias Orientales</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PERICLES</Tag>
+		<Russian>&#207;&#229;&#240;&#232;&#234;&#235;</Russian>
+		<English>Pericles</English>
+		<French>
+			<Text>Périclès</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Perikles</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pericle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pericles</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_WILLEM_VAN_ORANJE</Tag>
+		<Russian>&#194;&#232;&#235;&#252;&#227;&#229;&#235;&#252;&#236; I</Russian>
+		<English>Willem van Oranje</English>
+		<French>
+			<Text>Guillaume d'Orange</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Wilhelm von Oranien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guglielmo d'Orange</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guillermo de Orange</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_DESC</Tag>
+		<Russian>&#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#251;</Russian>
+		<English>Dutch Empire</English>
+		<French>
+			<Text>Empire néerlandais</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Holländisches Reich:Holländische Reich:Holländischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero olandese</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Holandés</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_SHORT_DESC</Tag>
+		<Russian>&#205;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#246;&#251;</Russian>
+		<English>Netherlands</English>
+		<French>
+			<Text>Pays-Bas</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Holland</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Olanda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Holanda</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NETHERLANDS_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#237;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#246;&#251;:&#237;&#232;&#228;&#229;&#240;&#235;&#224;&#237;&#228;&#246;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Dutch:Dutch</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>néerlandais:néerlandaise:néerlandais:néerlandaises</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Holländisch:holländischen:holländische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>olandese:olandesi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>holandés:holandesa:holandeses:holandesas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CUSTOM_HOUSE</Tag>
+		<Russian>&#210;&#224;&#236;&#238;&#230;&#237;&#255;</Russian>
+		<English>Customs House</English>
+		<French>
+			<Text>Poste de douane:Postes de douane</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Zollamt</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dogana:Dogane</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Aduana:Aduanas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INDUSTRIAL_PARK</Tag>
+		<Russian>&#207;&#240;&#238;&#236;. &#234;&#238;&#236;&#239;&#235;&#229;&#234;&#241;</Russian>
+		<English>Industrial Park</English>
+		<French>
+			<Text>Zone industrielle:Zones industrielles</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Industriegebiet</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Centro industriale:Centri industriali</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Polígono industrial:Polígonos industriales</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PUBLIC_TRANSPORTATION</Tag>
+		<Russian>&#206;&#225;&#249;. &#242;&#240;&#224;&#237;&#241;&#239;&#238;&#240;&#242;</Russian>
+		<English>Public Transportation</English>
+		<French>
+			<Text>Transports publics</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Öffentliche Verkehrsmittel</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Trasporto pubblico:Trasporti pubblici</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Transporte público:Transportes públicos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LEVEE</Tag>
+		<Russian>&#207;&#235;&#238;&#242;&#232;&#237;&#224;</Russian>
+		<English>Levee</English>
+		<French>
+			<Text>Levée:Levées</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Wasserschutzwall</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Argine:Argini</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dique:Diques</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NETHERLANDS_DIKE</Tag>
+		<Russian>&#196;&#224;&#236;&#225;&#224;</Russian>
+		<English>Dike</English>
+		<French>
+			<Text>Digue:Digues</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Deich</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Diga:Dighe</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dijk:Dijken</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_PACAL</Tag>
+		<Russian>&#207;&#224;&#234;&#224;&#235;&#252; II</Russian>
+		<English>Pacal II</English>
+		<French>
+			<Text>Pacal II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Pacal II.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pakal II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pacal II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_DESC</Tag>
+		<Russian>&#200;&#236;&#239;&#229;&#240;&#232;&#255; &#236;&#224;&#233;&#255;</Russian>
+		<English>Maya Empire</English>
+		<French>
+			<Text>Empire maya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mayareich:Mayareich:Mayareich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero maya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Maya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_SHORT_DESC</Tag>
+		<Russian>&#204;&#224;&#233;&#255;</Russian>
+		<English>Maya</English>
+		<French>
+			<Text>Mayas</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Mayaland</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Maya</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>América Maya</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_MAYA_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#236;&#224;&#233;&#255;:&#236;&#224;&#233;&#255;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Maya:Maya</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>Maya:Mayas</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Mayaisch:mayaischen:mayaische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>maya:maya</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>maya:maya:mayas:mayas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAYA_BALL_COURT</Tag>
+		<Russian>&#200;&#227;&#240;&#238;&#226;&#238;&#229; &#239;&#238;&#235;&#229;</Russian>
+		<English>Ball Court</English>
+		<French>
+			<Text>Terrain de jeu de balle:Terrains de jeu de balle</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Ballplatz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Campo da palla:Campi da palla</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Campo del juego de pelota:Campos del juego de pelota</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MAYA_HOLKAN</Tag>
+		<Russian>&#213;&#238;&#235;&#252;&#234;&#224;&#237;</Russian>
+		<English>Holkan</English>
+		<French>
+			<Text>Holkan:Holkans</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Holkan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Holkan:Holkan</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Holkan:Holkanes</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_ZARA_YAQOB</Tag>
+		<Russian>&#199;&#224;&#240;&#224;-&#223;&#234;&#238;&#225;</Russian>
+		<English>Zara Yaqob</English>
+		<French>
+			<Text>Zara Yacoub</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Zara Yaqob</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Zara Yaqob</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Zara Yakub</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_DESC</Tag>
+		<Russian>&#221;&#244;&#232;&#238;&#239;&#232;&#255;</Russian>
+		<English>Ethiopian Empire</English>
+		<French>
+			<Text>Empire éthiopien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Äthiopisches Reich:Äthiopische Reich:Äthiopischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero etiope</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Etíope</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_SHORT_DESC</Tag>
+		<Russian>&#221;&#244;&#232;&#238;&#239;&#251;</Russian>
+		<English>Ethiopia</English>
+		<French>
+			<Text>Ethiopiens</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Äthiopien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Etiopia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Etiopía</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ETHIOPIA_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#253;&#244;&#232;&#238;&#239;&#251;:&#253;&#244;&#232;&#238;&#239;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Ethiopian:Ethiopians</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>éthiopien:éthiopienne:éthiopiens:éthiopiennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Äthiopisch:äthiopischen:äthiopische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>etiope:etiopi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>etíope:etíope:etíopes:etíopes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_ETHIOPIAN_STELE</Tag>
+		<Russian>&#209;&#242;&#229;&#235;&#224;</Russian>
+		<English>Stele</English>
+		<French>
+			<Text>Stèle:Stèles</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Stele</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Stele:Steli</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estela:Estelas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ETHIOPIAN_OROMO_WARRIOR</Tag>
+		<Russian>&#194;&#238;&#232;&#237; &#238;&#240;&#238;&#236;&#238;</Russian>
+		<English>Oromo Warrior</English>
+		<French>
+			<Text>Guerrier Oromo:Guerriers Oromo</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Oromo-Krieger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guerriero Oromo:Guerrieri Oromo</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guerrero oromo:Guerreros oromos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SULEIMAN</Tag>
+		<Russian>&#209;&#243;&#235;&#229;&#233;&#236;&#224;&#237; I</Russian>
+		<English>Suleiman</English>
+		<French>
+			<Text>Soliman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Süleyman I.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Solimano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Solimán</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_BOUDICA</Tag>
+		<Russian>&#193;&#238;&#243;&#228;&#232;&#234;&#224;</Russian>
+		<English>Boudica</English>
+		<French>
+			<Text>Boadicée</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Boudicca</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Boudica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Boadicea</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LINCOLN</Tag>
+		<Russian>&#203;&#232;&#237;&#234;&#238;&#235;&#252;&#237;</Russian>
+		<English>Lincoln</English>
+		<French>
+			<Text>Lincoln</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Lincoln</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Lincoln</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Lincoln</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DARIUS</Tag>
+		<Russian>&#196;&#224;&#240;&#232;&#233; I</Russian>
+		<English>Darius I</English>
+		<French>
+			<Text>Darios Ier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Dareios I.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dario I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Darío I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_DE_GAULLE</Tag>
+		<Russian>&#216;&#224;&#240;&#235;&#252; &#228;&#229; &#195;&#238;&#235;&#235;&#252;</Russian>
+		<English>De Gaulle</English>
+		<French>
+			<Text>De Gaulle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>De Gaulle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>De Gaulle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>De Gaulle</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_HAMMURABI</Tag>
+		<Russian>&#213;&#224;&#236;&#236;&#243;&#240;&#224;&#239;&#232;</Russian>
+		<English>Hammurabi</English>
+		<French>
+			<Text>Hammourabi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Hammurabi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Hammurabi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Hammurabi</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_GILGAMESH</Tag>
+		<Russian>&#195;&#232;&#235;&#252;&#227;&#224;&#236;&#229;&#248;</Russian>
+		<English>Gilgamesh</English>
+		<French>
+			<Text>Gilgamesh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Gilgamesch</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Gilgamesh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Gilgamesh</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_DESC</Tag>
+		<Russian>&#202;&#245;&#236;&#229;&#240;&#241;&#234;&#224;&#255; &#232;&#236;&#239;&#229;&#240;&#232;&#255;</Russian>
+		<English>Khmer Empire</English>
+		<French>
+			<Text>Empire khmer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Khmer-Reich:Khmer-Reich:Khmer-Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero khmer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Jémer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_SHORT_DESC</Tag>
+		<Russian>&#202;&#245;&#236;&#229;&#240;&#251;</Russian>
+		<English>Khmer</English>
+		<French>
+			<Text>Khmers</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Khmerland</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Khmer</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Jémer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KHMER_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#234;&#245;&#236;&#229;&#240;&#251;:&#234;&#245;&#236;&#229;&#240;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Khmer:Khmer</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>Khmer:Khmers</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Khmerisch:khmerischen:khmerische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>khmer:khmer</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>jémer:jémer:jémeres:jémeres</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SURYAVARMAN</Tag>
+		<Russian>&#209;&#243;&#240;&#252;&#255;&#226;&#224;&#240;&#236;&#224;&#237; II</Russian>
+		<English>Suryavarman II</English>
+		<French>
+			<Text>Suryavarman II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Suryavarman II.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Suryavarman II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Suryavarman II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_KHMER_BALLISTA_ELEPHANT</Tag>
+		<Russian>&#209;&#235;&#238;&#237; &#241; &#225;&#224;&#235;&#235;&#232;&#241;&#242;&#238;&#233;</Russian>
+		<English>Ballista Elephant</English>
+		<French>
+			<Text>Eléphant avec baliste:Eléphants avec balliste</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Ballistenelefant</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Elefante con balista:Elefanti con balista</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Elefante con balista:Elefantes con balista</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_KHMER_BARAY</Tag>
+		<Russian>&#193;&#224;&#240;&#224;&#233;</Russian>
+		<English>Baray</English>
+		<French>
+			<Text>Baray</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Baray</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Baray:Baray</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Baray:Barays</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLON_DESC</Tag>
+		<Russian>&#194;&#224;&#226;&#232;&#235;&#238;&#237;&#232;&#255;</Russian>
+		<English>Babylonian Empire</English>
+		<French>
+			<Text>Empire babylonien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Babylonisches Reich:Babylonische Reich:Babylonischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero babilonese</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Babilonio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLON_SHORT_DESC</Tag>
+		<Russian>&#194;&#224;&#226;&#232;&#235;&#238;&#237;&#255;&#237;&#229;</Russian>
+		<English>Babylon</English>
+		<French>
+			<Text>Babyloniens</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Babylon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Babilonia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Babilonia</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BABYLON_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#224;&#226;&#232;&#235;&#238;&#237;&#255;&#237;&#229;:&#226;&#224;&#226;&#232;&#235;&#238;&#237;&#255;&#237;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Babylonian:Babylonians</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>babylonien:babylonienne:babyloniens:babyloniennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Babylonisch:babylonischen:babylonische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>babilonese:babilonesi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>babilonio:babilonia:babilonios:babilonias</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BABYLON_BOWMAN</Tag>
+		<Russian>&#194;&#224;&#226;&#232;&#235;. &#235;&#243;&#247;&#237;&#232;&#234;</Russian>
+		<English>Bowman</English>
+		<French>
+			<Text>Archer babylonien:Archers</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Kampfbogenschütze</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Arciere babilonese:Arcieri babilonesi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Saetero:Saeteros</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BABYLON_GARDEN</Tag>
+		<Russian>&#209;&#224;&#228;&#251;</Russian>
+		<English>Garden</English>
+		<French>
+			<Text>Jardin:Jardins</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Garten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Giardino:Giardini</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Jardín:Jardines</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SUMERIA_DESC</Tag>
+		<Russian>&#216;&#243;&#236;&#229;&#240;&#241;&#234;&#238;&#229; &#246;&#224;&#240;&#241;&#242;&#226;&#238;</Russian>
+		<English>Sumerian Empire</English>
+		<French>
+			<Text>Empire sumérien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sumerisches Reich:Sumerische Reich:Sumerischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero sumero</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Sumerio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SUMERIA_SHORT_DESC</Tag>
+		<Russian>&#216;&#243;&#236;&#229;&#240;&#251;</Russian>
+		<English>Sumeria</English>
+		<French>
+			<Text>Sumériens</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Sumerien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Sumeria</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sumeria</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_SUMERIA_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#248;&#243;&#236;&#229;&#240;&#251;:&#248;&#243;&#236;&#229;&#240;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Sumerian:Sumerians</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>sumérien:sumérienne:sumériens:sumériennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Sumerisch:sumerischen:sumerische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei Sumeri:dei Sumeri</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>sumerio:sumeria:sumerios:sumerias</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUMERIAN_VULTURE</Tag>
+		<Russian>&#194;&#238;&#232;&#237; &#202;&#238;&#240;&#248;&#243;&#237;&#224;</Russian>
+		<English>Vulture</English>
+		<French>
+			<Text>Vautour:Vautours</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Geier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Avvoltoio:Avvoltoi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Buitre:Buitres</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SUMERIAN_ZIGGURAT</Tag>
+		<Russian>&#199;&#232;&#234;&#234;&#243;&#240;&#224;&#242;</Russian>
+		<English>Ziggurat</English>
+		<French>
+			<Text>Ziggourat:Ziggourats</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Zikkurat</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ziggurat:Ziggurat</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Zigurat:Zigurats</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_SITTING_BULL</Tag>
+		<Russian>&#209;&#232;&#228;&#255;&#249;&#232;&#233; &#193;&#251;&#234;</Russian>
+		<English>Sitting Bull</English>
+		<French>
+			<Text>Sitting Bull</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sitting Bull</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Toro Seduto</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Toro Sentado</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NATIVE_AMERICA_DESC</Tag>
+		<Russian>&#209;&#238;&#254;&#231; &#232;&#237;&#228;&#229;&#233;&#241;&#234;&#232;&#245; &#239;&#235;&#229;&#236;&#229;&#237;</Russian>
+		<English>Native American Empire</English>
+		<French>
+			<Text>Empire amérindien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Indianisches Reich:Indianische Reich:Indianischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero dei Nativi Americani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Indio Americano</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NATIVE_AMERICA_SHORT_DESC</Tag>
+		<Russian>&#200;&#237;&#228;&#229;&#233;&#246;&#251;</Russian>
+		<English>Native America</English>
+		<French>
+			<Text>Amérindiens</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Indianerland</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>America indiana</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>América India</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_NATIVE_AMERICA_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#232;&#237;&#228;&#229;&#233;&#246;&#251;:&#232;&#237;&#228;&#229;&#233;&#246;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Native American:Native Americans</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>amérindien::amérindienne:amérindiens:amérindiennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Indianisch:indianischen:indianische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei Nativi Americani:dei Nativi Americani</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>indio americano:india americana:indios americanos:indias americanas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIVE_AMERICA_TOTEM</Tag>
+		<Russian>&#210;&#238;&#242;&#229;&#236;&#237;&#251;&#233; &#241;&#242;&#238;&#235;&#225;</Russian>
+		<English>Totem Pole</English>
+		<French>
+			<Text>Totem:Totems</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Totempfahl</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Totem:Totem</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Tótem:Tótems</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_NATIVE_AMERICA_DOG_SOLDIER</Tag>
+		<Russian>&#207;&#229;&#241;-&#226;&#238;&#232;&#237;</Russian>
+		<English>Dog Soldier</English>
+		<French>
+			<Text>Soldat chien:Soldats chiens</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Dog Soldier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Soldato cane:Soldati cane</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Soldado perro:Soldados perros</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JOAO</Tag>
+		<Russian>&#198;&#243;&#224;&#237; II</Russian>
+		<English>Joao II</English>
+		<French>
+			<Text>Jean II de Portugal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Joao II.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Giovanni II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Juan II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_DESC</Tag>
+		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#232;&#255;</Russian>
+		<English>Portuguese Empire</English>
+		<French>
+			<Text>Empire portugais</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Portugiesisches Reich:Portugiesische Reich:Portugiesischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero portoghese</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Portugués</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_SHORT_DESC</Tag>
+		<Russian>&#207;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#246;&#251;</Russian>
+		<English>Portugal</English>
+		<French>
+			<Text>Portugais</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Portugal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Portogallo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Portugal</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_PORTUGAL_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#239;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#246;&#251;:&#239;&#238;&#240;&#242;&#243;&#227;&#224;&#235;&#252;&#246;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Portuguese:Portuguese</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>portugais:portugaise:portugais:portugaises</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Portugiesisch:portugiesischen:portugiesische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>portoghese:portoghesi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>portugués:portuguesa:portugueses:portuguesas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PORTUGAL_FEITORIA</Tag>
+		<Russian>&#212;&#224;&#234;&#242;&#238;&#240;&#232;&#255;</Russian>
+		<English>Feitoria</English>
+		<French>
+			<Text>Feitoria:Feitorias</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Feitoria</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Feitoria:Feitoria</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Feitoria:Feitorias</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PORTUGAL_CARRACK</Tag>
+		<Russian>&#202;&#224;&#240;&#224;&#234;&#224;</Russian>
+		<English>Carrack</English>
+		<French>
+			<Text>Caraque:Caraques</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Karacke</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Caracca:Caracche</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Carraca:Carracas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_JUSTINIAN</Tag>
+		<Russian>&#222;&#241;&#242;&#232;&#237;&#232;&#224;&#237; I</Russian>
+		<English>Justinian I</English>
+		<French>
+			<Text>Justinien Ier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Justinian I.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Giustiniano I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Justiniano I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BYZANTIUM_DESC</Tag>
+		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#255;</Russian>
+		<English>Byzantine Empire</English>
+		<French>
+			<Text>Empire byzantin</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Byzantinisches Reich:Byzantinische Reich:Byzantinischen Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero bizantino</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio Bizantino</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BYZANTIUM_SHORT_DESC</Tag>
+		<Russian>&#194;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#246;&#251;</Russian>
+		<English>Byzantium</English>
+		<French>
+			<Text>Byzantins</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Byzanz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bisanzio</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Bizancio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_BYZANTIUM_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#226;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#246;&#251;:&#226;&#232;&#231;&#224;&#237;&#242;&#232;&#233;&#246;&#251;</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Russian>
+		<English>
+			<Text>Byzantine:Byzantines</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</English>
+		<French>
+			<Text>byzantin:byzantine;byzantins:bizantines</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Byzantinisch:byzantinischen:byzantinische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei Bizantini:dei Bizantini</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>bizantino:bizantina:bizantinos:bizantinas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BYZANTINE_HIPPODROME</Tag>
+		<Russian>&#200;&#239;&#239;&#238;&#228;&#240;&#238;&#236;</Russian>
+		<English>Hippodrome</English>
+		<French>
+			<Text>Hippodrome:Hippodromes</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Hippodrom</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ippodromo:Ippodromi</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Hipódromo:Hipódromos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BYZANTINE_CATAPHRACT</Tag>
+		<Russian>&#202;&#224;&#242;&#224;&#244;&#240;&#224;&#234;&#242;&#224;&#240;&#232;&#233;</Russian>
+		<English>Cataphract</English>
+		<French>
+			<Text>Cataphractaire:Cataphractaires</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Kataphrakt</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Catafratta:Catafratte</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Catafracto:Catafractos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CUIRASSIER</Tag>
+		<Russian>&#202;&#232;&#240;&#224;&#241;&#232;&#240;</Russian>
+		<English>Cuirassier</English>
+		<French>
+			<Text>Cuirassier:Cuirassiers</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Kürassier</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Corazziere:Corazzieri</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Coracero:Coraceros</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AIRSHIP</Tag>
+		<Russian>&#196;&#232;&#240;&#232;&#230;&#224;&#225;&#235;&#252;</Russian>
+		<English>Airship</English>
+		<French>
+			<Text>Dirigeable:Dirigeables</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Luftschiff</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Dirigibile:Dirigibili</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Dirigible:Dirigibles</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ATTACK_SUBMARINE</Tag>
+		<Russian>&#211;&#228;. &#239;&#238;&#228;&#226;. &#235;&#238;&#228;&#234;&#224;</Russian>
+		<English>Attack Submarine</English>
+		<French>
+			<Text>Sous-marin d'attaque:Sous-marins d'attaques</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Angriffs-U-Boot</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Sottomarino d'attacco:Sottomarini d'attacco</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cazasubmarinos:Cazasubmarinos</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_GUIDED_MISSILE</Tag>
+		<Russian>&#211;&#239;&#240;. &#240;&#224;&#234;&#229;&#242;&#224;</Russian>
+		<English>Guided Missile</English>
+		<French>
+			<Text>Missile guidé:Missiles guidés</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Lenkrakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Missile teleguidato:Missili teleguidati</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Misil guiado:Misiles guiados</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SHIP_OF_THE_LINE</Tag>
+		<Russian>&#203;&#232;&#237;. &#234;&#238;&#240;&#224;&#225;&#235;&#252;</Russian>
+		<English>Ship of the Line</English>
+		<French>
+			<Text>Galion de guerre:Galions de guerre</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Linienschiff</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nave da prima linea:Navi da prima linea</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Buque de guerra:Buques de guerra</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_AT_INFANTRY</Tag>
+		<Russian>&#200;&#241;&#242;&#240;. &#242;&#224;&#237;&#234;&#238;&#226;</Russian>
+		<English>Anti-Tank</English>
+		<French>
+			<Text>Anti-char</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Panzerabwehrinfanterie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Fanteria anticarro:Fanterie anticarro</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Infantería antitanque:Infanterías antitanque</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_ARTILLERY</Tag>
+		<Russian>&#209;&#192;&#211;</Russian>
+		<English>Mobile Artillery</English>
+		<French>
+			<Text>Artillerie mobile:Artilleries mobiles</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Mobile Artillerie</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Artiglieria mobile:Artiglierie mobili</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pieza de artillería autopropulsada:Piezas de artillería autopropulsada</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MOBILE_SAM</Tag>
+		<Russian>&#199;&#208;&#202;</Russian>
+		<English>Mobile SAM</English>
+		<French>
+			<Text>Unité SAM mobile:Unités SAM mobiles</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Mobile Boden-Luft-Rakete</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>SAM mobile:SAM mobili</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Misil tierra-aire móvil:Misiles tierra-aire móviles</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALUNIT_MISSILE</Tag>
+		<Russian>&#208;&#224;&#234;. &#243;&#241;&#242;&#224;&#237;&#238;&#226;&#234;&#224;</Russian>
+		<English>Missiles</English>
+		<French>
+			<Text>Missiles</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Raketen</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</German>
+		<Italian>
+			<Text>Missile:Missili</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Misil:Misiles</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_PARK</Tag>
+		<Russian>&#205;&#224;&#246;. &#239;&#224;&#240;&#234;</Russian>
+		<English>National Park</English>
+		<French>
+			<Text>Parc national:Parcs nationaux</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Nationalpark</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Parco nazionale:Parchi nazionali</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Parque Nacional:Parques Nacionales</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_INTELLIGENCE_AGENCY</Tag>
+		<Russian>&#208;&#224;&#231;&#226;&#229;&#228;&#243;&#239;&#240;&#224;&#226;&#235;&#229;&#237;&#232;&#229;</Russian>
+		<English>Intelligence Agency</English>
+		<French>
+			<Text>Agence de renseignements:Agences de renseignements</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Geheimdienst</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Servizi segreti</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Agencia de inteligencia:Agencias de inteligencia</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_NATIONAL_SECURITY</Tag>
+		<Russian>&#209;&#235;&#243;&#230;&#225;&#224; &#234;&#238;&#237;&#242;&#240;&#240;&#224;&#231;&#226;.</Russian>
+		<English>Security Bureau</English>
+		<French>
+			<Text>Agence de sécurité:Agences de sécurité</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Sicherheitsdienst</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Agenzia di sicurezza:Agenzie di sicurezza</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Servicio de contraespionaje:Servicios de contraespionaje</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_STEALTH_DESTROYER</Tag>
+		<Russian>&#221;&#241;&#236;&#232;&#237;&#229;&#246; "&#209;&#242;&#229;&#235;&#241;"</Russian>
+		<English>Stealth Destroyer</English>
+		<French>
+			<Text>Destroyer furtif:Destroyers furtifs</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Tarnzerstörer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cacciatorpediniere invisibile:Cacciatorpedinieri invisibili</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Destructor invisible:Destructores invisibles</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_FOREST_PRESERVE</Tag>
+		<Russian>&#203;&#229;&#241;&#237;&#238;&#233; &#231;&#224;&#239;&#238;&#226;&#229;&#228;&#237;&#232;&#234;</Russian>
+		<English>Forest Preserve</English>
+		<French>
+			<Text>Réserve boisée:Réserves boisées</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Aufforstungsgebiet</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Riserva forestale:Riserve forestali</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reserva forestal:Reservas forestales</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SPECIALIST_GREAT_SPY</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#248;&#239;&#232;&#238;&#237;</Russian>
+		<English>Great Spy</English>
+		<French>
+			<Text>Espion illustre:Espions illustres</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Großer Spion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Grande Spia:Grandi Spie</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Gran espía:Grandes espías</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MOAI_STATUES</Tag>
+		<Russian>&#202;&#238;&#236;&#239;&#235;&#229;&#234;&#241; &#236;&#238;&#224;&#232;</Russian>
+		<English>Moai Statues</English>
+		<French>
+			<Text>Statues moaï</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Moai-Statuen</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Statue Moai</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Los Moai</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CRISTO_REDENTOR</Tag>
+		<Russian>&#209;&#242;&#224;&#242;&#243;&#255; &#209;&#239;&#224;&#241;&#232;&#242;&#229;&#235;&#255;</Russian>
+		<English>Cristo Redentor</English>
+		<French>
+			<Text>Christ Rédempteur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Cristo Redentor</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Cristo Redentore</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>El Cristo Redentor</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SHWEDAGON_PAYA</Tag>
+		<Russian>&#216;&#226;&#229;&#228;&#224;&#227;&#238;&#237;-&#207;&#224;&#255;</Russian>
+		<English>Shwedagon Paya</English>
+		<French>
+			<Text>Pagode Shwedagon</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Shwedagon-Pagode</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Shwedagon Paya</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>El Shwedagon Paya</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_MAUSOLEUM_OF_MAUSSOLLOS</Tag>
+		<Russian>&#195;&#240;&#238;&#225;&#237;&#232;&#246;&#224; &#204;&#224;&#226;&#241;&#238;&#235;&#224;</Russian>
+		<English>Mausoleum of Maussollos</English>
+		<French>
+			<Text>Mausolée d'Halicarnasse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mausoleum von Halikarnassos</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mausoleo di Mausolo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>El Mausoleo de Mausolo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STATUE_OF_ZEUS</Tag>
+		<Russian>&#209;&#242;&#224;&#242;&#243;&#255; &#199;&#229;&#226;&#241;&#224;</Russian>
+		<English>The Statue of Zeus</English>
+		<French>
+			<Text>La statue de Zeus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Zeus-Statue</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>La Statua di Zeus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>La Estatua de Zeus</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MISSILE_CRUISER</Tag>
+		<Russian>&#208;&#224;&#234;&#229;&#242;&#237;&#251;&#233; &#234;&#240;&#229;&#233;&#241;&#229;&#240;</Russian>
+		<English>Missile Cruiser</English>
+		<French>
+			<Text>Croiseur lance-missiles:Croiseurs lance-missiles</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Raketenkreuzer</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Incrociatore lanciamissili:Incrociatori lanciamissili</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Crucero portamisiles:Cruceros portamisiles</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TACTICAL_NUKE</Tag>
+		<Russian>&#210;&#224;&#234;&#242;. &#255;&#228;. &#240;&#224;&#234;&#229;&#242;&#224;</Russian>
+		<English>Tactical Nuke</English>
+		<French>
+			<Text>Arme nucléaire tactique:Armes nucléaires tactiques</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Taktische Nuklearwaffe</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Bomba nucleare tattica:Bombe nucleari tattiche</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Arma nuclear táctica:Armas nucleares tácticas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ADVANCED_FLIGHT</Tag>
+		<Russian>&#194;&#238;&#229;&#237;&#237;&#224;&#255; &#224;&#226;&#232;&#224;&#246;&#232;&#255;</Russian>
+		<English>Advanced Flight</English>
+		<French>
+			<Text>Vol avancé</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Fortgeschrittene Luftfahrt</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Volo avanzato</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Vuelo avanzado</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_STEALTH</Tag>
+		<Russian>"&#209;&#242;&#229;&#235;&#241;"</Russian>
+		<English>Stealth</English>
+		<French>
+			<Text>Furtivité</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Tarnung</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Invisibilità</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Invisibilidad ante el radar</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SUPERCONDUCTORS</Tag>
+		<Russian>&#209;&#226;&#229;&#240;&#245;&#239;&#240;&#238;&#226;&#238;&#228;&#237;&#232;&#234;&#232;</Russian>
+		<English>Superconductors</English>
+		<French>
+			<Text>Supraconducteurs</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Supraleiter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Superconduttori</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Superconductores</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_LASER</Tag>
+		<Russian>&#203;&#224;&#231;&#229;&#240;&#251;</Russian>
+		<English>Laser</English>
+		<French>
+			<Text>Laser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Laser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Laser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Láser</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_AESTHETICS</Tag>
+		<Russian>&#221;&#241;&#242;&#229;&#242;&#232;&#234;&#224;</Russian>
+		<English>Aesthetics</English>
+		<French>
+			<Text>Esthétique</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ästhetik</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Estetica</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Estética</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MILITARY_SCIENCE</Tag>
+		<Russian>&#194;&#238;&#229;&#237;&#237;&#238;&#229; &#228;&#229;&#235;&#238;</Russian>
+		<English>Military Science</English>
+		<French>
+			<Text>Science militaire</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Militärwissenschaft</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Scienza militare</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Belicología</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PRIVATEER</Tag>
+		<Russian>&#202;&#224;&#239;&#229;&#240;</Russian>
+		<English>Privateer</English>
+		<French>
+			<Text>Corsaire:Corsaires</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Freibeuter</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nave corsara:Navi corsare</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Corsario:Corsarios</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_PARATROOPER</Tag>
+		<Russian>&#207;&#224;&#240;&#224;&#248;&#254;&#242;&#232;&#241;&#242;</Russian>
+		<English>Paratrooper</English>
+		<French>
+			<Text>Parachutiste:Parachutistes</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Fallschirmjäger</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Paracadutista:Paracadutisti</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Paracaidista:Paracaidistas</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_BUOY</Tag>
+		<Russian>&#204;&#238;&#240;&#241;&#234;&#238;&#233; &#239;&#243;&#242;&#252;</Russian>
+		<English>Sea Route</English>
+		<French>
+			<Text>Route maritime:Routes maritimes</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Seeweg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rotta navale:Rotte navali</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ruta marítima:Rutas marítimas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_IMPROVEMENT_BUOY_PILLAGED</Tag>
+		<Russian>&#208;&#224;&#231;&#227;&#240;&#224;&#225;&#235;&#229;&#237;&#237;&#251;&#233; &#242;&#238;&#240;&#227;&#238;&#226;&#251;&#233; &#239;&#243;&#242;&#252;</Russian>
+		<English>Plundered Route</English>
+		<French>
+			<Text>Route pillée:Routes pillées</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Blockierter Seeweg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rotta saccheggiata:Rotte saccheggiate</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ruta saqueada:Rutas saqueadas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FLANK_ATTACK</Tag>
+		<Russian>&#206;&#241;&#224;&#228;&#237;&#251;&#229; &#254;&#237;&#232;&#242;&#251; &#232; &#244;&#235;&#224;&#237;&#227;&#238;&#226;&#224;&#255; &#224;&#242;&#224;&#234;&#224;</Russian>
+		<English>Improved Siege Combat</English>
+		<French>
+			<Text>Techniques de siège avancées</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Fortgeschrittener Belagerungskampf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Combattimento d'assedio migliorato</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Combate de asedio mejorado</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_SEA_TRADE</Tag>
+		<Russian>&#204;&#238;&#240;&#241;&#234;&#232;&#229; &#242;&#238;&#240;&#227;&#238;&#226;&#251;&#229; &#239;&#243;&#242;&#232;</Russian>
+		<English>Naval Trade Routes</English>
+		<French>
+			<Text>Routes commerciales navales</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Marinehandelswege</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Rotte commerciali navali</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Rutas comerciales navales</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_CORPORATIONS</Tag>
+		<Russian>&#202;&#238;&#240;&#239;&#238;&#240;&#224;&#246;&#232;&#232;</Russian>
+		<English>Corporations</English>
+		<French>
+			<Text>Sociétés commerciales</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Kapitalgesellschaften</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Corporazioni</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Corporaciones</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_COLONIES</Tag>
+		<Russian>&#202;&#238;&#235;&#238;&#237;&#232;&#232;</Russian>
+		<English>Colonies</English>
+		<French>
+			<Text>Colonies</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Kolonien</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Colonie</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Colonias</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INVISIBLE_STEALTH_NAVY</Tag>
+		<Russian>&#202;&#238;&#240;&#224;&#225;&#235;&#232; "&#209;&#242;&#229;&#235;&#241;"</Russian>
+		<English>Stealth Ships</English>
+		<French>
+			<Text>Navires furtifs</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Tarnschiffe</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Navi invisibili</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Barcos invisibles</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_CATEGORY_CONCEPT_NEW</Tag>
+		<Russian>&#205;&#238;&#226;&#238;&#229; &#226; "&#221;&#239;&#238;&#245;&#229; &#238;&#227;&#237;&#255;"</Russian>
+		<English>Beyond The Sword Concepts</English>
+		<French>
+			<Text>Concepts de Beyond The Sword</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Beyond The Sword-Konzepte</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nozioni di Beyond The Sword</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Conceptos de "Beyond The Sword"</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ESPIONAGE_CULTURE</Tag>
+		<Russian>&#216;&#239;&#232;&#238;&#237;&#224;&#230;</Russian>
+		<English>Espionage</English>
+		<French>
+			<Text>Espionnage</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Spionage</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Spionaggio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Espionaje</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_LATE_START</Tag>
+		<Russian>&#207;&#238;&#231;&#228;&#237;&#232;&#233; &#241;&#242;&#224;&#240;&#242;</Russian>
+		<English>Advanced Start</English>
+		<French>Départ avancé</French>
+		<German>Fortgeschrittener Start</German>
+		<Italian>Avvio avanzato</Italian>
+		<Spanish>Inicio avanzado</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_EVENTS</Tag>
+		<Russian>&#209;&#238;&#225;&#251;&#242;&#232;&#255;</Russian>
+		<English>Events</English>
+		<French>
+			<Text>Evénements</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Ereignisse</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Eventi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sucesos</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_AIR_COMBAT</Tag>
+		<Russian>&#194;&#238;&#231;&#228;&#243;&#248;&#237;&#251;&#233; &#225;&#238;&#233;</Russian>
+		<English>Air Combat</English>
+		<French>
+			<Text>Combat aérien</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Luftkampf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Combattimento aereo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Combate aéreo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_AIR_PROMOTIONS</Tag>
+		<Russian>&#202;&#226;&#224;&#235;&#232;&#244;&#232;&#234;&#224;&#246;&#232;&#232; &#226;&#238;&#231;&#228;&#243;&#248;&#237;&#251;&#245; &#254;&#237;&#232;&#242;&#238;&#226;</Russian>
+		<English>Air Unit Promotions</English>
+		<French>
+			<Text>Promotions d'unités aériennes</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Beförderungen Lufteinheiten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Promozioni unità aeree</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ascensos de las unidades aéreas</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_GREAT_SPY</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#233; &#248;&#239;&#232;&#238;&#237; &#232; &#241;&#239;&#229;&#246;&#232;&#224;&#235;&#232;&#241;&#242;-&#248;&#239;&#232;&#238;&#237;</Russian>
+		<English>Great Spy / Spy Specialist</English>
+		<French>
+			<Text>Espion illustre / Spécialiste de l'espionnage:Espions illustres / Spécialistes de l'espionnages</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Großer Spion/Spion-Spezialist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Grande Spia/Spia specialista</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Gran espía/espía especialista</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BTS_FOREST_PRESERVE</Tag>
+		<Russian>&#203;&#229;&#241;&#237;&#238;&#233; &#231;&#224;&#239;&#238;&#226;&#229;&#228;&#237;&#232;&#234;</Russian>
+		<English>Forest Preserve</English>
+		<French>
+			<Text>Réserve boisée:Réserves boisées</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</French>
+		<German>
+			<Text>Aufforstungsgebiet</Text>
+			<Gender>Neuter</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Riserva forestale</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Reserva forestal</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_JUDAISM_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#232;&#243;&#228;&#229;&#233;&#241;&#234;&#232;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Jewish</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>juif:juive:juifs:juives</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Jüdisch:jüdischen:jüdische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei giudei</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>judío:judía:judíos:judías</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_CHRISTIANITY_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#245;&#240;&#232;&#241;&#242;&#232;&#224;&#237;&#241;&#234;&#232;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Christian</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>chrétien:chrétienne:chrétiens:chrétiennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Christlich:christlichen:christliche</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei cristiani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>cristiano:cristiana:cristianos:cristianas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_ISLAM_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#232;&#241;&#235;&#224;&#236;&#241;&#234;&#232;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Islamic</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>musulman:musulmane:musulmans:musulmanes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Islamisch:islamischen:islamische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>degli islamici</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>islámico:islámica:islámicos:islámicas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_HINDUISM_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#232;&#237;&#228;&#243;&#232;&#241;&#242;&#241;&#234;&#232;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Hindu</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>hindou:hindoue:hindous:hindoues</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Hinduistisch:hinduistischen:hinduistische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>indù</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>hindú:hindú:hindúes:hindúes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_BUDDHISM_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#225;&#243;&#228;&#228;&#232;&#233;&#241;&#234;&#232;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Buddhist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>bouddhiste:bouddhiste:bouddhistes:bouddhistes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Buddhistisch:buddhistischen:buddhistische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei buddisti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>budista:budista:budistas:budistas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_CONFUCIANISM_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#234;&#238;&#237;&#244;&#243;&#246;&#232;&#224;&#237;&#241;&#234;&#232;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Confucian</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>confucéen:confucéenne:confucéens:confucéennes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Konfuzianisch:konfuzianischen:konfuzianische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei confuciani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>confuciano:confuciana:confucianos:confucianas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_RELIGION_TAOISM_ADJECTIVE</Tag>
+		<Russian>
+			<Text>&#228;&#224;&#238;&#241;&#241;&#234;&#232;&#229;</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Russian>
+		<English>
+			<Text>Taoist</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</English>
+		<French>
+			<Text>taoïste:taoïste:taoïstes:taoïstes</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>
+			<Text>Taoistisch:taoistischen:taoistische</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>dei taoisti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>taoísta:taoísta:taoístas:taoístas</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_PEBEKKAMEN</Tag>
+		<Russian>&#207;&#229;&#225;&#229;&#234;&#234;&#224;&#236;&#229;&#237;</Russian>
+		<English>Pebekkamen</English>
+		<French>
+			<Text>Pebekkamen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Pebekkamen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Pebekkamen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pebekkamen</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_EPHIALTES</Tag>
+		<Russian>&#221;&#244;&#232;&#224;&#235;&#252;&#242;</Russian>
+		<English>Ephialtes of Trachis</English>
+		<French>
+			<Text>Ephialtès de Trachine</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ephialtes von Trachis</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Efialte di Tracia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Efialtes de Tracia</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_JING_KE</Tag>
+		<Russian>&#215;&#230;&#232;&#237; &#202;&#229;</Russian>
+		<English>Jing Ke</English>
+		<French>
+			<Text>Jing Ke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Jing Ke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Jing Ke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Jing Ke</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_QIN_WUYANG</Tag>
+		<Russian>&#214;&#232;&#237;&#252; &#194;&#243;&#255;&#237;</Russian>
+		<English>Qin Wuyang</English>
+		<French>
+			<Text>Qin Wuyang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Qin Wuyang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Qin Wuyang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Qin Wuyang</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_CALIPPUS</Tag>
+		<Russian>&#202;&#224;&#235;&#235;&#232;&#239;&#239;</Russian>
+		<English>Calippus</English>
+		<French>
+			<Text>Calippe</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Calippus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Callippo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Calipo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_LEONE_ALBERTI</Tag>
+		<Russian>&#203;&#229;&#238;&#237; &#192;&#235;&#252;&#225;&#229;&#240;&#242;&#232;</Russian>
+		<English>Leone Alberti</English>
+		<French>
+			<Text>Leone Alberti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Leone Alberti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Leone Alberti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Leone Alberti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_JOHN_BARLOW</Tag>
+		<Russian>&#196;&#230;&#238;&#237; &#193;&#224;&#240;&#235;&#238;&#243;</Russian>
+		<English>John Barlow</English>
+		<French>
+			<Text>John Barlow</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>John Barlow</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>John Barlow</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>John Barlow</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_FRANCIS_WALSINGHAM</Tag>
+		<Russian>&#212;&#240;&#253;&#237;&#241;&#232;&#241; &#211;&#238;&#235;&#241;&#232;&#237;&#227;&#229;&#236;</Russian>
+		<English>Francis Walsingham</English>
+		<French>
+			<Text>Francis Walsingham</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Francis Walsingham</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Francis Walsingham</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Francis Walsingham</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_HATTORI_HANZO</Tag>
+		<Russian>&#213;&#224;&#242;&#242;&#238;&#240;&#232; &#213;&#224;&#237;&#231;&#238;</Russian>
+		<English>Hattori Hanzo</English>
+		<French>
+			<Text>Hanzo Hattori</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Hattori Hanzo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Hattori Hanzo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Hattori Hanzo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_BALTHASAR_GERARD</Tag>
+		<Russian>&#193;&#224;&#235;&#252;&#242;&#224;&#231;&#224;&#240; &#198;&#229;&#240;&#224;&#240;</Russian>
+		<English>Balthasar Gerard</English>
+		<French>
+			<Text>Balthazar Gérard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Balthasar Gerard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Balthasar Gerard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Balthasar Gerard</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_ANTHONY_BABINGTON</Tag>
+		<Russian>&#221;&#237;&#242;&#238;&#237;&#232; &#193;&#224;&#225;&#232;&#237;&#227;&#242;&#238;&#237;</Russian>
+		<English>Anthony Babington</English>
+		<French>
+			<Text>Anthony Babington</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Anthony Babington</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Anthony Babington</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Anthony Babington</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_ISHIKAWA_GOEMON</Tag>
+		<Russian>&#200;&#241;&#232;&#234;&#224;&#226;&#224; &#195;&#238;&#253;&#236;&#238;&#237;</Russian>
+		<English>Ishikawa Goemon</English>
+		<French>
+			<Text>Ishikawa Goemon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ishikawa Goemon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ishikawa Goemon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ishikawa Goemon</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_GASPAR_GRAZIANI</Tag>
+		<Russian>&#195;&#224;&#241;&#239;&#224;&#240; &#195;&#240;&#224;&#246;&#232;&#224;&#237;&#232;</Russian>
+		<English>Gaspar Graziani</English>
+		<French>
+			<Text>Gaspar Graziani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Gaspar Graziani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Gaspar Graziani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Gaspar Graziani</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_GUY_FAWKES</Tag>
+		<Russian>&#195;&#224;&#233; &#212;&#238;&#234;&#241;</Russian>
+		<English>Guy Fawkes</English>
+		<French>
+			<Text>Guy Fawkes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Guy Fawkes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Guy Fawkes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Guy Fawkes</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_JOHN_HONEYMAN</Tag>
+		<Russian>&#196;&#230;&#238;&#237; &#213;&#224;&#237;&#232;&#236;&#253;&#237;</Russian>
+		<English>John Honeyman</English>
+		<French>
+			<Text>John Honeyman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>John Honeyman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>John Honeyman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>John Honeyman</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_NATHAN_HALE</Tag>
+		<Russian>&#205;&#224;&#242;&#224;&#237; &#213;&#253;&#233;&#235;</Russian>
+		<English>Nathan Hale</English>
+		<French>
+			<Text>Nathan Hale</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Nathan Hale</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nathan Hale</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Nathan Hale</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_CHARLOTTE_CORDAY</Tag>
+		<Russian>&#216;&#224;&#240;&#235;&#238;&#242;&#242;&#224; &#202;&#238;&#240;&#228;&#229;&#233;</Russian>
+		<English>Charlotte Corday</English>
+		<French>
+			<Text>Charlotte Corday</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Charlotte Corday</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Charlotte Corday</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Charlotte Corday</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_GIACOMO_CASANOVA</Tag>
+		<Russian>&#196;&#230;&#224;&#234;&#238;&#236;&#238; &#202;&#224;&#231;&#224;&#237;&#238;&#226;&#224;</Russian>
+		<English>Giacomo Casanova</English>
+		<French>
+			<Text>Giacomo Casanova</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Giacomo Casanova</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Giacomo Casanova</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Giacomo Casanova</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_ALLAN_PINKERTON</Tag>
+		<Russian>&#192;&#235;&#224;&#237; &#207;&#232;&#237;&#234;&#229;&#240;&#242;&#238;&#237;</Russian>
+		<English>Allan Pinkerton</English>
+		<French>
+			<Text>Allan Pinkerton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Allan Pinkerton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Allan Pinkerton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Allan Pinkerton</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_WILLIAM_MELVILLE</Tag>
+		<Russian>&#211;&#232;&#235;&#252;&#255;&#236; &#204;&#229;&#235;&#226;&#232;&#235;&#235;</Russian>
+		<English>William Melville</English>
+		<French>
+			<Text>William Melville</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>William Melville</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>William Melville</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>William Melville</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_BELLE_BOYD</Tag>
+		<Russian>&#193;&#229;&#235;&#235;&#252; &#193;&#238;&#233;&#228;</Russian>
+		<English>Belle Boyd</English>
+		<French>
+			<Text>Belle Boyd</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Belle Boyd</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Belle Boyd</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Belle Boyd</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_SIDNEY_REILLY</Tag>
+		<Russian>&#209;&#232;&#228;&#237;&#229;&#233; &#208;&#229;&#233;&#235;&#232;</Russian>
+		<English>Sidney Reilly</English>
+		<French>
+			<Text>Sidney Reilly</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Sidney Reilly</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Sidney Reilly</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Sidney Reilly</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_AN_JUNG_GEUN</Tag>
+		<Russian>&#192;&#237; &#215;&#230;&#243;&#237; &#195;&#251;&#237;</Russian>
+		<English>An Jung-Geun</English>
+		<French>
+			<Text>An Jung-Geun</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>An Jung-Geun</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>An Jung-Geun</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>An Jung-Geun</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_CLAUDE_DANSEY</Tag>
+		<Russian>&#202;&#235;&#238;&#228; &#196;&#253;&#237;&#241;&#232;</Russian>
+		<English>Claude Dansey</English>
+		<French>
+			<Text>Claude Dansey</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Claude Dansey</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Claude Dansey</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Claude Dansey</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_MATA_HARI</Tag>
+		<Russian>&#204;&#224;&#242;&#224; &#213;&#224;&#240;&#232;</Russian>
+		<English>Mata Hari</English>
+		<French>
+			<Text>Mata Hari</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mata Hari</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mata Hari</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mata Hari</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_J_EDGAR_HOOVER</Tag>
+		<Russian>&#196;&#230;&#238;&#237; &#221;&#228;&#227;&#224;&#240; &#195;&#243;&#226;&#229;&#240;</Russian>
+		<English>J. Edgar Hoover</English>
+		<French>
+			<Text>J. Edgar Hoover</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>J. Edgar Hoover</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>J. Edgar Hoover</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>J. Edgar Hoover</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_MOE_BERG</Tag>
+		<Russian>&#204;&#238; &#193;&#229;&#240;&#227;</Russian>
+		<English>Moe Berg</English>
+		<French>
+			<Text>Moe Berg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Moe Berg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Moe Berg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Moe Berg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_ETHEL_ROSENBERG</Tag>
+		<Russian>&#221;&#242;&#229;&#235;&#252; &#208;&#238;&#231;&#229;&#237;&#225;&#229;&#240;&#227;</Russian>
+		<English>Ethel Rosenberg</English>
+		<French>
+			<Text>Ethel Rosenberg</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ethel Rosenberg</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Ethel Rosenberg</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ethel Rosenberg</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_JULIUS_ROSENBERG</Tag>
+		<Russian>&#222;&#235;&#232;&#243;&#241; &#208;&#238;&#231;&#229;&#237;&#225;&#229;&#240;&#227;</Russian>
+		<English>Julius Rosenberg</English>
+		<French>
+			<Text>Julius Rosenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Julius Rosenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Julius Rosenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Julius Rosenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_CLAUS_VON_STAUFFENBERG</Tag>
+		<Russian>&#202;&#235;&#224;&#243;&#241; &#244;&#238;&#237; &#216;&#242;&#224;&#243;&#244;&#244;&#229;&#237;&#225;&#229;&#240;&#227;</Russian>
+		<English>Claus von Stauffenberg</English>
+		<French>
+			<Text>Claus von Stauffenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Claus von Stauffenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Claus von Stauffenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Claus von Stauffenberg</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_SUZANNE_SPAAK</Tag>
+		<Russian>&#209;&#254;&#231;&#224;&#237;&#237;&#224; &#216;&#239;&#224;&#234;</Russian>
+		<English>Suzanne Spaak</English>
+		<French>
+			<Text>Suzanne Spaak</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Suzanne Spaak</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Suzanne Spaak</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Suzanne Spaak</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_WILLIAM_DONOVAN</Tag>
+		<Russian>&#211;&#232;&#235;&#252;&#255;&#236; &#196;&#238;&#237;&#238;&#226;&#224;&#237;</Russian>
+		<English>William Donovan</English>
+		<French>
+			<Text>William Donovan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>William Donovan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>William Donovan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>William Donovan</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_APOSTOLIC_PALACE</Tag>
+		<Russian>&#192;&#239;&#238;&#241;&#242;. &#228;&#226;&#238;&#240;&#229;&#246;</Russian>
+		<English>The Apostolic Palace</English>
+		<French>
+			<Text>Palais apostolique</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Apostolischer Palast</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Palazzo Apostolico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>El Palacio Apostólico</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORPORATION_1</Tag>
+		<Russian>&#207;&#240;&#238;&#228;&#243;&#234;&#242;&#251; &#232;&#231; &#231;&#235;&#224;&#234;&#238;&#226;</Russian>
+		<English>Cereal Mills</English>
+		<French>
+			<Text>Les grands moulins céréaliers</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Cereal Mills Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mulini Cereali</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Cereal Mills</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORPORATION_3</Tag>
+		<Russian>&#221;&#242;&#224;&#237;&#238;&#235;-&#241;&#242;&#224;&#237;&#228;&#224;&#240;&#242;</Russian>
+		<English>Standard Ethanol</English>
+		<French>
+			<Text>Ethanol Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Standard Ethanol</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Etanolo Standard</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Standard Ethanol</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORPORATION_4</Tag>
+		<Russian>&#194;&#229;&#235;&#232;&#234;&#232;&#229; &#231;&#238;&#228;&#247;&#232;&#229;</Russian>
+		<English>Creative Constructions</English>
+		<French>
+			<Text>Constructions créatives</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Creative Constructions</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Costruzioni Creative</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Creative Constructions</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORPORATION_5</Tag>
+		<Russian>&#195;&#238;&#240;&#237;&#251;&#229; &#240;&#229;&#241;&#243;&#240;&#241;&#251;</Russian>
+		<English>Mining Inc</English>
+		<French>
+			<Text>Compagnie d'exploitation minière</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mining Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Estrazioni Minerarie Inc.</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mining Inc.</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORPORATION_6</Tag>
+		<Russian>&#203;&#229;&#227;&#234;&#232;&#229; &#236;&#229;&#242;&#224;&#235;&#235;&#251;</Russian>
+		<English>Aluminum Co</English>
+		<French>
+			<Text>Aluminium S.A.</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Aluminum Co.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Alluminio Co.</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Aluminum Co.</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CORPORATION_7</Tag>
+		<Russian>&#204;&#232;&#240;&#238;&#226;&#251;&#229; &#254;&#226;&#229;&#235;&#232;&#240;&#251;</Russian>
+		<English>Civilized Jewelers Inc</English>
+		<French>
+			<Text>Bijoutiers associés</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Civilized Jewelers Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Gioiellieri Civilizzati</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Civilized Jewelers Inc.</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXECUTIVE_1</Tag>
+		<Russian>&#221;&#236;&#232;&#241;&#241;&#224;&#240; "&#207;&#199;"</Russian>
+		<English>Cereal Mills Executive</English>
+		<French>
+			<Text>Directeur des Grands moulins céréaliers</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vorstand der Cereal Mills Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Funzionario della Mulini Cereali:Funzionari della Mulini Cereali</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ejecutivo de Cereal Mills:Ejecutivos de Cereal Mills</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXECUTIVE_3</Tag>
+		<Russian>&#221;&#236;&#232;&#241;&#241;&#224;&#240; "&#221;&#209;"</Russian>
+		<English>Std Ethanol Executive</English>
+		<French>
+			<Text>Directeur d'Ethanol Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vorstand der Standard Ethanol</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Funzionario della Etanolo Standard:Funzionari della Etanolo Standard</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ejecutivo de Standard Ethanol:Ejecutivos de Standard Ethanol</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXECUTIVE_4</Tag>
+		<Russian>&#221;&#236;&#232;&#241;&#241;&#224;&#240; "&#194;&#199;"</Russian>
+		<English>CreateCon Executive</English>
+		<French>
+			<Text>Directeur de Constructions créatives</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vorstand der Creative Constructions</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Funzionario della Costruzioni Creative:Funzionari della Costruzioni Creative</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ejecutivo de Creative Constructions:Ejecutivos de Creative Constructions</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXECUTIVE_5</Tag>
+		<Russian>&#221;&#236;&#232;&#241;&#241;&#224;&#240; "&#195;&#208;"</Russian>
+		<English>Mining Inc Executive</English>
+		<French>
+			<Text>Directeur de la Compagnie d'exploitation minière</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vorstand der Mining Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Funzionario della Estrazioni Minerarie Inc.:Funzionari della Estrazioni Minerarie Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ejecutivo de Mining Inc.:Ejecutivos de Mining Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXECUTIVE_6</Tag>
+		<Russian>&#221;&#236;&#232;&#241;&#241;&#224;&#240; "&#203;&#204;"</Russian>
+		<English>AlumCo Executive</English>
+		<French>
+			<Text>Directeur d'Aluminium S.A.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vorstand der Aluminum Co.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Funzionario della Alluminio Co.:Funzionari della Alluminio Co.</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ejecutivo de Aluminum Co.:Ejecutivos de Aluminum Co.</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_EXECUTIVE_7</Tag>
+		<Russian>&#221;&#236;&#232;&#241;&#241;&#224;&#240; "&#204;&#222;"</Russian>
+		<English>Civ Jewels Executive</English>
+		<French>
+			<Text>Directeur des Bijoutiers associées</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Vorstand der Civilized Jewelers Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Funzionario della Gioiellieri Civilizzati:Funzionari della Gioiellieri Civilizzati</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Ejecutivo de Civilized Jewelers Inc.:Ejecutivos de Civilized Jewelers Inc.</Text>
+			<Gender>Male</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_WOODSMAN3</Tag>
+		<Russian>&#206;&#240;&#232;&#229;&#237;&#242;&#232;&#240;&#238;&#226;&#224;&#237;&#232;&#229; III</Russian>
+		<English>Woodsman III</English>
+		<French>
+			<Text>Forestier III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Waldkampf III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Taglialegna III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Montaraz III</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGE1</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#238;&#241;&#242;&#252; I</Russian>
+		<English>Range I</English>
+		<French>
+			<Text>Portée I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Fernkampf I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Raggio d'azione I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Alcance I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_RANGE2</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#238;&#241;&#242;&#252; II</Russian>
+		<English>Range II</English>
+		<French>
+			<Text>Portée II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Fernkampf II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Raggio d'azione II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Alcance II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTERCEPTION1</Tag>
+		<Russian>&#207;&#229;&#240;&#229;&#245;&#226;&#224;&#242; I</Russian>
+		<English>Interception I</English>
+		<French>
+			<Text>Interception I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Abfangen I</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Intercettazione I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Intercepción I</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_INTERCEPTION2</Tag>
+		<Russian>&#207;&#229;&#240;&#229;&#245;&#226;&#224;&#242; II</Russian>
+		<English>Interception II</English>
+		<French>
+			<Text>Interception II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Abfangen II</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Intercettazione II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Intercepción II</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PROMOTION_ACE</Tag>
+		<Russian>&#192;&#241;</Russian>
+		<English>Ace</English>
+		<French>
+			<Text>As</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Fliegerass</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Asso</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>As</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNITCOMBAT_AIR</Tag>
+		<Russian>&#194;&#238;&#231;&#228;&#243;&#248;&#237;&#251;&#229; &#254;&#237;&#232;&#242;&#251;</Russian>
+		<English>Air Units</English>
+		<French>
+			<Text>Unités aériennes</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Lufteinheiten</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Unità aerea:Unità aeree</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Unidad aérea:Unidades aéreas</Text>
+			<Gender>Female</Gender>
+			<Plural>0:1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_GERONIMO</Tag>
+		<Russian>&#196;&#230;&#229;&#240;&#238;&#237;&#232;&#236;&#238;</Russian>
+		<English>Geronimo</English>
+		<French>
+			<Text>Géronimo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Geromino</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Geronimo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Jerónimo</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_MAX_GOGF</Tag>
+		<Russian>&#204;&#224;&#234;&#241; &#195;&#238;&#227;&#244;</Russian>
+		<English>Max Gogf</English>
+		<French>
+			<Text>Max Gogf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Max Gogf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Max Gogf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Max Gogf</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_EYSTEIN</Tag>
+		<Russian>&#221;&#233;&#237;&#248;&#242;&#229;&#233;&#237; &#204;&#243;&#228;&#240;&#251;&#233;</Russian>
+		<English>Eystein the Wise</English>
+		<French>
+			<Text>Eystein le Sage</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Eystein der Weise</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Eystein il Saggio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Eystein el Sabio</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_SPEAKER</Tag>
+		<Russian>&#203;&#252;&#226;&#232;&#237;&#238;&#229; &#209;&#229;&#240;&#228;&#246;&#229;</Russian>
+		<English>Speaker the Lionhearted</English>
+		<French>
+			<Text>Speaker Coeur de Lion</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Referent Löwenherz</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Speaker Cuor di Leone</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Orador Corazón de León</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_MARK_SWISS</Tag>
+		<Russian>&#204;&#224;&#240;&#234; &#209;&#243;&#232;&#241;</Russian>
+		<English>Mark Swiss</English>
+		<French>
+			<Text>Mark Swiss</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mark Swiss</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mark Swiss</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mark Swiss</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_DANIEL_COLE</Tag>
+		<Russian>&#196;&#253;&#237;&#232;&#253;&#235; &#202;&#238;&#243;&#235;</Russian>
+		<English>Daniel Cole</English>
+		<French>
+			<Text>Daniel Cole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Daniel Cole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Daniel Cole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Daniel Cole</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_JOE_MATISE</Tag>
+		<Russian>&#196;&#230;&#238; &#204;&#224;&#242;&#232;&#231;</Russian>
+		<English>Joe Matise</English>
+		<French>
+			<Text>Joe Matise</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Joe Matise</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Joe Matise</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Joe Matise</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_ATLAS</Tag>
+		<Russian>&#210;&#232;&#242;&#224;&#237; &#192;&#242;&#235;&#224;&#237;&#242;</Russian>
+		<English>Atlas Titanus</English>
+		<French>
+			<Text>Atlas Titanus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Atlas Titanus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Atlas Titanus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Atlas Titanus</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_NOLAN</Tag>
+		<Russian>&#205;&#238;&#235;&#224;&#237; &#193;&#243;&#238;&#237;&#224;&#240;&#240;&#238;&#242;&#232;</Russian>
+		<English>Nolan Buonarroti</English>
+		<French>
+			<Text>Nolan Buonarroti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Nolan Buonarroti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Nolan Buonarroti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Nolan Buonarroti</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_FOSHAUG</Tag>
+		<Russian>&#207;&#235;&#243;&#242; &#212;&#238;&#248;&#238;</Russian>
+		<English>Foshaug the Deceiver</English>
+		<French>
+			<Text>Foshaug le Trompeur</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Foshaug der Schwindler</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Foshaug l'Ingannatore</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Foshaug el Embaucador</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GREAT_PERSON_VIKTOR_GRIPH</Tag>
+		<Russian>&#194;&#232;&#234;&#242;&#238;&#240; &#195;&#240;&#232;&#244;</Russian>
+		<English>Viktor Griph</English>
+		<French>
+			<Text>Viktor Griph</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Viktor Griph</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Viktor Griph</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Viktor Griph</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_FORT</Tag>
+		<Russian>&#206;&#225;&#237;&#238;&#226;&#235;&#229;&#237;&#237;&#251;&#229; &#244;&#238;&#240;&#242;&#251;</Russian>
+		<English>Updated Forts</English>
+		<French>Forts mis à jour</French>
+		<German>Verbesserte Festungen</German>
+		<Italian>Fortini aggiornati</Italian>
+		<Spanish>Fuertes actualizados</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CONCEPT_LIBERATION</Tag>
+		<Russian>&#206;&#242;&#228;&#229;&#235;&#229;&#237;&#232;&#229; &#227;&#238;&#240;&#238;&#228;&#238;&#226;</Russian>
+		<English>City Liberation</English>
+		<French>Libération de ville</French>
+		<German>Stadtbefreiung</German>
+		<Italian>Liberazione cittadina</Italian>
+		<Spanish>Liberación de ciudades</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>CONCEPT_APOSTOLIC_PALACE</Tag>
+		<Russian>&#192;&#239;&#238;&#241;&#242;&#238;&#235;&#232;&#247;&#229;&#241;&#234;&#232;&#233; &#228;&#226;&#238;&#240;&#229;&#246; &#232; &#206;&#206;&#205;</Russian>
+		<English>Apostolic Palace / United Nations</English>
+		<French>Palais apostolique / Nations Unies</French>
+		<German>Apostolischer Palast / Vereinte Nationen</German>
+		<Italian>Palazzo Apostolico/Nazioni Unite</Italian>
+		<Spanish>El Palacio Apostólico/las Naciones Unidas</Spanish>
+	</TEXT>
+</Civ4GameText>

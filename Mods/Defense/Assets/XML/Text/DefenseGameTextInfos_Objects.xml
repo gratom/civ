@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_JUNGLE_WARRIOR</Tag>
+		<Russian>&#194;&#238;&#232;&#237; &#228;&#230;&#243;&#237;&#227;&#235;&#229;&#233;</Russian>
+		<English>Jungle Warrior</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_HILL_FIGHTER</Tag>
+		<Russian>&#194;&#238;&#232;&#237; &#245;&#238;&#235;&#236;&#238;&#226;</Russian>
+		<English>Hill Fighter</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_TUNDRA_FIGHTER</Tag>
+		<Russian>&#194;&#238;&#232;&#237; &#242;&#243;&#237;&#228;&#240;&#251;</Russian>
+		<English>Tundra Fighter</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_FOREST_WARRIOR</Tag>
+		<Russian>&#194;&#238;&#232;&#237; &#235;&#229;&#241;&#238;&#226;</Russian>
+		<English>Forest Warrior</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_COMBAT_CHARIOT</Tag>
+		<Russian>&#193;&#238;&#229;&#226;&#224;&#255; &#234;&#238;&#235;&#229;&#241;&#237;&#232;&#246;&#224;</Russian>
+		<English>Combat Chariot</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_BOWMAN</Tag>
+		<Russian>&#203;&#243;&#247;&#237;&#232;&#234;</Russian>
+		<English>Bowman</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SCOUT</Tag>
+		<Russian>&#208;&#224;&#231;&#226;&#229;&#228;&#234;&#224;</Russian>
+		<English>Scouting</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SPY</Tag>
+		<Russian>&#216;&#239;&#232;&#238;&#237;&#224;&#230;</Russian>
+		<English>Spying</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CATAPULT</Tag>
+		<Russian>&#202;&#224;&#242;&#224;&#239;&#243;&#235;&#252;&#242;&#251;</Russian>
+		<English>Catapults</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TREBUCHET</Tag>
+		<Russian>&#202;&#224;&#236;&#237;&#229;&#236;&#229;&#242;&#251;</Russian>
+		<English>Trebuchets</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_LEVEL_CONGRATULATIONS</Tag>
+		<Russian>&#207;&#238;&#231;&#228;&#240;&#224;&#226;&#235;&#255;&#229;&#236;!</Russian>
+		<English>Congratulations!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SAVAGE</Tag>
+		<Russian>&#196;&#232;&#234;&#224;&#240;&#252;</Russian>
+		<English>Savage</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_CHARGER</Tag>
+		<Russian>&#194;&#241;&#224;&#228;&#237;&#232;&#234;</Russian>
+		<English>Charger</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_GALLEY</Tag>
+		<Russian>&#195;&#224;&#235;&#229;&#240;&#251;</Russian>
+		<English>Galleys</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_TRIREME</Tag>
+		<Russian>&#210;&#240;&#232;&#240;&#229;&#236;&#251;</Russian>
+		<English>Triremes</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_FRIGATE</Tag>
+		<Russian>&#212;&#240;&#229;&#227;&#224;&#242;&#251;</Russian>
+		<English>Frigates</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_SHIP_OF_THE_LINE</Tag>
+		<Russian>&#203;&#232;&#237;&#229;&#233;&#237;&#251;&#229; &#234;&#238;&#240;&#224;&#225;&#235;&#232;</Russian>
+		<English>Ship of the Line</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ZOMBIE</Tag>
+		<Russian>&#199;&#238;&#236;&#225;&#232;</Russian>
+		<English>Zombie</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ELEPHANT_RIDER</Tag>
+		<Russian>&#193;&#238;&#229;&#226;&#238;&#233; &#241;&#235;&#238;&#237;</Russian>
+		<English>Elephant Rider</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SAMURAI</Tag>
+		<Russian>&#193;&#229;&#231;&#243;&#236;&#237;&#251;&#233; &#241;&#224;&#236;&#243;&#240;&#224;&#233;</Russian>
+		<English>Psycho Samurai</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_SUICIDE_GRENADIER</Tag>
+		<Russian>&#195;&#240;&#229;&#237;&#224;&#228;&#229;&#240;-&#234;&#224;&#236;&#232;&#234;&#224;&#228;&#231;&#229;</Russian>
+		<English>Suicide Grenadier</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DOOM_ROLLER</Tag>
+		<Russian>&#204;&#224;&#248;&#232;&#237;&#224; &#241;&#236;&#229;&#240;&#242;&#232;</Russian>
+		<English>Doom Roller</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_DEATH_TRACK</Tag>
+		<Russian>&#209;&#242;&#224;&#235;&#252;&#237;&#238;&#229; &#247;&#243;&#228;&#238;&#226;&#232;&#249;&#229;</Russian>
+		<English>Death Track</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_MONSTER_TANK</Tag>
+		<Russian>&#216;&#224;&#227;&#238;&#245;&#238;&#228; &quot;&#204;&#238;&#237;&#241;&#242;&#240;&quot;</Russian>
+		<English>Monster Tank</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ROCKET_CART</Tag>
+		<Russian>&#213;&#226;&#224;&#247;&#245;&#224;</Russian>
+		<English>Rocket Cart</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ANTI_TANK_GUN</Tag>
+		<Russian>&#195;&#224;&#243;&#225;&#232;&#246;&#224;</Russian>
+		<English>Anti-Tank Gun</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ROCKETMAN</Tag>
+		<Russian>&#208;&#224;&#234;&#229;&#242;&#247;&#232;&#234;</Russian>
+		<English>Rocketman</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_RIDER</Tag>
+		<Russian>&#205;&#224;&#235;&#229;&#242;&#247;&#232;&#234;</Russian>
+		<English>Rider</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ROCKET_CART</Tag>
+		<Russian>&#213;&#226;&#224;&#247;&#245;&#232;</Russian>
+		<English>Rocket Carts</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ANTI_TANK_GUN</Tag>
+		<Russian>&#195;&#224;&#243;&#225;&#232;&#246;&#251;</Russian>
+		<English>Anti-Tank Guns</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_CANNON</Tag>
+		<Russian>&#207;&#243;&#248;&#234;&#232;</Russian>
+		<English>Cannons</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ARTILLERY</Tag>
+		<Russian>&#192;&#240;&#242;&#232;&#235;&#235;&#229;&#240;&#232;&#255;</Russian>
+		<English>Artillery</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MUSKETMAN</Tag>
+		<Russian>&#204;&#243;&#248;&#234;&#229;&#242;&#229;&#240;&#251;</Russian>
+		<English>Musketmen</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_INFANTRY</Tag>
+		<Russian>&#207;&#229;&#245;&#238;&#242;&#224;</Russian>
+		<English>Infantry</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_ROCKETMAN</Tag>
+		<Russian>&#208;&#224;&#234;&#229;&#242;&#247;&#232;&#234;&#232;</Russian>
+		<English>Rocketmen</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_RIDER</Tag>
+		<Russian>&#205;&#224;&#235;&#229;&#242;&#247;&#232;&#234;&#232;</Russian>
+		<English>Riders</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TECH_MACEMAN</Tag>
+		<Russian>&#193;&#243;&#235;&#224;&#226;&#238;&#237;&#238;&#241;&#246;&#251;</Russian>
+		<English>Macemen</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_ONE</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 1</Russian>
+		<English>Round 1</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_ONE_TITLE</Tag>
+		<Russian>&#211;&#234;&#240;&#238;&#249;&#229;&#237;&#232;&#229; &#235;&#252;&#226;&#238;&#226;</Russian>
+		<English>Lion Tamer</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TWO</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 2</Russian>
+		<English>Round 2</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TWO_TITLE</Tag>
+		<Russian>&#205;&#224;&#236; &#237;&#229; &#241;&#242;&#240;&#224;&#248;&#229;&#237; &#241;&#229;&#240;&#251;&#233; &#226;&#238;&#235;&#234;!</Russian>
+		<English>Who's afraid of the Big Bad Wolf</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_THREE</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 3</Russian>
+		<English>Round 3</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_THREE_TITLE</Tag>
+		<Russian>&#205;&#224;&#248;&#229;&#241;&#242;&#226;&#232;&#229; &#236;&#229;&#228;&#226;&#229;&#228;&#229;&#233;</Russian>
+		<English>Number 1 threat to America: Bears</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FOUR</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 4</Russian>
+		<English>Round 4</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FOUR_TITLE</Tag>
+		<Russian>&#203;&#252;&#226;&#251;, &#226;&#238;&#235;&#234;&#232; &#232; &#236;&#229;&#228;&#226;&#229;&#228;&#232;</Russian>
+		<English>Lions, Wolves and Bears, oh my!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FIVE</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 5</Russian>
+		<English>Round 5</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FIVE_TITLE</Tag>
+		<Russian>&#210;&#243;&#231;&#229;&#236;&#246;&#251; &#240;&#224;&#231;&#225;&#243;&#248;&#229;&#226;&#224;&#235;&#232;&#241;&#252;</Russian>
+		<English>Natives are restless</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SIX</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 6</Russian>
+		<English>Round 6</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SIX_TITLE</Tag>
+		<Russian>&#210;&#238;&#239;&#238;&#242; &#234;&#238;&#239;&#251;&#242;</Russian>
+		<English>Charge!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SEVEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 7</Russian>
+		<English>Round 7</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SEVEN_TITLE</Tag>
+		<Russian>&#204;&#224;&#241;&#234;&#232;&#240;&#238;&#226;&#234;&#224;</Russian>
+		<English>Sneaky, sneaky</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_EIGHT</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 8</Russian>
+		<English>Round 8</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_EIGHT_TITLE</Tag>
+		<Russian>&#209;&#238;&#239;&#240;&#238;&#242;&#232;&#226;&#235;&#229;&#237;&#232;&#229; &#225;&#229;&#241;&#239;&#238;&#235;&#229;&#231;&#237;&#238;</Russian>
+		<English>Resistance is Futile</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_NINE</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 9</Russian>
+		<English>Round 9</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_NINE_TITLE</Tag>
+		<Russian>&#194; &#229;&#230;&#238;&#226;&#251;&#245; &#240;&#243;&#234;&#224;&#226;&#232;&#246;&#224;&#245;</Russian>
+		<English>The Gauntlet</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 10</Russian>
+		<English>Round 10</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TEN_TITLE</Tag>
+		<Russian>&#199;&#224;&#228;&#224;&#237;&#232;&#229;: &#226;&#251;&#230;&#232;&#242;&#252;</Russian>
+		<English>I'm not dead yet!</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_ELEVEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 11</Russian>
+		<English>Round 11</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_ELEVEN_TITLE</Tag>
+		<Russian>&#213;&#224;&#240;&#224;&#234;&#232;&#240;&#232;</Russian>
+		<English>Seppuku</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TWELVE</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 12</Russian>
+		<English>Round 12</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TWELVE_TITLE</Tag>
+		<Russian>&#193;&#238;&#235;&#252;&#248;&#238;&#233; &#193;&#211;&#204;!</Russian>
+		<English>Big Bada-BOOM</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_THIRTEEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 13</Russian>
+		<English>Round 13</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_THIRTEEN_TITLE</Tag>
+		<Russian>&#205;&#224; &#239;&#238;&#241;&#235;&#229;&#228;&#237;&#229;&#236; &#232;&#231;&#228;&#251;&#245;&#224;&#237;&#232;&#232;</Russian>
+		<English>Only mostly dead</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FOURTEEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 14</Russian>
+		<English>Round 14</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FOURTEEN_TITLE</Tag>
+		<Russian>&#206;&#242;&#247;&#224;&#255;&#237;&#237;&#224;&#255; &#239;&#238;&#239;&#251;&#242;&#234;&#224;</Russian>
+		<English>How he got in my pajamas I'll never know.</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FIFTEEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 15</Russian>
+		<English>Round 15</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_FIFTEEN_TITLE</Tag>
+		<Russian>&#204;&#232;&#237;&#237;&#238;&#229; &#239;&#238;&#235;&#229;</Russian>
+		<English>Mine field</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SIXTEEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 16</Russian>
+		<English>Round 16</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SIXTEEN_TITLE</Tag>
+		<Russian>&#210;&#224;&#237;&#234;&#238;&#226;&#224;&#255; &#224;&#240;&#236;&#224;&#228;&#224;</Russian>
+		<English>Tanks for the memories</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SEVENTEEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 17</Russian>
+		<English>Round 17</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_SEVENTEEN_TITLE</Tag>
+		<Russian>&#196;&#224;&#226;&#232; &#232; &#234;&#240;&#243;&#248;&#232;!</Russian>
+		<English>Tank and Spank</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_EIGHTEEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 18</Russian>
+		<English>Round 18</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_EIGHTEEN_TITLE</Tag>
+		<Russian>&#193;&#229;&#228;&#224; &#237;&#229; &#239;&#240;&#232;&#245;&#238;&#228;&#232;&#242; &#238;&#228;&#237;&#224;</Russian>
+		<English>Terrible twos</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_NINETEEN</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 19</Russian>
+		<English>Round 19</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_NINETEEN_TITLE</Tag>
+		<Russian>&#199;&#224;&#242;&#232;&#248;&#252;&#229;</Russian>
+		<English>The Calm</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TWENTY</Tag>
+		<Russian>&#208;&#224;&#243;&#237;&#228; 20</Russian>
+		<English>Round 20</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_ROUND_TWENTY_TITLE</Tag>
+		<Russian>&#193;&#243;&#240;&#255;</Russian>
+		<English>The Storm</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_UNIT_ARATHNID</Tag>
+		<Russian>&#192;&#240;&#224;&#245;&#237;&#232;&#228;</Russian>
+		<English>Arathnid</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_DEFENSE_UNIT_ENEMY</Tag>
+		<Russian>&#207;&#240;&#238;&#242;&#232;&#226;&#237;&#232;&#234;</Russian>
+		<English>Enemy</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEDIA_RANGE</Tag>
+		<Russian>&#196;&#224;&#235;&#252;&#237;&#238;&#241;&#242;&#252;: %d1_Num</Russian>
+		<English>Range: %d1_Num</English>
+	</TEXT> 
+</Civ4GameText>
