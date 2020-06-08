@@ -1244,8 +1244,8 @@
 					<iDiscoverRand>0</iDiscoverRand>
 					<YieldChanges>
 						<iYieldChange>-1</iYieldChange>
-						<iYieldChange>2</iYieldChange>
-						<iYieldChange>4</iYieldChange>
+						<iYieldChange>3</iYieldChange>
+						<iYieldChange>7</iYieldChange>
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
@@ -1294,8 +1294,8 @@
 					<iDiscoverRand>0</iDiscoverRand>
 					<YieldChanges>
 						<iYieldChange>-1</iYieldChange>
-						<iYieldChange>2</iYieldChange>
-						<iYieldChange>4</iYieldChange>
+						<iYieldChange>3</iYieldChange>
+						<iYieldChange>7</iYieldChange>
 					</YieldChanges>
 				</BonusTypeStruct>
 			</BonusTypeStructs>
