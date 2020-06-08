@@ -56,7 +56,10 @@ ExportedObj/
 *.iso
 *.exe
 *.lnk
-
+*.ico
+*.mcl
+*.nif
+*.dds
 
 # Unity3D generated meta files
 *.pidb.meta
