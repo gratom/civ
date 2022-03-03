@@ -610,7 +610,7 @@
             <Civilopedia>TXT_KEY_IMPROVEMENT_WORKSHOP_PEDIA</Civilopedia>
             <ArtDefineTag>ART_DEF_IMPROVEMENT_WORKSHOP</ArtDefineTag>
             <PrereqNatureYields>
-                <iYield>1</iYield>
+                <iYield>0</iYield>
                 <iYield>0</iYield>
                 <iYield>0</iYield>
             </PrereqNatureYields>
