@@ -1681,11 +1681,11 @@
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
             <iTilesPerGoody>0</iTilesPerGoody>
             <iGoodyRange>0</iGoodyRange>
-            <iFeatureGrowth>64</iFeatureGrowth>
+            <iFeatureGrowth>128</iFeatureGrowth>
             <iUpgradeTime>0</iUpgradeTime>
             <iAirBombDefense>20</iAirBombDefense>
             <iDefenseModifier>0</iDefenseModifier>
-            <iHappiness>1</iHappiness>
+            <iHappiness>2</iHappiness>
             <iPillageGold>0</iPillageGold>
             <bOutsideBorders>0</bOutsideBorders>
             <TerrainMakesValids/>
