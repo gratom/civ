@@ -192,8 +192,8 @@
 			<CommerceModifiers/>
 			<CapitalCommerceModifiers/>
 			<SpecialistExtraCommerces>
-				<iCommerce>0</iCommerce>
-				<iCommerce>3</iCommerce>
+				<iCommerce>1</iCommerce>
+				<iCommerce>1</iCommerce>
 				<iCommerce>0</iCommerce>
 			</SpecialistExtraCommerces>
 			<Hurrys/>
@@ -433,13 +433,13 @@
 			<iNumCitiesMaintenanceModifier>0</iNumCitiesMaintenanceModifier>
 			<iCorporationMaintenanceModifier>0</iCorporationMaintenanceModifier>
 			<iExtraHealth>0</iExtraHealth>
-			<iFreeExperience>2</iFreeExperience>
+			<iFreeExperience>3</iFreeExperience>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
 			<iImprovementUpgradeRateModifier>0</iImprovementUpgradeRateModifier>
 			<iMilitaryProductionModifier>0</iMilitaryProductionModifier>
-			<iBaseFreeUnits>5</iBaseFreeUnits>
+			<iBaseFreeUnits>3</iBaseFreeUnits>
 			<iBaseFreeMilitaryUnits>0</iBaseFreeMilitaryUnits>
-			<iFreeUnitsPopulationPercent>10</iFreeUnitsPopulationPercent>
+			<iFreeUnitsPopulationPercent>15</iFreeUnitsPopulationPercent>
 			<iFreeMilitaryUnitsPopulationPercent>0</iFreeMilitaryUnitsPopulationPercent>
 			<iGoldPerUnit>0</iGoldPerUnit>
 			<iGoldPerMilitaryUnit>0</iGoldPerMilitaryUnit>
@@ -1618,7 +1618,7 @@
 			<iNonStateReligionHappiness>0</iNonStateReligionHappiness>
 			<iStateReligionUnitProductionModifier>0</iStateReligionUnitProductionModifier>
 			<iStateReligionBuildingProductionModifier>0</iStateReligionBuildingProductionModifier>
-			<iStateReligionFreeExperience>6</iStateReligionFreeExperience>
+			<iStateReligionFreeExperience>5</iStateReligionFreeExperience>
 			<YieldModifiers/>
 			<CapitalYieldModifiers/>
 			<TradeYieldModifiers/>
