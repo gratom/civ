@@ -6563,7 +6563,10 @@
 			<SeaPlotYieldChanges/>
 			<RiverPlotYieldChanges/>
 			<GlobalSeaPlotYieldChanges/>
-			<YieldChanges/>
+			<YieldChanges>
+				<iYield>0</iYield>
+				<iYield>1</iYield>
+			</YieldChanges>
 			<CommerceChanges/>
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
@@ -6593,7 +6596,16 @@
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
+					<BonusType>BONUS_URANIUM</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
@@ -6668,7 +6680,7 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>200</iCost>
+			<iCost>250</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -6702,7 +6714,7 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>0</iHealRateChange>
-			<iHealth>-2</iHealth>
+			<iHealth>-3</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>
@@ -6730,7 +6742,10 @@
 			<SeaPlotYieldChanges/>
 			<RiverPlotYieldChanges/>
 			<GlobalSeaPlotYieldChanges/>
-			<YieldChanges/>
+			<YieldChanges>
+				<iYield>0</iYield>
+				<iYield>4</iYield>
+			</YieldChanges>
 			<YieldModifiers/>
 			<PowerYieldModifiers/>
 			<CommerceChanges/>
@@ -6745,13 +6760,13 @@
 			<SpecialistCounts>
 				<SpecialistCount>
 					<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
-					<iSpecialistCount>2</iSpecialistCount>
+					<iSpecialistCount>3</iSpecialistCount>
 				</SpecialistCount>
 			</SpecialistCounts>
 			<FreeSpecialistCounts>
 				<FreeSpecialistCount>
 					<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
-					<iFreeSpecialistCount>1</iFreeSpecialistCount>
+					<iFreeSpecialistCount>2</iFreeSpecialistCount>
 				</FreeSpecialistCount>
 			</FreeSpecialistCounts>
 			<CommerceFlexibles/>
@@ -6764,6 +6779,18 @@
 				</BonusHealthChange>
 				<BonusHealthChange>
 					<BonusType>BONUS_COAL</BonusType>
+					<iHealthChange>-2</iHealthChange>
+				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_IRON</BonusType>
+					<iHealthChange>-1</iHealthChange>
+				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iHealthChange>-1</iHealthChange>
+				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iHealthChange>-1</iHealthChange>
 				</BonusHealthChange>
 			</BonusHealthChanges>
@@ -6781,7 +6808,48 @@
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
@@ -10854,7 +10922,7 @@
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
 			<CommerceModifiers>
-				<iCommerce>25</iCommerce>
+				<iCommerce>15</iCommerce>
 			</CommerceModifiers>
 			<GlobalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
@@ -10898,7 +10966,40 @@
 			<PrereqBuildingClasses/>
 			<BuildingClassNeededs/>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
+					<BonusType>BONUS_FUR</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_IVORY</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SILK</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_GEMS</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
@@ -11040,7 +11141,7 @@
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
 			<CommerceModifiers>
-				<iCommerce>25</iCommerce>
+				<iCommerce>15</iCommerce>
 			</CommerceModifiers>
 			<GlobalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
@@ -11084,7 +11185,40 @@
 			<PrereqBuildingClasses/>
 			<BuildingClassNeededs/>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
+					<BonusType>BONUS_FUR</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_IVORY</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SILK</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_GEMS</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
@@ -11606,7 +11740,7 @@
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
 			<CommerceModifiers>
-				<iCommerce>50</iCommerce>
+				<iCommerce>40</iCommerce>
 			</CommerceModifiers>
 			<GlobalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
@@ -11634,7 +11768,7 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
+						<iYield>8</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 				<BonusYieldModifier>
@@ -11642,7 +11776,7 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
+						<iYield>8</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 				<BonusYieldModifier>
@@ -11650,7 +11784,7 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
+						<iYield>8</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 			</BonusYieldModifiers>
@@ -11795,7 +11929,7 @@
 			<ObsoleteSafeCommerceChanges/>
 			<CommerceChangeDoubleTimes/>
 			<CommerceModifiers>
-				<iCommerce>65</iCommerce>
+				<iCommerce>55</iCommerce>
 			</CommerceModifiers>
 			<GlobalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
@@ -11823,7 +11957,7 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
+						<iYield>8</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 				<BonusYieldModifier>
@@ -11831,7 +11965,7 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
+						<iYield>8</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 				<BonusYieldModifier>
@@ -11839,7 +11973,7 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
+						<iYield>8</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 			</BonusYieldModifiers>
@@ -12028,7 +12162,64 @@
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COW</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_DEER</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_PIG</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SHEEP</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_GOLD</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SILVER</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SILK</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
@@ -12229,7 +12420,64 @@
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COW</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_DEER</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_PIG</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SHEEP</BonusType>
+					<YieldModifiers>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_GOLD</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SILVER</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_SILK</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
