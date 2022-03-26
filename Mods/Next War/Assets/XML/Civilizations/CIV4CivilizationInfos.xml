@@ -121,6 +121,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -248,6 +249,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -358,6 +360,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -476,6 +479,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -602,6 +606,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -712,6 +717,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -814,6 +820,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -920,6 +927,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1030,6 +1038,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1137,6 +1146,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1248,6 +1258,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1362,6 +1373,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1488,6 +1500,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1596,6 +1609,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1708,6 +1722,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1814,6 +1829,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1941,6 +1957,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2056,6 +2073,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2172,6 +2190,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2272,6 +2291,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2435,6 +2455,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2540,6 +2561,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2647,6 +2669,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2743,6 +2766,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2839,6 +2863,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2949,6 +2974,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3048,6 +3074,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3168,6 +3195,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3279,6 +3307,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3381,6 +3410,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3516,6 +3546,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3631,6 +3662,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3752,6 +3784,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3860,6 +3893,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3975,6 +4009,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4078,6 +4113,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4183,6 +4219,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4285,6 +4322,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4421,6 +4459,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -5136,6 +5175,7 @@
 				<CivicType>CIVIC_TRIBALISM</CivicType>
 				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
 				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_CIVIL_UPRISING</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
