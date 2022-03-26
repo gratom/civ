@@ -4,6 +4,7 @@
 # But not these files...
 !.gitignore
 !*.xml
+!*.py
 
 # ...even if they are in subdirectories
 !*/
