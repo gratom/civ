@@ -4738,12 +4738,12 @@
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_IRON_WORKING</PrereqTech>
             <TechTypes/>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>40</iCost>
+            <iCost>80</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -4797,7 +4797,16 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -4981,7 +4990,16 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -5112,16 +5130,11 @@
             <PrereqTech>TECH_IRON_WORKING</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>40</iCost>
+            <iCost>80</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -5175,7 +5188,16 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -5313,12 +5335,12 @@
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_IRON_WORKING</PrereqTech>
             <TechTypes/>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>45</iCost>
+            <iCost>90</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -5372,7 +5394,16 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -5498,16 +5529,11 @@
             <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>35</iCost>
+            <iCost>70</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -5566,7 +5592,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -5692,16 +5727,11 @@
             <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>35</iCost>
+            <iCost>70</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -5765,7 +5795,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -5891,16 +5930,11 @@
             <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>35</iCost>
+            <iCost>70</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -5959,7 +5993,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -6148,7 +6191,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>5</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -6282,16 +6334,11 @@
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>70</iCost>
+            <iCost>120</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -6350,7 +6397,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>80</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -6483,12 +6539,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>70</iCost>
+            <iCost>120</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -6547,7 +6603,12 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>120</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -6690,16 +6751,11 @@
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>70</iCost>
+            <iCost>120</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -6758,7 +6814,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>80</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -6885,16 +6950,11 @@
             <PrereqTech>TECH_HUNTING</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>35</iCost>
+            <iCost>70</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -6953,7 +7013,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>65</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>65</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -7079,16 +7152,11 @@
             <PrereqTech>TECH_HUNTING</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_COPPER</BonusType>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>35</iCost>
+            <iCost>55</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -7147,7 +7215,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -7282,7 +7363,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>35</iCost>
+            <iCost>25</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -7341,7 +7422,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -7466,12 +7560,12 @@
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_ENGINEERING</PrereqTech>
             <TechTypes/>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>60</iCost>
+            <iCost>100</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -7530,7 +7624,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>80</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -7655,12 +7758,12 @@
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_ENGINEERING</PrereqTech>
             <TechTypes/>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>60</iCost>
+            <iCost>100</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -7723,7 +7826,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>80</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -7849,7 +7961,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>80</iCost>
+            <iCost>160</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -7908,7 +8020,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -8038,7 +8159,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>80</iCost>
+            <iCost>160</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -8097,7 +8218,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -8223,7 +8353,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>80</iCost>
+            <iCost>160</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -8290,7 +8420,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -8416,7 +8555,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>80</iCost>
+            <iCost>160</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -8475,7 +8614,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -8618,7 +8766,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>110</iCost>
+            <iCost>190</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -8685,7 +8833,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -8811,7 +8968,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>110</iCost>
+            <iCost>190</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -8882,7 +9039,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -9016,7 +9182,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>100</iCost>
+            <iCost>165</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -9080,7 +9246,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -9206,7 +9381,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>120</iCost>
+            <iCost>220</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -9269,7 +9444,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -9408,7 +9596,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>140</iCost>
+            <iCost>250</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -9475,7 +9663,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -9601,7 +9798,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>150</iCost>
+            <iCost>270</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -9668,7 +9865,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -9788,12 +9994,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_OIL</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>220</iCost>
+            <iCost>400</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -9860,7 +10066,24 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -9989,7 +10212,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>160</iCost>
+            <iCost>290</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -10061,7 +10284,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -10195,7 +10431,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>160</iCost>
+            <iCost>280</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -10219,7 +10455,7 @@
             <FeatureImpassables/>
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
-            <iCombat>24</iCombat>
+            <iCombat>25</iCombat>
             <iCombatLimit>100</iCombatLimit>
             <iAirCombat>0</iAirCombat>
             <iAirCombatLimit>0</iAirCombatLimit>
@@ -10267,7 +10503,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -10393,7 +10642,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>160</iCost>
+            <iCost>280</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -10456,7 +10705,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -10648,7 +10910,28 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -10833,7 +11116,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -11013,7 +11309,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -11198,7 +11507,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -11378,7 +11700,16 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>15</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -11511,12 +11842,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>60</iCost>
+            <iCost>110</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -11575,7 +11906,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>80</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -11708,12 +12048,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>60</iCost>
+            <iCost>110</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -11772,7 +12112,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>80</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -11892,13 +12241,17 @@
             <PrereqCorporation>NONE</PrereqCorporation>
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_THE_WHEEL</PrereqTech>
-            <TechTypes/>
-            <BonusType>BONUS_HORSE</BonusType>
+            <TechTypes>
+                <PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+                <PrereqTech>NONE</PrereqTech>
+                <PrereqTech>NONE</PrereqTech>
+            </TechTypes>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>30</iCost>
+            <iCost>50</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -11957,7 +12310,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -12077,13 +12443,17 @@
             <PrereqCorporation>NONE</PrereqCorporation>
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_THE_WHEEL</PrereqTech>
-            <TechTypes/>
-            <BonusType>BONUS_HORSE</BonusType>
+            <TechTypes>
+                <PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+                <PrereqTech>NONE</PrereqTech>
+                <PrereqTech>NONE</PrereqTech>
+            </TechTypes>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>30</iCost>
+            <iCost>50</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -12142,7 +12512,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -12267,13 +12650,17 @@
             <PrereqCorporation>NONE</PrereqCorporation>
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_THE_WHEEL</PrereqTech>
-            <TechTypes/>
-            <BonusType>BONUS_HORSE</BonusType>
+            <TechTypes>
+                <PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+                <PrereqTech>NONE</PrereqTech>
+                <PrereqTech>NONE</PrereqTech>
+            </TechTypes>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>30</iCost>
+            <iCost>50</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -12337,7 +12724,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -12467,12 +12867,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>50</iCost>
+            <iCost>90</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -12531,7 +12931,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -12665,12 +13078,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>50</iCost>
+            <iCost>90</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -12734,7 +13147,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -12869,12 +13295,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>50</iCost>
+            <iCost>90</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -12933,7 +13359,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -13063,17 +13502,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <BonusType>NONE</BonusType>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>90</iCost>
+            <iCost>160</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -13127,7 +13561,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -13316,7 +13763,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -13446,17 +13906,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <BonusType>NONE</BonusType>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>90</iCost>
+            <iCost>160</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -13510,7 +13965,20 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -13657,17 +14125,12 @@
                 <PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <BonusType>NONE</BonusType>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>100</iCost>
+            <iCost>185</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -13730,7 +14193,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -13864,17 +14340,12 @@
                 <PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_IRON</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <BonusType>NONE</BonusType>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>100</iCost>
+            <iCost>185</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -13937,7 +14408,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -14071,12 +14555,12 @@
                 <PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>120</iCost>
+            <iCost>220</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -14144,7 +14628,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -14278,12 +14775,12 @@
                 <PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_HORSE</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>120</iCost>
+            <iCost>220</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -14355,7 +14852,20 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_HORSE</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -14481,7 +14991,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>60</iCost>
+            <iCost>55</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -14540,7 +15050,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -14671,7 +15190,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>60</iCost>
+            <iCost>55</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -14730,7 +15249,16 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -14855,12 +15383,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_OIL</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>180</iCost>
+            <iCost>330</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -14923,7 +15451,28 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>		
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>				
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -15053,12 +15602,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_OIL</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>180</iCost>
+            <iCost>330</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15125,7 +15674,28 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>	
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>				
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -15250,17 +15820,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_OIL</BonusType>
-            <PrereqBonuses>
-                <BonusType>BONUS_ALUMINUM</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-                <BonusType>NONE</BonusType>
-            </PrereqBonuses>
+            <BonusType>NONE</BonusType>
+            <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>240</iCost>
+            <iCost>420</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15327,7 +15892,28 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>		
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>				
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -15457,12 +16043,12 @@
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_ADVANCED_FLIGHT</PrereqTech>
             <TechTypes/>
-            <BonusType>BONUS_OIL</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>160</iCost>
+            <iCost>300</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15529,7 +16115,28 @@
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>					
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -15651,7 +16258,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>50</iCost>
+            <iCost>45</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15710,7 +16317,20 @@
                 </UnitCombatCollateralImmune>
             </UnitCombatCollateralImmunes>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>				
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>8</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -15836,7 +16456,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>50</iCost>
+            <iCost>45</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15900,7 +16520,20 @@
                 </UnitCombatCollateralImmune>
             </UnitCombatCollateralImmunes>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>				
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>8</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -16027,7 +16660,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>80</iCost>
+            <iCost>70</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -16086,7 +16719,20 @@
                 </UnitCombatCollateralImmune>
             </UnitCombatCollateralImmunes>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>				
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_STONE</BonusType>
+					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>16</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -16203,12 +16849,12 @@
             <PrereqBuilding>NONE</PrereqBuilding>
             <PrereqTech>TECH_STEEL</PrereqTech>
             <TechTypes/>
-            <BonusType>BONUS_IRON</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>100</iCost>
+            <iCost>160</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -16276,7 +16922,20 @@
                 </UnitCombatCollateralImmune>
             </UnitCombatCollateralImmunes>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>				
+				<BonusProductionModifier>
+					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>80</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>12</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -16398,7 +17057,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>125</iCost>
+            <iCost>250</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -16470,7 +17129,16 @@
                 </UnitCombatCollateralImmune>
             </UnitCombatCollateralImmunes>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>				
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -16592,7 +17260,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>150</iCost>
+            <iCost>260</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -16664,7 +17332,16 @@
                 </UnitCombatCollateralImmune>
             </UnitCombatCollateralImmunes>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>			
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>70</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>16</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -16780,12 +17457,12 @@
                 <PrereqTech>NONE</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
-            <BonusType>BONUS_OIL</BonusType>
+            <BonusType>NONE</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>200</iCost>
+            <iCost>350</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -16857,7 +17534,20 @@
                 </UnitCombatCollateralImmune>
             </UnitCombatCollateralImmunes>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>			
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COAL</BonusType>
+					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>16</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
