@@ -884,7 +884,7 @@
                     <PrereqTech>TECH_ELECTRICITY</PrereqTech>
                     <TechYields>
                         <iYield>0</iYield>
-                        <iYield>2</iYield>
+                        <iYield>1</iYield>
                         <iYield>2</iYield>
                     </TechYields>
                 </TechYieldChange>
@@ -1256,6 +1256,11 @@
             <Description>TXT_KEY_IMPROVEMENT_WELL</Description>
             <Civilopedia>TXT_KEY_IMPROVEMENT_WELL_PEDIA</Civilopedia>
             <ArtDefineTag>ART_DEF_IMPROVEMENT_WELL</ArtDefineTag>
+			<YieldChanges>
+                <iYieldChange>0</iYieldChange>
+                <iYieldChange>1</iYieldChange>
+                <iYieldChange>0</iYieldChange>
+            </YieldChanges>
             <bActsAsCity>0</bActsAsCity>
             <bHillsMakesValid>0</bHillsMakesValid>
             <bFreshWaterMakesValid>0</bFreshWaterMakesValid>
@@ -1299,7 +1304,7 @@
                     <iDiscoverRand>5000</iDiscoverRand>
                     <YieldChanges>
                         <iYieldChange>-2</iYieldChange>
-                        <iYieldChange>3</iYieldChange>
+                        <iYieldChange>2</iYieldChange>
                         <iYieldChange>10</iYieldChange>
                     </YieldChanges>
                 </BonusTypeStruct>
