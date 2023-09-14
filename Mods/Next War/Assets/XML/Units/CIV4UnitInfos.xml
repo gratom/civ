@@ -10006,8 +10006,8 @@
             <iMinAreaSize>-1</iMinAreaSize>
             <iMoves>2</iMoves>
             <bNoRevealMap>0</bNoRevealMap>
-            <iAirRange>1</iAirRange>
-            <iAirUnitCap>0</iAirUnitCap>
+            <iAirRange>2</iAirRange>
+            <iAirUnitCap>1</iAirUnitCap>
             <iDropRange>0</iDropRange>
             <iNukeRange>-1</iNukeRange>
             <iWorkRate>0</iWorkRate>
@@ -10083,12 +10083,16 @@
 					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
-            <SpecialCargo>NONE</SpecialCargo>
-            <DomainCargo>NONE</DomainCargo>
-            <iCargo>0</iCargo>
+            <SpecialCargo>SPECIALUNIT_MISSILE</SpecialCargo>
+            <DomainCargo>DOMAIN_AIR</DomainCargo>
+            <iCargo>4</iCargo>
             <iConscription>1</iConscription>
             <iCultureGarrison>11</iCultureGarrison>
             <iExtraCost>0</iExtraCost>
@@ -10295,6 +10299,10 @@
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
@@ -10514,6 +10522,10 @@
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
@@ -10930,6 +10942,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
 					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -15388,7 +15404,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>330</iCost>
+            <iCost>300</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15607,7 +15623,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>330</iCost>
+            <iCost>300</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -15887,7 +15903,7 @@
                 </UnitCombatMod>
                 <UnitCombatMod>
                     <UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-                    <iUnitCombatMod>150</iUnitCombatMod>
+                    <iUnitCombatMod>200</iUnitCombatMod>
                 </UnitCombatMod>
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
@@ -15912,6 +15928,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_COAL</BonusType>
 					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+                <BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>				
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -16102,7 +16122,7 @@
             <UnitCombatMods>
                 <UnitCombatMod>
                     <UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
-                    <iUnitCombatMod>100</iUnitCombatMod>
+                    <iUnitCombatMod>125</iUnitCombatMod>
                 </UnitCombatMod>
                 <UnitCombatMod>
                     <UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
@@ -16110,7 +16130,7 @@
                 </UnitCombatMod>
                 <UnitCombatMod>
                     <UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-                    <iUnitCombatMod>100</iUnitCombatMod>
+                    <iUnitCombatMod>200</iUnitCombatMod>
                 </UnitCombatMod>
             </UnitCombatMods>
             <UnitCombatCollateralImmunes/>
@@ -16135,6 +16155,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_COAL</BonusType>
 					<iProductonModifier>10</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -16283,7 +16307,7 @@
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
             <iCombat>5</iCombat>
-            <iCombatLimit>75</iCombatLimit>
+            <iCombatLimit>70</iCombatLimit>
             <iAirCombat>0</iAirCombat>
             <iAirCombatLimit>0</iAirCombatLimit>
             <iXPValueAttack>4</iXPValueAttack>
@@ -16320,15 +16344,15 @@
             <BonusProductionModifiers>				
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_STONE</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -16481,7 +16505,7 @@
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
             <iCombat>5</iCombat>
-            <iCombatLimit>75</iCombatLimit>
+            <iCombatLimit>70</iCombatLimit>
             <iAirCombat>0</iAirCombat>
             <iAirCombatLimit>0</iAirCombatLimit>
             <iXPValueAttack>4</iXPValueAttack>
@@ -16523,15 +16547,15 @@
             <BonusProductionModifiers>				
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_STONE</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -16722,15 +16746,15 @@
             <BonusProductionModifiers>				
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_STONE</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -17487,7 +17511,7 @@
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
             <iCombat>26</iCombat>
-            <iCombatLimit>85</iCombatLimit>
+            <iCombatLimit>95</iCombatLimit>
             <iAirCombat>0</iAirCombat>
             <iAirCombatLimit>0</iAirCombatLimit>
             <iXPValueAttack>4</iXPValueAttack>
@@ -17546,6 +17570,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_COAL</BonusType>
 					<iProductonModifier>40</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -20053,6 +20081,10 @@
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>20</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -20304,6 +20336,10 @@
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>30</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>75</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>16</iBombardRate>
@@ -20552,6 +20588,10 @@
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>30</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>20</iBombardRate>
@@ -20799,6 +20839,10 @@
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>30</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>20</iBombardRate>
@@ -20921,7 +20965,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>3000</iCost>
+            <iCost>3500</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>1300</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -20945,7 +20989,7 @@
             <FeatureImpassables/>
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
-            <iCombat>110</iCombat>
+            <iCombat>80</iCombat>
             <iCombatLimit>100</iCombatLimit>
             <iAirCombat>20</iAirCombat>
             <iAirCombatLimit>100</iAirCombatLimit>
@@ -21036,22 +21080,26 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>50</iProductonModifier>
+					<iProductonModifier>30</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
-					<iProductonModifier>50</iProductonModifier>
+					<iProductonModifier>15</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>30</iBombardRate>
             <SpecialCargo>SPECIALUNIT_MISSILE</SpecialCargo>
             <DomainCargo>DOMAIN_AIR</DomainCargo>
-            <iCargo>8</iCargo>
+            <iCargo>6</iCargo>
             <iConscription>0</iConscription>
             <iCultureGarrison>0</iCultureGarrison>
             <iExtraCost>0</iExtraCost>
@@ -21305,6 +21353,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>30</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -21564,6 +21616,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>70</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -21832,6 +21888,10 @@
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -21946,12 +22006,12 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>340</iCost>
+            <iCost>500</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
             <iMinAreaSize>20</iMinAreaSize>
-            <iMoves>5</iMoves>
+            <iMoves>6</iMoves>
             <bNoRevealMap>0</bNoRevealMap>
             <iAirRange>0</iAirRange>
             <iAirUnitCap>0</iAirUnitCap>
@@ -21970,7 +22030,7 @@
             <FeatureImpassables/>
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
-            <iCombat>16</iCombat>
+            <iCombat>25</iCombat>
             <iCombatLimit>100</iCombatLimit>
             <iAirCombat>0</iAirCombat>
             <iAirCombatLimit>0</iAirCombatLimit>
@@ -22071,12 +22131,16 @@
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>SPECIALUNIT_FIGHTER</SpecialCargo>
             <DomainCargo>DOMAIN_AIR</DomainCargo>
-            <iCargo>3</iCargo>
+            <iCargo>4</iCargo>
             <iConscription>0</iConscription>
             <iCultureGarrison>0</iCultureGarrison>
             <iExtraCost>0</iExtraCost>
@@ -22432,6 +22496,10 @@
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>60</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>8</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -22615,6 +22683,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>12</iBombRate>
@@ -22810,6 +22882,10 @@
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>70</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>16</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -22997,6 +23073,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>60</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>20</iBombRate>
@@ -23186,6 +23266,10 @@
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>60</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>30</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -23295,7 +23379,7 @@
             <PrereqTech>TECH_ROCKETRY</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_RADIO</PrereqTech>
-                <PrereqTech>NONE</PrereqTech>
+                <PrereqTech>TECH_LASER</PrereqTech>
                 <PrereqTech>NONE</PrereqTech>
             </TechTypes>
             <BonusType>NONE</BonusType>
@@ -23303,14 +23387,14 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>100</iCost>
+            <iCost>60</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
             <iMinAreaSize>-1</iMinAreaSize>
             <iMoves>1</iMoves>
             <bNoRevealMap>0</bNoRevealMap>
-            <iAirRange>6</iAirRange>
+            <iAirRange>3</iAirRange>
             <iAirUnitCap>0</iAirUnitCap>
             <iDropRange>0</iDropRange>
             <iNukeRange>-1</iNukeRange>
@@ -23361,6 +23445,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>16</iBombRate>
@@ -23472,13 +23560,14 @@
             <TechTypes>
                 <PrereqTech>TECH_RADIO</PrereqTech>
                 <PrereqTech>TECH_ROCKETRY</PrereqTech>
+                <PrereqTech>TECH_LASER</PrereqTech>
             </TechTypes>
             <BonusType>BONUS_ALUMINUM</BonusType>
             <PrereqBonuses/>
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>400</iCost>
+            <iCost>500</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>150</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -23535,6 +23624,10 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
@@ -23654,14 +23747,14 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>250</iCost>
+            <iCost>500</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
             <iMinAreaSize>-1</iMinAreaSize>
             <iMoves>1</iMoves>
             <bNoRevealMap>0</bNoRevealMap>
-            <iAirRange>4</iAirRange>
+            <iAirRange>5</iAirRange>
             <iAirUnitCap>0</iAirUnitCap>
             <iDropRange>0</iDropRange>
             <iNukeRange>1</iNukeRange>
@@ -23825,7 +23918,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>500</iCost>
+            <iCost>1000</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -25575,14 +25668,14 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>1200</iCost>
+            <iCost>700</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>700</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
             <iMinAreaSize>-1</iMinAreaSize>
             <iMoves>2</iMoves>
             <bNoRevealMap>0</bNoRevealMap>
-            <iAirRange>2</iAirRange>
+            <iAirRange>1</iAirRange>
             <iAirUnitCap>0</iAirUnitCap>
             <iDropRange>0</iDropRange>
             <iNukeRange>-1</iNukeRange>
@@ -25599,7 +25692,7 @@
             <FeatureImpassables/>
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
-            <iCombat>50</iCombat>
+            <iCombat>40</iCombat>
             <iCombatLimit>100</iCombatLimit>
             <iAirCombat>30</iAirCombat>
             <iAirCombatLimit>100</iAirCombatLimit>
@@ -25658,6 +25751,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>20</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -25864,6 +25961,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
 					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
@@ -26314,7 +26415,12 @@
             <UnitCombatMods/>
             <UnitCombatCollateralImmunes/>
             <DomainMods/>
-            <BonusProductionModifiers/>
+            <BonusProductionModifiers>
+			    <BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
             <SpecialCargo>NONE</SpecialCargo>
@@ -26511,6 +26617,10 @@
 					<BonusType>BONUS_COPPER</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -26542,6 +26652,192 @@
             <FreePromotions>
                 <FreePromotion>
                     <PromotionType>PROMOTION_BLITZ</PromotionType>
+                    <bFreePromotion>1</bFreePromotion>
+                </FreePromotion>
+            </FreePromotions>
+            <LeaderPromotion>NONE</LeaderPromotion>
+            <iLeaderExperience>0</iLeaderExperience>
+        </UnitInfo>
+		<UnitInfo>
+            <Class>UNITCLASS_ZOND</Class>
+            <Type>UNIT_ZOND</Type>
+            <UniqueNames/>
+            <Special>SPECIALUNIT_PEOPLE</Special>
+            <Capture>NONE</Capture>
+            <Combat>NONE</Combat>
+            <Domain>DOMAIN_LAND</Domain>
+            <DefaultUnitAI>UNITAI_SPY</DefaultUnitAI>
+            <Invisible>NONE</Invisible>
+            <SeeInvisible>NONE</SeeInvisible>
+            <Description>TXT_KEY_UNIT_ZOND</Description>
+            <Civilopedia>TXT_KEY_CONCEPT_ESPIONAGE_PEDIA_SR</Civilopedia>
+            <Strategy>TXT_KEY_UNIT_ZOND_STRATEGY</Strategy>
+            <Advisor>ADVISOR_MILITARY</Advisor>
+            <bAnimal>0</bAnimal>
+            <bFood>0</bFood>
+            <bNoBadGoodies>0</bNoBadGoodies>
+            <bOnlyDefensive>0</bOnlyDefensive>
+            <bNoCapture>0</bNoCapture>
+            <bQuickCombat>0</bQuickCombat>
+            <bRivalTerritory>1</bRivalTerritory>
+            <bMilitaryHappiness>0</bMilitaryHappiness>
+            <bMilitarySupport>0</bMilitarySupport>
+            <bMilitaryProduction>0</bMilitaryProduction>
+            <bPillage>0</bPillage>
+            <bSpy>0</bSpy>
+            <bSabotage>0</bSabotage>
+            <bDestroy>0</bDestroy>
+            <bStealPlans>0</bStealPlans>
+            <bInvestigate>0</bInvestigate>
+            <bCounterSpy>0</bCounterSpy>
+            <bFound>0</bFound>
+            <bGoldenAge>0</bGoldenAge>
+            <bInvisible>1</bInvisible>
+            <bFirstStrikeImmune>0</bFirstStrikeImmune>
+            <bNoDefensiveBonus>0</bNoDefensiveBonus>
+            <bIgnoreBuildingDefense>0</bIgnoreBuildingDefense>
+            <bCanMoveImpassable>1</bCanMoveImpassable>
+            <bCanMoveAllTerrain>1</bCanMoveAllTerrain>
+            <bFlatMovementCost>1</bFlatMovementCost>
+            <bIgnoreTerrainCost>1</bIgnoreTerrainCost>
+            <bNukeImmune>0</bNukeImmune>
+            <bPrereqBonuses>0</bPrereqBonuses>
+            <bPrereqReligion>0</bPrereqReligion>
+            <bMechanized>0</bMechanized>
+            <bSuicide>0</bSuicide>
+            <bHiddenNationality>1</bHiddenNationality>
+            <bAlwaysHostile>0</bAlwaysHostile>
+            <UnitClassUpgrades/>
+            <UnitClassTargets/>
+            <UnitCombatTargets/>
+            <UnitClassDefenders/>
+            <UnitCombatDefenders/>
+            <FlankingStrikes/>
+            <UnitAIs>
+                <UnitAI>
+                    <UnitAIType>UNITAI_SPY</UnitAIType>
+                    <bUnitAI>1</bUnitAI>
+                </UnitAI>
+            </UnitAIs>
+            <NotUnitAIs/>
+            <Builds/>
+            <ReligionSpreads/>
+            <CorporationSpreads/>
+            <GreatPeoples/>
+            <Buildings/>
+            <ForceBuildings/>
+            <HolyCity>NONE</HolyCity>
+            <ReligionType>NONE</ReligionType>
+            <StateReligion>NONE</StateReligion>
+            <PrereqReligion>NONE</PrereqReligion>
+            <PrereqCorporation>NONE</PrereqCorporation>
+            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqTech>TECH_SATELLITES</PrereqTech>
+            <TechTypes/>
+            <BonusType>NONE</BonusType>
+            <PrereqBonuses/>
+            <ProductionTraits/>
+            <Flavors>
+                <Flavor>
+                    <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+                    <iFlavor>1</iFlavor>
+                </Flavor>
+            </Flavors>
+            <iAIWeight>0</iAIWeight>
+            <iCost>1000</iCost>
+            <iHurryCostModifier>0</iHurryCostModifier>
+            <iAdvancedStartCost>100</iAdvancedStartCost>
+            <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+            <iMinAreaSize>-1</iMinAreaSize>
+            <iMoves>15</iMoves>
+            <bNoRevealMap>0</bNoRevealMap>
+            <iAirRange>0</iAirRange>
+            <iAirUnitCap>0</iAirUnitCap>
+            <iDropRange>0</iDropRange>
+            <iNukeRange>-1</iNukeRange>
+            <iWorkRate>0</iWorkRate>
+            <iBaseDiscover>0</iBaseDiscover>
+            <iDiscoverMultiplier>0</iDiscoverMultiplier>
+            <iBaseHurry>0</iBaseHurry>
+            <iHurryMultiplier>0</iHurryMultiplier>
+            <iBaseTrade>0</iBaseTrade>
+            <iTradeMultiplier>0</iTradeMultiplier>
+            <iGreatWorkCulture>0</iGreatWorkCulture>
+            <iEspionagePoints>0</iEspionagePoints>
+            <TerrainImpassables/>
+            <FeatureImpassables/>
+            <TerrainPassableTechs/>
+            <FeaturePassableTechs/>
+            <iCombat>0</iCombat>
+            <iCombatLimit>0</iCombatLimit>
+            <iAirCombat>0</iAirCombat>
+            <iAirCombatLimit>0</iAirCombatLimit>
+            <iXPValueAttack>0</iXPValueAttack>
+            <iXPValueDefense>0</iXPValueDefense>
+            <iFirstStrikes>0</iFirstStrikes>
+            <iChanceFirstStrikes>0</iChanceFirstStrikes>
+            <iInterceptionProbability>0</iInterceptionProbability>
+            <iEvasionProbability>0</iEvasionProbability>
+            <iWithdrawalProb>0</iWithdrawalProb>
+            <iCollateralDamage>0</iCollateralDamage>
+            <iCollateralDamageLimit>0</iCollateralDamageLimit>
+            <iCollateralDamageMaxUnits>0</iCollateralDamageMaxUnits>
+            <iCityAttack>0</iCityAttack>
+            <iCityDefense>0</iCityDefense>
+            <iAnimalCombat>0</iAnimalCombat>
+            <iHillsAttack>0</iHillsAttack>
+            <iHillsDefense>0</iHillsDefense>
+            <TerrainNatives/>
+            <FeatureNatives/>
+            <TerrainAttacks/>
+            <TerrainDefenses/>
+            <FeatureAttacks/>
+            <FeatureDefenses/>
+            <UnitClassAttackMods/>
+            <UnitClassDefenseMods/>
+            <UnitCombatMods/>
+            <UnitCombatCollateralImmunes/>
+            <DomainMods/>
+            <BonusProductionModifiers>			
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>200</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
+            <iBombRate>0</iBombRate>
+            <iBombardRate>0</iBombardRate>
+            <SpecialCargo>NONE</SpecialCargo>
+            <DomainCargo>NONE</DomainCargo>
+            <iCargo>0</iCargo>
+            <iConscription>0</iConscription>
+            <iCultureGarrison>0</iCultureGarrison>
+            <iExtraCost>0</iExtraCost>
+            <iAsset>2</iAsset>
+            <iPower>0</iPower>
+            <UnitMeshGroups>
+                <iGroupSize>1</iGroupSize>
+                <fMaxSpeed>1.75</fMaxSpeed>
+                <fPadTime>1</fPadTime>
+                <iMeleeWaveSize>1</iMeleeWaveSize>
+                <iRangedWaveSize>0</iRangedWaveSize>
+                <UnitMeshGroup>
+                    <iRequired>1</iRequired>
+                    <EarlyArtDefineTag>ART_DEF_UNIT_ZOND</EarlyArtDefineTag>
+                </UnitMeshGroup>
+            </UnitMeshGroups>
+            <FormationType>FORMATION_TYPE_DEFAULT</FormationType>
+            <HotKey/>
+            <bAltDown>0</bAltDown>
+            <bShiftDown>0</bShiftDown>
+            <bCtrlDown>0</bCtrlDown>
+            <iHotKeyPriority>0</iHotKeyPriority>
+            <FreePromotions>
+                <FreePromotion>
+                    <PromotionType>PROMOTION_SENTRY2</PromotionType>
                     <bFreePromotion>1</bFreePromotion>
                 </FreePromotion>
             </FreePromotions>
@@ -26637,7 +26933,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>4500</iCost>
+            <iCost>3000</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>1500</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -26711,11 +27007,15 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>70</iProductonModifier>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
 					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
