@@ -5,6 +5,8 @@
 !.gitignore
 !*.xml
 !*.py
+!*.tga
+!*.dds
 
 # ...even if they are in subdirectories
 !*/
