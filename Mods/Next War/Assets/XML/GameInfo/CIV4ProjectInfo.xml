@@ -51,7 +51,7 @@
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iCost>2000</iCost>
 			<iNukeInterception>0</iNukeInterception>
-			<iTechShare>2</iTechShare>
+			<iTechShare>3</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
 			<EveryoneSpecialBuilding>NONE</EveryoneSpecialBuilding>
 			<bSpaceship>0</bSpaceship>
@@ -65,6 +65,10 @@
 			<BonusProductionModifiers>
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
@@ -81,8 +85,8 @@
 			<AnyonePrereqProject>PROJECT_MANHATTAN_PROJECT</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
-			<iCost>1000</iCost>
-			<iNukeInterception>75</iNukeInterception>
+			<iCost>2500</iCost>
+			<iNukeInterception>85</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
 			<EveryoneSpecialBuilding>NONE</EveryoneSpecialBuilding>
@@ -113,7 +117,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
-			<iCost>2250</iCost>
+			<iCost>6000</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -129,7 +133,15 @@
 			<BonusProductionModifiers>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>100</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>75</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_URANIUM</BonusType>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<CreateSound/>
@@ -145,7 +157,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
-			<iCost>1000</iCost>
+			<iCost>2500</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -171,7 +183,15 @@
 			<BonusProductionModifiers>
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>100</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>75</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_CHEMISTRY</BonusType>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<CreateSound/>
@@ -187,7 +207,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
-			<iCost>1000</iCost>
+			<iCost>4000</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -213,7 +233,19 @@
 			<BonusProductionModifiers>
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_CHEMISTRY</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<CreateSound/>
@@ -229,7 +261,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
-			<iCost>1200</iCost>
+			<iCost>3000</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -266,7 +298,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>1</iMaxTeamInstances>
-			<iCost>2000</iCost>
+			<iCost>4500</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -294,6 +326,14 @@
 					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_CHEMISTRY</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<CreateSound/>
 			<MovieDefineTag/>
@@ -308,7 +348,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>2</iMaxTeamInstances>
-			<iCost>1600</iCost>
+			<iCost>5000</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -336,7 +376,16 @@
 			</VictoryMinThresholds>
 			<iVictoryDelayPercent>50</iVictoryDelayPercent>
 			<iSuccessRate>0</iSuccessRate>
-			<BonusProductionModifiers/>
+			<BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_URANIUM</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
 			<CreateSound/>
 			<MovieDefineTag/>
 		</ProjectInfo>
@@ -350,7 +399,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>5</iMaxTeamInstances>
-			<iCost>1200</iCost>
+			<iCost>2500</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -383,6 +432,10 @@
 					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<CreateSound/>
 			<MovieDefineTag/>
@@ -397,7 +450,7 @@
 			<AnyonePrereqProject>NONE</AnyonePrereqProject>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>5</iMaxTeamInstances>
-			<iCost>1200</iCost>
+			<iCost>3000</iCost>
 			<iNukeInterception>0</iNukeInterception>
 			<iTechShare>0</iTechShare>
 			<EveryoneSpecialUnit>NONE</EveryoneSpecialUnit>
@@ -428,7 +481,15 @@
 			<BonusProductionModifiers>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>100</iProductonModifier>
+					<iProductonModifier>125</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_CHEMISTRY</BonusType>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<CreateSound/>

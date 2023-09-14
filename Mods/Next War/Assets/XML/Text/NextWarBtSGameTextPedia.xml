@@ -4119,6 +4119,60 @@
     <Spanish>MILITARY_FACTORY</Spanish>
   </TEXT>
   <TEXT>
+    <Tag>TXT_KEY_BONUS_CHEMISTRY</Tag>
+    <Russian>&#1061;&#1080;&#1084;&#1080;&#1082;&#1072;&#1090;&#1099;</Russian>
+    <English>MILITARY_FACTORY</English>
+    <French>MILITARY_FACTORY</French>
+    <German>MILITARY_FACTORY</German>
+    <Italian>MILITARY_FACTORY</Italian>
+    <Spanish>MILITARY_FACTORY</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BONUS_CHEMISTRY_PEDIA</Tag>
+    <Russian>&#1061;&#1080;&#1084;&#1080;&#1082;&#1072;&#1090;&#1099;&#32;&#1087;&#1088;&#1086;&#1080;&#1079;&#1074;&#1086;&#1076;&#1103;&#1090;&#1089;&#1103;&#32;&#1080;&#1079;&#32;&#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1102;&#1097;&#1080;&#1093;&#32;&#1085;&#1077;&#1092;&#1090;&#1080;&#44;&#32;&#1082;&#1088;&#1072;&#1089;&#1080;&#1090;&#1077;&#1083;&#1103;&#32;&#1080;&#32;&#1091;&#1075;&#1083;&#1103;</Russian>
+    <English>MILITARY_FACTORY</English>
+    <French>MILITARY_FACTORY</French>
+    <German>MILITARY_FACTORY</German>
+    <Italian>MILITARY_FACTORY</Italian>
+    <Spanish>MILITARY_FACTORY</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_HOSPITAL2</Tag>
+    <Russian>&#1050;&#1086;&#1084;&#1087;&#1083;&#1077;&#1082;&#1089;&#1085;&#1072;&#1103;&#32;&#1083;&#1077;&#1095;&#1077;&#1073;&#1085;&#1080;&#1094;&#1072;</Russian>
+    <English>MILITARY_FACTORY</English>
+    <French>MILITARY_FACTORY</French>
+    <German>MILITARY_FACTORY</German>
+    <Italian>MILITARY_FACTORY</Italian>
+    <Spanish>MILITARY_FACTORY</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_HOSPITAL_STRATEGY2</Tag>
+    <Russian>&#1055;&#1088;&#1086;&#1076;&#1074;&#1080;&#1085;&#1091;&#1090;&#1072;&#1103;&#32;&#1083;&#1077;&#1095;&#1077;&#1073;&#1085;&#1080;&#1094;&#1072;&#32;&#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1103;&#1077;&#1090;&#32;&#1074;&#1072;&#1084;&#32;&#1080;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1100;&#32;&#1085;&#1086;&#1074;&#1099;&#1077;&#32;&#1090;&#1077;&#1093;&#1085;&#1086;&#1083;&#1086;&#1075;&#1080;&#1080;&#32;&#1076;&#1083;&#1103;&#32;&#1079;&#1076;&#1088;&#1072;&#1074;&#1086;&#1086;&#1093;&#1088;&#1072;&#1085;&#1077;&#1085;&#1080;&#1103;</Russian>
+    <English>MILITARY_FACTORY</English>
+    <French>MILITARY_FACTORY</French>
+    <German>MILITARY_FACTORY</German>
+    <Italian>MILITARY_FACTORY</Italian>
+    <Spanish>MILITARY_FACTORY</Spanish>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_BUILDING_RECYCLING_CENTER2</Tag>
+    <Russian>&#1043;&#1083;&#1086;&#1073;&#1072;&#1083;&#1100;&#1085;&#1072;&#1103;&#32;&#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1072;&#32;&#1086;&#1095;&#1080;&#1089;&#1090;&#1082;&#1080;</Russian>
+    <English>MILITARY_FACTORY</English>
+    <French>MILITARY_FACTORY</French>
+    <German>MILITARY_FACTORY</German>
+    <Italian>MILITARY_FACTORY</Italian>
+    <Spanish>MILITARY_FACTORY</Spanish>
+  </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_BUILDING_RECYCLING_CENTER_STRATEGY2</Tag>
+    <Russian>&#1057;&#1090;&#1088;&#1086;&#1081;&#1090;&#1077;&#32;&#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1099;&#32;&#1086;&#1095;&#1080;&#1089;&#1090;&#1082;&#1080;&#44;&#32;&#1095;&#1090;&#1086;&#1073;&#1099;&#32;&#1074;&#1072;&#1096;&#1080;&#32;&#1075;&#1086;&#1088;&#1086;&#1076;&#1072;&#32;&#1084;&#1086;&#1075;&#1083;&#1080;&#32;&#1101;&#1092;&#1092;&#1077;&#1082;&#1090;&#1080;&#1074;&#1085;&#1086;&#32;&#1089;&#1087;&#1088;&#1072;&#1074;&#1083;&#1103;&#1090;&#1089;&#1103;&#32;&#1089;&#32;&#1080;&#1085;&#1076;&#1091;&#1089;&#1090;&#1088;&#1080;&#1072;&#1083;&#1080;&#1079;&#1072;&#1094;&#1080;&#1077;&#1081;</Russian>
+    <English>MILITARY_FACTORY</English>
+    <French>MILITARY_FACTORY</French>
+    <German>MILITARY_FACTORY</German>
+    <Italian>MILITARY_FACTORY</Italian>
+    <Spanish>MILITARY_FACTORY</Spanish>
+  </TEXT>
+  <TEXT>
     <Tag>TXT_KEY_BUILDING_BARRACKS2</Tag>
     <Russian>&#1042;&#1086;&#1077;&#1085;&#1085;&#1086;&#1077;&#32;&#1091;&#1095;&#1080;&#1083;&#1080;&#1097;&#1077;</Russian>
     <English>_</English>

@@ -334,6 +334,15 @@
 			<FontButtonIndex>35</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
+			<Type>ART_DEF_BONUS_CHEMISTRY</Type>
+			<fScale>1.0</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<NIF>Art/Terrain/Resources/Wheat/Wheat.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/WorldBuilder/Chemistry.dds,Art/Interface/Buttons/NextWar_Atlas.dds,5,5</Button>
+			<FontButtonIndex>36</FontButtonIndex>
+		</BonusArtInfo>
+		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_COTTON</Type>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.6</fInterfaceScale>
