@@ -228,6 +228,16 @@
 			<Button>,Art/Interface/Buttons/Buildings/RecyclingCenter2.dds,Art/Interface/Buttons/NextWar_Atlas.dds,7,5</Button>
 		</BuildingArtInfo>
 		<BuildingArtInfo>
+			<Type>ART_DEF_BUILDING_CHEMISTRY_FACTORY</Type>
+			<LSystem>LSYSTEM_4x2</LSystem>
+			<bAnimated>0</bAnimated>
+			<fScale>2.19</fScale>
+			<fInterfaceScale>0.5</fInterfaceScale>
+			<NIF>Art/Structures/Buildings/Factory/Factory.nif</NIF>
+			<KFM/>
+			<Button>,Art/Interface/Buttons/Buildings/ChemistryFactory.dds,Art/Interface/Buttons/NextWar_Atlas.dds,8,5</Button>
+		</BuildingArtInfo>
+		<BuildingArtInfo>
 			<Type>ART_DEF_BUILDING_LIGHTHOUSE</Type>
 			<LSystem>LSYSTEM_LIGHTHOUSE</LSystem>
 			<bAnimated>0</bAnimated>

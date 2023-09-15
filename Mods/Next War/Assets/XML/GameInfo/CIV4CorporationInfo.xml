@@ -189,6 +189,7 @@
 			<iMaintenance>100</iMaintenance>
 			<PrereqBonuses>
 				<BonusType>BONUS_COAL</BonusType>
+				<BonusType>BONUS_CHEMISTRY</BonusType>
 			</PrereqBonuses>
 			<HeadquarterCommerces>
 				<iHeadquarterCommerce>4</iHeadquarterCommerce>
@@ -198,7 +199,7 @@
 			<BonusProduced>BONUS_ALUMINUM</BonusProduced>
 			<CommercesProduced>
 				<iCommerceProduced>0</iCommerceProduced>
-				<iCommerceProduced>300</iCommerceProduced>
+				<iCommerceProduced>200</iCommerceProduced>
 			</CommercesProduced>
 			<YieldsProduced>
 				<iYieldProduced>0</iYieldProduced>
@@ -233,7 +234,8 @@
 			<CommercesProduced>
 				<iCommerceProduced>100</iCommerceProduced>
 				<iCommerceProduced>0</iCommerceProduced>
-				<iCommerceProduced>400</iCommerceProduced>
+				<iCommerceProduced>200</iCommerceProduced>
+				<iCommerceProduced>200</iCommerceProduced>
 			</CommercesProduced>
 			<YieldsProduced>
 				<iYieldProduced>0</iYieldProduced>
