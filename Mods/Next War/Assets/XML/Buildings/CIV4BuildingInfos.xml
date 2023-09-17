@@ -10937,7 +10937,8 @@
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifier>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
 					<BonusType>BONUS_PLATINA</BonusType>
 					<YieldModifiers>
 						<iYield>0</iYield>
@@ -10969,6 +10970,7 @@
 						<iYield>5</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
