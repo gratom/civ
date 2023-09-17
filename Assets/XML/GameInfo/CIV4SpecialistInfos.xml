@@ -49,7 +49,7 @@
 			<Commerces>
 				<iCommerce>1</iCommerce>
 				<iCommerce>0</iCommerce>
-				<iCommerce>0</iCommerce>
+				<iCommerce>1</iCommerce>
 			</Commerces>
 			<iExperience>0</iExperience>
 			<Flavors/>
@@ -346,7 +346,7 @@
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
 				<iCommerce>0</iCommerce>
-				<iCommerce>3</iCommerce>
+				<iCommerce>4</iCommerce>
 			</Commerces>
 			<iExperience>4</iExperience>
 			<Flavors/>
@@ -370,11 +370,11 @@
 			<Yields/>
 			<Commerces>
 				<iCommerce>0</iCommerce>
-				<iCommerce>2</iCommerce>
+				<iCommerce>1</iCommerce>
 				<iCommerce>0</iCommerce>
-				<iCommerce>16</iCommerce>
+				<iCommerce>15</iCommerce>
 			</Commerces>
-			<iExperience>0</iExperience>
+			<iExperience>1</iExperience>
 			<Flavors/>
 			<HotKey/>
 			<bAltDown>0</bAltDown>

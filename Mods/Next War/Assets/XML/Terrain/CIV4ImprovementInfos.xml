@@ -504,7 +504,7 @@
                     <BonusType>BONUS_ALUMINUM</BonusType>
                     <bBonusMakesValid>1</bBonusMakesValid>
                     <bBonusTrade>1</bBonusTrade>
-                    <iDiscoverRand>10000</iDiscoverRand>
+                    <iDiscoverRand>8000</iDiscoverRand>
                     <YieldChanges>
                         <iYieldChange>0</iYieldChange>
                         <iYieldChange>1</iYieldChange>
@@ -515,7 +515,7 @@
                     <BonusType>BONUS_COAL</BonusType>
                     <bBonusMakesValid>1</bBonusMakesValid>
                     <bBonusTrade>1</bBonusTrade>
-                    <iDiscoverRand>10000</iDiscoverRand>
+                    <iDiscoverRand>6000</iDiscoverRand>
                     <YieldChanges>
                         <iYieldChange>0</iYieldChange>
                         <iYieldChange>1</iYieldChange>
@@ -526,7 +526,7 @@
                     <BonusType>BONUS_COPPER</BonusType>
                     <bBonusMakesValid>1</bBonusMakesValid>
                     <bBonusTrade>1</bBonusTrade>
-                    <iDiscoverRand>10000</iDiscoverRand>
+                    <iDiscoverRand>6000</iDiscoverRand>
                     <YieldChanges>
                         <iYieldChange>0</iYieldChange>
                         <iYieldChange>1</iYieldChange>
@@ -548,7 +548,7 @@
                     <BonusType>BONUS_GOLD</BonusType>
                     <bBonusMakesValid>1</bBonusMakesValid>
                     <bBonusTrade>1</bBonusTrade>
-                    <iDiscoverRand>10000</iDiscoverRand>
+                    <iDiscoverRand>9000</iDiscoverRand>
                     <YieldChanges>
                         <iYieldChange>0</iYieldChange>
                         <iYieldChange>-1</iYieldChange>
@@ -559,7 +559,7 @@
                     <BonusType>BONUS_IRON</BonusType>
                     <bBonusMakesValid>1</bBonusMakesValid>
                     <bBonusTrade>1</bBonusTrade>
-                    <iDiscoverRand>10000</iDiscoverRand>
+                    <iDiscoverRand>6000</iDiscoverRand>
                     <YieldChanges>
                         <iYieldChange>0</iYieldChange>
                         <iYieldChange>2</iYieldChange>
@@ -570,7 +570,7 @@
                     <BonusType>BONUS_SILVER</BonusType>
                     <bBonusMakesValid>1</bBonusMakesValid>
                     <bBonusTrade>1</bBonusTrade>
-                    <iDiscoverRand>10000</iDiscoverRand>
+                    <iDiscoverRand>8000</iDiscoverRand>
                     <YieldChanges>
                         <iYieldChange>0</iYieldChange>
                         <iYieldChange>0</iYieldChange>
@@ -586,6 +586,50 @@
                         <iYieldChange>-1</iYieldChange>
                         <iYieldChange>1</iYieldChange>
                         <iYieldChange>3</iYieldChange>
+                    </YieldChanges>
+                </BonusTypeStruct>
+				<BonusTypeStruct>
+                    <BonusType>BONUS_TITAN</BonusType>
+                    <bBonusMakesValid>1</bBonusMakesValid>
+                    <bBonusTrade>1</bBonusTrade>
+                    <iDiscoverRand>10000</iDiscoverRand>
+                    <YieldChanges>
+                        <iYieldChange>0</iYieldChange>
+                        <iYieldChange>4</iYieldChange>
+                        <iYieldChange>0</iYieldChange>
+                    </YieldChanges>
+                </BonusTypeStruct>
+				<BonusTypeStruct>
+                    <BonusType>BONUS_COBALT</BonusType>
+                    <bBonusMakesValid>1</bBonusMakesValid>
+                    <bBonusTrade>1</bBonusTrade>
+                    <iDiscoverRand>12000</iDiscoverRand>
+                    <YieldChanges>
+                        <iYieldChange>-1</iYieldChange>
+                        <iYieldChange>2</iYieldChange>
+                        <iYieldChange>1</iYieldChange>
+                    </YieldChanges>
+                </BonusTypeStruct>
+				<BonusTypeStruct>
+                    <BonusType>BONUS_MANGANESE</BonusType>
+                    <bBonusMakesValid>1</bBonusMakesValid>
+                    <bBonusTrade>1</bBonusTrade>
+                    <iDiscoverRand>12000</iDiscoverRand>
+                    <YieldChanges>
+                        <iYieldChange>-1</iYieldChange>
+                        <iYieldChange>1</iYieldChange>
+                        <iYieldChange>3</iYieldChange>
+                    </YieldChanges>
+                </BonusTypeStruct>
+				<BonusTypeStruct>
+                    <BonusType>BONUS_PLATINA</BonusType>
+                    <bBonusMakesValid>1</bBonusMakesValid>
+                    <bBonusTrade>1</bBonusTrade>
+                    <iDiscoverRand>15000</iDiscoverRand>
+                    <YieldChanges>
+                        <iYieldChange>0</iYieldChange>
+                        <iYieldChange>2</iYieldChange>
+                        <iYieldChange>8</iYieldChange>
                     </YieldChanges>
                 </BonusTypeStruct>
             </BonusTypeStructs>
@@ -1004,7 +1048,16 @@
                     </TechYields>
                 </TechYieldChange>
             </TechYieldChanges>
-            <RouteYieldChanges/>
+            <RouteYieldChanges>
+                <RouteYieldChange>
+                    <RouteType>ROUTE_RAILROAD</RouteType>
+                    <RouteYields>
+                        <iYield>0</iYield>
+                        <iYield>0</iYield>
+                        <iYield>1</iYield>
+                    </RouteYields>
+                </RouteYieldChange>
+            </RouteYieldChanges>
             <bGraphicalOnly>0</bGraphicalOnly>
         </ImprovementInfo>
         <ImprovementInfo>
@@ -1412,7 +1465,16 @@
             </BonusTypeStructs>
             <ImprovementPillage/>
             <ImprovementUpgrade/>
-            <TechYieldChanges/>
+            <TechYieldChanges>
+                <TechYieldChange>
+                    <PrereqTech>TECH_CORPORATION</PrereqTech>
+                    <TechYields>
+                        <iYield>0</iYield>
+                        <iYield>0</iYield>
+                        <iYield>2</iYield>
+                    </TechYields>
+                </TechYieldChange>
+            </TechYieldChanges>
             <RouteYieldChanges/>
             <bGraphicalOnly>0</bGraphicalOnly>
         </ImprovementInfo>
@@ -1647,7 +1709,7 @@
             <iFeatureGrowth>0</iFeatureGrowth>
             <iUpgradeTime>0</iUpgradeTime>
             <iAirBombDefense>20</iAirBombDefense>
-            <iDefenseModifier>35</iDefenseModifier>
+            <iDefenseModifier>30</iDefenseModifier>
             <iHappiness>0</iHappiness>
             <iPillageGold>0</iPillageGold>
             <bOutsideBorders>1</bOutsideBorders>

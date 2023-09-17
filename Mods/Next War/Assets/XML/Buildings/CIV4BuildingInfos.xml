@@ -3549,7 +3549,16 @@
 			<CommerceFlexibles/>
 			<CommerceChangeOriginalOwners/>
 			<ConstructSound>AS2D_BUILD_HOSPITAL</ConstructSound>
-			<BonusHealthChanges/>
+			<BonusHealthChanges>		
+				<BonusHealthChange>
+					<BonusType>BONUS_CHEMISTRY</BonusType>
+					<iHealthChange>1</iHealthChange>
+				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<iHealthChange>1</iHealthChange>
+				</BonusHealthChange>				
+			</BonusHealthChanges>
 			<BonusHappinessChanges/>
 			<BonusProductionModifiers/>
 			<UnitCombatFreeExperiences/>
@@ -3668,7 +3677,7 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>20</iHealRateChange>
-			<iHealth>1</iHealth>
+			<iHealth>2</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>
@@ -3718,7 +3727,15 @@
 				</BonusHealthChange>			
 				<BonusHealthChange>
 					<BonusType>BONUS_CHEMISTRY</BonusType>
-					<iHealthChange>4</iHealthChange>
+					<iHealthChange>3</iHealthChange>
+				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<iHealthChange>1</iHealthChange>
+				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iHealthChange>2</iHealthChange>
 				</BonusHealthChange>				
 			</BonusHealthChanges>
 			<BonusHappinessChanges/>
@@ -4075,6 +4092,10 @@
 					<BonusType>BONUS_IRON</BonusType>
 					<iHealthChange>1</iHealthChange>
 				</BonusHealthChange>	
+				<BonusHealthChange>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<iHealthChange>1</iHealthChange>
+				</BonusHealthChange>
 			</BonusHealthChanges>
 			<BonusHappinessChanges/>
 			<BonusProductionModifiers/>
@@ -5731,6 +5752,10 @@
 					<BonusType>BONUS_SILVER</BonusType>
 					<iHappinessChange>1</iHappinessChange>
 				</BonusHappinessChange>
+				<BonusHappinessChange>
+					<BonusType>BONUS_PLATINA</BonusType>
+					<iHappinessChange>2</iHappinessChange>
+				</BonusHappinessChange>
 			</BonusHappinessChanges>
 			<BonusProductionModifiers/>
 			<UnitCombatFreeExperiences/>
@@ -5759,6 +5784,14 @@
 				</BonusYieldModifier>
 				<BonusYieldModifier>
 					<BonusType>BONUS_COAL</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_TITAN</BonusType>
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>5</iYield>
@@ -5956,6 +5989,10 @@
 					<BonusType>BONUS_SILVER</BonusType>
 					<iHappinessChange>1</iHappinessChange>
 				</BonusHappinessChange>
+				<BonusHappinessChange>
+					<BonusType>BONUS_PLATINA</BonusType>
+					<iHappinessChange>2</iHappinessChange>
+				</BonusHappinessChange>
 			</BonusHappinessChanges>
 			<BonusProductionModifiers/>
 			<UnitCombatFreeExperiences/>
@@ -5984,6 +6021,14 @@
 				</BonusYieldModifier>
 				<BonusYieldModifier>
 					<BonusType>BONUS_COAL</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_TITAN</BonusType>
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>5</iYield>
@@ -6203,6 +6248,10 @@
 					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
+					<BonusType>BONUS_PLATINA</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>150</iProductonModifier>
 				</BonusProductionModifier>
@@ -6405,6 +6454,10 @@
 					<BonusType>BONUS_COAL</BonusType>
 					<iHealthChange>-2</iHealthChange>
 				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<iHealthChange>-2</iHealthChange>
+				</BonusHealthChange>
 			</BonusHealthChanges>
 			<BonusHappinessChanges/>
 			<BonusProductionModifiers>
@@ -6414,6 +6467,10 @@
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MANGANESE</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
@@ -6449,6 +6506,14 @@
 						<iYield>0</iYield>
 						<iYield>5</iYield>
 						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
+						<iYield>0</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 			</BonusYieldModifiers>
@@ -7339,7 +7404,7 @@
 			<DomainFreeExperiences>
 				<DomainFreeExperience>
 					<DomainType>DOMAIN_AIR</DomainType>
-					<iExperience>4</iExperience>
+					<iExperience>6</iExperience>
 				</DomainFreeExperience>
 			</DomainFreeExperiences>
 			<DomainProductionModifiers>
@@ -8219,17 +8284,17 @@
 					<iHealthChange>-2</iHealthChange>
 				</BonusHealthChange>
 				<BonusHealthChange>
+					<BonusType>BONUS_IRON</BonusType>
+					<iHealthChange>-1</iHealthChange>
+				</BonusHealthChange>
+				<BonusHealthChange>
 					<BonusType>BONUS_CHEMISTRY</BonusType>
 					<iHealthChange>-2</iHealthChange>
 				</BonusHealthChange>
 				<BonusHealthChange>
 					<BonusType>BONUS_OIL</BonusType>
 					<iHealthChange>-1</iHealthChange>
-				</BonusHealthChange>				
-				<BonusHealthChange>
-					<BonusType>BONUS_IRON</BonusType>
-					<iHealthChange>-1</iHealthChange>
-				</BonusHealthChange>
+				</BonusHealthChange>	
 				<BonusHealthChange>
 					<BonusType>BONUS_COPPER</BonusType>
 					<iHealthChange>-1</iHealthChange>
@@ -8237,7 +8302,11 @@
 				<BonusHealthChange>
 					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iHealthChange>-1</iHealthChange>
-				</BonusHealthChange>				
+				</BonusHealthChange>
+				<BonusHealthChange>
+					<BonusType>BONUS_COBALT</BonusType>
+					<iHealthChange>-2</iHealthChange>
+				</BonusHealthChange>					
 			</BonusHealthChanges>
 			<BonusHappinessChanges/>
 			<BonusProductionModifiers/>
@@ -8255,10 +8324,10 @@
 			<SpecialistYieldChanges/>
 			<BonusYieldModifiers>
 				<BonusYieldModifier>
-					<BonusType>BONUS_IRON</BonusType>
+					<BonusType>BONUS_TITAN</BonusType>
 					<YieldModifiers>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
+						<iYield>10</iYield>
 						<iYield>0</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
@@ -8295,10 +8364,26 @@
 					</YieldModifiers>
 				</BonusYieldModifier>
 				<BonusYieldModifier>
-					<BonusType>BONUS_CHEMISTRY</BonusType>
+					<BonusType>BONUS_IRON</BonusType>
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>5</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_CHEMISTRY</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COBALT</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
 						<iYield>0</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
@@ -9331,7 +9416,7 @@
 			<CommerceModifiers>
 				<iCommerce>0</iCommerce>
 				<iCommerce>30</iCommerce>
-				<iCommerce>20</iCommerce>
+				<iCommerce>25</iCommerce>
 			</CommerceModifiers>
 			<GlobalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
@@ -10614,6 +10699,14 @@
 					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
 			</BonusProductionModifiers>
 			<UnitCombatFreeExperiences/>
 			<DomainFreeExperiences/>
@@ -10631,7 +10724,40 @@
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifiers>
+				<BonusYieldModifier>
+					<BonusType>BONUS_PLATINA</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COBALT</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
@@ -10811,7 +10937,38 @@
 				</BuildingClassNeeded>
 			</BuildingClassNeededs>
 			<SpecialistYieldChanges/>
-			<BonusYieldModifiers/>
+			<BonusYieldModifier>
+					<BonusType>BONUS_PLATINA</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COBALT</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_MANGANESE</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_MICROCHIPS</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>5</iYield>
+						<iYield>5</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
 				<Flavor>
@@ -13325,6 +13482,14 @@
 						<iYield>8</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_PLATINA</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>15</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
 			</BonusYieldModifiers>
 			<ImprovementFreeSpecialists/>
 			<Flavors>
@@ -13512,6 +13677,14 @@
 						<iYield>0</iYield>
 						<iYield>0</iYield>
 						<iYield>8</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_PLATINA</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>0</iYield>
+						<iYield>15</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 			</BonusYieldModifiers>

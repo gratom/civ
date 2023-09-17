@@ -2043,8 +2043,8 @@
             <TechObsolete>NONE</TechObsolete>
             <YieldChanges>
                 <iYieldChange>0</iYieldChange>
-                <iYieldChange>2</iYieldChange>
-                <iYieldChange>2</iYieldChange>
+                <iYieldChange>0</iYieldChange>
+                <iYieldChange>0</iYieldChange>
             </YieldChanges>
             <iAITradeModifier>30</iAITradeModifier>
             <iAIObjective>0</iAIObjective>
@@ -2095,13 +2095,13 @@
             <TechCityTrade>TECH_MINING</TechCityTrade>
             <TechObsolete>NONE</TechObsolete>
             <YieldChanges>
-                <iYieldChange>0</iYieldChange>
+                <iYieldChange>-1</iYieldChange>
                 <iYieldChange>0</iYieldChange>
                 <iYieldChange>0</iYieldChange>
             </YieldChanges>
             <iAITradeModifier>20</iAITradeModifier>
             <iAIObjective>0</iAIObjective>
-            <iHealth>0</iHealth>
+            <iHealth>-1</iHealth>
             <iHappiness>0</iHappiness>
             <iPlacementOrder>2</iPlacementOrder>
             <iConstAppearance>100</iConstAppearance>
@@ -2208,7 +2208,7 @@
             <iAITradeModifier>40</iAITradeModifier>
             <iAIObjective>0</iAIObjective>
             <iHealth>0</iHealth>
-            <iHappiness>0</iHappiness>
+            <iHappiness>1</iHappiness>
             <iPlacementOrder>2</iPlacementOrder>
             <iConstAppearance>100</iConstAppearance>
             <iMinAreaSize>3</iMinAreaSize>
