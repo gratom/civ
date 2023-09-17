@@ -340,7 +340,7 @@
 			<NIF>Art/Terrain/Resources/Wheat/Wheat.nif</NIF>
 			<KFM/>
 			<Button>,Art/Interface/Buttons/WorldBuilder/Chemistry.dds,Art/Interface/Buttons/NextWar_Atlas.dds,5,5</Button>
-			<FontButtonIndex>1</FontButtonIndex>
+			<FontButtonIndex>36</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_PLATINA</Type>
@@ -349,7 +349,7 @@
 			<NIF>Art/Terrain/Resources/Pl/Copper.nif</NIF>
 			<KFM>Art/Terrain/Resources/Pl/Copper.kfm</KFM>
 			<Button>,Art/Interface/Buttons/WorldBuilder/Platina.dds,Art/Interface/Buttons/NextWar_Atlas.dds,1,6</Button>
-			<FontButtonIndex>2</FontButtonIndex>
+			<FontButtonIndex>37</FontButtonIndex>
 		</BonusArtInfo>		
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_MANGANESE</Type>
@@ -358,7 +358,7 @@
 			<NIF>Art/Terrain/Resources/Mn/Copper.nif</NIF>
 			<KFM>Art/Terrain/Resources/Mn/Copper.kfm</KFM>
 			<Button>,Art/Interface/Buttons/WorldBuilder/Manganese.dds,Art/Interface/Buttons/NextWar_Atlas.dds,2,6</Button>
-			<FontButtonIndex>3</FontButtonIndex>
+			<FontButtonIndex>38</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_COBALT</Type>
@@ -367,7 +367,7 @@
 			<NIF>Art/Terrain/Resources/Co/Copper.nif</NIF>
 			<KFM>Art/Terrain/Resources/Co/Copper.kfm</KFM>
 			<Button>,Art/Interface/Buttons/WorldBuilder/Cobalt.dds,Art/Interface/Buttons/NextWar_Atlas.dds,3,6</Button>
-			<FontButtonIndex>4</FontButtonIndex>
+			<FontButtonIndex>39</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_TITAN</Type>
@@ -376,7 +376,7 @@
 			<NIF>Art/Terrain/Resources/Titan/Copper.nif</NIF>
 			<KFM>Art/Terrain/Resources/Titan/Copper.kfm</KFM>
 			<Button>,Art/Interface/Buttons/WorldBuilder/Titan.dds,Art/Interface/Buttons/NextWar_Atlas.dds,4,6</Button>
-			<FontButtonIndex>5</FontButtonIndex>
+			<FontButtonIndex>40</FontButtonIndex>
 		</BonusArtInfo>
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_COTTON</Type>
