@@ -15392,7 +15392,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_FACTORY</PrereqBuilding>
             <PrereqTech>TECH_INDUSTRIALISM</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_RIFLING</PrereqTech>
@@ -15475,19 +15475,7 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>50</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>		
-				<BonusProductionModifier>
-					<BonusType>BONUS_COAL</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>				
+				</BonusProductionModifier>			
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -15611,7 +15599,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_GERMAN_ASSEMBLY_PLANT</PrereqBuilding>
             <PrereqTech>TECH_INDUSTRIALISM</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_RIFLING</PrereqTech>
@@ -15693,24 +15681,12 @@
             <BonusProductionModifiers>
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>60</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>	
-				<BonusProductionModifier>
-					<BonusType>BONUS_COAL</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>				
 			</BonusProductionModifiers>
             <iBombRate>0</iBombRate>
             <iBombardRate>0</iBombardRate>
@@ -15829,7 +15805,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_INDUSTRIAL_PARK</PrereqBuilding>
             <PrereqTech>TECH_COMPOSITES</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_COMPUTERS</PrereqTech>
@@ -15918,16 +15894,12 @@
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
-					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>		
 				<BonusProductionModifier>
-					<BonusType>BONUS_COAL</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<BonusType>BONUS_COBALT</BonusType>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
                 <BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
@@ -16139,22 +16111,18 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>					
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
-					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_COAL</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
@@ -17561,15 +17529,19 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>40</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
-					<iProductonModifier>40</iProductonModifier>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_COAL</BonusType>
-					<iProductonModifier>40</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
@@ -21080,11 +21052,11 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>30</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
-					<BonusType>BONUS_OIL</BonusType>
-					<iProductonModifier>15</iProductonModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
@@ -21344,6 +21316,10 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
@@ -22429,7 +22405,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>200</iCost>
+            <iCost>220</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -22486,19 +22462,19 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>60</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
-					<iProductonModifier>60</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_MICROCHIPS</BonusType>
-					<iProductonModifier>20</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>8</iBombRate>
@@ -22617,7 +22593,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>280</iCost>
+            <iCost>320</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -22673,12 +22649,12 @@
             <DomainMods/>
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
-					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>70</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
@@ -22872,19 +22848,15 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>50</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
-					<iProductonModifier>70</iProductonModifier>
-				</BonusProductionModifier>
-				<BonusProductionModifier>
-					<BonusType>BONUS_MICROCHIPS</BonusType>
-					<iProductonModifier>20</iProductonModifier>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 			</BonusProductionModifiers>
             <iBombRate>16</iBombRate>
@@ -23002,7 +22974,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>370</iCost>
+            <iCost>450</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -23063,16 +23035,16 @@
             </DomainMods>
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
-					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>10</iProductonModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>60</iProductonModifier>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_OIL</BonusType>
-					<iProductonModifier>60</iProductonModifier>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
@@ -23447,6 +23419,10 @@
 					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
@@ -23567,7 +23543,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>500</iCost>
+            <iCost>350</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>150</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -23624,6 +23600,10 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
 					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
@@ -25656,7 +25636,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_MILITARY_FACTORY</PrereqBuilding>
             <PrereqTech>TECH_SHIELDING</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_ROBOTICS</PrereqTech>
@@ -25737,20 +25717,20 @@
             <DomainMods/>
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
-					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>30</iProductonModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>75</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iProductonModifier>30</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_COPPER</BonusType>
-					<iProductonModifier>30</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
-					<iProductonModifier>20</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
@@ -26731,7 +26711,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_AIRPORT</PrereqBuilding>
             <PrereqTech>TECH_SATELLITES</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
@@ -26802,6 +26782,10 @@
 				<BonusProductionModifier>
 					<BonusType>BONUS_ALUMINUM</BonusType>
 					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_MICROCHIPS</BonusType>
@@ -26921,7 +26905,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_MILITARY_FACTORY</PrereqBuilding>
             <PrereqTech>TECH_COLD_FUSION</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_ROBOTICS</PrereqTech>
@@ -26933,7 +26917,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>3000</iCost>
+            <iCost>3500</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>1500</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -27007,10 +26991,18 @@
             <BonusProductionModifiers>			
 				<BonusProductionModifier>
 					<BonusType>BONUS_IRON</BonusType>
-					<iProductonModifier>50</iProductonModifier>
+					<iProductonModifier>25</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_TITAN</BonusType>
+					<iProductonModifier>100</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>
 					<BonusType>BONUS_URANIUM</BonusType>
+					<iProductonModifier>50</iProductonModifier>
+				</BonusProductionModifier>
+				<BonusProductionModifier>
+					<BonusType>BONUS_COBALT</BonusType>
 					<iProductonModifier>50</iProductonModifier>
 				</BonusProductionModifier>
 				<BonusProductionModifier>

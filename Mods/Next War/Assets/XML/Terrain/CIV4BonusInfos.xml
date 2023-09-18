@@ -14,7 +14,7 @@
             <Civilopedia>TXT_KEY_BONUS_ALUMINUM_PEDIA</Civilopedia>
             <BonusClassType>BONUSCLASS_MODERN</BonusClassType>
             <ArtDefineTag>ART_DEF_BONUS_ALUMINUM</ArtDefineTag>
-            <TechReveal>TECH_INDUSTRIALISM</TechReveal>
+            <TechReveal>TECH_FLIGHT</TechReveal>
             <TechCityTrade>TECH_MINING</TechCityTrade>
             <TechObsolete>NONE</TechObsolete>
             <YieldChanges>
@@ -2038,7 +2038,7 @@
             <Civilopedia>TXT_KEY_BONUS_TITAN_PEDIA</Civilopedia>
             <BonusClassType>BONUSCLASS_MODERN</BonusClassType>
             <ArtDefineTag>ART_DEF_BONUS_TITAN</ArtDefineTag>
-            <TechReveal>TECH_INDUSTRIALISM</TechReveal>
+            <TechReveal>TECH_SATELLITES</TechReveal>
             <TechCityTrade>TECH_MINING</TechCityTrade>
             <TechObsolete>NONE</TechObsolete>
             <YieldChanges>
@@ -2091,7 +2091,7 @@
             <Civilopedia>TXT_KEY_BONUS_COBALT_PEDIA</Civilopedia>
             <BonusClassType>BONUSCLASS_MODERN</BonusClassType>
             <ArtDefineTag>ART_DEF_BONUS_COBALT</ArtDefineTag>
-            <TechReveal>TECH_INDUSTRIALISM</TechReveal>
+            <TechReveal>TECH_STEEL</TechReveal>
             <TechCityTrade>TECH_MINING</TechCityTrade>
             <TechObsolete>NONE</TechObsolete>
             <YieldChanges>
@@ -2144,7 +2144,7 @@
             <Civilopedia>TXT_KEY_BONUS_MANGANESE_PEDIA</Civilopedia>
             <BonusClassType>BONUSCLASS_MODERN</BonusClassType>
             <ArtDefineTag>ART_DEF_BONUS_MANGANESE</ArtDefineTag>
-            <TechReveal>TECH_INDUSTRIALISM</TechReveal>
+            <TechReveal>TECH_PHYSICS</TechReveal>
             <TechCityTrade>TECH_MINING</TechCityTrade>
             <TechObsolete>NONE</TechObsolete>
             <YieldChanges>
@@ -2197,7 +2197,7 @@
             <Civilopedia>TXT_KEY_BONUS_PLATINA_PEDIA</Civilopedia>
             <BonusClassType>BONUSCLASS_MODERN</BonusClassType>
             <ArtDefineTag>ART_DEF_BONUS_PLATINA</ArtDefineTag>
-            <TechReveal>TECH_INDUSTRIALISM</TechReveal>
+            <TechReveal>TECH_SUPERCONDUCTORS</TechReveal>
             <TechCityTrade>TECH_MINING</TechCityTrade>
             <TechObsolete>NONE</TechObsolete>
             <YieldChanges>
