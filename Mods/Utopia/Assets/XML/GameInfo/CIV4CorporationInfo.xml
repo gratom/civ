@@ -121,7 +121,6 @@
 				<BonusType>BONUS_STONE</BonusType>
 				<BonusType>BONUS_ALUMINUM</BonusType>
 				<BonusType>BONUS_TITAN</BonusType>
-				<BonusType>BONUS_COBALT</BonusType>
 			</PrereqBonuses>
 			<HeadquarterCommerces>
 				<iHeadquarterCommerce>4</iHeadquarterCommerce>
@@ -136,7 +135,7 @@
 			</CommercesProduced>
 			<YieldsProduced>
 				<iYieldProduced>0</iYieldProduced>
-				<iYieldProduced>50</iYieldProduced>
+				<iYieldProduced>40</iYieldProduced>
 				<iYieldProduced>0</iYieldProduced>
 			</YieldsProduced>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,6</Button>
