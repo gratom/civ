@@ -6148,7 +6148,7 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>0</iHealRateChange>
-			<iHealth>-1</iHealth>
+			<iHealth>0</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>
@@ -6264,6 +6264,14 @@
 				<PrereqBuildingClass>
 					<BuildingClassType>BUILDINGCLASS_INDUSTRIAL_PARK</BuildingClassType>
 					<iNumBuildingNeeded>4</iNumBuildingNeeded>
+				</PrereqBuildingClass>				
+				<PrereqBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
+					<iNumBuildingNeeded>4</iNumBuildingNeeded>
+				</PrereqBuildingClass>
+				<PrereqBuildingClass>
+					<BuildingClassType>BUILDINGCLASS_CHEMISTRY_FACTORY</BuildingClassType>
+					<iNumBuildingNeeded>2</iNumBuildingNeeded>
 				</PrereqBuildingClass>
 			</PrereqBuildingClasses>
 			<BuildingClassNeededs>
@@ -7027,8 +7035,8 @@
 					<BonusType>BONUS_MICROCHIPS</BonusType>
 					<YieldModifiers>
 						<iYield>0</iYield>
-						<iYield>5</iYield>
-						<iYield>5</iYield>
+						<iYield>10</iYield>
+						<iYield>10</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 			</BonusYieldModifiers>
@@ -8032,7 +8040,7 @@
 			<iAirModifier>0</iAirModifier>
 			<iAirUnitCapacity>0</iAirUnitCapacity>
 			<iNukeModifier>0</iNukeModifier>
-			<iNukeExplosionRand>2500</iNukeExplosionRand>
+			<iNukeExplosionRand>3500</iNukeExplosionRand>
 			<iFreeSpecialist>0</iFreeSpecialist>
 			<iAreaFreeSpecialist>0</iAreaFreeSpecialist>
 			<iGlobalFreeSpecialist>0</iGlobalFreeSpecialist>
@@ -8108,6 +8116,14 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>20</iYield>
+						<iYield>0</iYield>
+					</YieldModifiers>
+				</BonusYieldModifier>
+				<BonusYieldModifier>
+					<BonusType>BONUS_COBALT</BonusType>
+					<YieldModifiers>
+						<iYield>0</iYield>
+						<iYield>10</iYield>
 						<iYield>0</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
@@ -8300,10 +8316,6 @@
 					<iHealthChange>-1</iHealthChange>
 				</BonusHealthChange>
 				<BonusHealthChange>
-					<BonusType>BONUS_ALUMINUM</BonusType>
-					<iHealthChange>-1</iHealthChange>
-				</BonusHealthChange>
-				<BonusHealthChange>
 					<BonusType>BONUS_COBALT</BonusType>
 					<iHealthChange>-2</iHealthChange>
 				</BonusHealthChange>					
@@ -8384,7 +8396,7 @@
 					<YieldModifiers>
 						<iYield>0</iYield>
 						<iYield>10</iYield>
-						<iYield>0</iYield>
+						<iYield>5</iYield>
 					</YieldModifiers>
 				</BonusYieldModifier>
 			</BonusYieldModifiers>
@@ -27171,7 +27183,7 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>2000</iCost>
+			<iCost>4000</iCost>
 			<iHurryCostModifier>200</iHurryCostModifier>
 			<iAdvancedStartCost>-1</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -27190,7 +27202,7 @@
 			<iGoldenAgeModifier>0</iGoldenAgeModifier>
 			<iGlobalHurryModifier>0</iGlobalHurryModifier>
 			<iExperience>0</iExperience>
-			<iGlobalExperience>2</iGlobalExperience>
+			<iGlobalExperience>5</iGlobalExperience>
 			<iFoodKept>0</iFoodKept>
 			<iAirlift>0</iAirlift>
 			<iAirModifier>0</iAirModifier>
@@ -30759,10 +30771,10 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>0</iHealRateChange>
-			<iHealth>4</iHealth>
+			<iHealth>5</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
-			<iHappiness>1</iHappiness>
+			<iHappiness>2</iHappiness>
 			<iAreaHappiness>0</iAreaHappiness>
 			<iGlobalHappiness>0</iGlobalHappiness>
 			<iStateReligionHappiness>0</iStateReligionHappiness>

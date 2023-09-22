@@ -30,7 +30,7 @@
 				<iCommerceProduced>10</iCommerceProduced>
 			</CommercesProduced>
 			<YieldsProduced>
-				<iYieldProduced>100</iYieldProduced>
+				<iYieldProduced>125</iYieldProduced>
 			</YieldsProduced>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,1,6</Button>
 			<MovieFile>NONE</MovieFile>
@@ -85,6 +85,7 @@
 			<PrereqBonuses>
 				<BonusType>BONUS_CORN</BonusType>
 				<BonusType>BONUS_RICE</BonusType>
+				<BonusType>BONUS_WHEAT</BonusType>
 				<BonusType>BONUS_CHEMISTRY</BonusType>
 			</PrereqBonuses>
 			<HeadquarterCommerces>
@@ -175,7 +176,7 @@
 			</CommercesProduced>
 			<YieldsProduced>
 				<iYieldProduced>0</iYieldProduced>
-				<iYieldProduced>100</iYieldProduced>
+				<iYieldProduced>125</iYieldProduced>
 				<iYieldProduced>0</iYieldProduced>
 			</YieldsProduced>
 			<Button>,Art/Interface/Buttons/TechTree/Corporation.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,5,6</Button>
