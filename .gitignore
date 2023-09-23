@@ -11,6 +11,9 @@
 !*.ini
 !*.bak
 !*.mp3
+!*.kfm
+!*.kf
+!*.wav
 
 # ...even if they are in subdirectories
 !*/
