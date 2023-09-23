@@ -25323,7 +25323,7 @@
             <iHotKeyPriority>0</iHotKeyPriority>
             <FreePromotions/>
             <LeaderPromotion>PROMOTION_LEADER</LeaderPromotion>
-            <iLeaderExperience>20</iLeaderExperience>
+            <iLeaderExperience>50</iLeaderExperience>
         </UnitInfo>
         <UnitInfo>
             <Class>UNITCLASS_GREAT_SPY</Class>

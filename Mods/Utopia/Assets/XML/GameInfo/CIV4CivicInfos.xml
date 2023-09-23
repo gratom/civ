@@ -1235,7 +1235,7 @@
 			<iStateReligionGreatPeopleRateModifier>0</iStateReligionGreatPeopleRateModifier>
 			<iDistanceMaintenanceModifier>0</iDistanceMaintenanceModifier>
 			<iNumCitiesMaintenanceModifier>0</iNumCitiesMaintenanceModifier>
-			<iCorporationMaintenanceModifier>-40</iCorporationMaintenanceModifier>
+			<iCorporationMaintenanceModifier>-50</iCorporationMaintenanceModifier>
 			<iExtraHealth>-1</iExtraHealth>
 			<iFreeExperience>0</iFreeExperience>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -1285,18 +1285,14 @@
 				</BuildingHealthChange>
 				<BuildingHealthChange>
 					<BuildingType>BUILDINGCLASS_FACTORY</BuildingType>
-					<iHealthChange>-1</iHealthChange>
-				</BuildingHealthChange>
-				<BuildingHealthChange>
-					<BuildingType>BUILDINGCLASS_COAL_PLANT</BuildingType>
 					<iHealthChange>-2</iHealthChange>
 				</BuildingHealthChange>
 				<BuildingHealthChange>
-					<BuildingType>BUILDINGCLASS_NUCLEAR_PLANT</BuildingType>
-					<iHealthChange>-1</iHealthChange>
+					<BuildingType>BUILDINGCLASS_INDUSTRIAL_PARK</BuildingType>
+					<iHealthChange>-2</iHealthChange>
 				</BuildingHealthChange>
 				<BuildingHealthChange>
-					<BuildingType>BUILDINGCLASS_INDUSTRIAL_PARK</BuildingType>
+					<BuildingType>BUILDINGCLASS_CHEMISTRY_FACTORY</BuildingType>
 					<iHealthChange>-2</iHealthChange>
 				</BuildingHealthChange>
 			</BuildingHealthChanges>

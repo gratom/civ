@@ -4434,8 +4434,8 @@
 			<iEnemyHealChange>0</iEnemyHealChange>
 			<iNeutralHealChange>0</iNeutralHealChange>
 			<iFriendlyHealChange>0</iFriendlyHealChange>
-			<iSameTileHealChange>15</iSameTileHealChange>
-			<iAdjacentTileHealChange>15</iAdjacentTileHealChange>
+			<iSameTileHealChange>25</iSameTileHealChange>
+			<iAdjacentTileHealChange>25</iAdjacentTileHealChange>
 			<iCombatPercent>0</iCombatPercent>
 			<iCityAttack>0</iCityAttack>
 			<iCityDefense>0</iCityDefense>
