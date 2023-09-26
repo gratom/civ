@@ -1419,7 +1419,7 @@
 			<iStateReligionGreatPeopleRateModifier>0</iStateReligionGreatPeopleRateModifier>
 			<iDistanceMaintenanceModifier>0</iDistanceMaintenanceModifier>
 			<iNumCitiesMaintenanceModifier>0</iNumCitiesMaintenanceModifier>
-			<iCorporationMaintenanceModifier>40</iCorporationMaintenanceModifier>
+			<iCorporationMaintenanceModifier>50</iCorporationMaintenanceModifier>
 			<iExtraHealth>6</iExtraHealth>
 			<iFreeExperience>0</iFreeExperience>
 			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
@@ -1503,7 +1503,7 @@
 					<ImprovementYields>
 						<iYield>0</iYield>
 						<iYield>0</iYield>
-						<iYield>3</iYield>
+						<iYield>2</iYield>
 					</ImprovementYields>
 				</ImprovementYieldChange>
 				<ImprovementYieldChange>
@@ -1638,7 +1638,7 @@
 			<iStateReligionHappiness>0</iStateReligionHappiness>
 			<iNonStateReligionHappiness>0</iNonStateReligionHappiness>
 			<iStateReligionUnitProductionModifier>0</iStateReligionUnitProductionModifier>
-			<iStateReligionBuildingProductionModifier>25</iStateReligionBuildingProductionModifier>
+			<iStateReligionBuildingProductionModifier>20</iStateReligionBuildingProductionModifier>
 			<iStateReligionFreeExperience>0</iStateReligionFreeExperience>
 			<YieldModifiers/>
 			<CapitalYieldModifiers/>
@@ -1761,7 +1761,7 @@
 			<iExpInBorderModifier>0</iExpInBorderModifier>
 			<bBuildingOnlyHealthy>0</bBuildingOnlyHealthy>
 			<iLargestCityHappiness>0</iLargestCityHappiness>
-			<iWarWearinessModifier>50</iWarWearinessModifier>
+			<iWarWearinessModifier>100</iWarWearinessModifier>
 			<iFreeSpecialist>0</iFreeSpecialist>
 			<iTradeRoutes>0</iTradeRoutes>
 			<bNoForeignTrade>0</bNoForeignTrade>
@@ -1836,7 +1836,7 @@
 			<bStateReligion>0</bStateReligion>
 			<bNoNonStateReligionSpread>0</bNoNonStateReligionSpread>
 			<iStateReligionHappiness>0</iStateReligionHappiness>
-			<iNonStateReligionHappiness>1</iNonStateReligionHappiness>
+			<iNonStateReligionHappiness>2</iNonStateReligionHappiness>
 			<iStateReligionUnitProductionModifier>0</iStateReligionUnitProductionModifier>
 			<iStateReligionBuildingProductionModifier>0</iStateReligionBuildingProductionModifier>
 			<iStateReligionFreeExperience>0</iStateReligionFreeExperience>
