@@ -5299,7 +5299,7 @@
 			<bPrereqReligion>0</bPrereqReligion>
 			<bCenterInCity>0</bCenterInCity>
 			<iAIWeight>0</iAIWeight>
-			<iCost>150</iCost>
+			<iCost>350</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -5333,7 +5333,7 @@
 			<iGlobalWarWearinessModifier>0</iGlobalWarWearinessModifier>
 			<iEnemyWarWearinessModifier>0</iEnemyWarWearinessModifier>
 			<iHealRateChange>0</iHealRateChange>
-			<iHealth>-1</iHealth>
+			<iHealth>-2</iHealth>
 			<iAreaHealth>0</iAreaHealth>
 			<iGlobalHealth>0</iGlobalHealth>
 			<iHappiness>0</iHappiness>
@@ -5383,13 +5383,13 @@
 			<DomainFreeExperiences>
 				<DomainFreeExperience>
 					<DomainType>DOMAIN_SEA</DomainType>
-					<iExperience>4</iExperience>
+					<iExperience>8</iExperience>
 				</DomainFreeExperience>
 			</DomainFreeExperiences>
 			<DomainProductionModifiers>
 				<DomainProductionModifier>
 					<DomainType>DOMAIN_SEA</DomainType>
-					<iProductionModifier>50</iProductionModifier>
+					<iProductionModifier>75</iProductionModifier>
 				</DomainProductionModifier>
 			</DomainProductionModifiers>
 			<BuildingHappinessChanges/>
@@ -6271,7 +6271,7 @@
 				</PrereqBuildingClass>
 				<PrereqBuildingClass>
 					<BuildingClassType>BUILDINGCLASS_CHEMISTRY_FACTORY</BuildingClassType>
-					<iNumBuildingNeeded>2</iNumBuildingNeeded>
+					<iNumBuildingNeeded>4</iNumBuildingNeeded>
 				</PrereqBuildingClass>
 			</PrereqBuildingClasses>
 			<BuildingClassNeededs>
@@ -7412,7 +7412,7 @@
 			<DomainFreeExperiences>
 				<DomainFreeExperience>
 					<DomainType>DOMAIN_AIR</DomainType>
-					<iExperience>6</iExperience>
+					<iExperience>7</iExperience>
 				</DomainFreeExperience>
 			</DomainFreeExperiences>
 			<DomainProductionModifiers>

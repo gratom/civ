@@ -4961,9 +4961,9 @@
 			<iBombardRateChange>0</iBombardRateChange>
 			<iFirstStrikesChange>0</iFirstStrikesChange>
 			<iChanceFirstStrikesChange>0</iChanceFirstStrikesChange>
-			<iEnemyHealChange>20</iEnemyHealChange>
-			<iNeutralHealChange>30</iNeutralHealChange>
-			<iFriendlyHealChange>40</iFriendlyHealChange>
+			<iEnemyHealChange>10</iEnemyHealChange>
+			<iNeutralHealChange>25</iNeutralHealChange>
+			<iFriendlyHealChange>50</iFriendlyHealChange>
 			<iSameTileHealChange>0</iSameTileHealChange>
 			<iAdjacentTileHealChange>0</iAdjacentTileHealChange>
 			<iCombatPercent>0</iCombatPercent>

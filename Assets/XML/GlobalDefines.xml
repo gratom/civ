@@ -439,7 +439,7 @@
 	</Define>
 	<Define>
 		<DefineName>AMPHIB_ATTACK_MODIFIER</DefineName>
-		<iDefineIntVal>-50</iDefineIntVal>
+		<iDefineIntVal>-100</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>ENEMY_HEAL_RATE</DefineName>
@@ -639,11 +639,11 @@
 	</Define>
 	<Define>
 		<DefineName>FORTIFY_MODIFIER_PER_TURN</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>4</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>MAX_FORTIFY_TURNS</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>10</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>WW_UNIT_KILLED_ATTACKING</DefineName>

@@ -19664,7 +19664,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_STEEL</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_STEAM_POWER</PrereqTech>
@@ -19912,7 +19912,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_COMBUSTION</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
@@ -20167,7 +20167,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_COMBUSTION</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
@@ -20419,7 +20419,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_INDUSTRIALISM</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
@@ -20464,7 +20464,7 @@
             <iWithdrawalProb>0</iWithdrawalProb>
             <iCollateralDamage>50</iCollateralDamage>
             <iCollateralDamageLimit>60</iCollateralDamageLimit>
-            <iCollateralDamageMaxUnits>5</iCollateralDamageMaxUnits>
+            <iCollateralDamageMaxUnits>4</iCollateralDamageMaxUnits>
             <iCityAttack>0</iCityAttack>
             <iCityDefense>0</iCityDefense>
             <iAnimalCombat>0</iAnimalCombat>
@@ -20670,7 +20670,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_ROBOTICS</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
@@ -20678,7 +20678,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>500</iCost>
+            <iCost>600</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -20702,7 +20702,7 @@
             <FeatureImpassables/>
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
-            <iCombat>40</iCombat>
+            <iCombat>45</iCombat>
             <iCombatLimit>100</iCombatLimit>
             <iAirCombat>0</iAirCombat>
             <iAirCombatLimit>0</iAirCombatLimit>
@@ -20715,7 +20715,7 @@
             <iWithdrawalProb>0</iWithdrawalProb>
             <iCollateralDamage>50</iCollateralDamage>
             <iCollateralDamageLimit>60</iCollateralDamageLimit>
-            <iCollateralDamageMaxUnits>5</iCollateralDamageMaxUnits>
+            <iCollateralDamageMaxUnits>4</iCollateralDamageMaxUnits>
             <iCityAttack>0</iCityAttack>
             <iCityDefense>0</iCityDefense>
             <iAnimalCombat>0</iAnimalCombat>
@@ -20921,7 +20921,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding></PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_COLD_FUSION</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
@@ -20956,7 +20956,7 @@
             <iCombat>80</iCombat>
             <iCombatLimit>100</iCombatLimit>
             <iAirCombat>20</iAirCombat>
-            <iAirCombatLimit>100</iAirCombatLimit>
+            <iAirCombatLimit>80</iAirCombatLimit>
             <iXPValueAttack>4</iXPValueAttack>
             <iXPValueDefense>2</iXPValueDefense>
             <iFirstStrikes>0</iFirstStrikes>
@@ -20964,9 +20964,9 @@
             <iInterceptionProbability>0</iInterceptionProbability>
             <iEvasionProbability>0</iEvasionProbability>
             <iWithdrawalProb>0</iWithdrawalProb>
-            <iCollateralDamage>30</iCollateralDamage>
+            <iCollateralDamage>60</iCollateralDamage>
             <iCollateralDamageLimit>70</iCollateralDamageLimit>
-            <iCollateralDamageMaxUnits>10</iCollateralDamageMaxUnits>
+            <iCollateralDamageMaxUnits>5</iCollateralDamageMaxUnits>
             <iCityAttack>0</iCityAttack>
             <iCityDefense>0</iCityDefense>
             <iAnimalCombat>0</iAnimalCombat>
@@ -21181,7 +21181,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_STEALTH</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_ROBOTICS</PrereqTech>
@@ -21440,7 +21440,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_RADIO</PrereqTech>
             <TechTypes>
                 <PrereqTech>NONE</PrereqTech>
@@ -21707,7 +21707,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_ROCKETRY</PrereqTech>
             <TechTypes>
                 <PrereqTech>TECH_RADIO</PrereqTech>
@@ -21966,7 +21966,7 @@
             <StateReligion>NONE</StateReligion>
             <PrereqReligion>NONE</PrereqReligion>
             <PrereqCorporation>NONE</PrereqCorporation>
-            <PrereqBuilding>NONE</PrereqBuilding>
+            <PrereqBuilding>BUILDING_DRYDOCK</PrereqBuilding>
             <PrereqTech>TECH_FLIGHT</PrereqTech>
             <TechTypes/>
             <BonusType>NONE</BonusType>
@@ -22813,8 +22813,8 @@
             <iInterceptionProbability>0</iInterceptionProbability>
             <iEvasionProbability>0</iEvasionProbability>
             <iWithdrawalProb>0</iWithdrawalProb>
-            <iCollateralDamage>100</iCollateralDamage>
-            <iCollateralDamageLimit>50</iCollateralDamageLimit>
+            <iCollateralDamage>90</iCollateralDamage>
+            <iCollateralDamageLimit>40</iCollateralDamageLimit>
             <iCollateralDamageMaxUnits>5</iCollateralDamageMaxUnits>
             <iCityAttack>0</iCityAttack>
             <iCityDefense>0</iCityDefense>
@@ -22966,7 +22966,7 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>450</iCost>
+            <iCost>500</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>100</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -23535,14 +23535,14 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>350</iCost>
+            <iCost>500</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>150</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
             <iMinAreaSize>-1</iMinAreaSize>
             <iMoves>1</iMoves>
             <bNoRevealMap>0</bNoRevealMap>
-            <iAirRange>12</iAirRange>
+            <iAirRange>10</iAirRange>
             <iAirUnitCap>0</iAirUnitCap>
             <iDropRange>0</iDropRange>
             <iNukeRange>-1</iNukeRange>
@@ -25640,14 +25640,14 @@
             <ProductionTraits/>
             <Flavors/>
             <iAIWeight>0</iAIWeight>
-            <iCost>700</iCost>
+            <iCost>600</iCost>
             <iHurryCostModifier>0</iHurryCostModifier>
             <iAdvancedStartCost>700</iAdvancedStartCost>
             <iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
             <iMinAreaSize>-1</iMinAreaSize>
-            <iMoves>2</iMoves>
+            <iMoves>1</iMoves>
             <bNoRevealMap>0</bNoRevealMap>
-            <iAirRange>1</iAirRange>
+            <iAirRange>0</iAirRange>
             <iAirUnitCap>0</iAirUnitCap>
             <iDropRange>0</iDropRange>
             <iNukeRange>-1</iNukeRange>
@@ -25664,10 +25664,10 @@
             <FeatureImpassables/>
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
-            <iCombat>40</iCombat>
+            <iCombat>50</iCombat>
             <iCombatLimit>100</iCombatLimit>
-            <iAirCombat>30</iAirCombat>
-            <iAirCombatLimit>100</iAirCombatLimit>
+            <iAirCombat>0</iAirCombat>
+            <iAirCombatLimit>0</iAirCombatLimit>
             <iXPValueAttack>4</iXPValueAttack>
             <iXPValueDefense>2</iXPValueDefense>
             <iFirstStrikes>1</iFirstStrikes>
@@ -25757,10 +25757,6 @@
             <bCtrlDown>0</bCtrlDown>
             <iHotKeyPriority>0</iHotKeyPriority>
             <FreePromotions>
-                <FreePromotion>
-                    <PromotionType>PROMOTION_MORALE</PromotionType>
-                    <bFreePromotion>1</bFreePromotion>
-                </FreePromotion>
                 <FreePromotion>
                     <PromotionType>PROMOTION_BLITZ</PromotionType>
                     <bFreePromotion>1</bFreePromotion>
@@ -26937,7 +26933,7 @@
             <FeatureImpassables/>
             <TerrainPassableTechs/>
             <FeaturePassableTechs/>
-            <iCombat>90</iCombat>
+            <iCombat>80</iCombat>
             <iCombatLimit>100</iCombatLimit>
             <iAirCombat>0</iAirCombat>
             <iAirCombatLimit>0</iAirCombatLimit>
