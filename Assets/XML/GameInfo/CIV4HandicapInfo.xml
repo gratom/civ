@@ -305,13 +305,13 @@
 			<iResearchPercent>100</iResearchPercent>
 			<iDistanceMaintenancePercent>75</iDistanceMaintenancePercent>
 			<iNumCitiesMaintenancePercent>70</iNumCitiesMaintenancePercent>
-			<iMaxNumCitiesMaintenance>5</iMaxNumCitiesMaintenance>
+			<iMaxNumCitiesMaintenance>6</iMaxNumCitiesMaintenance>
 			<iColonyMaintenancePercent>100</iColonyMaintenancePercent>
 			<iMaxColonyMaintenance>200</iMaxColonyMaintenance>
 			<iCorporationMaintenancePercent>100</iCorporationMaintenancePercent>
 			<iCivicUpkeepPercent>80</iCivicUpkeepPercent>
 			<iInflationPercent>90</iInflationPercent>
-			<iHealthBonus>2</iHealthBonus>
+			<iHealthBonus>10</iHealthBonus>
 			<iHappyBonus>4</iHappyBonus>
 			<iAttitudeChange>-1</iAttitudeChange>
 			<iNoTechTradeModifier>70</iNoTechTradeModifier>
